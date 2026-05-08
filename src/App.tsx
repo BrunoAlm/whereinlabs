@@ -4,7 +4,6 @@ import {
   Shield, 
   Target, 
   Globe, 
-  MessageSquare, 
   ChevronRight,
   Hexagon,
   Layers,
@@ -12,11 +11,12 @@ import {
   Mail,
   ExternalLink,
   Info,
-  FileText,
   Lock,
   ArrowRight
 } from "lucide-react";
-import { WigButton, WigCard, WigStatusChip, WigSectionHeader } from "./components/WigUI";
+import { WigButton, WigCard, WigStatusChip, WigSectionHeader, WigHudFrame } from "./components/WigUI";
+import { WigProductShowcase } from "./components/WigProductShowcase";
+import { WigBackground } from "./components/WigBackground";
 
 type Route = "home" | "about" | "products" | "terms" | "privacy" | "contact";
 
@@ -48,9 +48,9 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen institutional-bg relative overflow-x-hidden selection:bg-wig-gold selection:text-wig-black">
-      {/* Background Decorative Element */}
-      <div className="fixed top-0 right-0 w-[800px] h-[800px] bg-wig-gold/5 blur-[150px] rounded-full pointer-events-none -translate-y-1/2 translate-x-1/3" />
+    <div className="min-h-screen relative overflow-x-hidden selection:bg-wig-gold selection:text-wig-black">
+      {/* High-Fidelity Tactical Background */}
+      <WigBackground />
       
       {/* Navigation */}
       <nav className="fixed top-0 left-0 w-full z-50 h-24 border-b border-white/5 bg-wig-black/80 backdrop-blur-xl">
@@ -70,19 +70,22 @@ export default function App() {
               <button 
                 key={item.id}
                 onClick={() => setCurrentRoute(item.id as Route)}
-                className={`text-[11px] font-black uppercase tracking-[0.2em] transition-all hover:text-wig-gold ${currentRoute === item.id ? "text-wig-gold" : "text-wig-text-secondary"}`}
+                className={`text-[11px] font-black uppercase tracking-[0.3em] transition-all relative py-2 ${currentRoute === item.id ? "text-wig-gold" : "text-wig-text-secondary hover:text-white"}`}
               >
                 {item.label}
+                {currentRoute === item.id && (
+                  <motion.div layoutId="nav-glow" className="absolute -bottom-1 left-0 w-full h-[1px] bg-wig-gold shadow-[0_0_8px_var(--color-wig-gold)]" />
+                )}
               </button>
             ))}
           </div>
 
           <div className="flex items-center gap-4">
-             <div className="hidden md:flex flex-col items-end mr-4">
-                <span className="text-[10px] font-black text-wig-text-muted tracking-widest uppercase">Brand ID // v.1.0</span>
-                <span className="text-[10px] font-black text-wig-gold/60 tracking-widest uppercase">Project_Status: ACTIVE</span>
+             <div className="hidden md:flex flex-col items-end mr-4 opacity-50">
+                <span className="text-[10px] font-black text-wig-text-muted tracking-widest uppercase">Brand ID // v.2.0</span>
+                <span className="text-[10px] font-black text-wig-gold/60 tracking-widest uppercase">System_Active</span>
              </div>
-             <WigButton variant="secondary" size="sm" onClick={() => setCurrentRoute("contact")}>
+             <WigButton variant="secondary" size="md" onClick={() => setCurrentRoute("contact")}>
                Contato
              </WigButton>
           </div>
@@ -104,40 +107,41 @@ export default function App() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-wig-black border-t border-white/5 py-20 px-10 relative overflow-hidden">
-        <div className="max-w-7xl mx-auto grid lg:grid-cols-4 gap-16 relative z-10">
+      <footer className="bg-wig-black border-t border-white/5 py-24 px-10 relative overflow-hidden">
+        <div className="max-w-7xl mx-auto grid lg:grid-cols-4 gap-20 relative z-10 text-center lg:text-left">
           <div className="col-span-2">
-            <div className="flex items-center gap-3 mb-8">
-              <div className="w-8 h-8 bg-wig-gold flex items-center justify-center opacity-80" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}>
-                <Hexagon size={16} className="text-wig-black" />
+            <div className="flex items-center justify-center lg:justify-start gap-4 mb-10">
+              <div className="w-10 h-10 bg-wig-gold flex items-center justify-center opacity-80" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}>
+                <Hexagon size={18} className="text-wig-black" />
               </div>
-              <span className="text-xl font-black tracking-tighter uppercase italic text-white">Wherein<span className="text-wig-gold">Labs</span></span>
+              <span className="text-2xl font-black tracking-tighter uppercase italic text-white font-mono">Wherein<span className="text-wig-gold">Labs</span></span>
             </div>
-            <p className="text-sm text-wig-text-secondary max-w-sm leading-relaxed mb-8">
-              Laboratório de inovação digital e estúdio criativo focado na construção de experiências interativas premium e produtos autorais com identidade única.
+            <p className="text-sm text-wig-text-secondary max-w-sm mx-auto lg:mx-0 leading-relaxed mb-10">
+              Laboratório criativo especializado em design tático e experiências digitais de alta performance. Desenvolvedores do ecossistema WhereInGames.
             </p>
-            <div className="flex gap-4">
+            <div className="flex justify-center lg:justify-start gap-6">
               {navItems.map(item => (
-                <button key={item.id} onClick={() => setCurrentRoute(item.id as Route)} className="text-[10px] font-bold uppercase tracking-widest text-wig-text-muted hover:text-wig-gold transition-colors">
+                <button key={item.id} onClick={() => setCurrentRoute(item.id as Route)} className="text-[10px] font-black uppercase tracking-[0.2em] text-wig-text-muted hover:text-wig-gold transition-colors">
                   {item.label}
                 </button>
               ))}
             </div>
           </div>
-          <div className="lg:col-span-2 grid sm:grid-cols-2 gap-8">
+          <div className="lg:col-span-2 grid sm:grid-cols-2 gap-12">
              <div>
-                <h5 className="text-xs font-black uppercase tracking-[0.3em] text-wig-gold mb-6">// Institucional</h5>
+                <h5 className="text-[11px] font-black uppercase tracking-[0.4em] text-wig-gold mb-8 opacity-60">// Institucional</h5>
                 <ul className="space-y-4">
-                  <li><button onClick={() => setCurrentRoute("about")} className="text-sm text-wig-text-secondary hover:text-white transition-colors">Sobre a Marca</button></li>
-                  <li><button onClick={() => setCurrentRoute("products")} className="text-sm text-wig-text-secondary hover:text-white transition-colors">Ecossistema de Projetos</button></li>
+                  <li><button onClick={() => setCurrentRoute("about")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Sobre a Marca</button></li>
+                  <li><button onClick={() => setCurrentRoute("products")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Nossos Produtos</button></li>
+                  <li><button onClick={() => setCurrentRoute("contact")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Suporte e Parcerias</button></li>
                 </ul>
              </div>
              <div>
-                <h5 className="text-xs font-black uppercase tracking-[0.3em] text-wig-gold mb-6">// Conformidade</h5>
+                <h5 className="text-[11px] font-black uppercase tracking-[0.4em] text-wig-gold mb-8 opacity-60">// Legal</h5>
                 <ul className="space-y-4">
-                  <li><button onClick={() => setCurrentRoute("terms")} className="text-sm text-wig-text-secondary hover:text-white transition-colors">Termos de Uso</button></li>
-                  <li><button onClick={() => setCurrentRoute("privacy")} className="text-sm text-wig-text-secondary hover:text-white transition-colors">Política de Privacidade</button></li>
-                  <li><span className="text-sm text-wig-text-muted">© 2026 All Rights Reserved</span></li>
+                  <li><button onClick={() => setCurrentRoute("terms")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Diretrizes de Uso</button></li>
+                  <li><button onClick={() => setCurrentRoute("privacy")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Dados e Privacidade</button></li>
+                  <li className="pt-4"><span className="text-[10px] font-bold text-wig-text-muted tracking-[0.1em]">© 2026 WHEREINLABS. ALL RIGHTS RESERVED.</span></li>
                 </ul>
              </div>
           </div>
@@ -155,95 +159,89 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
   return (
     <>
       {/* Hero Section */}
-      <section className="px-10 py-32 lg:py-48 flex items-center">
-        <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-20 items-center">
-          <motion.div
-            initial={{ opacity: 0, x: -50 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.8 }}
-          >
-            <div className="mb-8">
-              <WigStatusChip label="Institutional Brand Site" active />
-            </div>
-            <h1 className="text-6xl lg:text-9xl font-black text-white uppercase italic leading-[0.8] tracking-tighter mb-10">
-              WHEREIN<br /><span className="text-wig-gold">LABS</span>
-            </h1>
-            <p className="text-xl text-wig-text-secondary leading-relaxed mb-12 max-w-xl">
-              Estúdio de criação e laboratório tecnológico independente. Desenvolvemos ecossistemas digitais onde <span className="text-white italic">identidade visual e funcionalidade</span> se fundem em experiências premium.
-            </p>
-            <div className="flex flex-wrap gap-6">
-              <WigButton size="lg" onClick={() => setRoute("about")}>Conhecer a Marca</WigButton>
-              <WigButton variant="secondary" size="lg" onClick={() => setRoute("products")}>Ver Produtos</WigButton>
-            </div>
-          </motion.div>
-          <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 1, delay: 0.2 }}
-            className="hidden lg:block aspect-square relative"
-          >
-            <div className="absolute inset-0 border border-wig-gold/10 rotate-12 transition-transform duration-1000 hover:rotate-45" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }} />
-            <div className="absolute inset-10 border border-white/5 -rotate-6" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }} />
-            <div className="absolute inset-0 flex items-center justify-center">
-              <Hexagon size={120} className="text-wig-gold/20" />
-            </div>
-            <div className="absolute bottom-0 right-0 p-8 bg-wig-surface-base border border-white/5 backdrop-blur-md" style={{ clipPath: "polygon(0 0, 100% 0, 100% 100%, 20px 100%, 0 calc(100% - 20px))" }}>
-              <div className="text-[10px] font-black text-wig-gold uppercase tracking-[0.4em] mb-2">AUTH_ID: 182-90-X</div>
-              <div className="text-xl font-black italic text-white">STUDIO_INIT</div>
-            </div>
-          </motion.div>
-        </div>
-      </section>
-
-      {/* Intro Section */}
-      <section className="px-10 py-32 bg-wig-surface-base/30">
-        <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-20">
-          <WigSectionHeader 
-            title="Nossa Vocação" 
-            subtitle="Identidade e Inovação" 
-          />
-          <div className="space-y-10">
-            <p className="text-lg text-wig-text-secondary leading-relaxed">
-              WhereinLabs não é apenas um estúdio, é uma mentalidade de construção. Acreditamos que a interface é a ponte emocional entre o código e o usuário, e por isso cada pixel é tratado com rigor técnico e sensibilidade estética.
-            </p>
-            <div className="grid grid-cols-2 gap-8">
-               <div>
-                  <div className="text-3xl font-black text-wig-gold mb-2 italic">01.</div>
-                  <div className="text-[11px] font-black text-white uppercase tracking-widest mb-4">Design Autoral</div>
-                  <p className="text-xs text-wig-text-muted leading-relaxed">Criamos nossos próprios sistemas de design para garantir total integridade visual.</p>
-               </div>
-               <div>
-                  <div className="text-3xl font-black text-wig-gold mb-2 italic">02.</div>
-                  <div className="text-[11px] font-black text-white uppercase tracking-widest mb-4">Foco em Produto</div>
-                  <p className="text-xs text-wig-text-muted leading-relaxed">Do conceito à entrega, o foco é na utilidade e no acabamento premium.</p>
-               </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Featured Project */}
-      <section className="px-10 py-32">
-        <div className="max-w-7xl mx-auto">
-          <div className="mb-20 text-center">
-            <WigSectionHeader title="O Ecossistema" subtitle="Portfólio de Produtos" center />
-          </div>
-          <div className="p-1 lg:p-1.5 bg-gradient-to-br from-wig-gold/20 via-transparent to-white/5" style={{ clipPath: "polygon(0 0, calc(100% - 40px) 0, 100% 40px, 100% 100%, 0 100%)" }}>
-            <div className="bg-wig-surface-base p-12 lg:p-20 relative overflow-hidden" style={{ clipPath: "polygon(0 0, calc(100% - 39px) 0, 100% 39px, 100% 100%, 0 100%)" }}>
-               <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-white/5 to-transparent pointer-events-none" />
-               <div className="max-w-3xl relative z-10">
-                 <div className="inline-flex items-center gap-3 px-3 py-1 bg-wig-gold/10 border border-wig-gold/30 mb-8">
-                   <Target size={14} className="text-wig-gold" />
-                   <span className="text-[10px] font-black uppercase tracking-[0.3em] text-wig-gold">Main Project</span>
+      <section className="px-10 py-32 lg:py-56 relative border-b border-white/5">
+        <div className="max-w-7xl mx-auto h-full flex items-center">
+          <WigHudFrame preset="screen" accent="both" className="p-12 lg:p-24 w-full" showHoneycomb={true}>
+            <div className="grid lg:grid-cols-2 gap-20 items-center">
+              <motion.div
+                initial={{ opacity: 0, x: -50 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ duration: 0.8, delay: 0.2 }}
+              >
+                <div className="mb-10">
+                  <WigStatusChip label="Digital Production Studio" active />
+                </div>
+                <h1 className="text-6xl lg:text-9xl font-black text-white uppercase italic leading-[0.8] tracking-tighter mb-10">
+                  WHEREIN<br /><span className="text-wig-gold animate-pulse">LABS</span>
+                </h1>
+                <p className="text-xl text-wig-text-secondary leading-relaxed mb-12 max-w-lg">
+                  Nascido da fusão entre <span className="text-white italic">design tático</span> e tecnologia de ponta. Criamos mundos onde cada detalhe é uma questão de precisão.
+                </p>
+                <div className="flex flex-wrap gap-6">
+                  <WigButton size="lg" onClick={() => setRoute("about")}>Conhecer Estúdio</WigButton>
+                  <WigButton variant="secondary" size="lg" onClick={() => setRoute("products")}>Explorar Projetos</WigButton>
+                </div>
+              </motion.div>
+              <div className="hidden lg:flex items-center justify-center relative">
+                 <div className="w-[400px] h-[400px] border border-wig-gold/20 flex items-center justify-center animate-spin-slow" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}>
+                   <div className="w-full h-full p-10">
+                     <div className="w-full h-full border border-white/5 opacity-50" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }} />
+                   </div>
                  </div>
-                 <h3 className="text-4xl lg:text-6xl font-black text-white uppercase italic leading-none mb-6">Where<span className="text-wig-gold">In</span>Games</h3>
-                 <p className="text-lg text-wig-text-secondary leading-relaxed mb-10 max-w-xl">
-                   Nosso principal produto focado em maestria geográfica e reconhecimento de mapas. Onde a precisão encontra o instinto em universos digitais icônicos.
-                 </p>
-                 <WigButton variant="secondary" onClick={() => setRoute("products")}>Explorar Projeto</WigButton>
-               </div>
+                 <div className="absolute inset-0 flex items-center justify-center">
+                    <Hexagon size={80} className="text-wig-gold/40 animate-pulse" />
+                 </div>
+              </div>
+            </div>
+          </WigHudFrame>
+        </div>
+      </section>
+
+      {/* Philosophy Section */}
+      <section className="px-10 py-40">
+        <div className="max-w-7xl mx-auto">
+          <div className="grid lg:grid-cols-2 gap-32">
+            <div>
+              <WigSectionHeader title="Design Tático" subtitle="Manifesto da Marca" />
+              <div className="space-y-10 text-lg text-wig-text-secondary leading-relaxed">
+                <p>
+                  Acreditamos na interface como uma <span className="text-white font-bold italic">extensão do instinto</span>. Cada projeto WhereinLabs herda uma arquitetura visual rigorosa, inspirada em sistemas HUD e aviação tática.
+                </p>
+                <WigButton variant="ghost" onClick={() => setRoute("about")} className="group">
+                  Nossa Visão <ChevronRight size={16} className="transition-transform group-hover:translate-x-2" />
+                </WigButton>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 gap-6">
+              {[
+                { title: "Sistemas Autorais", icon: Layers, desc: "Processo de criação baseado em design systems exclusivos." },
+                { title: "Identidade Premium", icon: Shield, desc: "Estética sofisticada com foco em acabamento e detalhe." },
+                { title: "Tecnologia Nativa", icon: Cpu, desc: "Produtos robustos construídos com as melhores stacks digitais." },
+                { title: "Foco Global", icon: Globe, desc: "Escalabilidade e presença internacional em todos os projetos." }
+              ].map((item, i) => (
+                <WigCard key={item.title} title={item.title} icon={item.icon} className="h-full">
+                  <p className="text-xs text-wig-text-muted mt-4 leading-relaxed">{item.desc}</p>
+                </WigCard>
+              ))}
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* Featured Products Preview */}
+      <section className="px-10 py-40 border-t border-white/5 bg-wig-surface-base/20">
+        <div className="max-w-7xl mx-auto">
+          <div className="text-center mb-24">
+            <WigSectionHeader title="O Ecossistema" subtitle="Maestria em Desenvolvimento" center />
+          </div>
+          <WigProductShowcase 
+             title="Principal Operação"
+             subtitle="Recognition & Map Mastery"
+             productName="WhereInGames"
+             embedUrl="https://whereingames.com"
+             externalUrl="https://whereingames.com"
+             fallbackDescription="O site WhereInGames utiliza protocolos de segurança que podem impedir a visualização direta nesta moldura institucional. Clique abaixo para abrir a experiência completa em uma nova aba."
+          />
         </div>
       </section>
     </>
@@ -252,27 +250,51 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
 
 function AboutView() {
   return (
-    <section className="px-10 py-32">
-      <div className="max-w-4xl mx-auto">
-        <WigSectionHeader title="Quem Somos" subtitle="Manifesto Institucional" />
-        <div className="space-y-12 text-lg text-wig-text-secondary leading-relaxed">
-          <p>
-            WhereinLabs nasceu da necessidade de criar produtos digitais que não se perdessem na multidão do "flat design" genérico. Somos um laboratório de exploração onde tecnologia e arte se encontram para construir identidades fortes.
-          </p>
-          <div className="grid md:grid-cols-2 gap-12 py-12 border-y border-white/5">
-            <WigCard title="Missão" icon={Target}>
-              <p className="text-sm text-wig-text-muted mt-2">Construir ecossistemas digitais que entreguem valor real através de interfaces autorais e sofisticadas, elevando o padrão de interação para o usuário final.</p>
-            </WigCard>
-            <WigCard title="Visão" icon={Globe}>
-              <p className="text-sm text-wig-text-muted mt-2">Tornar-se o selo de referência em design tático e experiências de maestria, unificando diferentes produtos sob uma mesma estética premium.</p>
-            </WigCard>
+    <section className="px-10 py-32 lg:py-48">
+      <div className="max-w-5xl mx-auto">
+        <WigSectionHeader title="Quem Somos" subtitle="O Laboratório Creativo" />
+        <div className="space-y-16">
+          <div className="grid lg:grid-cols-2 gap-20 items-start">
+            <div className="space-y-8 text-lg text-wig-text-secondary leading-relaxed">
+              <p>
+                WhereinLabs é um estúdio de design digital e desenvolvimento técnico focado na criação de experiências interativas premium. Operamos como um laboratório onde a estética tática encontra a funcionalidade moderna.
+              </p>
+              <p>
+                Nossa jornada começou com o desejo de traduzir a complexidade e a beleza das interfaces de sistemas de precisão para a Web e aplicações móveis, mantendo sempre o rigor artístico.
+              </p>
+            </div>
+            <WigHudFrame preset="panel" className="p-10" showHoneycomb={true} accent="top">
+               <div className="space-y-8">
+                 <div>
+                    <h4 className="text-xs font-black uppercase text-wig-gold tracking-[0.3em] mb-4">// DNA da Marca</h4>
+                    <ul className="space-y-4">
+                      {["Rigor Técnico", "Maestria Visual", "Inovação Tática"].map(item => (
+                        <li key={item} className="flex items-center gap-4 text-sm text-white italic">
+                          <div className="w-1.5 h-1.5 bg-wig-gold" />
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
+                 </div>
+                 <div className="pt-8 border-t border-white/5">
+                    <p className="text-xs text-wig-text-muted leading-relaxed">
+                      Wig Design System: O coração tecnológico que unifica todos os nossos projetos.
+                    </p>
+                 </div>
+               </div>
+            </WigHudFrame>
           </div>
-          <p>
-            Nossa abordagem é centrada em sistemas. Não criamos apenas páginas, criamos linguagens. O <span className="text-wig-gold font-bold">Wig Design System</span> é o coração pulsante de tudo o que fazemos, garantindo que cada novo projeto herde o DNA de precisão e tecnologia que nos define.
-          </p>
-          <div className="flex items-center gap-6 p-8 bg-white/2 border-l-2 border-wig-gold">
-            <Info size={24} className="text-wig-gold shrink-0" />
-            <p className="text-sm italic font-medium">Localizado na fronteira entre o design conceitual e o desenvolvimento tático, o laboratório WhereinLabs opera como uma entidade criativa independente.</p>
+
+          <div className="grid md:grid-cols-3 gap-8">
+             <WigCard title="Propósito" icon={Target}>
+                <p className="text-sm text-wig-text-muted mt-2">Redefinir o contato entre usuário e sistema através de linguagens visuais únicas.</p>
+             </WigCard>
+             <WigCard title="Visão" icon={Shield}>
+                <p className="text-sm text-wig-text-muted mt-2">Ser a referência global em HUD Design e interfaces de precisão na Web.</p>
+             </WigCard>
+             <WigCard title="Cultura" icon={Hexagon}>
+                <p className="text-sm text-wig-text-muted mt-2">Sempre em modo Laboratório. Exploração constante é o nosso combustível.</p>
+             </WigCard>
           </div>
         </div>
       </div>
@@ -282,47 +304,42 @@ function AboutView() {
 
 function ProductsView() {
   return (
-    <section className="px-10 py-32">
-      <div className="max-w-7xl mx-auto">
-        <WigSectionHeader title="Produtos & Projetos" subtitle="Nosso Ecossistema Digital" />
-        <div className="grid lg:grid-cols-2 gap-10">
-          <div className="lg:col-span-2">
-            <WigCard title="WhereInGames" subtitle="Master Project" icon={Target} highlight>
-              <div className="grid md:grid-cols-2 gap-12 mt-4">
-                <div>
-                  <p className="text-sm text-wig-text-secondary leading-relaxed mb-6">
-                    A principal experiência de reconhecimento de mapas da marca. Uma fusão de geografia virtual, precisão estatística e competição premium. O projeto serviu como base para a criação da nossa identidade visual atual.
-                  </p>
-                  <div className="flex gap-4">
-                    <WigStatusChip label="Projeto Ativo" active />
-                    <WigStatusChip label="Map Mastery" />
-                    <WigStatusChip label="Competitive Hub" />
-                  </div>
-                </div>
-                <div className="aspect-video bg-wig-surface-alt border border-white/5 flex items-center justify-center relative group overflow-hidden">
-                   <div className="absolute inset-0 bg-wig-gold/10 opacity-0 group-hover:opacity-100 transition-opacity" />
-                   <Target size={48} className="text-wig-gold opacity-30" />
-                   <div className="absolute bottom-4 right-4 text-[9px] font-black uppercase text-wig-text-muted tracking-widest">WIG_PROD_RENDER_VIEW</div>
-                </div>
+    <section className="px-10 py-32 lg:py-48">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <WigSectionHeader title="Ecossistema Labs" subtitle="Produtos em Destaque" />
+        <div className="space-y-32">
+          {/* Main Product Showcase */}
+          <WigProductShowcase 
+             title="Produto Flagship"
+             subtitle="A Experiência Definitiva de Map Mastery"
+             productName="WhereInGames"
+             embedUrl="https://whereingames.com"
+             externalUrl="https://whereingames.com"
+             fallbackDescription="O ecossistema WhereInGames foi construído para performance máxima. Caso o renderizador instantâneo encontre dificuldades de conexão abaixo, você pode abrir o projeto diretamente."
+          />
+
+          {/* Secondary Products Grid */}
+          <div className="grid lg:grid-cols-2 gap-12 pt-20 border-t border-white/5">
+            <WigCard title="Wig UI Library" subtitle="INTERNAL_TOOL" icon={Cpu} highlight>
+              <p className="text-sm text-wig-text-secondary leading-relaxed mb-8">
+                Nossa biblioteca de componentes visualmente síncronos. Permite que qualquer aplicação herde instantaneamente os traços HUD premium da marca WhereinLabs.
+              </p>
+              <div className="flex items-center justify-between">
+                <WigStatusChip label="Em Uso" active />
+                <span className="text-[10px] font-black text-wig-text-muted uppercase tracking-widest">Version 1.4.0</span>
+              </div>
+            </WigCard>
+
+            <WigCard title="Project_Hex" subtitle="RESEARCH_LAB" icon={Hexagon}>
+              <p className="text-sm text-wig-text-muted italic leading-relaxed mb-8">
+                Fase de exploração de novos paradigmas de navegação espacial aplicados a sistemas de dados e estatísticas esportivas. Em desenvolvimento silencioso.
+              </p>
+              <div className="flex items-center justify-between">
+                <WigStatusChip label="Classificado" />
+                <Lock size={16} className="text-wig-text-muted opacity-30" />
               </div>
             </WigCard>
           </div>
-          
-          <WigCard title="Wig UI Library" subtitle="Internal Tooling" icon={Cpu}>
-            <p className="text-sm text-wig-text-secondary mb-8">Nossa biblioteca proprietária de componentes HUD premium, servindo como base técnica para todos os produtos WhereinLabs.</p>
-            <div className="flex justify-between items-center">
-              <span className="text-[10px] font-black uppercase text-wig-gold">Em Uso Interno</span>
-              <Layers size={16} className="text-wig-text-muted" />
-            </div>
-          </WigCard>
-
-          <WigCard title="Upcoming_Project_03" subtitle="Research Phase" icon={Hexagon}>
-            <p className="text-sm text-wig-text-muted italic mb-8">Novo produto em fase de pesquisa e prototipação. Acompanhe nossos canais institucionais para comunicados oficiais e datas de lançamento.</p>
-            <div className="flex justify-between items-center">
-              <span className="text-[10px] font-black uppercase text-wig-text-muted tracking-widest">CLASSIFIED</span>
-              <Lock size={16} className="text-wig-text-muted" />
-            </div>
-          </WigCard>
         </div>
       </div>
     </section>
@@ -331,30 +348,29 @@ function ProductsView() {
 
 function TermsView() {
   return (
-    <section className="px-10 py-32">
+    <section className="px-10 py-32 lg:py-48">
       <div className="max-w-4xl mx-auto">
-        <WigSectionHeader title="Termos de Uso" subtitle="Diretrizes Legais" />
-        <div className="space-y-10 text-sm text-wig-text-secondary leading-relaxed bg-wig-surface-base p-12 border border-white/5" style={{ clipPath: "polygon(0 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%)" }}>
-           <div className="space-y-2">
-             <h4 className="font-black uppercase text-white tracking-widest">1. Aceitação dos Termos</h4>
-             <p>Ao acessar este site institucional da WhereinLabs, você concorda em cumprir estes termos e todas as leis aplicáveis. Se você não concordar com algum termo, está proibido de usar ou acessar este site.</p>
-           </div>
-           <div className="space-y-2">
-             <h4 className="font-black uppercase text-white tracking-widest">2. Propriedade Intelectual</h4>
-             <p>A marca WhereinLabs, o WhereInGames, o Wig Design System e todo o conteúdo deste site (textos, gráficos, logos, ícones e código) são propriedade exclusiva da WhereinLabs, protegidos por leis de direitos autorais internacionais.</p>
-           </div>
-           <div className="space-y-2">
-             <h4 className="font-black uppercase text-white tracking-widest">3. Uso de Licença</h4>
-             <p>Este site é estritamente institucional. É concedida permissão para visualizar e interagir com o conteúdo informativo apenas para fim pessoal e não comercial. Esta é uma concessão de licença de visualização, não uma transferência de título.</p>
-           </div>
-           <div className="space-y-2">
-             <h4 className="font-black uppercase text-white tracking-widest">4. Limitação de Responsabilidade</h4>
-             <p>Os materiais no site da WhereinLabs são fornecidos 'como estão'. A marca não oferece garantias, expressas ou implícitas, e por este meio isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização.</p>
-           </div>
-           <div className="pt-8 border-t border-white/5 text-[10px] uppercase font-bold tracking-widest text-wig-text-muted">
-             Última Atualização: 08 de Maio de 2026
-           </div>
-        </div>
+        <WigSectionHeader title="Termos de Uso" subtitle="Legal_Compliance" />
+        <WigHudFrame preset="panel" className="p-12 lg:p-16" showHoneycomb={false} accent="top">
+          <div className="prose prose-invert max-w-none space-y-10 text-sm text-wig-text-secondary leading-relaxed">
+             <div>
+               <h4 className="text-lg font-black text-white uppercase italic mb-4">1. Institucional</h4>
+               <p>O site whereinlabs.com é uma plataforma institucional para apresentação da marca e seus produtos subsidiários. Todo o conteúdo visual aqui exposto é de propriedade intelectual restrita.</p>
+             </div>
+             <div>
+               <h4 className="text-lg font-black text-white uppercase italic mb-4">2. Propriedade Intelectual</h4>
+               <p>A marca WhereinLabs, o WhereInGames e o Wig Design System são criações autorais. É proibida a reprodução de elementos do Design System ou código fonte para fins comerciais sem autorização via contrato oficial.</p>
+             </div>
+             <div>
+               <h4 className="text-lg font-black text-white uppercase italic mb-4">3. Limitações</h4>
+               <p>Este site não oferece serviços de assinatura direta ou garantias de operação ininterrupta. A finalidade é estritamente informativa e de posicionamento de mercado.</p>
+             </div>
+             <div className="pt-10 border-t border-white/5 flex items-center justify-between opacity-50">
+                <span className="text-[10px] font-black uppercase tracking-widest">Última Revisão: 08.05.2026</span>
+                <span className="text-[10px] font-black uppercase tracking-widest text-wig-gold">Auth_Verified</span>
+             </div>
+          </div>
+        </WigHudFrame>
       </div>
     </section>
   );
@@ -362,30 +378,31 @@ function TermsView() {
 
 function PrivacyView() {
   return (
-    <section className="px-10 py-32">
+    <section className="px-10 py-32 lg:py-48">
       <div className="max-w-4xl mx-auto">
-        <WigSectionHeader title="Política de Privacidade" subtitle="Compromisso com a Proteção" />
-        <div className="space-y-10 text-sm text-wig-text-secondary leading-relaxed bg-wig-surface-base p-12 border border-white/5" style={{ clipPath: "polygon(0 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%)" }}>
-           <div className="space-y-4">
-             <p>A privacidade dos nossos visitantes é uma prioridade fundamental na WhereinLabs. Esta política detalha como lidamos com as informações coletadas através deste domínio institucional.</p>
-           </div>
-           <div className="space-y-2">
-             <h4 className="font-black uppercase text-white tracking-widest">Coleta de Dados</h4>
-             <p>Neste site institucional, não coletamos dados pessoais sensíveis de forma automática. Qualquer informação fornecida voluntariamente através de canais de contato será tratada com o máximo de confidencialidade.</p>
-           </div>
-           <div className="space-y-2">
-             <h4 className="font-black uppercase text-white tracking-widest">Uso de Cookies</h4>
-             <p>Podemos utilizar cookies básicos para melhorar a performance técnica do site e para análises anônimas de tráfego, visando sempre a melhoria da experiência do usuário.</p>
-           </div>
-           <div className="space-y-2">
-             <h4 className="font-black uppercase text-white tracking-widest">Segurança</h4>
-             <p>Empregamos medidas técnicas de segurança padrão da indústria (como criptografia SSL) para garantir que sua interação com nosso site institucional seja segura e protegida contra acessos não autorizados.</p>
-           </div>
-           <div className="pt-8 border-t border-white/5 flex items-center gap-4">
-              <Lock size={16} className="text-wig-gold" />
-              <span className="text-[10px] uppercase font-bold tracking-widest text-wig-text-muted">Data Protection Standard v.1.0</span>
-           </div>
-        </div>
+        <WigSectionHeader title="Privacidade" subtitle="Data_Protection" />
+        <WigHudFrame preset="panel" className="p-12 lg:p-16" showHoneycomb={false} accent="bottom">
+          <div className="space-y-10 text-sm text-wig-text-secondary leading-relaxed">
+             <div className="p-6 bg-white/2 border-l-2 border-wig-gold flex items-center gap-6 mb-10">
+                <span className="text-wig-gold">
+                  <Info size={24} />
+                </span>
+                <p className="italic">Sua privacidade é codificada no nosso DNA técnico. Não comercializamos dados ou monitoramos usuários fora estritamente do necessário para a experiência do site.</p>
+             </div>
+             <div>
+               <h4 className="text-lg font-black text-white uppercase italic mb-4">Coleta Transparente</h4>
+               <p>Coletamos apenas dados técnicos fundamentais para a performance do site (como idioma e resolução de tela) via cookies funcionais. Não armazenamos informações pessoais identificáveis sem o seu consentimento explícito em formulários.</p>
+             </div>
+             <div>
+               <h4 className="text-lg font-black text-white uppercase italic mb-4">Segurança de Camada Ativa</h4>
+               <p>Utilizamos criptografia moderna e padrões de segurança de alto nível para garantir que sua visita institucional seja livre de ameaças e monitoramento externo.</p>
+             </div>
+             <div className="pt-10 flex items-center gap-4 text-wig-text-muted">
+                <Lock size={16} />
+                <span className="text-[10px] font-black uppercase tracking-[0.4em]">PrivacyShield_Standard v1.0</span>
+             </div>
+          </div>
+        </WigHudFrame>
       </div>
     </section>
   );
@@ -393,59 +410,51 @@ function PrivacyView() {
 
 function ContactView() {
   return (
-    <section className="px-10 py-32">
+    <section className="px-10 py-32 lg:py-48">
       <div className="max-w-5xl mx-auto">
-        <WigSectionHeader title="Canais de Contato" subtitle="Estabelecendo Conexões" />
-        <div className="grid lg:grid-cols-2 gap-12">
-          <div className="space-y-8">
-            <p className="text-lg text-wig-text-secondary leading-relaxed">
-              Interessado em saber mais sobre nosso estúdio, propostas de colaboração ou informações sobre os produtos WhereinLabs? Utilize nossos canais oficiais listados abaixo.
+        <WigSectionHeader title="Contact_Lab" subtitle="Abra uma Conexão" />
+        <div className="grid lg:grid-cols-2 gap-20">
+          <div>
+            <p className="text-xl text-wig-text-secondary leading-relaxed mb-12">
+              Dúvidas sobre o ecossistema WhereinLabs, sugestões de parcerias ou suporte técnico para nossos produtos? Estamos prontos para o comando.
             </p>
             <div className="space-y-6">
-              <div className="flex items-center gap-6 p-6 bg-wig-surface-alt border border-white/5 transition-transform hover:-translate-y-1">
-                 <Mail size={24} className="text-wig-gold" />
-                 <div>
-                    <div className="text-[10px] font-black uppercase text-wig-text-muted mb-1 tracking-widest">E-mail Corporativo</div>
-                    <div className="text-lg font-black text-white italic">contact@whereinlabs.com</div>
-                 </div>
-              </div>
-              <div className="flex items-center gap-6 p-6 bg-wig-surface-alt border border-white/5 transition-transform hover:-translate-y-1">
-                 <MessageSquare size={24} className="text-wig-gold" />
-                 <div>
-                    <div className="text-[10px] font-black uppercase text-wig-text-muted mb-1 tracking-widest">Comunidade</div>
-                    <div className="text-lg font-black text-white italic">discord.gg/whereinlabs</div>
-                 </div>
-              </div>
-              <div className="flex items-center gap-6 p-6 bg-wig-surface-alt border border-white/5 transition-transform hover:-translate-y-1">
-                 <ArrowRight size={24} className="text-wig-gold" />
-                 <div>
-                    <div className="text-[10px] font-black uppercase text-wig-text-muted mb-1 tracking-widest">Novidades</div>
-                    <div className="text-lg font-black text-white italic">twitter.com/whereinlabs</div>
-                 </div>
-              </div>
+              {[
+                { icon: Mail, label: "E-mail Oficial", val: "contact@whereinlabs.com" },
+                { icon: ArrowRight, label: "Feed de Novidades", val: "twitter.com/whereinlabs" },
+                { icon: Hexagon, label: "Support Node", val: "discord.gg/whereinlabs" }
+              ].map(item => (
+                <div key={item.label} className="flex items-center gap-8 p-8 bg-wig-surface-base border border-white/5 transition-all hover:border-wig-gold/20">
+                  <item.icon size={24} className="text-wig-gold opacity-50" />
+                  <div>
+                    <div className="text-[10px] font-black text-wig-text-muted uppercase tracking-widest mb-1">{item.label}</div>
+                    <div className="text-lg font-black text-white italic">{item.val}</div>
+                  </div>
+                </div>
+              ))}
             </div>
           </div>
-          <div className="bg-wig-surface-base p-10 border border-white/5 relative">
-            <div className="absolute top-0 right-0 p-4">
-              <Hexagon size={40} className="text-wig-gold opacity-10" />
-            </div>
-            <h4 className="text-xl font-black uppercase text-white mb-8 italic">Direto ao Estúdio</h4>
-            <div className="space-y-6">
-               <div>
-                  <label className="block text-[10px] font-black uppercase text-wig-text-muted mb-2 tracking-widest">Nome Completo</label>
-                  <input type="text" className="w-full bg-wig-black border border-white/10 p-3 text-sm text-white focus:outline-none focus:border-wig-gold transition-colors" placeholder="Seu nome..." />
+
+          <WigHudFrame preset="panel" className="p-12" showHoneycomb={true} accent="top">
+             <div className="space-y-8">
+               <h4 className="text-2xl font-black text-white uppercase italic tracking-tighter">Enviar Mensagem</h4>
+               <div className="space-y-6">
+                 <div>
+                    <label className="block text-[10px] font-black uppercase text-wig-text-muted mb-3 tracking-widest">Identificação</label>
+                    <input type="text" className="w-full bg-wig-black border border-white/10 p-4 text-sm text-white focus:outline-none focus:border-wig-gold transition-colors font-mono" placeholder="NAME_OR_ORG_ID" />
+                 </div>
+                 <div>
+                    <label className="block text-[10px] font-black uppercase text-wig-text-muted mb-3 tracking-widest">Email Node</label>
+                    <input type="email" className="w-full bg-wig-black border border-white/10 p-4 text-sm text-white focus:outline-none focus:border-wig-gold transition-colors font-mono" placeholder="CONTACT_SOURCE" />
+                 </div>
+                 <div>
+                    <label className="block text-[10px] font-black uppercase text-wig-text-muted mb-3 tracking-widest">Data_Payload</label>
+                    <textarea rows={4} className="w-full bg-wig-black border border-white/10 p-4 text-sm text-white focus:outline-none focus:border-wig-gold transition-colors resize-none font-mono" placeholder="ENTER_MESSAGE..."></textarea>
+                 </div>
+                 <WigButton size="lg" className="w-full">Initialize_Transfer</WigButton>
                </div>
-               <div>
-                  <label className="block text-[10px] font-black uppercase text-wig-text-muted mb-2 tracking-widest">E-mail</label>
-                  <input type="email" className="w-full bg-wig-black border border-white/10 p-3 text-sm text-white focus:outline-none focus:border-wig-gold transition-colors" placeholder="seuemail@empresa.com" />
-               </div>
-               <div>
-                  <label className="block text-[10px] font-black uppercase text-wig-text-muted mb-2 tracking-widest">Mensagem</label>
-                  <textarea rows={4} className="w-full bg-wig-black border border-white/10 p-3 text-sm text-white focus:outline-none focus:border-wig-gold transition-colors resize-none" placeholder="Sua mensagem institucional..."></textarea>
-               </div>
-               <WigButton className="w-full" variant="primary">Enviar Mensagem</WigButton>
-            </div>
-          </div>
+             </div>
+          </WigHudFrame>
         </div>
       </div>
     </section>
