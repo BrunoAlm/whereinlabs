@@ -59,8 +59,8 @@ export default function App() {
             className="flex items-center gap-3 cursor-pointer group"
             onClick={() => setCurrentRoute("home")}
           >
-            <div className="w-10 h-10 bg-wig-gold flex items-center justify-center transition-transform duration-500 group-hover:rotate-12" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}>
-              <Hexagon size={20} className="text-wig-black" />
+            <div className="w-10 h-10 flex items-center justify-center transition-transform duration-500 group-hover:scale-110">
+              <img src="/logo.png" alt="WhereinLabs Logo" className="w-full h-full object-contain" />
             </div>
             <span className="text-2xl font-black tracking-tighter uppercase italic text-white">Wherein<span className="text-wig-gold transition-colors group-hover:text-white">Labs</span></span>
           </div>
@@ -111,8 +111,8 @@ export default function App() {
         <div className="max-w-7xl mx-auto grid lg:grid-cols-4 gap-20 relative z-10 text-center lg:text-left">
           <div className="col-span-2">
             <div className="flex items-center justify-center lg:justify-start gap-4 mb-10">
-              <div className="w-10 h-10 bg-wig-gold flex items-center justify-center opacity-80" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}>
-                <Hexagon size={18} className="text-wig-black" />
+              <div className="w-12 h-12 flex items-center justify-center">
+                <img src="/logo.png" alt="WhereinLabs Logo" className="w-full h-full object-contain opacity-80" />
               </div>
               <span className="text-2xl font-black tracking-tighter uppercase italic text-white font-mono">Wherein<span className="text-wig-gold">Labs</span></span>
             </div>
@@ -168,8 +168,11 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
               >
-                <div className="mb-10">
+                <div className="mb-6 flex items-center gap-4">
                   <WigStatusChip label="Digital Production Studio" active />
+                  <div className="w-8 h-8 opacity-50">
+                    <img src="/logo.png" alt="" className="w-full h-full object-contain" />
+                  </div>
                 </div>
                 <h1 className="text-6xl lg:text-9xl font-black text-white uppercase italic leading-[0.8] tracking-tighter mb-10">
                   WHEREIN<br /><span className="text-wig-gold animate-pulse">LABS</span>
@@ -188,8 +191,8 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
                      <div className="w-full h-full border border-white/5 opacity-50" style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }} />
                    </div>
                  </div>
-                 <div className="absolute inset-0 flex items-center justify-center">
-                    <Hexagon size={80} className="text-wig-gold/40 animate-pulse" />
+                 <div className="absolute inset-0 flex items-center justify-center p-20">
+                    <img src="/logo.png" alt="WhereinLabs Logo" className="w-full h-full object-contain opacity-30 animate-pulse" />
                  </div>
               </div>
             </div>
