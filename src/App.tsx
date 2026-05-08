@@ -33,7 +33,6 @@ export default function App() {
     { id: "products", label: "Produtos" },
     { id: "terms", label: "Termos" },
     { id: "privacy", label: "Privacidade" },
-    { id: "contact", label: "Contato" },
   ];
 
   const renderContent = () => {
@@ -131,7 +130,6 @@ export default function App() {
                 <ul className="space-y-4">
                   <li><button onClick={() => setCurrentRoute("about")} className="text-sm text-wig-text-secondary hover:text-white transition-colors">Sobre a Marca</button></li>
                   <li><button onClick={() => setCurrentRoute("products")} className="text-sm text-wig-text-secondary hover:text-white transition-colors">Ecossistema de Projetos</button></li>
-                  <li><button onClick={() => setCurrentRoute("contact")} className="text-sm text-wig-text-secondary hover:text-white transition-colors">Canais de Contato</button></li>
                 </ul>
              </div>
              <div>
