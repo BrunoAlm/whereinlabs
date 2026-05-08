@@ -60,7 +60,7 @@ export default function App() {
             onClick={() => setCurrentRoute("home")}
           >
             <div className="w-10 h-10 flex items-center justify-center transition-transform duration-500 group-hover:scale-110">
-              <img src="/logo.png" alt="WhereinLabs Logo" className="w-full h-full object-contain" />
+              <img src={`${import.meta.env.BASE_URL}logo.png`} alt="WhereinLabs Logo" className="w-full h-full object-contain" />
             </div>
             <span className="text-2xl font-black tracking-tighter uppercase italic text-white">Wherein<span className="text-wig-gold transition-colors group-hover:text-white">Labs</span></span>
           </div>
@@ -112,7 +112,7 @@ export default function App() {
           <div className="col-span-2">
             <div className="flex items-center justify-center lg:justify-start gap-4 mb-10">
               <div className="w-12 h-12 flex items-center justify-center">
-                <img src="/logo.png" alt="WhereinLabs Logo" className="w-full h-full object-contain opacity-80" />
+                <img src={`${import.meta.env.BASE_URL}logo.png`} alt="WhereinLabs Logo" className="w-full h-full object-contain opacity-80" />
               </div>
               <span className="text-2xl font-black tracking-tighter uppercase italic text-white font-mono">Wherein<span className="text-wig-gold">Labs</span></span>
             </div>
@@ -171,7 +171,7 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
                 <div className="mb-6 flex items-center gap-4">
                   <WigStatusChip label="Digital Production Studio" active />
                   <div className="w-8 h-8 opacity-50">
-                    <img src="/logo.png" alt="" className="w-full h-full object-contain" />
+                    <img src={`${import.meta.env.BASE_URL}logo.png`} alt="" className="w-full h-full object-contain" />
                   </div>
                 </div>
                 <h1 className="text-6xl lg:text-9xl font-black text-white uppercase italic leading-[0.8] tracking-tighter mb-10">
@@ -192,7 +192,7 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
                    </div>
                  </div>
                  <div className="absolute inset-0 flex items-center justify-center p-20">
-                    <img src="/logo.png" alt="WhereinLabs Logo" className="w-full h-full object-contain opacity-30 animate-pulse" />
+                    <img src={`${import.meta.env.BASE_URL}logo.png`} alt="WhereinLabs Logo" className="w-full h-full object-contain opacity-30 animate-pulse" />
                  </div>
               </div>
             </div>
