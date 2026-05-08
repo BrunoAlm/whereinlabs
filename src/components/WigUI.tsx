@@ -197,18 +197,18 @@ export const WigCard = ({ children, title, subtitle, icon: Icon, className = "",
   return (
     <WigHudFrame 
       preset="card" 
-      className={`p-8 group h-full ${className} ${highlight ? "border-wig-gold/50" : ""}`}
+      className={`p-6 sm:p-8 group h-full ${className} ${highlight ? "border-wig-gold/50" : ""}`}
     >
       {(title || Icon) && (
-        <div className="flex items-center justify-between mb-8 pb-4 border-b border-white/5">
+        <div className="flex items-center justify-between mb-6 md:mb-8 pb-4 border-b border-white/5">
           <div className="flex flex-col">
-            {subtitle && <span className="text-[10px] font-bold uppercase tracking-[0.3em] text-wig-gold mb-1">{subtitle}</span>}
-            {title && <h3 className="text-xl font-black text-white uppercase italic tracking-tighter">{title}</h3>}
+            {subtitle && <span className="text-[9px] md:text-[10px] font-bold uppercase tracking-[0.3em] text-wig-gold mb-1">{subtitle}</span>}
+            {title && <h3 className="text-lg md:text-xl font-black text-white uppercase italic tracking-tighter">{title}</h3>}
           </div>
-          {Icon && <Icon size={24} className="text-wig-gold/20 group-hover:text-wig-gold transition-colors duration-500" />}
+          {Icon && <Icon size={20} className="md:size-24 text-wig-gold/20 group-hover:text-wig-gold transition-colors duration-500" />}
         </div>
       )}
-      <div className="relative z-10">{children}</div>
+      <div className="relative z-10 text-xs md:text-sm leading-relaxed">{children}</div>
     </WigHudFrame>
   );
 };

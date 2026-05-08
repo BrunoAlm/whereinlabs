@@ -198,12 +198,12 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
       </section>
 
       {/* Philosophy Section */}
-      <section className="px-10 py-40">
+      <section className="px-6 md:px-10 py-24 md:py-40">
         <div className="max-w-7xl mx-auto">
-          <div className="grid lg:grid-cols-2 gap-32">
+          <div className="grid lg:grid-cols-2 gap-16 md:gap-32">
             <div>
               <WigSectionHeader title="Design Tático" subtitle="Manifesto da Marca" />
-              <div className="space-y-10 text-lg text-wig-text-secondary leading-relaxed">
+              <div className="space-y-8 md:space-y-10 text-base md:text-lg text-wig-text-secondary leading-relaxed">
                 <p>
                   Acreditamos na interface como uma <span className="text-white font-bold italic">extensão do instinto</span>. Cada projeto WhereinLabs herda uma arquitetura visual rigorosa, inspirada em sistemas HUD e aviação tática.
                 </p>
@@ -212,15 +212,15 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
                 </WigButton>
               </div>
             </div>
-            <div className="grid grid-cols-2 gap-6">
+            <div className="grid sm:grid-cols-2 gap-6">
               {[
                 { title: "Sistemas Autorais", icon: Layers, desc: "Processo de criação baseado em design systems exclusivos." },
                 { title: "Identidade Premium", icon: Shield, desc: "Estética sofisticada com foco em acabamento e detalhe." },
                 { title: "Tecnologia Nativa", icon: Cpu, desc: "Produtos robustos construídos com as melhores stacks digitais." },
                 { title: "Foco Global", icon: Globe, desc: "Escalabilidade e presença internacional em todos os projetos." }
               ].map((item, i) => (
-                <WigCard key={item.title} title={item.title} icon={item.icon} className="h-full">
-                  <p className="text-xs text-wig-text-muted mt-4 leading-relaxed">{item.desc}</p>
+                <WigCard key={item.title} title={item.title} icon={item.icon}>
+                  <p className="text-xs text-wig-text-muted mt-2 leading-relaxed">{item.desc}</p>
                 </WigCard>
               ))}
             </div>
@@ -229,9 +229,9 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
       </section>
 
       {/* Featured Products Preview */}
-      <section className="px-10 py-40 border-t border-white/5 bg-wig-surface-base/20">
+      <section className="px-6 md:px-10 py-24 md:py-40 border-t border-white/5 bg-wig-surface-base/20">
         <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-24">
+          <div className="text-center mb-16 md:mb-24">
             <WigSectionHeader title="O Ecossistema" subtitle="Maestria em Desenvolvimento" center />
           </div>
           <WigProductShowcase 
@@ -240,7 +240,7 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
              productName="WhereInGames"
              embedUrl="https://whereingames.com"
              externalUrl="https://whereingames.com"
-             fallbackDescription="O site WhereInGames utiliza protocolos de segurança que podem impedir a visualização direta nesta moldura institucional. Clique abaixo para abrir a experiência completa em uma nova aba."
+             fallbackDescription="O site WhereInGames utiliza protocolos de segurança que podem impedir a visualização direta nesta moldura institucional. Utilize o botão acima para abrir a experiência completa."
           />
         </div>
       </section>
@@ -250,11 +250,11 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
 
 function AboutView() {
   return (
-    <section className="px-10 py-32 lg:py-48">
+    <section className="px-6 md:px-10 py-24 md:py-32 lg:py-48">
       <div className="max-w-5xl mx-auto">
         <WigSectionHeader title="Quem Somos" subtitle="O Laboratório Creativo" />
         <div className="space-y-16">
-          <div className="grid lg:grid-cols-2 gap-20 items-start">
+          <div className="grid lg:grid-cols-2 gap-12 md:gap-20 items-start">
             <div className="space-y-8 text-lg text-wig-text-secondary leading-relaxed">
               <p>
                 WhereinLabs é um estúdio de design digital e desenvolvimento técnico focado na criação de experiências interativas premium. Operamos como um laboratório onde a estética tática encontra a funcionalidade moderna.
@@ -304,8 +304,8 @@ function AboutView() {
 
 function ProductsView() {
   return (
-    <section className="px-10 py-32 lg:py-48">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="px-6 md:px-10 py-24 md:py-32 lg:py-48">
+      <div className="max-w-7xl mx-auto px-0 sm:px-6 lg:px-8">
         <WigSectionHeader title="Ecossistema Labs" subtitle="Produtos em Destaque" />
         <div className="space-y-32">
           {/* Main Product Showcase */}
@@ -348,11 +348,11 @@ function ProductsView() {
 
 function TermsView() {
   return (
-    <section className="px-10 py-32 lg:py-48">
+    <section className="px-6 md:px-10 py-24 md:py-32 lg:py-48">
       <div className="max-w-4xl mx-auto">
         <WigSectionHeader title="Termos de Uso" subtitle="Legal_Compliance" />
-        <WigHudFrame preset="panel" className="p-12 lg:p-16" showHoneycomb={false} accent="top">
-          <div className="prose prose-invert max-w-none space-y-10 text-sm text-wig-text-secondary leading-relaxed">
+        <WigHudFrame preset="panel" className="p-8 md:p-12 lg:p-16" showHoneycomb={false} accent="top">
+          <div className="prose prose-invert max-w-none space-y-8 md:space-y-10 text-xs md:text-sm text-wig-text-secondary leading-relaxed">
              <div>
                <h4 className="text-lg font-black text-white uppercase italic mb-4">1. Institucional</h4>
                <p>O site whereinlabs.com é uma plataforma institucional para apresentação da marca e seus produtos subsidiários. Todo o conteúdo visual aqui exposto é de propriedade intelectual restrita.</p>
@@ -378,11 +378,11 @@ function TermsView() {
 
 function PrivacyView() {
   return (
-    <section className="px-10 py-32 lg:py-48">
+    <section className="px-6 md:px-10 py-24 md:py-32 lg:py-48">
       <div className="max-w-4xl mx-auto">
         <WigSectionHeader title="Privacidade" subtitle="Data_Protection" />
-        <WigHudFrame preset="panel" className="p-12 lg:p-16" showHoneycomb={false} accent="bottom">
-          <div className="space-y-10 text-sm text-wig-text-secondary leading-relaxed">
+        <WigHudFrame preset="panel" className="p-8 md:p-12 lg:p-16" showHoneycomb={false} accent="bottom">
+          <div className="space-y-8 md:space-y-10 text-xs md:text-sm text-wig-text-secondary leading-relaxed">
              <div className="p-6 bg-white/2 border-l-2 border-wig-gold flex items-center gap-6 mb-10">
                 <span className="text-wig-gold">
                   <Info size={24} />
@@ -410,12 +410,12 @@ function PrivacyView() {
 
 function ContactView() {
   return (
-    <section className="px-10 py-32 lg:py-48">
+    <section className="px-6 md:px-10 py-24 md:py-32 lg:py-48">
       <div className="max-w-5xl mx-auto">
         <WigSectionHeader title="Contact_Lab" subtitle="Abra uma Conexão" />
-        <div className="grid lg:grid-cols-2 gap-20">
+        <div className="grid lg:grid-cols-2 gap-12 md:gap-20">
           <div>
-            <p className="text-xl text-wig-text-secondary leading-relaxed mb-12">
+            <p className="text-lg md:text-xl text-wig-text-secondary leading-relaxed mb-8 md:ml-12 md:mb-12">
               Dúvidas sobre o ecossistema WhereinLabs, sugestões de parcerias ou suporte técnico para nossos produtos? Estamos prontos para o comando.
             </p>
             <div className="space-y-6">
