@@ -8,7 +8,7 @@ const FEEDS = [
   { id: 'meups-news', url: 'https://meups.com.br/feed/' }
 ];
 
-const STEAM_APP_ID = '440'; // Team Fortress 2 (example)
+const STEAM_APP_IDS = ['440', '570', '730', '578080', '1938090', '1085660']; // TF2, Dota2, CS2, PUBG, CoD, Destiny 2
 
 async function sync() {
   const dataDir = path.join(__dirname, '../public/data');
@@ -31,19 +31,34 @@ async function sync() {
     }
   }
 
-  // Sync Steam News (Bypassing CORS)
+  // Sync Steam News (Multiple Apps)
   try {
-    console.log(`Syncing Steam News...`);
-    const steamUrl = `https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=${STEAM_APP_ID}&count=10`;
-    const response = await fetch(steamUrl);
-    const steamData = await response.json();
+    console.log(`Syncing Steam News for multiple apps...`);
+    let allSteamItems = [];
+    
+    for (const appId of STEAM_APP_IDS) {
+      try {
+        const steamUrl = `https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=${appId}&count=5`;
+        const response = await fetch(steamUrl);
+        const steamData = await response.json();
+        if (steamData.appnews?.newsitems) {
+          allSteamItems = [...allSteamItems, ...steamData.appnews.newsitems];
+        }
+      } catch (e) {
+        console.error(`  - Failed to sync Steam App ${appId}`);
+      }
+    }
+
+    // Sort by date (descending)
+    allSteamItems.sort((a, b) => b.date - a.date);
+
     fs.writeFileSync(
       path.join(dataDir, `steam-news.json`),
-      JSON.stringify(steamData, null, 2)
+      JSON.stringify({ appnews: { newsitems: allSteamItems.slice(0, 30) } }, null, 2)
     );
-    console.log(`✓ Steam News updated.`);
+    console.log(`✓ Steam News aggregated (${allSteamItems.length} items).`);
   } catch (error) {
-    console.error(`✗ Error syncing Steam:`, error.message);
+    console.error(`✗ Error syncing Steam aggregated:`, error.message);
   }
 
   // Aggregated RSS Feed for Google News

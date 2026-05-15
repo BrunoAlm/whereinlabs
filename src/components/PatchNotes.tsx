@@ -225,12 +225,39 @@ export const PatchNotes = () => {
 
   const preprocessMarkdown = (content: string) => {
     if (!content) return "";
-    // react-markdown + rehype-raw doesn't parse markdown markers inside HTML tags.
-    // To fix headers, bold text and images returning as plain text inside alignment tags,
-    // we strip these tags but keep the content.
-    // Standard JS regex doesn't support 's' flag for dot-all easily in all envs,
-    // so we use [\s\S] to match any character including newlines.
-    return content
+    
+    let processed = content;
+
+    // Steam-specific image placeholder replacement
+    processed = processed.replace(/{STEAM_CLAN_IMAGE}/g, "https://clan.cloudflare.steamstatic.com/images");
+
+    // BBCode TO Markdown Conversion
+    processed = processed
+      // Images: [img]url[/img]
+      .replace(/\[img\](.*?)\[\/img\]/gi, "![]($1)")
+      // Links: [url=href]text[/url]
+      .replace(/\[url=(.*?)\]([\s\S]*?)\[\/url\]/gi, "[$2]($1)")
+      // Links simple: [url]url[/url]
+      .replace(/\[url\](.*?)\[\/url\]/gi, "[$1]($1)")
+      // Bold: [b]
+      .replace(/\[b\]([\s\S]*?)\[\/b\]/gi, "**$1**")
+      // Italics: [i]
+      .replace(/\[i\]([\s\S]*?)\[\/i\]/gi, "*$1*")
+      // Underline: [u] (mapped to italics in markdown)
+      .replace(/\[u\]([\s\S]*?)\[\/u\]/gi, "_$1_")
+      // Strike: [strike]
+      .replace(/\[strike\]([\s\S]*?)\[\/strike\]/gi, "~~$1~~")
+      // Lists: [list] and [*]
+      .replace(/\[list\]([\s\S]*?)\[\/list\]/gi, (match, listContent) => {
+        return "\n" + listContent.replace(/\[\*\]|\[\]/g, "\n* ") + "\n";
+      })
+      // Horizontal Rule: [hr]
+      .replace(/\[hr\]/gi, "\n---\n")
+      // Omit some other tags that don't map well
+      .replace(/\[\/?(reflist|table|tr|td|th)\]/gi, "");
+
+    // Existing HTML cleaning for alignment tags
+    return processed
       .replace(/<p align="[^"]+">([\s\S]*?)<\/p>/g, "$1\n")
       .replace(/<div align="[^"]+">([\s\S]*?)<\/div>/g, "$1\n")
       .replace(/<center>([\s\S]*?)<\/center>/g, "$1\n");
