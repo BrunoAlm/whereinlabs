@@ -46,6 +46,9 @@ async function sync() {
     console.error(`✗ Error syncing Steam:`, error.message);
   }
 
+  // Aggregated RSS Feed for Google News
+  let aggregatedItems = [];
+
   // Update status file
   fs.writeFileSync(
     path.join(dataDir, 'status.json'),
@@ -54,6 +57,45 @@ async function sync() {
       status: 'online' 
     })
   );
+
+  // Collect samples for aggregated feed
+  for (const feed of FEEDS) {
+    try {
+      const filePath = path.join(dataDir, `${feed.id}.json`);
+      if (fs.existsSync(filePath)) {
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        if (data.items) {
+           aggregatedItems = [...aggregatedItems, ...data.items.slice(0, 10).map(item => ({
+             ...item,
+             source: feed.id.split('-')[0].toUpperCase()
+           }))];
+        }
+      }
+    } catch (e) {}
+  }
+
+  // Generate XML Feed
+  const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>WhereinLabs Global Gaming News</title>
+ <link>https://us.whereingames.com/</link>
+ <description>O melhor conteúdo de games agregado em tempo real.</description>
+ <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+ <language>pt-br</language>
+ ${aggregatedItems.sort((a,b) => new Date(b.published || b.date) - new Date(a.published || a.date)).slice(0, 30).map(item => `
+ <item>
+  <title><![CDATA[[${item.source}] ${item.title}]]></title>
+  <link>${item.link}</link>
+  <guid isPermaLink="false">${item.id || item.link}</guid>
+  <pubDate>${new Date(item.published || item.date || Date.now()).toUTCString()}</pubDate>
+  <description><![CDATA[${item.description || item.summary || ''}]]></description>
+ </item>`).join('')}
+</channel>
+</rss>`;
+
+  fs.writeFileSync(path.join(dataDir, 'feed.xml'), rssXml);
+  console.log('✓ Google News RSS Feed generated.');
 }
 
 sync();
