@@ -32,5 +32,5 @@ jobs:
           git config --global user.name 'WhereinNews Bot'
           git config --global user.email 'bot@whereingames.com'
           git add public/data/*.json
-          git commit -m "chore: sync external news [skip ci]" || echo "No news updates"
+          git commit -m "chore: sync external news" || echo "No news updates"
           git push

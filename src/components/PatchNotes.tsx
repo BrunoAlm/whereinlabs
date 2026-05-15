@@ -31,8 +31,10 @@ export const PatchNotes = () => {
         setIsLoading(true);
         setError(null);
         
+        const timestamp = Date.now();
+        
         // Fetch status progressivo
-        fetch("/data/status.json")
+        fetch(`/data/status.json?t=${timestamp}`)
           .then(r => r.ok ? r.json() : null)
           .then(data => data && setSyncStatus(data))
           .catch(() => {});
@@ -46,7 +48,7 @@ export const PatchNotes = () => {
           const [internalRes, redditRes, ignRes] = await Promise.allSettled([
             fetch(sources.find(s => s.id === "all")!.url),
             fetch("https://www.reddit.com/r/Games/hot.json?limit=8"),
-            fetch("/data/ign-news.json")
+            fetch(`/data/ign-news.json?t=${timestamp}`)
           ]);
 
           if (internalRes.status === "fulfilled" && internalRes.value.ok) {
@@ -86,8 +88,12 @@ export const PatchNotes = () => {
           // Ordenar por data
           mappedPosts.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
         } else {
-          // OUTRAS ABAS
-          const response = await fetch(source.url);
+          // OUTRAS ABAS (IGN, Eurogamer, MeuPS, Steam)
+          const fetchUrl = source.type === "rss-local" || source.id === "steam" 
+            ? `${source.url}?t=${timestamp}` 
+            : source.url;
+
+          const response = await fetch(fetchUrl);
           
           if (!response.ok) {
             if (response.status === 404) throw new Error(`O feed ${source.label} está sendo sincronizado. Tente em 1 minuto.`);
