@@ -16,13 +16,15 @@ export const PatchNotes = () => {
 
   const [syncStatus, setSyncStatus] = useState<{last_sync?: string, status?: string}>({});
 
+  const DATA_BASE_URL = "https://raw.githubusercontent.com/BrunoAlm/whereinlabs/main/public/data";
+
   const sources = [
     { id: "all", label: "Geral", type: "internal", url: "https://api.whereingames.com/v1/content/posts?limit=12", description: "Todas as atualizações e logs do sistema WhereinLabs." },
     { id: "community", label: "Reddit", type: "reddit", url: "https://www.reddit.com/r/Games/hot.json?limit=15", description: "Discussões e notícias quentes da comunidade r/Games." },
-    { id: "ign", label: "IGN", type: "rss-local", url: "/data/ign-news.json", description: "Últimas notícias globais via IGN." },
-    { id: "eurogamer", label: "Eurogamer", type: "rss-local", url: "/data/eurogamer-news.json", description: "Análises e notícias da Eurogamer." },
-    { id: "meups", label: "MeuPS", type: "rss-local", url: "/data/meups-news.json", description: "Portal brasileiro focado em PlayStation." },
-    { id: "steam", label: "Steam", type: "steam", url: "/data/steam-news.json", description: "Atualizações oficiais de grandes títulos na Steam (via Sync)." },
+    { id: "ign", label: "IGN", type: "rss-local", url: `${DATA_BASE_URL}/ign-news.json`, description: "Últimas notícias globais via IGN." },
+    { id: "eurogamer", label: "Eurogamer", type: "rss-local", url: `${DATA_BASE_URL}/eurogamer-news.json`, description: "Análises e notícias da Eurogamer." },
+    { id: "meups", label: "MeuPS", type: "rss-local", url: `${DATA_BASE_URL}/meups-news.json`, description: "Portal brasileiro focado em PlayStation." },
+    { id: "steam", label: "Steam", type: "steam", url: `${DATA_BASE_URL}/steam-news.json`, description: "Atualizações oficiais de grandes títulos na Steam (via Sync)." },
   ];
 
   useEffect(() => {
@@ -33,8 +35,8 @@ export const PatchNotes = () => {
         
         const timestamp = Date.now();
         
-        // Fetch status progressivo
-        fetch(`/data/status.json?t=${timestamp}`)
+        // Fetch status progressivo do GitHub
+        fetch(`${DATA_BASE_URL}/status.json?t=${timestamp}`)
           .then(r => r.ok ? r.json() : null)
           .then(data => data && setSyncStatus(data))
           .catch(() => {});
@@ -45,10 +47,11 @@ export const PatchNotes = () => {
 
         if (source.id === "all") {
           // ABA GERAL: Agrega API interna + feeds locais se disponíveis
-          const [internalRes, redditRes, ignRes] = await Promise.allSettled([
+          const [internalRes, redditRes, ignRes, steamRes] = await Promise.allSettled([
             fetch(sources.find(s => s.id === "all")!.url),
             fetch("https://www.reddit.com/r/Games/hot.json?limit=8"),
-            fetch(`/data/ign-news.json?t=${timestamp}`)
+            fetch(`${DATA_BASE_URL}/ign-news.json?t=${timestamp}`),
+            fetch(`${DATA_BASE_URL}/steam-news.json?t=${timestamp}`)
           ]);
 
           if (internalRes.status === "fulfilled" && internalRes.value.ok) {
@@ -84,6 +87,21 @@ export const PatchNotes = () => {
               mappedPosts = [...mappedPosts, ...ignItems];
             }
           }
+
+          if (steamRes.status === "fulfilled" && steamRes.value.ok) {
+            const data = await steamRes.value.json();
+            if (data.appnews?.newsitems?.length > 0) {
+              const steamItems = data.appnews.newsitems.slice(0, 3).map((item: any) => ({
+                id: `steam-${item.gid}`,
+                title: `[Steam] ${item.title}`,
+                summary: item.contents.substring(0, 120).replace(/<[^>]*>?/gm, '') + "...",
+                category: "PATCH_NOTES",
+                published_at: new Date(item.date * 1000).toISOString(),
+                game: { id: "steam", name: "Steam Official", slug: "steam" }
+              }));
+              mappedPosts = [...mappedPosts, ...steamItems];
+            }
+          }
           
           // Ordenar por data
           mappedPosts.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
@@ -104,7 +122,7 @@ export const PatchNotes = () => {
 
           // Se a API retornou o arquivo de fallback "syncing"
           if (data.status === "syncing" || (data.items && data.items.length === 0 && source.type === "rss-local")) {
-            throw new Error(`Aguardando primeira sincronização do bot para ${source.label}... Abra o console do GitHub para ver o status.`);
+            throw new Error(`Aguardando primeira sincronização do bot para ${source.label}...`);
           }
 
           if (source.type === "reddit") {
