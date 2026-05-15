@@ -14,6 +14,8 @@ export const PatchNotes = () => {
   const [error, setError] = useState<string | null>(null);
   const [activeSource, setActiveSource] = useState("all");
 
+  const [syncStatus, setSyncStatus] = useState<{last_sync?: string, status?: string}>({});
+
   const sources = [
     { id: "all", label: "Geral", type: "internal", url: "https://api.whereingames.com/v1/content/posts?limit=12", description: "Todas as atualizações e logs do sistema WhereinLabs." },
     { id: "community", label: "Reddit", type: "reddit", url: "https://www.reddit.com/r/Games/hot.json?limit=15", description: "Discussões e notícias quentes da comunidade r/Games." },
@@ -28,6 +30,13 @@ export const PatchNotes = () => {
       try {
         setIsLoading(true);
         setError(null);
+        
+        // Fetch status
+        fetch("/data/status.json")
+          .then(r => r.json())
+          .then(setSyncStatus)
+          .catch(() => {});
+
         const source = sources.find(s => s.id === activeSource) || sources[0];
         
         const response = await fetch(source.url);
@@ -232,13 +241,23 @@ export const PatchNotes = () => {
         ))}
       </div>
 
-      <div className="mb-12">
-        <h2 className="text-2xl font-black italic uppercase text-wig-gold/80 mb-2 tracking-tighter">
-          {currentSourceInfo.label} Updates
-        </h2>
-        <p className="text-xs text-wig-text-muted uppercase tracking-[0.3em]">
-          Source_Feed: {currentSourceInfo.id} // Status: Online
-        </p>
+      <div className="mb-12 flex justify-between items-end border-b border-white/5 pb-8">
+        <div>
+          <h2 className="text-2xl font-black italic uppercase text-wig-gold/80 mb-2 tracking-tighter">
+            {currentSourceInfo.label} Updates
+          </h2>
+          <p className="text-xs text-wig-text-muted uppercase tracking-[0.3em]">
+            Source_Feed: {currentSourceInfo.id} // Status: {syncStatus.status || "Online"}
+          </p>
+        </div>
+        {syncStatus.last_sync && (
+          <div className="text-right hidden sm:block">
+            <p className="text-[10px] text-wig-text-muted uppercase tracking-widest mb-1">Last Sync</p>
+            <p className="text-[10px] font-mono text-wig-gold/50">
+              {new Date(syncStatus.last_sync).toLocaleString("pt-BR")}
+            </p>
+          </div>
+        )}
       </div>
 
       {posts.map((post, index) => (
