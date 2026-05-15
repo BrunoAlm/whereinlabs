@@ -1,0 +1,32 @@
+name: Sync External News
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Roda a cada 6 horas
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Fetch and Aggregate News
+        run: |
+          mkdir -p public/data
+          # Instalamos rss-to-json temporariamente para o script
+          npm install rss-to-json
+          node scripts/sync-news.js
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'WhereinNews Bot'
+          git config --global user.email 'bot@whereingames.com'
+          git add public/data/*.json
+          git commit -m "chore: sync external news [skip ci]" || echo "No news updates"
+          git push

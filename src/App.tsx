@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
+import { Helmet } from "react-helmet-async";
 import { 
   Shield, 
   Target, 
@@ -87,6 +88,16 @@ export default function App() {
 
   return (
     <div className="min-h-screen relative overflow-x-hidden selection:bg-wig-gold selection:text-wig-black">
+      <Helmet>
+        <title>WhereinLabs | Digital Frontier</title>
+        <meta name="description" content="WhereinLabs - Cutting-edge digital solutions, game updates, and news from the digital frontier." />
+        <meta property="og:title" content="WhereinLabs | Digital Frontier" />
+        <meta property="og:description" content="Explore the latest news and updates from the WhereinGames ecosystem." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://us.whereingames.com/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="canonical" href="https://us.whereingames.com/" />
+      </Helmet>
       {/* High-Fidelity Tactical Background */}
       <WigBackground />
       
@@ -165,7 +176,7 @@ export default function App() {
               ))}
             </div>
           </div>
-          <div className="lg:col-span-2 grid sm:grid-cols-2 gap-12">
+          <div className="lg:col-span-2 grid sm:grid-cols-3 gap-12">
              <div>
                 <h5 className="text-[11px] font-black uppercase tracking-[0.4em] text-wig-gold mb-8 opacity-60">// Institucional</h5>
                 <ul className="space-y-4">
@@ -179,7 +190,14 @@ export default function App() {
                 <ul className="space-y-4">
                   <li><button onClick={() => setRoute("terms")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Diretrizes de Uso</button></li>
                   <li><button onClick={() => setRoute("privacy")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Dados e Privacidade</button></li>
-                  <li className="pt-4"><span className="text-[10px] font-bold text-wig-text-muted tracking-[0.1em]">© 2026 WHEREINLABS. ALL RIGHTS RESERVED.</span></li>
+                </ul>
+             </div>
+             <div>
+                <h5 className="text-[11px] font-black uppercase tracking-[0.4em] text-wig-gold mb-8 opacity-60">// Indexação</h5>
+                <ul className="space-y-4">
+                  <li><button onClick={() => setRoute("news")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Sitemap / News</button></li>
+                  <li><a href="https://api.whereingames.com/v1/content/posts/rss" target="_blank" className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1 block">RSS Feed</a></li>
+                  <li className="pt-4"><span className="text-[10px] font-bold text-wig-text-muted tracking-[0.1em]">© 2026 WHR.</span></li>
                 </ul>
              </div>
           </div>

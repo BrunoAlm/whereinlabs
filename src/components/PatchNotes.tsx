@@ -6,31 +6,115 @@ import { Post, PostsResponse } from "../types";
 import { WigCard, WigStatusChip, WigHudFrame } from "./WigUI";
 import { AlertCircle, Terminal, Download, Calendar, Timer, Gamepad2 } from "lucide-react";
 import { motion } from "motion/react";
+import { Helmet } from "react-helmet-async";
 
 export const PatchNotes = () => {
   const [posts, setPosts] = useState<Post[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [activeSource, setActiveSource] = useState("all");
+
+  const sources = [
+    { id: "all", label: "Geral", type: "internal", url: "https://api.whereingames.com/v1/content/posts?limit=12", description: "Todas as atualizações e logs do sistema WhereinLabs." },
+    { id: "community", label: "Reddit", type: "reddit", url: "https://www.reddit.com/r/Games/hot.json?limit=15", description: "Discussões e notícias quentes da comunidade r/Games." },
+    { id: "ign", label: "IGN", type: "rss-local", url: "/data/ign-news.json", description: "Últimas notícias globais via IGN." },
+    { id: "eurogamer", label: "Eurogamer", type: "rss-local", url: "/data/eurogamer-news.json", description: "Análises e notícias da Eurogamer." },
+    { id: "meups", label: "MeuPS", type: "rss-local", url: "/data/meups-news.json", description: "Portal brasileiro focado em PlayStation." },
+    { id: "steam", label: "Steam", type: "steam", url: "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=440&count=5", description: "Atualizações oficiais de grandes títulos na Steam." },
+  ];
 
   useEffect(() => {
     const fetchPatchNotes = async () => {
       try {
         setIsLoading(true);
-        const response = await fetch("https://api.whereingames.com/v1/content/posts?limit=8");
-        if (!response.ok) {
-          throw new Error("Falha ao carregar conteúdos");
+        const source = sources.find(s => s.id === activeSource) || sources[0];
+        
+        const response = await fetch(source.url);
+        if (!response.ok) throw new Error("Fonte em sincronização ou indisponível");
+        const data = await response.json();
+        
+        let mappedPosts: Post[] = [];
+
+        if (source.type === "reddit") {
+          mappedPosts = data.data.children.map((child: any) => ({
+            id: child.data.id,
+            slug: child.data.id,
+            title: child.data.title,
+            summary: child.data.selftext?.substring(0, 160) || "Discussão no Reddit...",
+            content_markdown: child.data.selftext || `Link original: ${child.data.url}`,
+            cover_image_url: (child.data.thumbnail && child.data.thumbnail.startsWith('http')) ? child.data.thumbnail : "",
+            category: "REDDIT",
+            type: "NEWS",
+            published_at: new Date(child.data.created_utc * 1000).toISOString(),
+            game: { id: "reddit", name: "r/Games", slug: "reddit" }
+          }));
+        } else if (source.type === "rss-local") {
+          // Mapeamento para os dados convertidos via GitHub Actions
+          mappedPosts = data.items?.map((item: any) => ({
+            id: item.id || item.link,
+            slug: item.id || item.link,
+            title: item.title,
+            summary: item.summary || item.description?.substring(0, 160).replace(/<[^>]*>?/gm, ''),
+            content_markdown: item.content || item.description,
+            cover_image_url: item.image || item.enclosures?.[0]?.url || "",
+            category: source.label.toUpperCase(),
+            type: "NEWS",
+            published_at: item.published || item.date || new Date().toISOString(),
+            game: { id: source.id, name: source.label, slug: source.id }
+          })) || [];
+        } else if (source.type === "hn") {
+          mappedPosts = data.hits.map((hit: any) => ({
+            id: hit.objectID,
+            slug: hit.objectID,
+            title: hit.title,
+            summary: `Publicado por ${hit.author} | Pontuação: ${hit.points}`,
+            content_markdown: `Acesse a discussão técnica: ${hit.url || `https://news.ycombinator.com/item?id=${hit.objectID}`}`,
+            category: "TECH",
+            type: "NEWS",
+            published_at: hit.created_at,
+            game: { id: "hn", name: "Hacker News", slug: "hn" }
+          }));
+        } else if (source.type === "steam") {
+          mappedPosts = data.appnews?.newsitems.map((item: any) => ({
+            id: item.gid,
+            slug: item.gid,
+            title: item.title,
+            summary: item.contents.substring(0, 160).replace(/<[^>]*>?/gm, '') + "...",
+            content_markdown: item.contents,
+            category: "STEAM",
+            type: "PATCH_NOTES",
+            published_at: new Date(item.date * 1000).toISOString(),
+            game: { id: "steam", name: "Steam Official", slug: "steam" }
+          })) || [];
+        } else if (source.type === "static") {
+           // Handle the data from GitHub Actions (Reddit fallback or RSS transformed)
+           mappedPosts = data.data?.children?.map((child: any) => ({
+             id: `static-${child.data.id}`,
+             title: child.data.title,
+             summary: child.data.selftext?.substring(0, 160),
+             content_markdown: child.data.selftext,
+             category: "GLOBAL",
+             type: "NEWS",
+             published_at: new Date(child.data.created_utc * 1000).toISOString(),
+             game: { id: "global", name: "Global News", slug: "global" }
+           })) || [];
+        } else {
+          mappedPosts = data.posts || [];
         }
-        const data: PostsResponse = await response.json();
-        setPosts(data.posts);
+        
+        setPosts(mappedPosts);
       } catch (err) {
-        setError(err instanceof Error ? err.message : "Erro desconhecido");
+        setError(err instanceof Error ? err.message : "Erro crítico de conexão");
+        setPosts([]);
       } finally {
         setIsLoading(false);
       }
     };
 
     fetchPatchNotes();
-  }, []);
+  }, [activeSource]);
+
+  const currentSourceInfo = sources.find(s => s.id === activeSource) || sources[0];
 
   const preprocessMarkdown = (content: string) => {
     if (!content) return "";
@@ -74,11 +158,89 @@ export const PatchNotes = () => {
     );
   }
 
+  // Generate Structured Data for News/Articles
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": posts.map((post, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "item": {
+        "@type": "NewsArticle",
+        "headline": post.title,
+        "datePublished": post.published_at,
+        "dateModified": post.published_at,
+        "author": {
+          "@type": "Organization",
+          "name": "WhereinLabs",
+          "url": "https://us.whereingames.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "WhereinLabs",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://us.whereingames.com/logo.png"
+          }
+        },
+        "description": `${post.category} update for ${post.game?.name || "WhereinGames"}`,
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": `https://us.whereingames.com/news#${post.id}`
+        }
+      }
+    }))
+  };
+
   return (
     <div className="space-y-12">
+      <Helmet>
+        <title>{`${currentSourceInfo.label} | News & Updates | WhereinLabs`}</title>
+        <meta name="description" content={currentSourceInfo.description} />
+        <meta property="og:title" content={`${currentSourceInfo.label} | WhereinLabs News`} />
+        <meta property="og:description" content={currentSourceInfo.description} />
+        <link rel="canonical" href={`https://us.whereingames.com/news${activeSource !== "all" ? "?source=" + activeSource : ""}`} />
+        <script type="application/ld+json">
+          {JSON.stringify(structuredData)}
+        </script>
+      </Helmet>
+
+      {/* Source Switcher */}
+      <div className="flex flex-wrap gap-3 mb-16 p-2 bg-white/5 border border-white/10 rounded-sm backdrop-blur-sm">
+        {sources.map((source) => (
+          <button
+            key={source.id}
+            onClick={() => setActiveSource(source.id)}
+            className={`px-6 py-2 text-[10px] font-black uppercase tracking-[0.2em] transition-all relative overflow-hidden ${
+              activeSource === source.id 
+                ? "text-wig-black bg-wig-gold" 
+                : "text-wig-text-secondary hover:text-white hover:bg-white/5"
+            }`}
+          >
+            {source.label}
+            {activeSource === source.id && (
+              <motion.div 
+                layoutId="source-glitch"
+                className="absolute inset-0 bg-white/20 animate-pulse pointer-events-none" 
+              />
+            )}
+          </button>
+        ))}
+      </div>
+
+      <div className="mb-12">
+        <h2 className="text-2xl font-black italic uppercase text-wig-gold/80 mb-2 tracking-tighter">
+          {currentSourceInfo.label} Updates
+        </h2>
+        <p className="text-xs text-wig-text-muted uppercase tracking-[0.3em]">
+          Source_Feed: {currentSourceInfo.id} // Status: Online
+        </p>
+      </div>
+
       {posts.map((post, index) => (
         <motion.div
           key={post.id}
+          id={post.id}
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
