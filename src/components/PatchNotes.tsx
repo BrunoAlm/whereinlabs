@@ -16,7 +16,7 @@ export const PatchNotes = () => {
     const fetchPatchNotes = async () => {
       try {
         setIsLoading(true);
-        const response = await fetch("/api/patch-notes");
+        const response = await fetch("https://api.whereingames.com/v1/content/posts?limit=8");
         if (!response.ok) {
           throw new Error("Falha ao carregar patch notes");
         }
