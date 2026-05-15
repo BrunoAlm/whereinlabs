@@ -20,17 +20,21 @@ export const PatchNotes = () => {
     { id: "ign", label: "IGN", type: "rss-local", url: "/data/ign-news.json", description: "Últimas notícias globais via IGN." },
     { id: "eurogamer", label: "Eurogamer", type: "rss-local", url: "/data/eurogamer-news.json", description: "Análises e notícias da Eurogamer." },
     { id: "meups", label: "MeuPS", type: "rss-local", url: "/data/meups-news.json", description: "Portal brasileiro focado em PlayStation." },
-    { id: "steam", label: "Steam", type: "steam", url: "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=440&count=5", description: "Atualizações oficiais de grandes títulos na Steam." },
+    { id: "steam", label: "Steam", type: "steam", url: "/data/steam-news.json", description: "Atualizações oficiais de grandes títulos na Steam (via Sync)." },
   ];
 
   useEffect(() => {
     const fetchPatchNotes = async () => {
       try {
         setIsLoading(true);
+        setError(null);
         const source = sources.find(s => s.id === activeSource) || sources[0];
         
         const response = await fetch(source.url);
-        if (!response.ok) throw new Error("Fonte em sincronização ou indisponível");
+        if (response.status === 404) {
+          throw new Error("Sincronizando fonte pela primeira vez... Tente em alguns minutos.");
+        }
+        if (!response.ok) throw new Error("Fonte temporariamente indisponível");
         const data = await response.json();
         
         let mappedPosts: Post[] = [];
