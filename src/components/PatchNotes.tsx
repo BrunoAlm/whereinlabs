@@ -19,7 +19,8 @@ export const PatchNotes = () => {
   const DATA_BASE_URL = "https://raw.githubusercontent.com/BrunoAlm/whereinlabs/main/public/data";
 
   const sources = [
-    { id: "all", label: "Geral", type: "internal", url: "https://api.whereingames.com/v1/content/posts?limit=12", description: "Todas as atualizações e logs do sistema WhereinLabs." },
+    { id: "all", label: "Geral", type: "internal", url: "https://api.whereingames.com/v1/content/posts?limit=12", description: "Agregador central: O melhor de todas as fontes em um único feed." },
+    { id: "wherein", label: "WhereinLabs", type: "internal", url: "https://api.whereingames.com/v1/content/posts?limit=25", description: "Registros oficiais, logs de sistema e atualizações do ecossistema WhereinLabs." },
     { id: "community", label: "Reddit", type: "reddit", url: "https://www.reddit.com/r/Games/hot.json?limit=15", description: "Discussões e notícias quentes da comunidade r/Games." },
     { id: "ign", label: "IGN", type: "rss-local", url: `${DATA_BASE_URL}/ign-news.json`, description: "Últimas notícias globais via IGN." },
     { id: "eurogamer", label: "Eurogamer", type: "rss-local", url: `${DATA_BASE_URL}/eurogamer-news.json`, description: "Análises e notícias da Eurogamer." },
@@ -47,11 +48,13 @@ export const PatchNotes = () => {
 
         if (source.id === "all") {
           // ABA GERAL: Agrega API interna + feeds locais se disponíveis
-          const [internalRes, redditRes, ignRes, steamRes] = await Promise.allSettled([
-            fetch(sources.find(s => s.id === "all")!.url),
+          const [internalRes, redditRes, ignRes, steamRes, eurogamerRes, meupsRes] = await Promise.allSettled([
+            fetch(sources.find(s => s.id === "wherein")!.url),
             fetch("https://www.reddit.com/r/Games/hot.json?limit=8"),
             fetch(`${DATA_BASE_URL}/ign-news.json?t=${timestamp}`),
-            fetch(`${DATA_BASE_URL}/steam-news.json?t=${timestamp}`)
+            fetch(`${DATA_BASE_URL}/steam-news.json?t=${timestamp}`),
+            fetch(`${DATA_BASE_URL}/eurogamer-news.json?t=${timestamp}`),
+            fetch(`${DATA_BASE_URL}/meups-news.json?t=${timestamp}`)
           ]);
 
           if (internalRes.status === "fulfilled" && internalRes.value.ok) {
@@ -60,17 +63,17 @@ export const PatchNotes = () => {
           }
 
           if (redditRes.status === "fulfilled" && redditRes.value.ok) {
-               const data = await redditRes.value.json();
-               const redditItems = data.data.children.map((child: any) => ({
-                 id: `reddit-${child.data.id}`,
-                 title: `[Reddit] ${child.data.title}`,
-                 summary: child.data.selftext?.substring(0, 120) || "Discussão na r/Games",
-                 content_markdown: child.data.selftext || child.data.url,
-                 category: "COMMUNITY",
-                 published_at: new Date(child.data.created_utc * 1000).toISOString(),
-                 game: { id: "reddit", name: "r/Games", slug: "reddit" }
-               }));
-               mappedPosts = [...mappedPosts, ...redditItems];
+            const data = await redditRes.value.json();
+            const redditItems = data.data.children.map((child: any) => ({
+              id: `reddit-${child.data.id}`,
+              title: `[Reddit] ${child.data.title}`,
+              summary: child.data.selftext?.substring(0, 120) || "Discussão na r/Games",
+              content_markdown: child.data.selftext || child.data.url,
+              category: "COMMUNITY",
+              published_at: new Date(child.data.created_utc * 1000).toISOString(),
+              game: { id: "reddit", name: "r/Games", slug: "reddit" }
+            }));
+            mappedPosts = [...mappedPosts, ...redditItems];
           }
 
           if (ignRes.status === "fulfilled" && ignRes.value.ok) {
@@ -102,11 +105,47 @@ export const PatchNotes = () => {
               mappedPosts = [...mappedPosts, ...steamItems];
             }
           }
+
+          if (eurogamerRes.status === "fulfilled" && eurogamerRes.value.ok) {
+            const data = await eurogamerRes.value.json();
+            if (data.items && data.items.length > 0) {
+              const eurogamerItems = data.items.slice(0, 3).map((item: any) => ({
+                id: `eurogamer-${item.id || item.link}`,
+                title: `[Eurogamer] ${item.title}`,
+                summary: item.description?.substring(0, 120).replace(/<[^>]*>?/gm, ''),
+                category: "NEWS",
+                published_at: item.published || item.date || new Date().toISOString(),
+                game: { id: "eurogamer", name: "Eurogamer", slug: "eurogamer" }
+              }));
+              mappedPosts = [...mappedPosts, ...eurogamerItems];
+            }
+          }
+
+          if (meupsRes.status === "fulfilled" && meupsRes.value.ok) {
+            const data = await meupsRes.value.json();
+            if (data.items && data.items.length > 0) {
+              const meupsItems = data.items.slice(0, 3).map((item: any) => ({
+                id: `meups-${item.id || item.link}`,
+                title: `[MeuPS] ${item.title}`,
+                summary: item.description?.substring(0, 120).replace(/<[^>]*>?/gm, ''),
+                category: "NEWS",
+                published_at: item.published || item.date || new Date().toISOString(),
+                game: { id: "meups", name: "MeuPS", slug: "meups" }
+              }));
+              mappedPosts = [...mappedPosts, ...meupsItems];
+            }
+          }
           
           // Ordenar por data
           mappedPosts.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
+        } else if (source.id === "wherein") {
+          // ABA EXCLUSIVA WHEREINLABS
+          const response = await fetch(source.url);
+          if (!response.ok) throw new Error("Servidor central WhereinLabs temporariamente ocupado.");
+          const data = await response.json();
+          mappedPosts = data.posts || [];
         } else {
-          // OUTRAS ABAS (IGN, Eurogamer, MeuPS, Steam)
+          // OUTRAS ABAS (IGN, Eurogamer, MeuPS, Steam, Reddit)
           const fetchUrl = source.type === "rss-local" || source.id === "steam" 
             ? `${source.url}?t=${timestamp}` 
             : source.url;
