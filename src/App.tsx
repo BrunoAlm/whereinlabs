@@ -24,9 +24,32 @@ type Route = "home" | "about" | "products" | "news" | "terms" | "privacy" | "con
 export default function App() {
   const [currentRoute, setCurrentRoute] = useState<Route>("home");
 
+  // Sync route state with URL hash for static hosting compatibility (GitHub Pages)
+  useEffect(() => {
+    const handleHashChange = () => {
+      const hash = window.location.hash.replace("#", "") as Route;
+      const validRoutes: Route[] = ["home", "about", "products", "news", "terms", "privacy", "contact"];
+      if (validRoutes.includes(hash)) {
+        setCurrentRoute(hash);
+      } else if (!hash) {
+        setCurrentRoute("home");
+      }
+    };
+
+    window.addEventListener("hashchange", handleHashChange);
+    handleHashChange(); // Initial check
+
+    return () => window.removeEventListener("hashchange", handleHashChange);
+  }, []);
+
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [currentRoute]);
+
+  const setRoute = (route: Route) => {
+    window.location.hash = route;
+    setCurrentRoute(route);
+  };
 
   const navItems = [
     { id: "home", label: "Home" },
@@ -44,7 +67,7 @@ export default function App() {
       case "terms": return <TermsView />;
       case "privacy": return <PrivacyView />;
       case "contact": return <ContactView />;
-      default: return <HomeView setRoute={setCurrentRoute} />;
+      default: return <HomeView setRoute={setRoute} />;
     }
   };
 
@@ -58,7 +81,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto h-full px-10 flex items-center justify-between">
           <div 
             className="flex items-center gap-3 cursor-pointer group"
-            onClick={() => setCurrentRoute("home")}
+            onClick={() => setRoute("home")}
           >
             <div className="w-10 h-10 flex items-center justify-center transition-transform duration-500 group-hover:scale-110">
               <img src={`${import.meta.env.BASE_URL}logo.png`} alt="WhereinLabs Logo" className="w-full h-full object-contain" />
@@ -70,7 +93,7 @@ export default function App() {
             {navItems.map((item) => (
               <button 
                 key={item.id}
-                onClick={() => setCurrentRoute(item.id as Route)}
+                onClick={() => setRoute(item.id as Route)}
                 className={`text-[11px] font-black uppercase tracking-[0.3em] transition-all relative py-2 ${currentRoute === item.id ? "text-wig-gold" : "text-wig-text-secondary hover:text-white"}`}
               >
                 {item.label}
@@ -86,7 +109,7 @@ export default function App() {
                 <span className="text-[10px] font-black text-wig-text-muted tracking-widest uppercase">Brand ID // v.2.0</span>
                 <span className="text-[10px] font-black text-wig-gold/60 tracking-widest uppercase">System_Active</span>
              </div>
-             <WigButton variant="secondary" size="md" onClick={() => setCurrentRoute("contact")}>
+             <WigButton variant="secondary" size="md" onClick={() => setRoute("contact")}>
                Contato
              </WigButton>
           </div>
@@ -122,7 +145,7 @@ export default function App() {
             </p>
             <div className="flex justify-center lg:justify-start gap-6">
               {navItems.map(item => (
-                <button key={item.id} onClick={() => setCurrentRoute(item.id as Route)} className="text-[10px] font-black uppercase tracking-[0.2em] text-wig-text-muted hover:text-wig-gold transition-colors">
+                <button key={item.id} onClick={() => setRoute(item.id as Route)} className="text-[10px] font-black uppercase tracking-[0.2em] text-wig-text-muted hover:text-wig-gold transition-colors">
                   {item.label}
                 </button>
               ))}
@@ -132,16 +155,16 @@ export default function App() {
              <div>
                 <h5 className="text-[11px] font-black uppercase tracking-[0.4em] text-wig-gold mb-8 opacity-60">// Institucional</h5>
                 <ul className="space-y-4">
-                  <li><button onClick={() => setCurrentRoute("about")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Sobre a Marca</button></li>
-                  <li><button onClick={() => setCurrentRoute("products")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Nossos Produtos</button></li>
-                  <li><button onClick={() => setCurrentRoute("contact")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Suporte e Parcerias</button></li>
+                  <li><button onClick={() => setRoute("about")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Sobre a Marca</button></li>
+                  <li><button onClick={() => setRoute("products")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Nossos Produtos</button></li>
+                  <li><button onClick={() => setRoute("contact")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Suporte e Parcerias</button></li>
                 </ul>
              </div>
              <div>
                 <h5 className="text-[11px] font-black uppercase tracking-[0.4em] text-wig-gold mb-8 opacity-60">// Legal</h5>
                 <ul className="space-y-4">
-                  <li><button onClick={() => setCurrentRoute("terms")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Diretrizes de Uso</button></li>
-                  <li><button onClick={() => setCurrentRoute("privacy")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Dados e Privacidade</button></li>
+                  <li><button onClick={() => setRoute("terms")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Diretrizes de Uso</button></li>
+                  <li><button onClick={() => setRoute("privacy")} className="text-sm text-wig-text-secondary hover:text-white transition-all hover:translate-x-1">Dados e Privacidade</button></li>
                   <li className="pt-4"><span className="text-[10px] font-bold text-wig-text-muted tracking-[0.1em]">© 2026 WHEREINLABS. ALL RIGHTS RESERVED.</span></li>
                 </ul>
              </div>
