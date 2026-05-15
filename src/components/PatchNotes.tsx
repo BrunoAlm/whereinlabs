@@ -43,9 +43,10 @@ export const PatchNotes = () => {
 
         if (source.id === "all") {
           // ABA GERAL: Agrega API interna + feeds locais se disponíveis
-          const [internalRes, redditRes] = await Promise.allSettled([
+          const [internalRes, redditRes, ignRes] = await Promise.allSettled([
             fetch(sources.find(s => s.id === "all")!.url),
-            fetch("https://www.reddit.com/r/Games/hot.json?limit=5")
+            fetch("https://www.reddit.com/r/Games/hot.json?limit=8"),
+            fetch("/data/ign-news.json")
           ]);
 
           if (internalRes.status === "fulfilled" && internalRes.value.ok) {
@@ -66,6 +67,21 @@ export const PatchNotes = () => {
                }));
                mappedPosts = [...mappedPosts, ...redditItems];
           }
+
+          if (ignRes.status === "fulfilled" && ignRes.value.ok) {
+            const data = await ignRes.value.json();
+            if (data.items && data.items.length > 0) {
+              const ignItems = data.items.slice(0, 5).map((item: any) => ({
+                id: `ign-${item.id || item.link}`,
+                title: `[IGN] ${item.title}`,
+                summary: item.description?.substring(0, 120).replace(/<[^>]*>?/gm, ''),
+                category: "NEWS",
+                published_at: item.published || item.date || new Date().toISOString(),
+                game: { id: "ign", name: "IGN", slug: "ign" }
+              }));
+              mappedPosts = [...mappedPosts, ...ignItems];
+            }
+          }
           
           // Ordenar por data
           mappedPosts.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
@@ -79,6 +95,11 @@ export const PatchNotes = () => {
           }
           
           const data = await response.json();
+
+          // Se a API retornou o arquivo de fallback "syncing"
+          if (data.status === "syncing" || (data.items && data.items.length === 0 && source.type === "rss-local")) {
+            throw new Error(`Aguardando primeira sincronização do bot para ${source.label}... Abra o console do GitHub para ver o status.`);
+          }
 
           if (source.type === "reddit") {
             mappedPosts = data.data.children.map((child: any) => ({
@@ -349,9 +370,9 @@ export const PatchNotes = () => {
         </motion.div>
       ))}
 
-      {posts.length === 0 && (
+      {posts.length === 0 && !error && (
         <div className="text-center py-20 opacity-30 italic">
-          Nenhum registro encontrado no servidor central.
+          Nenhum registro encontrado para esta fonte no momento.
         </div>
       )}
     </div>
