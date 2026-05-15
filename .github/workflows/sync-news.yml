@@ -23,7 +23,7 @@ jobs:
           mkdir -p public/data
           # Instalamos rss-to-json temporariamente para o script
           npm install rss-to-json
-          node scripts/sync-news.js
+          node scripts/sync-news.cjs
 
       - name: Commit and Push
         run: |
