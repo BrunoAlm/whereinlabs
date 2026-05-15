@@ -24,22 +24,35 @@ type Route = "home" | "about" | "products" | "news" | "terms" | "privacy" | "con
 export default function App() {
   const [currentRoute, setCurrentRoute] = useState<Route>("home");
 
-  // Sync route state with URL hash for static hosting compatibility (GitHub Pages)
+  // Sync route state with URL path for static hosting compatibility (with 404.html fallback)
   useEffect(() => {
-    const handleHashChange = () => {
-      const hash = window.location.hash.replace("#", "") as Route;
+    const handleLocationChange = () => {
+      // Check for redirect from 404.html (SPA logic for GH Pages)
+      const urlParams = new URLSearchParams(window.location.search);
+      const redirectPath = urlParams.get("p");
+      
+      if (redirectPath) {
+        // Construct clean path and clear query param
+        const cleanPath = redirectPath.startsWith("/") ? redirectPath : "/" + redirectPath;
+        window.history.replaceState({}, "", cleanPath);
+        const route = redirectPath.replace(/^\/|\/$/g, "") || "home";
+        setCurrentRoute(route as Route);
+        return;
+      }
+
+      const path = window.location.pathname.replace(/^\/|\/$/g, "") || "home";
       const validRoutes: Route[] = ["home", "about", "products", "news", "terms", "privacy", "contact"];
-      if (validRoutes.includes(hash)) {
-        setCurrentRoute(hash);
-      } else if (!hash) {
+      if (validRoutes.includes(path as Route)) {
+        setCurrentRoute(path as Route);
+      } else {
         setCurrentRoute("home");
       }
     };
 
-    window.addEventListener("hashchange", handleHashChange);
-    handleHashChange(); // Initial check
+    window.addEventListener("popstate", handleLocationChange);
+    handleLocationChange(); // Initial check
 
-    return () => window.removeEventListener("hashchange", handleHashChange);
+    return () => window.removeEventListener("popstate", handleLocationChange);
   }, []);
 
   useEffect(() => {
@@ -47,7 +60,8 @@ export default function App() {
   }, [currentRoute]);
 
   const setRoute = (route: Route) => {
-    window.location.hash = route;
+    const path = route === "home" ? "/" : `/${route}`;
+    window.history.pushState({}, "", path);
     setCurrentRoute(route);
   };
 
