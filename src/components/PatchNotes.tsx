@@ -31,93 +31,99 @@ export const PatchNotes = () => {
         setIsLoading(true);
         setError(null);
         
-        // Fetch status
+        // Fetch status progressivo
         fetch("/data/status.json")
-          .then(r => r.json())
-          .then(setSyncStatus)
+          .then(r => r.ok ? r.json() : null)
+          .then(data => data && setSyncStatus(data))
           .catch(() => {});
 
         const source = sources.find(s => s.id === activeSource) || sources[0];
         
-        const response = await fetch(source.url);
-        if (response.status === 404) {
-          throw new Error("Sincronizando fonte pela primeira vez... Tente em alguns minutos.");
-        }
-        if (!response.ok) throw new Error("Fonte temporariamente indisponível");
-        const data = await response.json();
-        
         let mappedPosts: Post[] = [];
 
-        if (source.type === "reddit") {
-          mappedPosts = data.data.children.map((child: any) => ({
-            id: child.data.id,
-            slug: child.data.id,
-            title: child.data.title,
-            summary: child.data.selftext?.substring(0, 160) || "Discussão no Reddit...",
-            content_markdown: child.data.selftext || `Link original: ${child.data.url}`,
-            cover_image_url: (child.data.thumbnail && child.data.thumbnail.startsWith('http')) ? child.data.thumbnail : "",
-            category: "REDDIT",
-            type: "NEWS",
-            published_at: new Date(child.data.created_utc * 1000).toISOString(),
-            game: { id: "reddit", name: "r/Games", slug: "reddit" }
-          }));
-        } else if (source.type === "rss-local") {
-          // Mapeamento para os dados convertidos via GitHub Actions
-          mappedPosts = data.items?.map((item: any) => ({
-            id: item.id || item.link,
-            slug: item.id || item.link,
-            title: item.title,
-            summary: item.summary || item.description?.substring(0, 160).replace(/<[^>]*>?/gm, ''),
-            content_markdown: item.content || item.description,
-            cover_image_url: item.image || item.enclosures?.[0]?.url || "",
-            category: source.label.toUpperCase(),
-            type: "NEWS",
-            published_at: item.published || item.date || new Date().toISOString(),
-            game: { id: source.id, name: source.label, slug: source.id }
-          })) || [];
-        } else if (source.type === "hn") {
-          mappedPosts = data.hits.map((hit: any) => ({
-            id: hit.objectID,
-            slug: hit.objectID,
-            title: hit.title,
-            summary: `Publicado por ${hit.author} | Pontuação: ${hit.points}`,
-            content_markdown: `Acesse a discussão técnica: ${hit.url || `https://news.ycombinator.com/item?id=${hit.objectID}`}`,
-            category: "TECH",
-            type: "NEWS",
-            published_at: hit.created_at,
-            game: { id: "hn", name: "Hacker News", slug: "hn" }
-          }));
-        } else if (source.type === "steam") {
-          mappedPosts = data.appnews?.newsitems.map((item: any) => ({
-            id: item.gid,
-            slug: item.gid,
-            title: item.title,
-            summary: item.contents.substring(0, 160).replace(/<[^>]*>?/gm, '') + "...",
-            content_markdown: item.contents,
-            category: "STEAM",
-            type: "PATCH_NOTES",
-            published_at: new Date(item.date * 1000).toISOString(),
-            game: { id: "steam", name: "Steam Official", slug: "steam" }
-          })) || [];
-        } else if (source.type === "static") {
-           // Handle the data from GitHub Actions (Reddit fallback or RSS transformed)
-           mappedPosts = data.data?.children?.map((child: any) => ({
-             id: `static-${child.data.id}`,
-             title: child.data.title,
-             summary: child.data.selftext?.substring(0, 160),
-             content_markdown: child.data.selftext,
-             category: "GLOBAL",
-             type: "NEWS",
-             published_at: new Date(child.data.created_utc * 1000).toISOString(),
-             game: { id: "global", name: "Global News", slug: "global" }
-           })) || [];
+        if (source.id === "all") {
+          // ABA GERAL: Agrega API interna + feeds locais se disponíveis
+          const [internalRes, redditRes] = await Promise.allSettled([
+            fetch(sources.find(s => s.id === "all")!.url),
+            fetch("https://www.reddit.com/r/Games/hot.json?limit=5")
+          ]);
+
+          if (internalRes.status === "fulfilled" && internalRes.value.ok) {
+            const data = await internalRes.value.json();
+            mappedPosts = [...(data.posts || [])];
+          }
+
+          if (redditRes.status === "fulfilled" && redditRes.value.ok) {
+               const data = await redditRes.value.json();
+               const redditItems = data.data.children.map((child: any) => ({
+                 id: `reddit-${child.data.id}`,
+                 title: `[Reddit] ${child.data.title}`,
+                 summary: child.data.selftext?.substring(0, 120) || "Discussão na r/Games",
+                 content_markdown: child.data.selftext || child.data.url,
+                 category: "COMMUNITY",
+                 published_at: new Date(child.data.created_utc * 1000).toISOString(),
+                 game: { id: "reddit", name: "r/Games", slug: "reddit" }
+               }));
+               mappedPosts = [...mappedPosts, ...redditItems];
+          }
+          
+          // Ordenar por data
+          mappedPosts.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
         } else {
-          mappedPosts = data.posts || [];
+          // OUTRAS ABAS
+          const response = await fetch(source.url);
+          
+          if (!response.ok) {
+            if (response.status === 404) throw new Error(`O feed ${source.label} está sendo sincronizado. Tente em 1 minuto.`);
+            throw new Error("Fonte temporariamente indisponível");
+          }
+          
+          const data = await response.json();
+
+          if (source.type === "reddit") {
+            mappedPosts = data.data.children.map((child: any) => ({
+              id: child.data.id,
+              slug: child.data.id,
+              title: child.data.title,
+              summary: child.data.selftext?.substring(0, 160) || "Discussão no Reddit...",
+              content_markdown: child.data.selftext || `Link original: ${child.data.url}`,
+              cover_image_url: (child.data.thumbnail && child.data.thumbnail.startsWith('http')) ? child.data.thumbnail : "",
+              category: "REDDIT",
+              type: "NEWS",
+              published_at: new Date(child.data.created_utc * 1000).toISOString(),
+              game: { id: "reddit", name: "r/Games", slug: "reddit" }
+            }));
+          } else if (source.type === "rss-local") {
+            mappedPosts = (data.items || []).map((item: any) => ({
+              id: item.id || item.link,
+              slug: item.id || item.link,
+              title: item.title,
+              summary: item.summary || item.description?.substring(0, 160).replace(/<[^>]*>?/gm, ''),
+              content_markdown: item.content || item.description,
+              cover_image_url: item.image || item.enclosures?.[0]?.url || "",
+              category: source.label.toUpperCase(),
+              type: "NEWS",
+              published_at: item.published || item.date || new Date().toISOString(),
+              game: { id: source.id, name: source.label, slug: source.id }
+            }));
+          } else if (source.type === "steam") {
+            mappedPosts = data.appnews?.newsitems.map((item: any) => ({
+              id: item.gid,
+              slug: item.gid,
+              title: item.title,
+              summary: item.contents.substring(0, 160).replace(/<[^>]*>?/gm, '') + "...",
+              content_markdown: item.contents,
+              category: "STEAM",
+              type: "PATCH_NOTES",
+              published_at: new Date(item.date * 1000).toISOString(),
+              game: { id: "steam", name: "Steam Official", slug: "steam" }
+            })) || [];
+          }
         }
         
         setPosts(mappedPosts);
       } catch (err) {
-        setError(err instanceof Error ? err.message : "Erro crítico de conexão");
+        setError(err instanceof Error ? err.message : "Erro de conexão");
         setPosts([]);
       } finally {
         setIsLoading(false);
