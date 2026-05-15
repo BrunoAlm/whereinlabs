@@ -19,7 +19,7 @@ import { WigProductShowcase } from "./components/WigProductShowcase";
 import { WigBackground } from "./components/WigBackground";
 import { PatchNotes } from "./components/PatchNotes";
 
-type Route = "home" | "about" | "products" | "patch-notes" | "terms" | "privacy" | "contact";
+type Route = "home" | "about" | "products" | "news" | "terms" | "privacy" | "contact";
 
 export default function App() {
   const [currentRoute, setCurrentRoute] = useState<Route>("home");
@@ -31,7 +31,7 @@ export default function App() {
   const navItems = [
     { id: "home", label: "Home" },
     { id: "products", label: "Produtos" },
-    { id: "patch-notes", label: "Patch Notes" },
+    { id: "news", label: "News" },
     { id: "about", label: "Quem Somos" },
   ];
 
@@ -40,7 +40,7 @@ export default function App() {
       case "home": return <HomeView setRoute={setCurrentRoute} />;
       case "about": return <AboutView />;
       case "products": return <ProductsView />;
-      case "patch-notes": return <PatchNotesView />;
+      case "news": return <NewsView />;
       case "terms": return <TermsView />;
       case "privacy": return <PrivacyView />;
       case "contact": return <ContactView />;
@@ -249,12 +249,12 @@ function HomeView({ setRoute }: { setRoute: (r: Route) => void }) {
         </div>
       </section>
 
-      {/* Patch Notes Section */}
+      {/* News Section */}
       <section className="px-6 md:px-10 py-24 md:py-40 border-t border-white/5">
         <div className="max-w-4xl mx-auto">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-8 mb-16">
-            <WigSectionHeader title="Patch Notes" subtitle="WIG_LOG_STREAM" />
-            <WigButton variant="ghost" onClick={() => setRoute("patch-notes")}>
+            <WigSectionHeader title="News" subtitle="WIG_LOG_STREAM" />
+            <WigButton variant="ghost" onClick={() => setRoute("news")}>
               Ver Histórico Completo <ArrowRight size={16} className="ml-3" />
             </WigButton>
           </div>
@@ -363,11 +363,11 @@ function ProductsView() {
   );
 }
 
-function PatchNotesView() {
+function NewsView() {
   return (
     <section className="px-6 md:px-10 py-24 md:py-32 lg:py-48">
       <div className="max-w-4xl mx-auto">
-        <WigSectionHeader title="Log de Atualizações" subtitle="Protocol_History" />
+        <WigSectionHeader title="Novidades & Updates" subtitle="Protocol_History" />
         <PatchNotes />
       </div>
     </section>
