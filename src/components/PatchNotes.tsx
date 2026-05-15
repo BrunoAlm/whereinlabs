@@ -59,7 +59,11 @@ export const PatchNotes = () => {
 
           if (internalRes.status === "fulfilled" && internalRes.value.ok) {
             const data = await internalRes.value.json();
-            mappedPosts = [...(data.posts || [])];
+            const internalItems = (data.posts || []).map((p: any) => ({
+              ...p,
+              title: `[WhereinLabs] ${p.title}`
+            }));
+            mappedPosts = [...internalItems];
           }
 
           if (redditRes.status === "fulfilled" && redditRes.value.ok) {
@@ -342,9 +346,16 @@ export const PatchNotes = () => {
         </div>
         {syncStatus.last_sync && (
           <div className="text-right hidden sm:block">
-            <p className="text-[10px] text-wig-text-muted uppercase tracking-widest mb-1">Last Sync</p>
+            <p className="text-[10px] text-wig-text-muted uppercase tracking-widest mb-1">Última Sincronização (Bot)</p>
             <p className="text-[10px] font-mono text-wig-gold/50">
-              {new Date(syncStatus.last_sync).toLocaleString("pt-BR")}
+              {new Date(syncStatus.last_sync).toLocaleString("pt-BR", {
+                day: '2-digit',
+                month: '2-digit',
+                year: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit'
+              })}
             </p>
           </div>
         )}
