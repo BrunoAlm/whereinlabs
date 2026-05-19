@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1832700592801709",
+        "title": "PUBG Global Series 4 Group Stage",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801709",
+        "is_external_url": true,
+        "author": "JBowlerr",
+        "contents": "[p]Hello, PUBG Esports fans![/p][p align=\"start\"]As PGS Circuit 2 approaches, the 12 Global Partner Teams and 12 PGS invited teams return to Seoul for the next chapter of PUBG Esports competition. The PUBG Global Series continues with Circuit 2, featuring PGS 4–6 beginning on May 20.[/p][p align=\"start\"]With EWC qualification on the line, every PGS Point becomes even more valuable as teams battle to climb the overall standings. A new patch also enters the equation for Circuit 2, bringing shifts to the competitive landscape and forcing teams to adapt quickly. The strategies that found success in Circuit 1 will now be tested in an entirely different meta.[/p][p align=\"start\"] [/p][p align=\"start\"][b]PGS Circuit 2 Schedule[/b][/p][table equalcells=\"1\" colwidth=\",,\"][tr][td rowspan=\"4\"][p][b]PGS 4[/b][/p][/td][td][p][b]May 20[/b][/p][/td][td][p][b]Group Stage[/b][/p][/td][/tr][tr][td][p][b]May 21[/b][/p][/td][td][p][b]Winners Stage[/b][/p][/td][/tr][tr][td][p][b]May 22[/b][/p][/td][td][p][b]Survival Stage [/b][/p][/td][/tr][tr][td][p][b]May 23-24[/b][/p][/td][td][p][b]Finals Stage 1 & 2[/b][/p][/td][/tr][tr][td rowspan=\"3\"][p][b]PGS 5[/b][/p][/td][td][p][b]May 28[/b][/p][/td][td][p][b]Winners Stage [/b][/p][/td][/tr][tr][td][p][b]May 29 [/b][/p][/td][td][p][b]Survival Stage[/b][/p][/td][/tr][tr][td][p][b]May 30-31[/b][/p][/td][td][p][b]Finals Stage 1 & 2[/b][/p][/td][/tr][tr][td rowspan=\"2\"][p][b]PGS 6[/b][/p][/td][td][p][b]June 4[/b][/p][/td][td][p][b]Survival Stage [/b][/p][/td][/tr][tr][td][p][b]June 5-7[/b][/p][/td][td][p][b]Grand Finals Day 1-3[/b][/p][/td][/tr][/table][p align=\"start\"]All Circuit 2 matches begin at 19:00 KST (10:00 UTC / 11:00 CET / 17:00 ICT / 03:00 PDT) daily. \n[i]*PGS 4 Group Stage begins at 14:00 KST (05:00 UTC / 06:00 CET / 12:00 ICT / 22:00 PDT).[/i]\n[/p][p align=\"start\"][b]Talent Lineup [/b]\nPUBG Global Series Circuit 2 kicks off with a stacked talent lineup ready to bring every moment of the event to life. From the opening drop to the final circle, the broadcast team will guide fans through all the action as the road to the Esports World Cup continues in Seoul.[/p][p][/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260519/97hxhiHY.png\"][/img][/p][h3][b]Where To Watch[/b][/h3][p align=\"start\"]Official English Language Broadcast: [u][url=\"https://www.twitch.tv/pubg_battlegrounds\"]Twitch[/url][/u], [u][url=\"https://www.youtube.com/@PUBGEsports/streams\"]YouTube[/url][/u], [u][url=\"https://kick.com/pubg-battlegrounds\"]Kick[/url][/u][/p][p align=\"start\"]Official Turkish Language Broadcast: [u][url=\"https://www.twitch.tv/pubg_battlegroundstr\"]Twitch[/url][/u], [u][url=\"https://www.youtube.com/@PUBG_TR/streams\"]YouTube[/url][/u], [u][url=\"https://kick.com/pubg_battlegroundstr\"]Kick[/url][/u][/p][p align=\"start\"]Official Brazilian/ Portuguese Language Broadcast: [u][url=\"https://www.twitch.tv/pubg_br\"]Twitch[/url][/u], [u][url=\"https://www.youtube.com/@PUBG_brasil\"]YouTube[/url][/u][/p][p align=\"start\"][/p][p align=\"start\"]Official Watch Party partners:[/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260519/I7k7izSc.png\"][/img][/p][p][/p][p align=\"start\"]See you on the Battlegrounds![/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1779216532,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1832700592801290",
+        "title": "I'm not sure who the PUBG x Payday collab is for, or why it exists",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832700592801290",
+        "is_external_url": true,
+        "author": "editor@pcgamesn.com",
+        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/pubg-payday-op-900x506.jpg\"/><p>Match quality has been on the PUBG devs' minds of late. The team said that adding a map selection would have its drawbacks: longer wait times, more bots. But it's a feature that it believes will propel the battle royale game forward, and that's why it's going ahead with it.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/pubg/pubg-x-payday-collab\">I'm not sure who the PUBG x Payday collab is for, or why it exists</a></p>",
+        "feedlabel": "PCGamesN",
+        "date": 1779202733,
+        "feedname": "PCGamesN",
+        "feed_type": 0,
+        "appid": 578080
+      },
+      {
         "gid": "1832700592799760",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760",
@@ -84,32 +110,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2091dbf772de51925d172c73609c3ab10b9c766f.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10043\"]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1778655612,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1832700592785504",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/04~05/10)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785504",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10079]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1778655610,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1832700592785358",
-        "title": "New Mode: PAYDAY",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785358",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/444d468ff1ce4d59bc65c2777e9a3fe3f6c60be3.png\"][/img][/p][h2][url=\"https://pubg.com/news/10009\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1778648405,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
