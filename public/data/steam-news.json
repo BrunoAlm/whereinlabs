@@ -2,6 +2,22 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1832700592799760",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760",
+        "is_external_url": true,
+        "author": "Vitaliy",
+        "contents": "[p]\\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage overlay effect.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added weapon_accuracy_stack_boost_limit (default value \"2\") to apply ladder inaccuracy to players boosted by a stack of this many or more players.[/p][/*][*][p]Adjustments to AWP draw to idle animation transition.[/p][/*][*][p]Improved consistency of grenade jump throws and the accuracy of the jump throw preview camera.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted model for window covers to show collision / decals when shot.[/p][/*][*][p]Adjustments to player clipping and grenade clipping around windows, window covers, and vent entrance.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.RegisterCheatCommand[/p][/*][*][p]Added Instance.GetAllPlayerControllers[/p][/*][*][p]Added Instance.OnBeginRoundRestart[/p][/*][*][p]Added Instance.SetRoundRemainingTime[/p][/*][*][p]Added CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerPawn.HasHelmet[/p][/*][*][p]Added CSPlayerPawn.SetHasHelmet[/p][/*][*][p]Added CSPlayerPawn.IsScoped[/p][/*][*][p]Added CSWeaponBase.IsSilencerOn[/p][/*][*][p]Changed the activator for OnPlayerUse to always be the player[/p][/*][*][p]Changed the caller for OnPlayerUse to always be the used entity[/p][/*][*][p]Fixed the value of CSInputs.LOOK_AT_WEAPON[/p][/*][*][p]Fixed a potential crash in exception handling[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1779147368,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1832700592790456",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456",
@@ -332,22 +348,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1085660
-      },
-      {
-        "gid": "1831432155566354",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Bomb explosion radius increased.[/p][/*][*][p]Lighting Adjustments around Vent.[/p][/*][*][p]Disabled player collision on sign and removed lamp by squeaky.[/p][/*][*][p]Reworked e-box on A-site for better visibility.[/p][/*][*][p]Lowered Checkers entrance frame height at B Main.[/p][/*][*][p]Removed AC unit above Sandbags and moved pipes.[/p][/*][*][p]Fixed lack of footstep sounds on top of crates at A-site.[/p][/*][*][p]Fixed hole in world on door in Sun Room.[/p][/*][*][p]Fixed wall bangs on A Main wall.[/p][/*][*][p]Fixed some z-fighting around Garage.[/p][/*][*][p]Adjusted grenade clipping throughout map.[/p][/*][*][p]Adjusted player clipping throughout map.[/p][/*][/list][p]Dust II[/p][list][*][p]Blocked visibility through corner of Mid Box (Xbox).[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Speculative fix for a case where all audio drops out.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed cases where crouch-jumping in confined spaces could cause the player camera to intersect the ceiling.[/p][/*][*][p]Adjusted particle effect sprite opacity for fully occluded flashbangs.[/p][/*][*][p]Improved smoke lighting consistency.[/p][/*][*][p]Minor adjustments to dropped pistol magazine velocity.[/p][/*][*][p]Ambient Occlusion adjustment settings in Environment Blend shader restored.[/p][/*][*][p]Fixed a case where money was subtracted from the wrong player during bot takeover.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1777499165,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1830797770234051",
