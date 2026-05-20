@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1833334318565518",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/11~05/17)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565518",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10106]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1779260457,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1832700592801709",
         "title": "PUBG Global Series 4 Group Stage",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801709",
@@ -100,19 +113,6 @@
         "tags": [
           "vo_marketing_message"
         ]
-      },
-      {
-        "gid": "1832700592785505",
-        "title": "PUBG x Harley-Davidson",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785505",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2091dbf772de51925d172c73609c3ab10b9c766f.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10043\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1778655612,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1832065502820174",
