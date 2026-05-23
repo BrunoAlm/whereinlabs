@@ -2,6 +2,100 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1833334318573106",
+        "title": "Moscow LAN 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573106",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/554111/21cce436d98bdf57cdbe3c4576285a5bccffd9eb.png[/img]\n(Image credit: InstalerUP)\n\nMoscow LAN 2026 signups are open!\n \nThe fourth Moscow LAN will take place August 15-16th, 2026. Registration for teams is [url=https://forms.gle/nbt9hmaZF9HKnRaXA]open[/url] until July 31, 2026. See you there!\n\nImportant Links:\n[list]\n[*][url=https://discord.com/invite/Tzg2j9r]Discord[/url]\n[*][url=https://vk.com/event168419929]VK[/url]\n[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1779498263,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1833334318573109",
+        "title": "Moscow LAN 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1833334318573109",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://discord.com/invite/Tzg2j9r\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/271659/moscow_lan26_small.png?t=1496190994\"></a>\n(Image credit: InstalerUP)<br><br>\n\n<p>Moscow LAN 2026 signups are open!</p><br>\n \n<p>The fourth Moscow LAN will take place August 15-16th, 2026. Registration for teams is <a href=\"https://forms.gle/nbt9hmaZF9HKnRaXA\" target=\"_blank\">open</a> until July 31, 2026. See you there!</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://discord.com/invite/Tzg2j9r\" target=\"_blank\">Discord</a>\n<li><a href=\"https://vk.com/event168419929\" target=\"_blank\">VK</a>\n</ul>\n</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1779498060,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1833334318572973",
+        "title": "Shock, tears, and relief: How Destiny 2's most popular creators reacted to the end of the legendary shooter",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318572973",
+        "is_external_url": true,
+        "author": "Tyler Wilde",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/oQHLqWvr6d4DZRg47CUcpF-1280-80.jpg\"/><br><br>\n                There were certainly signs that Destiny 2's best days were behind it, but <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\">this week's announcement</a> that the shooter will no longer receive content updates still came as a shock...\n                <a href=\"https://www.pcgamer.com/games/fps/shock-tears-and-relief-how-destiny-2s-most-popular-creators-reacted-to-the-end-of-the-legendary-shooter/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1779490619,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
+        "gid": "1833334318572911",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572911",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n[list]\n[*]Fixed crash related to KeyValues\n[*]Fixed Mk.II Botkiller eyes not glowing in the dark (community fix from Whurrhurr)\n[*]Fixed Halloween spell attribute text being grayed out during full moons (community fix from FrozenDragon)\n[*]Fixed attachments on dropped weapons having broken textures for certain war paints and skins (community fix from Piogre)\n[*]Fixed automatic \"Control Point Lost\" lines not playing (community fix from robbilookatme)\n[*]Fixed spacing issues for item descriptions (community fix from DiskIntegrity)\n[*]Fixed many cases where Spy disguises were broken (community fix from Sean McGeehan)\n[*]Fixed The Fancy Spellbook's large backpack icon not matching the small version\n[*]Updated VScript to allow set damage for force calc (community fix from doclic)\n[*]Updated the Snow Merc to count as an assister in the death notice\n[*]Updated the prop for Taunt: Dead Mann's Drink to fix a problem with LODs\n[*]Updated the Die Regime-Panzerung to add a 'No Bullets' style\n[*]Updated/Added some tournament medals\n[*]Updated the Mann of the Hour[list]\n[*]Restored missing rim mask\n[*]Made shapekeys for a few problematic face flexes\n[*]Replaced incorrect normal map\n[*]Altered hair mesh to ensure compatibility with Voodoo-Cursed Scout Soul\n[*]Updated backpack icon to represent above changes[/list]\n[*]Updated koth_demolition[list]\n[*]Fixed some lighting issues with the pipes next to the control point\n[*]Replaced some textures in the radio rooms\n[*]Added a clipbrush on the radio rooms to avoid players getting stuck when going in the air (thanks Big Wiggy)\n[*]Reworked the nobuild on the crane platform to allow Engineers to build on the concrete area (thanks Uncle Dane)\n[*]Fixed a leftover prop being inside a wall\n[*]Fixed a texture in the jumppad using the wrong cubemap\n[*]Made the catwalk behind the office building a bit bigger\n[*]Added a clipbrush to the pipes on the furnace rooms so players can climb up to the barrels[/list]\n[*]Updated plr_hacksaw and plr_hacksaw_event[list]\n[*]Removed attic balconies overlooking the capture zone\n[*]Moved a small pickup location into the attic\n[*]Fixed clipping errors[/list]\n[*]Updated cp_process_final[list]\n[*]Fixed various collision issues across the map[list]\n[*]Most of these involved changing existing collision from player_clip to bullet_block to prevent splash damage from getting caught on small pieces of level geometry \n[*]Some of these involved closing off open areas where explosions could vanish\n[*]Some of these involved making collision areas more clear by including new geometry to better indicate what would collide and what wouldn't[/list]\n[*]Increased skybox height across the map to be consistent with other 5CP maps\n[*]Changed the small prop pipes at last to be nonsolid, but still block stickies[list]\n[*]Players should be able to cleanly walk and jump along these pipes without getting stuck\n[*]Additionally, rockets and other explosions should collide cleanly through the pipes so they don't block splash damage\n[*]Stickies will adhere to the pipes as expected, rather than clipping through and being hidden by the pipe model[/list]\n[*]Changed the level geometry around the large pipes on the ground near the last control point. They are now enclosed in glass and have a layer of bullet block so that collision is correct.\n[*]Increased the height of numerous doors across the entire map. Players should be able to jump normally through the door without hitting their heads. \n[*]Removed some rocks near the angled ramp at 2nd and replaced them with crates\n[*]Added angled player clipping underneath some of the large awnings at middle to prevent players from getting stuck under the awnings \n[*]Made exterior fences more consistent with the bounding of the level\n[*]Changed some metal textures to better match the mirrored symmetry of the level\n[*]Added some additional detail behind the starting spawn room\n[*]Cleaned up the displacements in the middle and second to better handle splash damage, and reduced the amount of grass poking through concrete\n[*]Replaced some small pipes at the 2nd spire to make a more consistent platform\n[*]Made many existing light props nonsolid to prevent movement issues[list]\n[*]Most were already nonsolid, but this should make most props consistent[/list][/list]\n[*]Updated cp_metalworks[list]\n[*]Fixed various collision issues across the map[list]\n[*]Most of these involved changing existing collision from player_clip to bullet_block to prevent splash damage from getting caught on small pieces of level geometry[/list]\n[*]Changed the level geometry at last to have more consistent collision[list]\n[*]While there are small gaps and holes in the windows/doors of the new bunker and the stack of wood/chickenwire, they are covered with bullet block to prevent collision issues[/list]\n[*]Changed the way shadows work on certain walls throughout the map to prevent shadows leaking through\n[*]Redesigned the second forward spawn for both teams. The spawn has now moved back and into a larger hut structure in the yard before the second control point. \n[*]Increased the door size of the first forward spawn\n[*]The various small door brushes throughout the map have been turned into func_brushes and have had collision turned off so they don't catch splash\n[*]Made adjustments to the truck ramp at middle. The ramp is now a displacement, which should catch splash damage correctly and allow player to walk up to the wall cleanly. \n[*]Changed the collision around the very tall light poles throughout the map. Players should no longer get caught on them while in midair (but they still can't land on top of them). \n[*]Fixed a section of displacement where players could get stuck in the ground\n[*]Slight visual tweaks throughout the level[/list]\n[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1779489023,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1833334318572912",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/271650/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed crash related to KeyValues<br><li>Fixed Mk.II Botkiller eyes not glowing in the dark (community fix from Whurrhurr)<br><li>Fixed Halloween spell attribute text being grayed out during full moons (community fix from FrozenDragon)<br><li>Fixed attachments on dropped weapons having broken textures for certain war paints and skins (community fix from Piogre)<br><li>Fixed automatic \"Control Point Lost\" lines not playing (community fix from robbilookatme)<br><li>Fixed spacing issues for item descriptions (community fix from DiskIntegrity)<br><li>Fixed many cases where Spy disguises were broken (community fix from Sean McGeehan)<br><li>Fixed The Fancy Spellbook's large backpack icon not matching the small version<br><li>Updated VScript to allow set damage for force calc (community fix from doclic)<br><li>Updated the Snow Merc to count as an assister in the death notice<br><li>Updated the prop for Taunt: Dead Mann's Drink to fix a problem with LODs<br><li>Updated the Die Regime-Panzerung to add a 'No Bullets' style<br><li>Updated/Added some tournament medals<br><li>Updated the Mann of the Hour<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Restored missing rim mask<br><li>Made shapekeys for a few problematic face flexes<br><li>Replaced incorrect normal map<br><li>Altered hair mesh to ensure compatibility with Voodoo-Cursed Scout Soul<br><li>Updated backpack icon to represent above changes</ul><li>Updated koth_demolition<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed some lighting issues with the pipes next to the control point<br><li>Replaced some textures in the radio rooms<br><li>Added a clipbrush on the radio rooms to avoid players getting stuck when going in the air (thanks Big Wiggy)<br><li>Reworked the nobuild on the crane platform to allow Engineers to build on the concrete area (thanks Uncle Dane)<br><li>Fixed a leftover prop being inside a wall<br><li>Fixed a texture in the jumppad using the wrong cubemap<br><li>Made the catwalk behind the office building a bit bigger<br><li>Added a clipbrush to the pipes on the furnace rooms so players can climb up to the barrels</ul><li>Updated plr_hacksaw and plr_hacksaw_event<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Removed attic balconies overlooking the capture zone<br><li>Moved a small pickup location into the attic<br><li>Fixed clipping errors</ul><li>Updated cp_process_final<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed various collision issues across the map<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Most of these involved changing existing collision from player_clip to bullet_block to prevent splash damage from getting caught on small pieces of level geometry <br><li>Some of these involved closing off open areas where explosions could vanish<br><li>Some of these involved making collision areas more clear by including new geometry to better indicate what would collide and what wouldn't</ul><li>Increased skybox height across the map to be consistent with other 5CP maps<br><li>Changed the small prop pipes at last to be nonsolid, but still block stickies<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Players should be able to cleanly walk and jump along these pipes without getting stuck<br><li>Additionally, rockets and other explosions should collide cleanly through the pipes so they don't block splash damage<br><li>Stickies will adhere to the pipes as expected, rather than clipping through and being hidden by the pipe model</ul><li>Changed the level geometry around the large pipes on the ground near the last control point. They are now enclosed in glass and have a layer of bullet block so that collision is correct.<br><li>Increased the height of numerous doors across the entire map. Players should be able to jump normally through the door without hitting their heads. <br><li>Removed some rocks near the angled ramp at 2nd and replaced them with crates<br><li>Added angled player clipping underneath some of the large awnings at middle to prevent players from getting stuck under the awnings <br><li>Made exterior fences more consistent with the bounding of the level<br><li>Changed some metal textures to better match the mirrored symmetry of the level<br><li>Added some additional detail behind the starting spawn room<br><li>Cleaned up the displacements in the middle and second to better handle splash damage, and reduced the amount of grass poking through concrete<br><li>Replaced some small pipes at the 2nd spire to make a more consistent platform<br><li>Made many existing light props nonsolid to prevent movement issues<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Most were already nonsolid, but this should make most props consistent</ul></ul><li>Updated cp_metalworks<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed various collision issues across the map<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Most of these involved changing existing collision from player_clip to bullet_block to prevent splash damage from getting caught on small pieces of level geometry</ul><li>Changed the level geometry at last to have more consistent collision<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>While there are small gaps and holes in the windows/doors of the new bunker and the stack of wood/chickenwire, they are covered with bullet block to prevent collision issues</ul><li>Changed the way shadows work on certain walls throughout the map to prevent shadows leaking through<br><li>Redesigned the second forward spawn for both teams. The spawn has now moved back and into a larger hut structure in the yard before the second control point. <br><li>Increased the door size of the first forward spawn<br><li>The various small door brushes throughout the map have been turned into func_brushes and have had collision turned off so they don't catch splash<br><li>Made adjustments to the truck ramp at middle. The ramp is now a displacement, which should catch splash damage correctly and allow player to walk up to the wall cleanly. <br><li>Changed the collision around the very tall light poles throughout the map. Players should no longer get caught on them while in midair (but they still can't land on top of them). <br><li>Fixed a section of displacement where players could get stuck in the ground<br><li>Slight visual tweaks throughout the level</ul></ul>",
+        "feedlabel": "Product Update",
+        "date": 1779488940,
+        "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1833334318572915",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1833334318572915",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Fixed crash related to KeyValues\n<li>Fixed Mk.II Botkiller eyes not glowing in the dark (community fix from Whurrhurr)\n<li>Fixed Halloween spell attribute text being grayed out during full moons (community fix from FrozenDragon)\n<li>Fixed attachments on dropped weapons having broken textures for certain war paints and skins (community fix from Piogre)\n<li>Fixed automatic \"Control Point Lost\" lines not playing (community fix from robbilookatme)\n<li>Fixed spacing issues for item descriptions (community fix from DiskIntegrity)\n<li>Fixed many cases where Spy disguises were broken (community fix from Sean McGeehan)\n<li>Fixed The Fancy Spellbook's large backpack icon not matching the small version\n<li>Updated VScript to allow set damage for force calc (community fix from doclic)\n<li>Updated the Snow Merc to count as an assister in the death notice\n<li>Updated the prop for Taunt: Dead Mann's Drink to fix a problem with LODs\n<li>Updated the Die Regime-Panzerung to add a 'No Bullets' style\n<li>Updated/Added some tournament medals\n<li>Updated the Mann of the Hour<ul>\n<li>Restored missing rim mask\n<li>Made shapekeys for a few problematic face flexes\n<li>Replaced incorrect normal map\n<li>Altered hair mesh to ensure compatibility with Voodoo-Cursed Scout Soul\n<li>Updated backpack icon to represent above changes</ul>\n<li>Updated koth_demolition<ul>\n<li>Fixed some lighting issues with the pipes next to the control point\n<li>Replaced some textures in the radio rooms\n<li>Added a clipbrush on the radio rooms to avoid players getting stuck when going in the air (thanks Big Wiggy)\n<li>Reworked the nobuild on the crane platform to allow Engineers to build on the concrete area (thanks Uncle Dane)\n<li>Fixed a leftover prop being inside a wall\n<li>Fixed a texture in the jumppad using the wrong cubemap\n<li>Made the catwalk behind the office building a bit bigger\n<li>Added a clipbrush to the pipes on the furnace rooms so players can climb up to the barrels</ul>\n<li>Updated plr_hacksaw and plr_hacksaw_event<ul>\n<li>Removed attic balconies overlooking the capture zone\n<li>Moved a small pickup location into the attic\n<li>Fixed clipping errors</ul>\n<li>Updated cp_process_final<ul>\n<li>Fixed various collision issues across the map<ul>\n<li>Most of these involved changing existing collision from player_clip to bullet_block to prevent splash damage from getting caught on small pieces of level geometry \n<li>Some of these involved closing off open areas where explosions could vanish\n<li>Some of these involved making collision areas more clear by including new geometry to better indicate what would collide and what wouldn't</ul>\n<li>Increased skybox height across the map to be consistent with other 5CP maps\n<li>Changed the small prop pipes at last to be nonsolid, but still block stickies<ul>\n<li>Players should be able to cleanly walk and jump along these pipes without getting stuck\n<li>Additionally, rockets and other explosions should collide cleanly through the pipes so they don't block splash damage\n<li>Stickies will adhere to the pipes as expected, rather than clipping through and being hidden by the pipe model</ul>\n<li>Changed the level geometry around the large pipes on the ground near the last control point. They are now enclosed in glass and have a layer of bullet block so that collision is correct.\n<li>Increased the height of numerous doors across the entire map. Players should be able to jump normally through the door without hitting their heads. \n<li>Removed some rocks near the angled ramp at 2nd and replaced them with crates\n<li>Added angled player clipping underneath some of the large awnings at middle to prevent players from getting stuck under the awnings \n<li>Made exterior fences more consistent with the bounding of the level\n<li>Changed some metal textures to better match the mirrored symmetry of the level\n<li>Added some additional detail behind the starting spawn room\n<li>Cleaned up the displacements in the middle and second to better handle splash damage, and reduced the amount of grass poking through concrete\n<li>Replaced some small pipes at the 2nd spire to make a more consistent platform\n<li>Made many existing light props nonsolid to prevent movement issues<ul>\n<li>Most were already nonsolid, but this should make most props consistent</ul></ul>\n<li>Updated cp_metalworks<ul>\n<li>Fixed various collision issues across the map<ul>\n<li>Most of these involved changing existing collision from player_clip to bullet_block to prevent splash damage from getting caught on small pieces of level geometry</ul>\n<li>Changed the level geometry at last to have more consistent collision<ul>\n<li>While there are small gaps and holes in the windows/doors of the new bunker and the stack of wood/chickenwire, they are covered with bullet block to prevent collision issues</ul>\n<li>Changed the way shadows work on certain walls throughout the map to prevent shadows leaking through\n<li>Redesigned the second forward spawn for both teams. The spawn has now moved back and into a larger hut structure in the yard before the second control point. \n<li>Increased the door size of the first forward spawn\n<li>The various small door brushes throughout the map have been turned into func_brushes and have had collision turned off so they don't catch splash\n<li>Made adjustments to the truck ramp at middle. The ramp is now a displacement, which should catch splash damage correctly and allow player to walk up to the wall cleanly. \n<li>Changed the collision around the very tall light poles throughout the map. Players should no longer get caught on them while in midair (but they still can't land on top of them). \n<li>Fixed a section of displacement where players could get stuck in the ground\n<li>Slight visual tweaks throughout the level</ul>\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1779488940,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1833334318572845",
+        "title": "Former Bungie dev says 'you'd be surprised how many times' expansions were pitched for a fan-favorite Destiny archvillain who's now left hanging",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318572845",
+        "is_external_url": true,
+        "author": "Lincoln Carpenter",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/5js2PNvKXH7h6sKHkjdUHG-1280-80.jpg\"/><br><br>\n                The announcement of Destiny 2's imminent end of live service development wasn't entirely unexpected news, given Bungie's well-documented struggles in recent years, but it's an abrupt conclusion for a game series that's now left with an uncertain future. Reportedly, <a href=\"https://www.pcgamer.com/games/action/bungie-isnt-immediately-making-destiny-3-is-planning-layoffs-reports-bloomberg/\" target=\"_blank\">Bungie hasn't yet greenlit a project for a Destiny 3</a>, meaning many of the setting's ongoing narrative threads are being left without resolution for the foreseeable future...\n                <a href=\"https://www.pcgamer.com/games/fps/former-bungie-dev-says-youd-be-surprised-how-many-times-expansions-were-pitched-for-a-fan-favorite-destiny-archvillain-whos-now-left-hanging/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1779486761,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1833334318572571",
         "title": "PUBG Global Series 4 Final Stage - Day 1",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572571",
@@ -96,32 +190,6 @@
         "appid": 1085660
       },
       {
-        "gid": "1833334318570236",
-        "title": "Destiny 2 hasn't been the game I'd loved in years, but it still sucks to know it's ending",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318570236",
-        "is_external_url": true,
-        "author": "Lincoln Carpenter",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/2WDoXSY3YsAWnv7bWs56N-1280-80.jpg\"/><br><br>\n                Today, after 10 expansions, three episodes, 30 seasons, and almost nine years, Bungie announced that Destiny 2's live service development <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\">is coming to an end</a> on June 9, 2026. It isn't surprising news: To the culture at large, Destiny 2 has become less of a game in earnest and more of a measuring stick for its beleaguered studio's dysfunction following years of blatant mismanagement, and Bungie's prolonged silence as player numbers continued to dwindle had become deafening...\n                <a href=\"https://www.pcgamer.com/games/fps/destiny-2-hasnt-been-the-game-id-loved-in-years-but-it-still-sucks-to-know-its-ending/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1779403171,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1833334318570039",
-        "title": "Destiny 2: Every End is a New Beginning",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570039",
-        "is_external_url": true,
-        "author": "Destiny2_Team",
-        "contents": "[p]For almost twelve years, we have had the joy and honor to explore the Destiny universe with you all. Through all the ups and downs, surprises and triumphs, building Destiny alongside our players has been a monumental privilege. While our love for Destiny 2 has not changed, it has become clear that after The Final Shape, we have reached the time for our shared worlds, and Destiny, to live beyond Destiny 2.[/p][p] [/p][p]As our focus turns towards a new beginning for Bungie, we will begin work incubating our next games. To that end, on June 9, 2026, we will release the final live-service content update for Destiny 2 to begin that new journey as a studio.[/p][p] [/p][p]Though active development may be concluding, we will ensure that Destiny 2 remains playable, just as the original Destiny is today. Many changes in this final update will aim to ensure that Destiny 2 is a welcoming place for players to return to.[/p][p] [/p][p]We're proud of Destiny 2, the places it took us, and the legacy it has created. Because of you all, our universe is vast, built on years of shared stories, adventures, and victories. From the Cosmodrome to the Pale Heart to the Lawless Frontier, we have forged life-long memories and friendships with you all.[/p][p] [/p][p]We are incredibly grateful to everyone who made that journey with us.[/p][p] [/p][p]From the deepest part of our hearts, thank you, and we'll see you in the stars.[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1779394740,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 1085660
-      },
-      {
         "gid": "1833334318569748",
         "title": "PUBG Global Series 4 Survival Stage",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569748",
@@ -209,32 +277,6 @@
         ]
       },
       {
-        "gid": "1832065502819807",
-        "title": "This Team Fortress 2 zombie mod looks so good, we almost thought it was official",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1832065502819807",
-        "is_external_url": true,
-        "author": "Justin Wagner",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/WbgxVW2hPo4o2YEFxjpxQg-1280-80.jpg\"/><br><br>\n                My high school years were spent pumping thousands of hours into games like Killing Floor 2 and Team Fortress 2, so I'm glad a mod like the upcoming Mann Versus Zombies—a total conversion which turns TF2 into a zombie-blasting horde survival bonanza—didn't come out during my high school years. I probably would not have graduated...\n                <a href=\"https://www.pcgamer.com/games/fps/this-team-fortress-2-zombie-mod-looks-so-good-we-almost-thought-it-was-official/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1778437684,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1832065502819175",
-        "title": "Absent a Left 4 Dead 3, modders have just turned Team Fortress 2 into COD Zombies instead",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502819175",
-        "is_external_url": true,
-        "author": "editor@pcgamesn.com",
-        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/team-fortress-2-total-conversion-mod-tf2-mann-versus-zombies-steam-900x506.jpg\"/><p>If Valve isn't going to bring us Left 4 Dead 3 any time soon, we'll just have to get our <a href=\"https://www.pcgamesn.com/best-zombie-games\">zombie game</a> fix elsewhere, and <strong>Mann Versus Zombies</strong> is looking like just what I need. This total-conversion mod for <strong>Team Fortress 2</strong> transforms the multiplayer shooter into a gradually escalating horde survival experience akin to Call of Duty Zombies. Built by a team of modders that has dubbed itself Breadworks, it brings the timeless roster of characters and locations into a fresh spin on a tried-and-tested format.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/team-fortress-2/tf2-mann-versus-zombies\">Absent a Left 4 Dead 3, modders have just turned Team Fortress 2 into COD Zombies instead</a></p>\n<p>RELATED LINKS:<br />\n<a href=\"https://www.pcgamesn.com/valve/sued-by-new-york-attorney-general-loot-boxes\">Valve is being sued by New York Attorney General Letitia James. The accusation: \"promoting illegal gambling through videogames.\"</a><br />\n<a href=\"https://www.pcgamesn.com/team-fortress-2/smissmas-2025-event\">Team Fortress 2 Smissmas 2025 is here, and there are now more festivized weapons than you can shake a Sun-on-a-Stick at</a><br />\n<a href=\"https://www.pcgamesn.com/team-fortress-2/classified-release-date-tf2-classic\">A decade in the making, long-awaited mod Team Fortress 2 Classic has a new name and a release date following Valve clash</a></p>",
-        "feedlabel": "PCGamesN",
-        "date": 1778412510,
-        "feedname": "PCGamesN",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1832065502811921",
         "title": "Dota 2 patch 7.41c is awful news for Batrider and Puck, and keeps Roshan under wraps",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502811921",
@@ -290,32 +332,6 @@
         "appid": 570
       },
       {
-        "gid": "1831432155578583",
-        "title": "Operation Memes vs Machines: Re-Peeled",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578583",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/554111/88a836652bb864f9a93df36947af6d444c578c1d.png[/img]\n(Image credit: washy)\n\nThe Year of the Horse has arrived, and [url=http://potato.tf]Potato.TF[/url] thinks that calls for a celebration! After asking every horse in the area the best ways to enjoy this year, it was unfortunately nays across the board. Unsure what to take from this, [url=http://potato.tf]Potato.TF[/url] decided to celebrate the best way they could think of: bringing back Memes vs Machines! The horses did give one piece of advice: do not release on April Fools under any circumstances! In hindsight it seems this was merely a clever prank. Good job, horses, maybe that long face of yours has more brains behind it than we thought.\n\nOperation Memes vs Machines: Re-Peeled is a new Mann vs. Machine charity event brought to you by Potato.TF! [b]Complete over 10 missions across new and returning maps and complete at least 8 missions to receive an in-game medal![/b] [url=http://potato.tf]Click here to get started![/url]\n\nFeeling generous? [url=http://potato.tf]Potato.TF[/url] is also hosting a charity fundraiser supporting [url=https://tiltify.com/@potatomvm/operation-memes-vs-machines-repeeled]Hawaii Storm Relief![/url] [b]Donate as little as $5 to receive an in-game medal![/b] Have the link to your Steam profile ready and [url=https://tiltify.com/@potatomvm/operation-memes-vs-machines-repeeled]click here[/url] for more information.\n\nDestroy those robots while you can! [b]The event will run until May 25th, 2026.[/b]\n\nImportant Links:\n[list]\n[*][url=http://potato.tf]Event website[/url]\n[*][url=https://discord.gg/M8YbW3k]Discord[/url]\n[*][url=https://steamcommunity.com/groups/potatomvmservers]Steam Group[/url]\n[/list]\n",
-        "feedlabel": "Community Announcements",
-        "date": 1777926079,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440
-      },
-      {
-        "gid": "1831432155578587",
-        "title": "Operation Memes vs Machines: Re-Peeled",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1831432155578587",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://discord.gg/VX3fKp9NEw\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/270245/repeeled_small.png?t=1496190994\"></a>\n(Image credit: <a href=\"https://steamcommunity.com/id/gg2washy\" target=\"_blank\">washy</a>)<br><br>\n\n<p>The Year of the Horse has arrived, and <a href=\"http://potato.tf\" target=\"_blank\">Potato.TF</a> thinks that calls for a celebration! After asking every horse in the area the best ways to enjoy this year, it was unfortunately nays across the board. Unsure what to take from this, <a href=\"http://potato.tf\" target=\"_blank\">Potato.TF</a> decided to celebrate the best way they could think of: bringing back Memes vs Machines! The horses did give one piece of advice: do not release on April Fools under any circumstances! In hindsight it seems this was merely a clever prank. Good job, horses, maybe that long face of yours has more brains behind it than we thought.</p><br>\n\n<p>Operation Memes vs Machines: Re-Peeled is a new Mann vs. Machine charity event brought to you by Potato.TF! <b>Complete over 10 missions across new and returning maps and complete at least 8 missions to receive an in-game medal!</b> <a href=\"http://potato.tf\" target=\"_blank\">Click here to get started!</a></p><br>\n\n<p>Feeling generous? <a href=\"http://potato.tf\" target=\"_blank\">Potato.TF</a> is also hosting a charity fundraiser supporting <a href=\"https://tiltify.com/@potatomvm/operation-memes-vs-machines-repeeled\" target=\"_blank\">Hawaii Storm Relief!</a> <b>Donate as little as $5 to receive an in-game medal!</b> Have the link to your Steam profile ready and <a href=\"https://tiltify.com/@potatomvm/operation-memes-vs-machines-repeeled\" target=\"_blank\">click here</a> for more information.</p><br>\n\n<p>Destroy those robots while you can! <b>The event will run until May 25th, 2026.</b></p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"http://potato.tf\" target=\"_blank\">Event website</a>\n<li><a href=\"https://discord.gg/M8YbW3k\" target=\"_blank\">Discord</a>\n<li><a href=\"https://steamcommunity.com/groups/potatomvmservers\" target=\"_blank\">Steam Group</a>\n</ul>\n</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1777926000,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1831432155578381",
         "title": "Call of Duty Endowment Military Appreciation Month presented by USAA",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578381",
@@ -340,24 +356,6 @@
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 570
-      },
-      {
-        "gid": "1831432155571710",
-        "title": "ÜBERFEST Trophy Design Competition",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155571710",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/554111/73f1f5a18b42c6cd77d3259e87a4e96bbf43ccd8.png[/img]\n(Image credit: Concept artist - Endi, SFM artist - BloodiestBanana, Illustrator - Max Shortt)\n\n[b]This is where they'd put the trophy...[/b]\n\n[b]Are you the sort with a healthy dose of ideas but nowhere to use them?[/b] Have you just had one now and are wondering where you're going to find a plastic pelican at this hour? Then oh-boy does KritzKast have the competition for you!\n \nKritzKast are looking for those with creative juices to spare, maybe even some artistic flare, or at the very least a friend or two who knows it's the sharp end of the pencil that goes down. This is absolutely the least effort you'll ever have to put into a creative endeavour to win big. Actually, technically to [b]win very small[/b], but still to [i]win awesomely[/i].\n\nA fancy French cosplay studio (whose work you may have seen in certain \"meet the real\" videos) has volunteered to create the best esport trophy Team Fortress 2 has ever seen, for ÜBERFEST 2026! But KritzKast are notoriously work-shy, so to reach this trophy's full potential [b]they need your ideas[/b] for what it should actually look like.\n \nThe winning idea will be made real, put on display during the LAN, and then awarded to the winning esport team! If it's your idea that's chosen, you and your team will each receive a [i]one-of-a-kind handmade miniature replica[/i] of the trophy! There will also be plenty of Lo-Fi Longwave hats up for grabs!\n\nThe competition runs until the end of May!\n\nImportant Links:\n[list]\n[*][url=https://discord.gg/kritzkast]Get started[/url]\n[*][url=https://kritzkast.com/uberfest-2026-arkan-cosplay-trophy-contest]More information and instructions[/url]\n[/list]\n\n\n",
-        "feedlabel": "Community Announcements",
-        "date": 1777649589,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_1888166638_1777651185_0",
-          "mod_require_rereview"
-        ]
       },
       {
         "gid": "1830797770234051",
