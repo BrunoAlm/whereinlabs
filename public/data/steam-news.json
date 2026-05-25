@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1833334318577209",
+        "title": "\"Этого я и боялся\": Ветеран Bungie высказался о судьбе разработчиков Destiny 2 под крылом Sony",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318577209",
+        "is_external_url": true,
+        "author": "Deacon",
+        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199391/7d9dd3c3a8-2_1390x600.jpg\" alt=\"\"><p>Бывший руководитель юридического отдела <strong>Bungie Дон Макгоуэн</strong> опасался, что разработчики <strong>Destiny 2</strong> потеряют себя после <a href=\"https://gamemag.ru/news/163822/sony-buys-bungie-multiplatform-destiny-3-6-billion\"><strong>сделки с Sony Interactive Entertainment</strong></a>. Об этом он рассказал на <strong>LinkedIn</strong>, комментируя <a href=\"https://gamemag.ru/news/199358/bungie-gotovit-massovye-sokrasheniya-posle-finalnogo-obnovleniya-destiny-2\"><strong>новость о фактической заморозке франшизы Destiny и готовящихся массовых увольнениях</strong></a>.</p>",
+        "feedlabel": "Gamemag.ru",
+        "date": 1779677940,
+        "feedname": "Gamemag.ru",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
+        "gid": "1833334318577212",
+        "title": "Фанаты Destiny 2 потребовали от Sony профинансировать Destiny 3 — петиция собрала более 150 тысяч подписей за двое суток",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318577212",
+        "is_external_url": true,
+        "author": "Илья",
+        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199390/1d4e0e3b98-1_1390x600.jpg\" alt=\"\"><p>Геймеры запустили на <strong>Change.org</strong> петицию с требованием к <strong>Sony</strong> позволить<strong> Bungie </strong>заняться разработкой <strong>Destiny 3</strong>.</p>",
+        "feedlabel": "Gamemag.ru",
+        "date": 1779676200,
+        "feedname": "Gamemag.ru",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1833334318575905",
         "title": "Стало известно, почему Sony отказалась от разработки Destiny 3 и сделала ставку на Marathon",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318575905",
@@ -80,19 +106,6 @@
         "appid": 440
       },
       {
-        "gid": "1833334318572973",
-        "title": "Shock, tears, and relief: How Destiny 2's most popular creators reacted to the end of the legendary shooter",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318572973",
-        "is_external_url": true,
-        "author": "Tyler Wilde",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/oQHLqWvr6d4DZRg47CUcpF-1280-80.jpg\"/><br><br>\n                There were certainly signs that Destiny 2's best days were behind it, but <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\">this week's announcement</a> that the shooter will no longer receive content updates still came as a shock...\n                <a href=\"https://www.pcgamer.com/games/fps/shock-tears-and-relief-how-destiny-2s-most-popular-creators-reacted-to-the-end-of-the-legendary-shooter/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1779490619,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
         "gid": "1833334318572911",
         "title": "Team Fortress 2 Update Released",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318572911",
@@ -133,19 +146,6 @@
         "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
-      },
-      {
-        "gid": "1833334318572845",
-        "title": "Former Bungie dev says 'you'd be surprised how many times' expansions were pitched for a fan-favorite Destiny archvillain who's now left hanging",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318572845",
-        "is_external_url": true,
-        "author": "Lincoln Carpenter",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/5js2PNvKXH7h6sKHkjdUHG-1280-80.jpg\"/><br><br>\n                The announcement of Destiny 2's imminent end of live service development wasn't entirely unexpected news, given Bungie's well-documented struggles in recent years, but it's an abrupt conclusion for a game series that's now left with an uncertain future. Reportedly, <a href=\"https://www.pcgamer.com/games/action/bungie-isnt-immediately-making-destiny-3-is-planning-layoffs-reports-bloomberg/\" target=\"_blank\">Bungie hasn't yet greenlit a project for a Destiny 3</a>, meaning many of the setting's ongoing narrative threads are being left without resolution for the foreseeable future...\n                <a href=\"https://www.pcgamer.com/games/fps/former-bungie-dev-says-youd-be-surprised-how-many-times-expansions-were-pitched-for-a-fan-favorite-destiny-archvillain-whos-now-left-hanging/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1779486761,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1833334318572571",
