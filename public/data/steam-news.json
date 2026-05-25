@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1833334318575905",
+        "title": "Стало известно, почему Sony отказалась от разработки Destiny 3 и сделала ставку на Marathon",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318575905",
+        "is_external_url": true,
+        "author": "Илья",
+        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199384/0abd83d782-2_1390x600.jpg\" alt=\"\"><p>Многие задавались вопросом, почему<strong> Bungie</strong> не приступила к разработке <strong>Destiny 3</strong> сразу после выхода<strong> Destiny 2: The Final Shape</strong> два года назад. <u><strong>Как рассказал журналист Bloomberg Джейсон Шрайер, главной причиной стали слишком высокие финансовые затраты</strong></u>.</p>",
+        "feedlabel": "Gamemag.ru",
+        "date": 1779651420,
+        "feedname": "Gamemag.ru",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1833334318574575",
         "title": "Our readers are clear: They want Destiny 3, which is awkward, because Bungie reportedly isn't making Destiny 3",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318574575",
@@ -159,19 +172,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1833334318571864",
-        "title": "Destiny developers reflect on the end of an era: 'We all worked so hard to maintain the quality bar under unrealistic constraints'",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833334318571864",
-        "is_external_url": true,
-        "author": "Rory Norris",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/rhUauq2gKrXv5iCBes8eQ3-1280-80.jpg\"/><br><br>\n                Yesterday, Bungie announced that <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\" target=\"_blank\">Destiny 2 is officially over</a>, with its final live service update arriving on June 9. After 10 expansions, 30 seasons, three episodes, and spanning almost a decade, it's not an understatement to say that <a href=\"https://www.pcgamer.com/games/fps/destiny-2-hasnt-been-the-game-id-loved-in-years-but-it-still-sucks-to-know-its-ending/\" target=\"_blank\">it's the end of an era</a>. The salt in the wound is a report that <a href=\"https://www.pcgamer.com/games/action/bungie-isnt-immediately-making-destiny-3-is-planning-layoffs-reports-bloomberg/\" target=\"_blank\">Bungie isn't immediately making Destiny 3 and is eyeing potential layoffs</a>...\n                <a href=\"https://www.pcgamer.com/games/fps/destiny-developers-reflect-on-the-end-of-an-era-we-all-worked-so-hard-to-maintain-the-quality-bar-under-unrealistic-constraints/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1779458665,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1833334318570412",
