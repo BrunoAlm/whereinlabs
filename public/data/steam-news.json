@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1833968530886410",
+        "title": "As its retirement looms, Destiny 2 is still the gold standard for joyous gunplay",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833968530886410",
+        "is_external_url": true,
+        "author": "Lincoln Carpenter",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/mqmHPivsn9GSugpAfZEEig-1280-80.jpg\"/><br><br>\n                In the days since the announcement of its impending <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\" target=\"_blank\">end of live service updates</a>, I've been returning to Destiny 2. And I'm not the only one: In the last week, Destiny 2 has <a href=\"https://steamdb.info/app/1085660/charts/#6m\" target=\"_blank\">drawn its highest daily peak player counts</a> since early February as disaffected Guardians revisit their old stomping grounds in the wake of the unhappy news...\n                <a href=\"https://www.pcgamer.com/games/fps/as-its-retirement-looms-destiny-2-is-still-the-gold-standard-for-joyous-gunplay/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1779912181,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1833968530884598",
         "title": "PNC 2026 Official Participating Teams Announcement",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884598",
@@ -149,19 +162,6 @@
         "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199390/1d4e0e3b98-1_1390x600.jpg\" alt=\"\"><p>Геймеры запустили на <strong>Change.org</strong> петицию с требованием к <strong>Sony</strong> позволить<strong> Bungie </strong>заняться разработкой <strong>Destiny 3</strong>.</p>",
         "feedlabel": "Gamemag.ru",
         "date": 1779676200,
-        "feedname": "Gamemag.ru",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1833334318575905",
-        "title": "Стало известно, почему Sony отказалась от разработки Destiny 3 и сделала ставку на Marathon",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833334318575905",
-        "is_external_url": true,
-        "author": "Илья",
-        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199384/0abd83d782-2_1390x600.jpg\" alt=\"\"><p>Многие задавались вопросом, почему<strong> Bungie</strong> не приступила к разработке <strong>Destiny 3</strong> сразу после выхода<strong> Destiny 2: The Final Shape</strong> два года назад. <u><strong>Как рассказал журналист Bloomberg Джейсон Шрайер, главной причиной стали слишком высокие финансовые затраты</strong></u>.</p>",
-        "feedlabel": "Gamemag.ru",
-        "date": 1779651420,
         "feedname": "Gamemag.ru",
         "feed_type": 0,
         "appid": 1085660
