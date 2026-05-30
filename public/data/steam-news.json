@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1833968530892370",
+        "title": "Bungie devs have resurrected an obscene amount of guns for Destiny 2's final update: 'My body physically hurts from the amount of items we were updating'",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833968530892370",
+        "is_external_url": true,
+        "author": "Lincoln Carpenter",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/T3ZVT9WpKgbbwMqHc97MLb-1280-80.jpg\"/><br><br>\n                Its entry into retirement is approaching, but Destiny 2 is being sent out with a bang. After detailing the ways D2 activities are evolving in its end-of-new-content Monument of Triumph update, Bungie today has provided more specifics about the avalanche of new and returning weaponry it's spilling into its various loot pools...\n                <a href=\"https://www.pcgamer.com/games/fps/bungie-devs-have-resurrected-an-obscene-amount-of-guns-for-destiny-2s-final-update-my-body-physically-hurts-from-the-amount-of-items-we-were-updating/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1780090643,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1833968530892066",
         "title": "This Week In Destiny - 05/29/2026",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892066",
@@ -191,19 +204,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1833968530887821",
-        "title": "Джейсон Шрайер: Destiny 3 от Bungie могла бы обойтись Sony в $500 миллионов — компания больше не готова так рисковать",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1833968530887821",
-        "is_external_url": true,
-        "author": "Deacon",
-        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199439/dbdeea226c-2_1390x600.jpg\" alt=\"\"><p><strong>Destiny 3 </strong>не находится в разработке, потому что после серии громких неудач<strong> Sony </strong>больше не готова инвестировать сотни миллионов долларов в рискованные проекты. Об этом рассказал журналист <strong>Bloomberg Джейсон Шрайер </strong>в видео под названием \"<strong>Почему умерла Destiny</strong>\".</p>",
-        "feedlabel": "Gamemag.ru",
-        "date": 1779937140,
-        "feedname": "Gamemag.ru",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1833968530884598",
