@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1834602721183197",
+        "title": "Destiny fans cry 'We Want Destiny 3' into void, void does not respond",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721183197",
+        "is_external_url": true,
+        "author": "Tyler Wilde",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/r5VoZPsXZ458EGM3Mzmr6R-1280-80.jpg\"/><br><br>\n                ccording to <a href=\"https://www.bloomberg.com/news/articles/2026-05-21/bungie-plans-layoffs-after-ending-destiny-2-development\" target=\"_blank\">Bloomberg</a> journalist Jason Schreier, Bungie <a href=\"https://www.pcgamer.com/games/action/bungie-isnt-immediately-making-destiny-3-is-planning-layoffs-reports-bloomberg/\" target=\"_blank\">hasn't greenlit</a> <em>any</em> game for the Destiny 2 team to pivot to after content updates for the long-running shooter end, never mind Destiny 3. The studio is reportedly hearing pitches for new projects, which may or may not take place in the Destiny universe...\n                <a href=\"https://www.pcgamer.com/games/fps/no-destiny-3-announcement-state-of-play/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1780440401,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1833968530901280",
         "title": "PUBG Nations Cup 2026 (PNC 2026) Ticket Sales",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901280",
@@ -16,7 +29,7 @@
       },
       {
         "gid": "1833968530901106",
-        "title": "Call of Duty: Black Ops 7 and Warzone - Season 04 - Live Now",
+        "title": "Call of Duty: Black Ops 7 and Warzone - Season 04",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901106",
         "is_external_url": true,
         "author": "ATVI_Dov",
@@ -25,7 +38,12 @@
         "date": 1780419999,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 1938090
+        "appid": 1938090,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1888166638_1780420652_0",
+          "mod_require_rereview"
+        ]
       },
       {
         "gid": "1833968530900576",
@@ -124,19 +142,6 @@
         "date": 1780090643,
         "feedname": "PC Gamer",
         "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1833968530892066",
-        "title": "This Week In Destiny - 05/29/2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892066",
-        "is_external_url": true,
-        "author": "Destiny2_Team",
-        "contents": "[p]This Week in Destiny, we have even more to share about the Monument of Triumph update coming on June 9. We started yesterday with a Dev Insights article focused on the return of the Director, and early this morning we published a Dev Insights article focusing on weapons, the Artifact, and vendors. In this TWID, we'll cover what's coming to the Crucible, Pantheon, and cosmetics.[/p][list][*][p]Crucible tuning with the PvP Strike Team[/p][/*][*][p]Pantheon and Rewards updates in Raids and Dungeons[/p][/*][*][p]Ornaments, Bright Engrams, Bright Dust, and more cosmetics updates[/p][/*][*][p]Have you read yesterday's Dev Insights article about the Director?[/p][/*][*][p]Read this morning's Dev Insights article on weapons and more, too![/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1780081039,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
         "appid": 1085660
       },
       {
