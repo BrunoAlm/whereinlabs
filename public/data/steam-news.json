@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1834602721189111",
+        "title": "7.41d Gameplay Patch",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189111",
+        "is_external_url": true,
+        "author": "flynnch",
+        "contents": "[p]Patch 7.41d is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41d\"]here[/url].[/p]\n\nIn addition, we've recently addressed the following issues:\n[list]\n[*] Fixed Greevils not spawning their equipped effects\n[*] Fixed Earthshaker's Planetfall Arcana not tracking combos and combo damage properly\n[*] Fixed right click on Dota Labs Overlay Map not working when \"Auto-Repeat Right Mouse\" is enabled\n[*] Fixed Bottle with a stored Rune being able to be moved in and out of the backpack\n[*] Fixed Harmonizer not considering abilities with charges on cooldown\n[*] Fixed Elder Titan's Astral Spirit's movement speed not taking Wind Lace into account\n[*] Fixed Elder Titan's Echo Stomp shard not swapping places with Astral Spirit if he is being moved by another ability when the stomp goes off\n[*] Fixed Invoker not receiving an Aghanim's Blessing from Alchemist if Alchemist casts Aghanim's Scepter on Invoker when his main inventory is full but the backpack had space\n[*] Fixed Alchemist being able to repeatedly give Invoker Aghanim's Blessings if Invoker hasn't chosen his Aghanim's Scepter upgrade\n[*] Fixed Invoker not correctly being refunded for his Aghanim's Blessing if Invoker has not selected an Aghanim's Scepter upgrade and Alchemist casts Aghanim's Scepter on him\n[*] Fixed Spirit Bear's permanently consumed items not counting towards Lone Druid's net worth\n[*] Fixed Spirit Breaker permanently changing teams when he reflects Venomancer's Noxious Plague with Lotus Orb and then casts Planar Pocket on Venomancer before Noxious Plague spreads, then after it spreads to a neutral creep Venomancer uses Helm of the Dominator on that creep\n[*] Fixed Venomancer being able to Transmute Spirit Breaker with Hand of Midas through the same process\n[*] Fixed Wraith King's Vampiric Spirit not turning Wraith King into a wraith if he levels up at the same time as dying\n[*] Ability Draft: Fixed Forge Spirit starting at too high a level\n[*] Ability Draft: Fixed Brewmaster's old Aghanim's Scepter being available\n[/list]\n\n\n",
+        "feedlabel": "Community Announcements",
+        "date": 1780620314,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 570,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1834602721188766",
+        "title": "'There is no world where it makes sense,' Warframe creative director says of Destiny 2's demise: 'It's unthinkable'",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721188766",
+        "is_external_url": true,
+        "author": "Andy Chalk",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/Ab2adQKpMzw7fpaJHyUy3R-1280-80.jpg\"/><br><br>\n                The end of <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2</a> development came as a surprise to everyone: players, streamers, casual observers, and even the development team at Bungie, most of whom reportedly had no idea it was happening until it happened. It was such an outrageous move that even Rebb Ford, the creative director of <a href=\"https://www.pcgamer.com/warframe/\" target=\"_blank\">Warframe</a>—the <em>other </em>Destiny—called it \"unthinkable.\"..\n                <a href=\"https://www.pcgamer.com/games/there-is-no-world-where-it-makes-sense-warframe-creative-director-says-of-destiny-2s-demise-its-unthinkable/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1780606621,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
+        "gid": "1834602721188673",
+        "title": "Monument of Triumph Trailer",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188673",
+        "is_external_url": true,
+        "author": "Destiny2_Team",
+        "contents": "[p]Experience fresh challenges, features, abilities, rewards, and more on June 9, 2026 as you play through new and updated content including Pantheon, Sparrow Racing League, and an all-new Triumph pursuit celebrating Destiny 2's defining moments.[/p][previewyoutube=\"-TWYj6sw2NQ;full\"][/previewyoutube]",
+        "feedlabel": "Community Announcements",
+        "date": 1780604210,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 1085660
+      },
+      {
         "gid": "1834602721188579",
         "title": "TFCL Alpha Season 2",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188579",
@@ -151,32 +193,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1834602721183823",
-        "title": "New games in June 2026: It's a big month for Bungie and showcase reveals, but we're missing a key part of the monthly formula",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721183823",
-        "is_external_url": true,
-        "author": "Andrea Shearon",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/V89TJvzTURnFskiHwYRxaN-1280-80.jpg\"/><br><br>\n                It's been a relatively quiet year for new game releases, but even by 2026 standards, June feels extra slow. That applies to everything really—both big-budget releases and indie games—but that doesn't mean the month is a total wash...\n                <a href=\"https://www.pcgamer.com/games/pc-game-release-dates-june-2026/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1780458849,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1834602721183197",
-        "title": "Destiny fans cry 'We Want Destiny 3' into void, void does not respond",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721183197",
-        "is_external_url": true,
-        "author": "Tyler Wilde",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/r5VoZPsXZ458EGM3Mzmr6R-1280-80.jpg\"/><br><br>\n                ccording to <a href=\"https://www.bloomberg.com/news/articles/2026-05-21/bungie-plans-layoffs-after-ending-destiny-2-development\" target=\"_blank\">Bloomberg</a> journalist Jason Schreier, Bungie <a href=\"https://www.pcgamer.com/games/action/bungie-isnt-immediately-making-destiny-3-is-planning-layoffs-reports-bloomberg/\" target=\"_blank\">hasn't greenlit</a> <em>any</em> game for the Destiny 2 team to pivot to after content updates for the long-running shooter end, never mind Destiny 3. The studio is reportedly hearing pitches for new projects, which may or may not take place in the Destiny universe...\n                <a href=\"https://www.pcgamer.com/games/fps/no-destiny-3-announcement-state-of-play/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1780440401,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1833968530901106",
@@ -420,19 +436,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1831432155579907",
-        "title": "Beloved Dota 2 esports team Heroic has just disbanded, saying it's a \"tough game to commercialize\"",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907",
-        "is_external_url": true,
-        "author": "editor@pcgamesn.com",
-        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/heroic-dota-2-disband-moba-hard-to-commercialize-900x506.jpg\"/><p><strong>Dota 2</strong> esports is in an odd place. Once the premier sphere, it's been overtaken by the mammoth that is League of Legends - a beast that isn't showing any signs of slowing down. While Dota 2 remains huge in the East, its Western appeal has started to falter over the years, partly because it doesn't quite have the same content release cadence as other <a href=\"https://www.pcgamesn.com/which-best-moba\">MOBAs</a>, and partly because there's that big shiny thing called 'Deadlock' in the works. We've seen the legendary OG rip out its roster and start all over again, The International 2025's prize pool capped out at a mere $2,881,791 (for context, in 2021 it was $40,018,195), and now, Heroic has confirmed that it's leaving Dota 2 behind.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/dota-2/heroic-disband-roster\">Beloved Dota 2 esports team Heroic has just disbanded, saying it's a \"tough game to commercialize\"</a></p>\n<p>RELATED LINKS:<br />\n<a href=\"https://www.pcgamesn.com/dota-2/7-41c-patch-notes\">Dota 2 patch 7.41c is awful news for Batrider and Puck, and keeps Roshan under wraps</a><br />\n<a href=\"https://www.pcgamesn.com/dota-2/options-settings\">The best Dota 2 options and settings</a><br />\n<a href=\"https://www.pcgamesn.com/dota-2/7-41b-patch-notes\">Dota 2 patch 7.41b puts a stop to Meepo's reign of terror as Valve locks in its new meta</a></p>",
-        "feedlabel": "PCGamesN",
-        "date": 1777982948,
-        "feedname": "PCGamesN",
-        "feed_type": 0,
-        "appid": 570
       }
     ]
   }
