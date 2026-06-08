@@ -16,7 +16,7 @@
       },
       {
         "gid": "1834602721191289",
-        "title": "PUBG Global Series 6 Final Stage Day 3",
+        "title": "PUBG Global Series 6 Grand Finals Day 3",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721191289",
         "is_external_url": true,
         "author": "JBowlerr",
@@ -25,11 +25,16 @@
         "date": 1780675217,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 578080
+        "appid": 578080,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1911576989_1780689734_0",
+          "mod_require_rereview"
+        ]
       },
       {
         "gid": "1834602721191288",
-        "title": "PUBG Global Series 6 Final Stage Day 2",
+        "title": "PUBG Global Series 6 Grand Finals Day 2",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721191288",
         "is_external_url": true,
         "author": "JBowlerr",
@@ -38,7 +43,12 @@
         "date": 1780675215,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 578080
+        "appid": 578080,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1911576989_1780689728_0",
+          "mod_require_rereview"
+        ]
       },
       {
         "gid": "1834602721190708",
@@ -178,7 +188,7 @@
       },
       {
         "gid": "1834602721187967",
-        "title": "PUBG Global Series 6 Final Stage Day 1",
+        "title": "PUBG Global Series 6 Grand Finals Day 1",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187967",
         "is_external_url": true,
         "author": "JBowlerr",
@@ -187,7 +197,12 @@
         "date": 1780588802,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 578080
+        "appid": 578080,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1607812438_1780589335_0",
+          "mod_require_rereview"
+        ]
       },
       {
         "gid": "1834602721187451",
