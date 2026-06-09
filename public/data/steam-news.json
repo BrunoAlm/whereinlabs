@@ -2,6 +2,45 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1834602721201648",
+        "title": "Watch PNC 2026 and Get Drops!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201648",
+        "is_external_url": true,
+        "author": "JBowlerr",
+        "contents": "[p]Hello, PUBG Esports fans.[/p][p align=\"start\"] [/p][p align=\"start\"][b]PUBG Nations Cup 2026 (PNC 2026)[/b], the global PUBG Esports festival bringing together 24 all-star teams, will be held in Seoul from June 23 to 28.[/p][p align=\"start\"] [/p][p align=\"start\"]To make the tournament even more exciting, we’ve prepared the PNC 2026 Drops event. Tune in to the live broadcasts and earn special in-game items![/p][p align=\"start\"][/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260608/nhiCINPz.jpg\" style=\"border-style: none; cursor: pointer; padding: 0px 1px; user-select: none; max-width: 100%; position: relative; display: block; float: none; margin: 5px auto; vertical-align: top;\"][/img][/p][p align=\"start\"][b]Event Schedule[/b][/p][list][*][p]PNC 2026 Grand Finals Live Broadcast[/p][/*][*][p]June 26 (Fri) - June 28 (Sun), Matches start at 10:00 UTC[/p][/*][/list][p align=\"start\"] [/p][p align=\"start\"][b]Event Platforms[/b][/p][list][*][p]Twitch[/p][/*][*][p]Kick[/p][/*][/list][p align=\"start\"] [/p][p align=\"start\"][b]Requirements & Rewards[/b]\nGrand Finals DAY 1[/p][list][*][p]15 Minutes: PNC 2026 Victory (Spray)[/p][/*][*][p]30 Minutes: PNC 2026 Logo (Emblem)[/p][/*][/list][p align=\"start\"] [/p][p align=\"start\"]Grand Finals DAY 2[/p][list][*][p]15 Minutes: PNC 2026 Home Run (Spray)[/p][/*][*][p]30 Minutes: PNC 2026 Logo (Emblem)[/p][/*][/list][p align=\"start\"] [/p][p align=\"start\"]Grand Finals DAY 3[/p][list][*][p]15 Minutes: PNC 2026 Victory (Spray)[/p][/*][*][p]30 Minutes: PNC 2026 Home Run (Spray)[/p][/*][*][p]60 Minutes: PNC 2026 Logo (Emblem)[/p][/*][*][p]90 Minutes: PNC 2026 Jacket[/p][/*][/list][p align=\"start\"] [/p][p align=\"start\"][b]Notes[/b][/p][list][*][p]Drops can only be received on the designated streaming platforms (Twitch, Kick).[/p][/*][*][p]Rewards will not be granted after the specified Drops period ends.[/p][/*][*][p][b]KRAFTON ID[/b] is required to receive rewards, and it must be linked to both your game platform account and the respective streaming platform account. (See below for linking instructions.)[/p][/*][*][p]Drops rewards can only be claimed [b]1 time per account[/b].[/p][/*][*][p]Campaign details may differ by platform, so please check the announcements on each channel.[/p][/*][*][p]Console players can only receive rewards through Twitch/Kick/Chzzk Drops, and rewards will be available after the live update.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1781008742,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1834602721201521",
+        "title": "Destiny 2's final update – live coverage of the end of an era",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721201521",
+        "is_external_url": true,
+        "author": "Phil Savage",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/nXnhXxk2w9jnrdFQLBg7Cf-1280-80.jpg\"/><br><br>\n                fter nine years, eight expansions and a mountain of updates—many good, plenty questionable—Destiny 2's final ever patch releases today. The Monument of Triumph is the final hoorah; the last big release before the studio walks away from the game forever...\n                <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1781003958,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
+        "gid": "1834602721201489",
+        "title": "Destiny 2's final update — live coverage of the end of an era",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721201489",
+        "is_external_url": true,
+        "author": "Phil Savage",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/nXnhXxk2w9jnrdFQLBg7Cf-1280-80.jpg\"/><br><br>\n                fter nine years, eight expansions and a mountain of updates—many good, plenty questionable—Destiny 2's final ever patch releases today. The Monument of Triumph is the final hoorah; the last big release before the studio walks away from the game forever...\n                <a href=\"https://www.pcgamer.com/games/live/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1781003958,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1834602721194009",
         "title": "Modern Warfare 4 DMZ: Explore the Hajin Exclusion Zone",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721194009",
@@ -145,19 +184,6 @@
         "appid": 1085660
       },
       {
-        "gid": "1834602721188373",
-        "title": "This Week In Destiny - 06/04/2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188373",
-        "is_external_url": true,
-        "author": "Destiny2_Team",
-        "contents": "[p]This Week in Destiny, we revealed the latest details about the Monument of Triumph update coming next week. After talking about weapons, the artifact, PvP, and much more, early this morning we shared all you need to know about abilities and armor. We have one last batch of news coming right away below. Let's do this.[/p][list][*][p]Monument of Triumph trailer[/p][/*][*][p]Dev Insights articles, have you read them?[/p][/*][*][p]A look at some MoT rewards[/p][/*][*][p]Bungie Foundation latest update[/p][/*][*][p]Final Bungie Rewards[/p][/*][*][p]Two new emblems for you[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1780596008,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 1085660
-      },
-      {
         "gid": "1834602721188157",
         "title": "Call of Duty: Black Ops 7 and Warzone - Season 04 - Live",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188157",
@@ -172,19 +198,6 @@
         "tags": [
           "workshop"
         ]
-      },
-      {
-        "gid": "1834602721187973",
-        "title": "Dev Insights - Abilities & Armor Preview",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187973",
-        "is_external_url": true,
-        "author": "Destiny2_Team",
-        "contents": "[p][url=\"https://www.bungie.net/7/en/News/Article/dev_insights_abilities_armor_preview\"]https://www.bungie.net/7/en/News/Article/dev_insights_abilities_armor_preview[/url][/p][p][/p][p]Welcome back for our third and final Dev Insights article before Monument of Triumph launches on June 9. Last Thursday was all about our weapons sandbox and today we’ll be focusing on Guardian abilities, armor, and Exotic updates.[/p][list][*][p]Abilities Sandbox Update[/p][list][*][p]New subclass abilities[/p][/*][*][p]Ability reworks[/p][/*][*][p]Ability balance changes[/p][/*][/list][/*][*][p]Armor 3.0 Updates[/p][list][*][p]Armor archetypes[/p][/*][*][p]Armor set bonuses[/p][/*][*][p]Exotic armor stats[/p][/*][*][p]Exotic armor balance preview[/p][/*][/list][/*][/list][p]If you missed our previous articles on the return of the Director, activity updates, and all the other news, be sure to check out the articles before next Tuesday.[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1780588806,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 1085660
       },
       {
         "gid": "1834602721187967",
@@ -216,24 +229,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1834602721187725",
-        "title": "Watch PGS 6 and Get Drops!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187725",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p]Hello, PUBG Esports fans![/p][p align=\"start\"]The PGS 6 Grand Finals, the final showdown of the first half of the 2026 PUBG Esports circuit, is just around the corner.[/p][p align=\"start\"]To make your viewing experience even more exciting, we’ve prepared special PGS 6 Drops![/p][p align=\"start\"]Check out the details below so you don't miss out.[/p][p align=\"center\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260602/Rhnmcphz.png\" style=\"border-style: none; cursor: pointer; padding: 0px 1px; user-select: none; max-width: 100%; position: relative; display: block; float: none; margin: 5px auto; vertical-align: top;\"][/img][/p][p align=\"start\"][b]Schedule[/b][/p][list][*][p][b]​[/b]PGS 6 Grand Finals Live Stream[/p][/*][*][p]June 5 (Fri) – June 7 (Sun) Broadcast starts at 10:00 UTC[/p][/*][/list][p align=\"start\"][b]Drops Platform[/b][/p][list][*][p]Twitch[/p][/*][*][p]Kick[/p][/*][/list][p align=\"start\"][b]Drops Rewards[/b][/p][list][*][p]1 hour: 2026 PGS Watch Out! (Spray)[/p][/*][*][p]2 hours: 2026 PGS Glossy (Nameplate)[/p][/*][/list][p align=\"start\"][b]Spray: 2026 PGS Watch Out[/b][/p][p align=\"start\"]Our featured spray reward for PGS 6 is the ‘2026 PGS Watch Out’.\nIf you’ve just thrown an Emergency Cover Flare, use this spray to instantly warn your team player of incoming danger![/p][p align=\"start\"][b]Notice[/b][/p][list][*][p]Drops can only be received on the designated streaming platforms (Twitch, Kick).[/p][/*][*][p]Rewards will not be granted after the specified Drops period ends.[/p][/*][*][p][b]KRAFTON ID[/b] is required to receive rewards, and it must be linked to both your game platform account and the respective streaming platform account. (See below for linking instructions.)[/p][/*][*][p]Drops rewards can only be claimed [b]1 time per account[/b].[/p][/*][*][p]Campaign details may differ by platform, so please check the announcements on each channel.[/p][/*][*][p]Console players can only receive rewards through Twitch/Kick Drops, and rewards will be available after the live update.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1780556435,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_1878895840_1780557202_0",
-          "mod_require_rereview"
-        ]
       },
       {
         "gid": "1833968530901106",
