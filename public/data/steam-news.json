@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1834602721202520",
+        "title": "The Collection Trailer",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721202520",
+        "is_external_url": true,
+        "author": "Destiny2_Team",
+        "contents": "[previewyoutube=\"qI-fxJM8rSM;full\"][/previewyoutube][p]Destiny 2: The Collection includes all available expansions and content packs in addition to four reward passes as well as access to endgame pursuits such as Raids, Dungeons, and more.[/p][p][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1781024410,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 1085660
+      },
+      {
+        "gid": "1834602721202516",
+        "title": "Destiny 2: Monument of Triumph Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721202516",
+        "is_external_url": true,
+        "author": "Destiny2_Team",
+        "contents": "[p]The Destiny 2: Monument of Triumph Update is available to all players. A new set of Triumphs guides you across Destiny 2 activities, turning familiar moments into a personal journey with new rewards to earn. [/p][p][/p][p]Pantheon returns with rotating raid bosses and modifiers, Sparrow Racing League makes its D2 debut with classic tracks and new maps, Distortions send you back to key destinations, Heavy Metal adds the Cabal Behemoth and vehicle mayhem, and a unified Director brings activities into one place. [/p][p][/p][p]New subclass updates, armor set bonuses, and access to past Season artifacts give you more ways to refine your buildcrafting as you chase those goals.[/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1781024409,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 1085660
+      },
+      {
         "gid": "1834602721201648",
         "title": "Watch PNC 2026 and Get Drops!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201648",
@@ -15,12 +41,12 @@
         "appid": 578080
       },
       {
-        "gid": "1834602721201521",
-        "title": "Destiny 2's final update – live coverage of the end of an era",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721201521",
+        "gid": "1834602721201489",
+        "title": "Destiny 2's final update — live coverage of the end of an era",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721201489",
         "is_external_url": true,
         "author": "Phil Savage",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/nXnhXxk2w9jnrdFQLBg7Cf-1280-80.jpg\"/><br><br>\n                fter nine years, eight expansions and a mountain of updates—many good, plenty questionable—Destiny 2's final ever patch releases today. The Monument of Triumph is the final hoorah; the last big release before the studio walks away from the game forever...\n                <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/nXnhXxk2w9jnrdFQLBg7Cf-1280-80.jpg\"/><br><br>\n                fter nine years, eight expansions and a mountain of updates—many good, plenty questionable—Destiny 2's final ever patch releases today. The Monument of Triumph is the final hoorah; the last big release before the studio walks away from the game forever...\n                <a href=\"https://www.pcgamer.com/games/live/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
         "feedlabel": "PC Gamer",
         "date": 1781003958,
         "feedname": "PC Gamer",
@@ -28,12 +54,12 @@
         "appid": 1085660
       },
       {
-        "gid": "1834602721201489",
-        "title": "Destiny 2's final update — live coverage of the end of an era",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721201489",
+        "gid": "1834602721201521",
+        "title": "Destiny 2's final update – live coverage of the end of an era",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721201521",
         "is_external_url": true,
         "author": "Phil Savage",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/nXnhXxk2w9jnrdFQLBg7Cf-1280-80.jpg\"/><br><br>\n                fter nine years, eight expansions and a mountain of updates—many good, plenty questionable—Destiny 2's final ever patch releases today. The Monument of Triumph is the final hoorah; the last big release before the studio walks away from the game forever...\n                <a href=\"https://www.pcgamer.com/games/live/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/nXnhXxk2w9jnrdFQLBg7Cf-1280-80.jpg\"/><br><br>\n                fter nine years, eight expansions and a mountain of updates—many good, plenty questionable—Destiny 2's final ever patch releases today. The Monument of Triumph is the final hoorah; the last big release before the studio walks away from the game forever...\n                <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
         "feedlabel": "PC Gamer",
         "date": 1781003958,
         "feedname": "PC Gamer",
@@ -132,30 +158,22 @@
         "appid": 1085660
       },
       {
-        "gid": "1834602721188673",
-        "title": "Monument of Triumph Trailer",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188673",
-        "is_external_url": true,
-        "author": "Destiny2_Team",
-        "contents": "[p]Experience fresh challenges, features, abilities, rewards, and more on June 9, 2026 as you play through new and updated content including Pantheon, Sparrow Racing League, and an all-new Triumph pursuit celebrating Destiny 2's defining moments.[/p][previewyoutube=\"-TWYj6sw2NQ;full\"][/previewyoutube]",
-        "feedlabel": "Community Announcements",
-        "date": 1780604210,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 1085660
-      },
-      {
         "gid": "1834602721188579",
         "title": "TFCL Alpha Season 2",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188579",
         "is_external_url": true,
         "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/cdee279951600e2e94e58dc1ae778b87411de00a.png[/img]\n\nAfter more than six months of stealth development, a super duper secret alpha, and a ton of broken sentry guns, TFCL is back and ready for public testing! TFCL is a North American competitive 6v6 league. Registration for TFCL's Alpha Season 2 opened on May 21st and runs through June 17th!\n \nTo make things even more awesome, they're throwing a $504 prize pool at this season! And medals, of course. Can't forget those!\n \nAlpha Season 2 will last approximately 6 weeks, with an additional week or two for playoffs. There will be 12 matches, two per week, on servers located in North America. Entry is free. TFCL will host and configure all match servers, so all you have to do is sit back, compete, and have fun!\n \nMore information can be found [url=https://tfcleague.com/alpha2]here[/url]!",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/cdee279951600e2e94e58dc1ae778b87411de00a.png[/img]\n\nAfter more than six months of stealth development, a super duper secret alpha, and a ton of broken sentry guns, TFCL is back and ready for public testing! TFCL is a North American competitive 6v6 league. Registration for TFCL's Alpha Season 2 opened on May 21st and runs through July 5th!\n \nTo make things even more awesome, they're throwing a $504 prize pool at this season! And medals, of course. Can't forget those!\n \nAlpha Season 2 will last approximately 6 weeks, with an additional week or two for playoffs. There will be 12 matches, two per week, on servers located in North America. Entry is free. TFCL will host and configure all match servers, so all you have to do is sit back, compete, and have fun!\n \nMore information can be found [url=https://tfcleague.com/alpha2]here[/url]!",
         "feedlabel": "Community Announcements",
         "date": 1780601679,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 440
+        "appid": 440,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1888979151_1780603221_0",
+          "mod_require_rereview"
+        ]
       },
       {
         "gid": "1834602721188580",
@@ -163,25 +181,12 @@
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1834602721188580",
         "is_external_url": true,
         "author": "",
-        "contents": "<a href=\"https://tfcleague.com/alpha2\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/272701/tfcl_s2_small.png?t=1497190994\"></a><br><br>\n\n<p>After more than six months of stealth development, a super duper secret alpha, and a ton of broken sentry guns, TFCL is back and ready for public testing! TFCL is a North American competitive 6v6 league. Registration for TFCL's Alpha Season 2 opened on May 21st and runs through June 17th!</p><br>\n \n<p>To make things even more awesome, they're throwing a $504 prize pool at this season! And medals, of course. Can't forget those!</p><br>\n \n<p>Alpha Season 2 will last approximately 6 weeks, with an additional week or two for playoffs. There will be 12 matches, two per week, on servers located in North America. Entry is free. TFCL will host and configure all match servers, so all you have to do is sit back, compete, and have fun!</p><br>\n \n<p>More information can be found <a href=\"https://tfcleague.com/alpha2\" target=\"_blank\">here</a>!</p><br>",
+        "contents": "<a href=\"https://tfcleague.com/alpha2\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/272701/tfcl_s2_small.png?t=1497190994\"></a><br><br>\n\n<p>After more than six months of stealth development, a super duper secret alpha, and a ton of broken sentry guns, TFCL is back and ready for public testing! TFCL is a North American competitive 6v6 league. Registration for TFCL's Alpha Season 2 opened on May 21st and runs through July 5th!</p><br>\n \n<p>To make things even more awesome, they're throwing a $504 prize pool at this season! And medals, of course. Can't forget those!</p><br>\n \n<p>Alpha Season 2 will last approximately 6 weeks, with an additional week or two for playoffs. There will be 12 matches, two per week, on servers located in North America. Entry is free. TFCL will host and configure all match servers, so all you have to do is sit back, compete, and have fun!</p><br>\n \n<p>More information can be found <a href=\"https://tfcleague.com/alpha2\" target=\"_blank\">here</a>!</p><br>",
         "feedlabel": "TF2 Blog",
         "date": 1780601580,
         "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
-      },
-      {
-        "gid": "1834602721188484",
-        "title": "'What was unravelling is suddenly stabilizing': Destiny 2's last update is getting an absurd 71 pages of patch notes, but its story is closing with a shrug",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1834602721188484",
-        "is_external_url": true,
-        "author": "Lincoln Carpenter",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/nXnhXxk2w9jnrdFQLBg7Cf-1280-80.jpg\"/><br><br>\n                I don't know what to say anymore, man. In the two weeks since announcing that <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\" target=\"_blank\">Destiny 2 will soon be entering maintenance mode</a>, Bungie has been gradually unveiling a massive slate of changes for its final Monument of Triumph update. Those additions and quality-of-life reworks have been so well-received that D2's daily peak player counts are now <a href=\"https://steamdb.info/app/1085660/charts/#3m\" target=\"_blank\">almost triple</a> what they were immediately before its retirement date was declared...\n                <a href=\"https://www.pcgamer.com/games/fps/what-was-unravelling-is-suddenly-stabilizing-destiny-2s-last-update-is-getting-an-absurd-71-pages-of-patch-notes-but-its-story-is-closing-with-a-shrug/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1780598055,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1834602721188157",
