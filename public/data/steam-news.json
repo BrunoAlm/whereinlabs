@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835236783558069",
+        "title": "All 26 new catalysts in Destiny 2's final update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783558069",
+        "is_external_url": true,
+        "author": "Rory Norris",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/mKYXtLJHzb2vbU4S8A7ytW-1280-80.jpg\"/><br><br>\n                Strange as it is, <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2</a>'s massive <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/\" target=\"_blank\">final update</a> is here, marking the end of an era. But Bungie's gone out with a bang here, not least because it's added 26 <strong>new catalysts</strong> and updated nine old ones. No Exotic weapons have been left behind, and that's a fitting way to leave things...\n                <a href=\"https://www.pcgamer.com/games/fps/destiny-2-new-catalysts-monument-of-triumph/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1781107600,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1835236783557352",
         "title": "How to complete the Distortions quest in Destiny 2",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783557352",
@@ -75,19 +88,6 @@
         "contents": "[p]As a thank you to all players who are joining us for Monument of Triumph, we have a collection of Armor Ornaments and cosmetics going live.[/p][p][/p][p]Sign in to your Bungie account and hit the links below to redeem each code.[/p][list][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=3TG-G67-PYD\"]Deadlands Titan Ornament Set[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=MMX-3HF-CJ4\"]Deadlands Warlock Ornament Set[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=6MC-A3F-X3R\"]Deadlands Hunter Ornament Set[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=FPP-NHV-HNC\"]Field Transcriber Ghost Shell[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=7AM-PJR-GMX\"]Mobile Array Sparrow[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=K9P-PVD-NR6\"]Dynamic Equivalence Ship[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=M3L-7DA-67C\"]Evergreen Destrier Sparrow[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=FLK-TXG-P4A\"]Hot and Cold Shader[/url][/p][/*][/list][p][/p][p][url=\"https://www.bungie.net/7/en/News/Article/deadlands_cosmetics\"]https://www.bungie.net/7/en/News/Article/deadlands_cosmetics[/url][/p][p][/p]",
         "feedlabel": "Community Announcements",
         "date": 1781040519,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 1085660
-      },
-      {
-        "gid": "1834602721203017",
-        "title": "Monument of Triumph is Live",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721203017",
-        "is_external_url": true,
-        "author": "Destiny2_Team",
-        "contents": "[p]Over the past three weeks, our Activities, Sandbox, Rewards, RAD, and Commerce teams have shared deep dives into how many of the game's systems are changing with Monument of Triumph. The broad scope of this update sees the Director returning to navigate you among destinations updated with new loot, a sweeping overhaul of activity difficulty and rewards, new armor archetypes as well as new set bonus, 25 new Exotic weapon catalysts and perks for older catalysts, and increased vault space and loadout slots to hold your new prizes – plus, the return of Sparrow Racing League![/p][p][/p][p]Here's an overview of what's new in Monument of Triumph, visit the link below each section to learn more:[/p][list][*][p]The Return of the Director[/p][/*][*][p]Destination and Patrol Updates[/p][/*][*][p]Distorted Destinations[/p][/*][*][p]Overhauling the Portal[/p][/*][*][p]Elevating Gambit[/p][/*][*][p]Crucible Playlist Rotations[/p][/*][*][p]Heavier and More Metallic[/p][/*][*][p]The Return of Sparrow Racing League[/p][/*][*][p]Weapon Tier Upgrading[/p][/*][*][p]Exotic Weapon Catalysts[/p][/*][*][p]Enhancing Weapon Crafting[/p][/*][*][p]Weapon Sandbox Updates[/p][/*][*][p]Artifacts and Anti-Champion[/p][/*][*][p]Vendor Updates[/p][/*][*][p]Attune Anywhere[/p][/*][*][p]PvP Strike Team Update[/p][/*][*][p]Pantheon & RAD Update[/p][/*][*][p]Cosmetics, Bright Engrams, Bright Dust, and Expanded Exotic Armor Ornaments[/p][/*][*][p]Abilities Preview[/p][/*][*][p]Armor Preview[/p][/*][*][p]Monument of Triumph Rewards[/p][/*][*][p]Destiny 2: The Collection[/p][/*][*][p]9.7.0 Patch Notes[/p][/*][/list][p][/p][p][url=\"https://www.bungie.net/7/en/News/Article/monument_of_triumph_is_live\"]https://www.bungie.net/7/en/News/Article/monument_of_triumph_is_live[/url][/p][p][/p][p] [/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1781039948,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1085660
