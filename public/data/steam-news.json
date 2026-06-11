@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835236783561593",
+        "title": "This Week In Destiny - 06/11/2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783561593",
+        "is_external_url": true,
+        "author": "Destiny2_Team",
+        "contents": "[p]This week in Destiny, we launched Monument of Triumph, our last live service update for the best game ever made, aka Destiny 2. We hope you had fun and that you could reunite with old friends, whether they are old raid bosses that have been away for far too long or weapons reprised with all the love in the world. There were new friends coming to the party, too. Don't you love surprises?[/p][list][*][p]Destiny 2: The Collection Trailer[/p][/*][*][p]The Pantheon Grows...[/p][/*][*][p]Trials of Osiris Returns June 12[/p][/*][*][p]New Player Guide Updated for Monument of Triumph[/p][/*][*][p]Monument of Triumph FAQ[/p][/*][*][p] Revisiting the Update 9.7.0 Patch Notes[/p][/*][*][p]Active and Upcoming Destiny Activities[/p][/*][/list][p] [/p][p]Read more: [/p][p][url=\"https://www.bungie.net/7/en/News/Article/twid_06_11_2026\"]https://www.bungie.net/7/en/News/Article/twid_06_11_2026[/url][/p][p][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1781206628,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 1085660
+      },
+      {
         "gid": "1835236783558731",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731",
@@ -93,19 +106,6 @@
         "date": 1781071200,
         "feedname": "Gamemag.ru",
         "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1834602721203033",
-        "title": "Deadlands Cosmetics Bundle",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721203033",
-        "is_external_url": true,
-        "author": "Destiny2_Team",
-        "contents": "[p]As a thank you to all players who are joining us for Monument of Triumph, we have a collection of Armor Ornaments and cosmetics going live.[/p][p][/p][p]Sign in to your Bungie account and hit the links below to redeem each code.[/p][list][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=3TG-G67-PYD\"]Deadlands Titan Ornament Set[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=MMX-3HF-CJ4\"]Deadlands Warlock Ornament Set[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=6MC-A3F-X3R\"]Deadlands Hunter Ornament Set[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=FPP-NHV-HNC\"]Field Transcriber Ghost Shell[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=7AM-PJR-GMX\"]Mobile Array Sparrow[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=K9P-PVD-NR6\"]Dynamic Equivalence Ship[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=M3L-7DA-67C\"]Evergreen Destrier Sparrow[/url][/p][/*][*][p][url=\"https://bungie.net/7/en/codes/redeem?token=FLK-TXG-P4A\"]Hot and Cold Shader[/url][/p][/*][/list][p][/p][p][url=\"https://www.bungie.net/7/en/News/Article/deadlands_cosmetics\"]https://www.bungie.net/7/en/News/Article/deadlands_cosmetics[/url][/p][p][/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1781040519,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
         "appid": 1085660
       },
       {
