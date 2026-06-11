@@ -2,6 +2,22 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835236783558731",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731",
+        "is_external_url": true,
+        "author": "Vitaliy",
+        "contents": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.[/p][/*][*][p]Fixed number wrapping rules in some languages.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1781126525,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1835236783558069",
         "title": "All 26 new catalysts in Destiny 2's final update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783558069",
@@ -405,22 +421,6 @@
         "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted player and grenade collision.[/p][/*][*][p]Adjusted material blending to improve accuracy of footstep sounds.[/p][/*][*][p]Fixed several gaps reported by players.[/p][/*][/list][p]Ancient[/p][list][*][p]Fixed a gap in the wall.[/p][/*][/list]",
         "feedlabel": "Community Announcements",
         "date": 1779318374,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1832700592799760",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760",
-        "is_external_url": true,
-        "author": "Vitaliy",
-        "contents": "[p]\\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage overlay effect.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added weapon_accuracy_stack_boost_limit (default value \"2\") to apply ladder inaccuracy to players boosted by a stack of this many or more players.[/p][/*][*][p]Adjustments to AWP draw to idle animation transition.[/p][/*][*][p]Improved consistency of grenade jump throws and the accuracy of the jump throw preview camera.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted model for window covers to show collision / decals when shot.[/p][/*][*][p]Adjustments to player clipping and grenade clipping around windows, window covers, and vent entrance.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.RegisterCheatCommand[/p][/*][*][p]Added Instance.GetAllPlayerControllers[/p][/*][*][p]Added Instance.OnBeginRoundRestart[/p][/*][*][p]Added Instance.SetRoundRemainingTime[/p][/*][*][p]Added CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerPawn.HasHelmet[/p][/*][*][p]Added CSPlayerPawn.SetHasHelmet[/p][/*][*][p]Added CSPlayerPawn.IsScoped[/p][/*][*][p]Added CSWeaponBase.IsSilencerOn[/p][/*][*][p]Changed the activator for OnPlayerUse to always be the player[/p][/*][*][p]Changed the caller for OnPlayerUse to always be the used entity[/p][/*][*][p]Fixed the value of CSInputs.LOOK_AT_WEAPON[/p][/*][*][p]Fixed a potential crash in exception handling[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1779147368,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 730,
