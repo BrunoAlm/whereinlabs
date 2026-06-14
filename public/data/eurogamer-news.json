@@ -6,6 +6,83 @@
   "category": [],
   "items": [
     {
+      "title": "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-3.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A new report claims Microsoft is considering \"spinning out\" Xbox into its own company.</p> <p><a href=\"https://www.eurogamer.net/microsoft-restructuring-xbox\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/microsoft-restructuring-xbox",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1781382647000,
+      "created": 1781382647000,
+      "category": [
+        "PS5",
+        "Single Player",
+        "First person",
+        "FPS",
+        "Halo Studios",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Halo: Campaign Evolved",
+        "Third person",
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC",
+        "Science Fiction"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-3.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-3.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Send Crimson Desert your \"fun and incredible videos\", and you could win an all-expenses-paid trip to South Korea",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Kliff-from-Crimson-Desert-carries-a-pig-over-his-shoulder.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Crimson Desert, the open-world action RPG from Pearl Abyss, has a new challenge for Greymanes &ndash; a community challenge event that invites you all to commemorate your time in Pywel by sharing a video.</p> <p><a href=\"https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1781379749000,
+      "created": 1781379749000,
+      "category": [
+        "Pearl Abyss",
+        "PS5",
+        "Single Player",
+        "MMORPG",
+        "RPG",
+        "Mac",
+        "Crimson Desert",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "RPG: Action",
+        "PC"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Kliff-from-Crimson-Desert-carries-a-pig-over-his-shoulder.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Kliff-from-Crimson-Desert-carries-a-pig-over-his-shoulder.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Little Nightmares 3 – The Backstage wants you to meet The Puppeteer",
       "description": "<img src=\"https://assetsio.gnwcdn.com/Little_Nightmares_III_The_Backstage_Screenshot_1.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/little-nightmares-iii\">Little Nightmares 3</a> &ndash; The Backstage &ndash; the DLC expansion announced during last week's Summer Game Fest festivities &ndash; is now available.</p> <p><a href=\"https://www.eurogamer.net/little-nightmares-3-backstage-dlc\">Read more</a></p>",
       "link": "https://www.eurogamer.net/little-nightmares-3-backstage-dlc",
@@ -16,25 +93,25 @@
       "published": 1781372751000,
       "created": 1781372751000,
       "category": [
-        "Side view",
-        "Nintendo Switch",
-        "Supermassive Games",
-        "DLC",
-        "Puzzle",
-        "PS5",
-        "Nintendo Switch 2",
-        "Action Adventure",
-        "Platformer",
-        "PS4",
-        "Xbox One",
-        "Bandai Namco Entertainment",
         "Little Nightmares III",
+        "PS5",
         "Multiplayer Competitive",
-        "Multiplayer Cooperative",
+        "Puzzle",
+        "Side view",
+        "Nintendo Switch 2",
+        "Supermassive Games",
+        "PS4",
         "PC",
-        "Horror",
+        "Multiplayer Cooperative",
+        "Nintendo Switch",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox One",
+        "DLC",
+        "Platformer",
+        "Bandai Namco Entertainment",
+        "Single Player",
+        "Horror"
       ],
       "enclosures": [
         {
@@ -60,17 +137,17 @@
       "published": 1781370138000,
       "created": 1781370138000,
       "category": [
-        "Third person",
         "PS5",
+        "Single Player",
+        "Spyro: A Realm Beyond",
+        "Platformer",
         "Activision",
         "Nintendo Switch 2",
-        "Spyro: A Realm Beyond",
-        "PC",
-        "Action Adventure",
+        "Third person",
         "Xbox Series X/S",
-        "Platformer",
-        "Toys for Bob",
-        "Single Player"
+        "Action Adventure",
+        "PC",
+        "Toys for Bob"
       ],
       "enclosures": [
         {
@@ -96,25 +173,25 @@
       "published": 1781287208000,
       "created": 1781287208000,
       "category": [
-        "Puzzle",
         "PS5",
+        "Multiplayer Competitive",
+        "Puzzle",
         "Nintendo Switch 2",
-        "Shooter",
-        "Resident Evil Code: Veronica",
-        "Action Adventure",
-        "Capcom",
-        "Eidos Interactive",
+        "PC",
         "Summer Game Fest 2026",
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
         "First person",
         "Resident Evil Veronica",
-        "SEGA Dreamcast",
-        "Third person",
-        "Multiplayer Competitive",
         "SEGA",
-        "PC",
+        "SEGA Dreamcast",
+        "Single Player",
+        "Eidos Interactive",
+        "Third person",
         "Horror",
-        "Xbox Series X/S",
-        "Single Player"
+        "Capcom",
+        "Resident Evil Code: Veronica"
       ],
       "enclosures": [
         {
@@ -140,27 +217,27 @@
       "published": 1781280491000,
       "created": 1781280491000,
       "category": [
-        "Shooter: Third Person",
-        "Full product",
-        "Open World",
         "PS5",
-        "Shooter",
-        "Rockstar Games",
-        "Action Adventure",
-        "Asobo Studio",
-        "Take-Two Interactive",
-        "Racing",
-        "Resonance: A Plague Tale Legacy",
-        "First person",
         "Modern Day",
-        "Focus Entertainment",
-        "Third person",
+        "Full product",
         "Multiplayer Competitive",
-        "Multiplayer Cooperative",
         "PC",
+        "Racing",
+        "Multiplayer Cooperative",
+        "Shooter",
         "Xbox Series X/S",
+        "Action Adventure",
+        "Focus Entertainment",
+        "First person",
+        "Asobo Studio",
+        "Open World",
+        "Single Player",
+        "Rockstar Games",
+        "Take-Two Interactive",
+        "Resonance: A Plague Tale Legacy",
+        "Third person",
         "Grand Theft Auto VI",
-        "Single Player"
+        "Shooter: Third Person"
       ],
       "enclosures": [
         {
@@ -186,13 +263,13 @@
       "published": 1781276543000,
       "created": 1781276543000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
         "PS5",
-        "PC",
+        "MMORPG",
+        "Multiplayer Competitive",
         "Guild Wars 3",
+        "Third person",
         "MMO",
-        "MMORPG"
+        "PC"
       ],
       "enclosures": [
         {
@@ -218,29 +295,29 @@
       "published": 1781272734000,
       "created": 1781272734000,
       "category": [
-        "Phantom Blade 0",
-        "Shooter: Third Person",
-        "Full product",
-        "Open World",
         "PS5",
-        "Shooter",
-        "Rockstar Games",
-        "Action Adventure",
-        "Take-Two Interactive",
-        "Racing",
-        "Summer Game Fest 2026",
-        "First person",
         "Modern Day",
-        "RPG",
-        "Third person",
+        "Full product",
         "Multiplayer Competitive",
-        "Hack & Slash",
-        "Multiplayer Cooperative",
+        "RPG",
         "PC",
+        "Racing",
+        "Multiplayer Cooperative",
+        "Summer Game Fest 2026",
+        "Shooter",
+        "Hack & Slash",
+        "Action Adventure",
         "Xbox Series X/S",
+        "First person",
+        "Open World",
+        "Single Player",
+        "Rockstar Games",
+        "Take-Two Interactive",
         "S-Game",
+        "Phantom Blade 0",
+        "Third person",
         "Grand Theft Auto VI",
-        "Single Player"
+        "Shooter: Third Person"
       ],
       "enclosures": [
         {
@@ -266,31 +343,31 @@
       "published": 1781270976000,
       "created": 1781270976000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "Side view",
-        "Nintendo Switch",
-        "iOS",
-        "Indie",
-        "Lisa: The Painful",
-        "Mac",
-        "Puzzle",
         "PS5",
-        "Playism",
-        "Point and Click",
-        "Action Adventure",
         "Nintendo 3DS",
-        "PS4",
-        "Xbox One",
-        "Android",
-        "PlayStation Vita",
-        "RPG",
         "Freebird Games",
-        "Omori",
-        "To The Moon",
-        "PC",
+        "Puzzle",
+        "Mac",
+        "RPG",
+        "Side view",
+        "PS4",
         "Bird view / Isometric",
+        "PC",
+        "iOS",
+        "Nintendo Switch",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "To The Moon",
+        "Playism",
+        "Xbox One",
+        "PlayStation Vita",
+        "Android",
+        "Strategy: Turn-Based Strategy",
+        "Point and Click",
+        "Omori",
+        "Single Player",
+        "Indie",
+        "Lisa: The Painful"
       ],
       "enclosures": [
         {
@@ -316,23 +393,23 @@
       "published": 1781269364000,
       "created": 1781269364000,
       "category": [
-        "Third person",
-        "Naughty Dog",
         "PS5",
-        "The Last of Us Part II",
-        "Story Rich",
-        "Iron Galaxy Studios",
-        "Sony Computer Entertainment",
-        "Shooter",
+        "Single Player",
         "The Last of Us Part II Remastered",
-        "PC",
-        "Action Adventure",
+        "Sony Computer Entertainment",
+        "Full product",
+        "Naughty Dog",
+        "The Last of Us Part II",
+        "Third person",
+        "Story Rich",
+        "Shooter",
         "Horror",
-        "The Last of Us TV show",
+        "Action Adventure",
         "PS4",
         "Post-apocalyptic",
-        "Full product",
-        "Single Player"
+        "The Last of Us TV show",
+        "PC",
+        "Iron Galaxy Studios"
       ],
       "enclosures": [
         {
@@ -358,16 +435,16 @@
       "published": 1781266417000,
       "created": 1781266417000,
       "category": [
-        "Multiplayer Competitive",
         "PS5",
-        "Electronic Arts",
-        "First person",
+        "Single Player",
         "Battlefield 6",
+        "First person",
+        "Multiplayer Competitive",
+        "Electronic Arts",
         "Shooter",
-        "PC",
-        "Bird view / Isometric",
         "Xbox Series X/S",
-        "Single Player"
+        "Bird view / Isometric",
+        "PC"
       ],
       "enclosures": [
         {
@@ -394,20 +471,20 @@
       "created": 1781255305000,
       "category": [
         "Fantasy",
-        "Puzzle",
-        "Third person",
         "PS5",
-        "Nintendo Switch 2",
-        "Amazon Games",
-        "Tomb Raider: Legacy of Atlantis",
-        "PC",
-        "Action Adventure",
-        "Flying Wild Hog",
-        "Shooter: Third Person",
-        "Xbox Series X/S",
-        "Platformer",
         "Crystal Dynamics",
-        "Single Player"
+        "Flying Wild Hog",
+        "Single Player",
+        "Platformer",
+        "Amazon Games",
+        "Puzzle",
+        "Tomb Raider: Legacy of Atlantis",
+        "Nintendo Switch 2",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Shooter: Third Person",
+        "PC"
       ],
       "enclosures": [
         {
@@ -433,23 +510,23 @@
       "published": 1781254365000,
       "created": 1781254365000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
         "PS5",
-        "Nintendo Switch",
-        "SEGA",
-        "Nintendo Switch 2",
-        "Sonic Racing: CrossWorlds",
         "Xbox One",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
+        "Racing",
         "Single Player",
-        "Xbox Series X/S",
-        "PS4",
-        "Sports",
+        "Sonic Racing: CrossWorlds",
+        "Multiplayer Competitive",
         "Sonic Team",
-        "Racing"
+        "Nintendo Switch",
+        "Multiplayer Cooperative",
+        "Sports",
+        "Nintendo Switch 2",
+        "SEGA",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "PS4",
+        "PC"
       ],
       "enclosures": [
         {
@@ -476,14 +553,14 @@
       "created": 1781196811000,
       "category": [
         "PS5",
-        "Valor Mortis",
+        "Single Player",
         "First person",
-        "Shooter",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
+        "Valor Mortis",
         "RPG",
-        "Single Player"
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "PC"
       ],
       "enclosures": [
         {
@@ -509,23 +586,23 @@
       "published": 1781187630000,
       "created": 1781187630000,
       "category": [
-        "Gen Atlas",
-        "Third person",
-        "Puzzle",
-        "PS5",
-        "Team Ico",
-        "Shadow of the Colossus",
-        "Sony Computer Entertainment Europe",
-        "PS4",
-        "Sony Computer Entertainment",
-        "PC",
-        "Action Adventure",
-        "PS2",
-        "Xbox Series X/S",
-        "Platformer",
         "Epic Games Publishing",
+        "PS5",
+        "Single Player",
         "Bluepoint Games",
-        "Single Player"
+        "Sony Computer Entertainment",
+        "Platformer",
+        "Puzzle",
+        "PS2",
+        "Team Ico",
+        "Gen Atlas",
+        "Sony Computer Entertainment Europe",
+        "Shadow of the Colossus",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "PS4",
+        "PC"
       ],
       "enclosures": [
         {
@@ -551,17 +628,17 @@
       "published": 1781184420000,
       "created": 1781184420000,
       "category": [
-        "Third person",
-        "PS5",
-        "PC",
-        "Action Adventure",
         "Pearl Abyss",
+        "PS5",
+        "Single Player",
         "MMORPG",
-        "Xbox Series X/S",
         "RPG",
-        "Crimson Desert",
         "Mac",
-        "Single Player"
+        "Crimson Desert",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "PC"
       ],
       "enclosures": [
         {
@@ -588,25 +665,25 @@
       "created": 1781180243000,
       "category": [
         "PS5",
-        "Destiny 2",
-        "Shooter",
-        "Action Adventure",
-        "PS4",
-        "Xbox One",
-        "Marathon (2026)",
-        "First person",
-        "Stadia",
-        "RPG",
-        "Third person",
         "Multiplayer Competitive",
+        "RPG",
+        "PS4",
+        "PC",
+        "Marathon (2026)",
+        "Stadia",
+        "MMORPG",
+        "Multiplayer Cooperative",
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Destiny 2",
+        "Xbox One",
+        "First person",
         "Bungie",
         "Activision",
-        "Activision Blizzard",
-        "Multiplayer Cooperative",
-        "PC",
-        "Xbox Series X/S",
-        "MMORPG",
-        "Single Player"
+        "Single Player",
+        "Third person",
+        "Activision Blizzard"
       ],
       "enclosures": [
         {
@@ -632,22 +709,22 @@
       "published": 1781172335000,
       "created": 1781172335000,
       "category": [
-        "Ubisoft Entertainment",
-        "Multiplayer Competitive",
         "PS5",
-        "Ubisoft",
         "Ubisoft Montreal",
-        "Ubisoft Barcelona",
+        "Single Player",
+        "Xbox One",
         "First person",
-        "Shooter",
-        "PC",
-        "Multiplayer Cooperative",
         "Stadia",
+        "Multiplayer Competitive",
         "Tom Clancy's Rainbow Six Siege X",
+        "Ubisoft",
+        "Multiplayer Cooperative",
+        "Ubisoft Entertainment",
+        "Ubisoft Barcelona",
+        "Shooter",
         "Xbox Series X/S",
         "PS4",
-        "Xbox One",
-        "Single Player"
+        "PC"
       ],
       "enclosures": [
         {
@@ -674,8 +751,8 @@
       "created": 1781169407000,
       "category": [
         "Xbox Series X/S",
-        "Microsoft",
-        "Layoffs"
+        "Layoffs",
+        "Microsoft"
       ],
       "enclosures": [
         {
@@ -701,19 +778,19 @@
       "published": 1781108061000,
       "created": 1781108061000,
       "category": [
-        "Multiplayer Competitive",
         "PS5",
-        "Simulation",
-        "Planet Coaster 2",
-        "Management",
-        "PC",
-        "Action Adventure",
-        "Frontier Developments",
-        "Bird view / Isometric",
-        "Xbox Series X/S",
-        "Planet Zoo 2",
         "Strategy",
-        "Single Player"
+        "Xbox Series X/S",
+        "Single Player",
+        "Management",
+        "Multiplayer Competitive",
+        "PC",
+        "Planet Coaster 2",
+        "Planet Zoo 2",
+        "Simulation",
+        "Action Adventure",
+        "Bird view / Isometric",
+        "Frontier Developments"
       ],
       "enclosures": [
         {
@@ -739,36 +816,36 @@
       "published": 1781106996000,
       "created": 1781106996000,
       "category": [
-        "Simulation",
-        "Nintendo Switch",
-        "Kingdom Come: Deliverance",
-        "Warhorse Studios",
-        "Black Desert",
-        "PS2",
-        "Mac",
         "PS5",
-        "Action Adventure",
-        "PS4",
-        "Xbox One",
-        "Strategy",
-        "First person",
-        "Final Fantasy XVI",
-        "Auditory",
-        "Life is Strange: Double Exposure",
-        "RPG",
-        "Koei",
-        "Gitaroo Man",
-        "Third person",
-        "Multiplayer Competitive",
-        "Hack & Slash",
-        "Square Enix",
-        "Rhythm",
-        "Multiplayer Cooperative",
-        "PC",
-        "Xbox Series X/S",
         "Deep Silver",
+        "Auditory",
+        "Multiplayer Competitive",
+        "RPG",
+        "Mac",
+        "PS4",
+        "Black Desert",
+        "Warhorse Studios",
+        "PC",
         "MMORPG",
-        "Single Player"
+        "Multiplayer Cooperative",
+        "Nintendo Switch",
+        "PS2",
+        "Gitaroo Man",
+        "Hack & Slash",
+        "Action Adventure",
+        "Xbox Series X/S",
+        "Xbox One",
+        "First person",
+        "Kingdom Come: Deliverance",
+        "Final Fantasy XVI",
+        "Koei",
+        "Single Player",
+        "Rhythm",
+        "Square Enix",
+        "Life is Strange: Double Exposure",
+        "Third person",
+        "Simulation",
+        "Strategy"
       ],
       "enclosures": [
         {
@@ -794,19 +871,19 @@
       "published": 1781105759000,
       "created": 1781105759000,
       "category": [
-        "Multiplayer Competitive",
         "PS5",
-        "Nintendo Switch",
-        "Side view",
-        "Nintendo Switch 2",
-        "Indie",
-        "Hotel Barcelona",
+        "Single Player",
+        "Multiplayer Competitive",
         "Multiplayer Cooperative",
-        "Cult Games",
-        "PC",
-        "Xbox Series X/S",
+        "Nintendo Switch",
         "RPG",
-        "Single Player"
+        "Indie",
+        "Side view",
+        "Hotel Barcelona",
+        "Nintendo Switch 2",
+        "Xbox Series X/S",
+        "Cult Games",
+        "PC"
       ],
       "enclosures": [
         {
@@ -832,15 +909,15 @@
       "published": 1781103619000,
       "created": 1781103619000,
       "category": [
+        "Single Player",
         "Gears of War: E-day",
         "Multiplayer Competitive",
-        "Summer Game Fest 2026",
-        "Xbox Game Studios",
         "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
+        "Summer Game Fest 2026",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -866,15 +943,15 @@
       "published": 1781103615000,
       "created": 1781103615000,
       "category": [
+        "Single Player",
         "Gears of War: E-day",
         "Multiplayer Competitive",
-        "Summer Game Fest 2026",
-        "Xbox Game Studios",
         "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
+        "Summer Game Fest 2026",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -900,14 +977,14 @@
       "published": 1781103605000,
       "created": 1781103605000,
       "category": [
+        "Single Player",
         "Gears of War: E-day",
         "Multiplayer Competitive",
-        "Xbox Game Studios",
         "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -933,25 +1010,25 @@
       "published": 1781103600000,
       "created": 1781103600000,
       "category": [
-        "Puzzle",
         "PS5",
+        "Multiplayer Competitive",
+        "Puzzle",
         "Nintendo Switch 2",
-        "Shooter",
-        "Resident Evil Code: Veronica",
-        "Action Adventure",
-        "Capcom",
-        "Eidos Interactive",
+        "PC",
         "Summer Game Fest 2026",
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
         "First person",
         "Resident Evil Veronica",
-        "SEGA Dreamcast",
-        "Third person",
-        "Multiplayer Competitive",
         "SEGA",
-        "PC",
+        "SEGA Dreamcast",
+        "Single Player",
+        "Eidos Interactive",
+        "Third person",
         "Horror",
-        "Xbox Series X/S",
-        "Single Player"
+        "Capcom",
+        "Resident Evil Code: Veronica"
       ],
       "enclosures": [
         {
@@ -977,25 +1054,25 @@
       "published": 1781103600000,
       "created": 1781103600000,
       "category": [
-        "Puzzle",
         "PS5",
+        "Multiplayer Competitive",
+        "Puzzle",
         "Nintendo Switch 2",
-        "Shooter",
-        "Resident Evil Code: Veronica",
-        "Action Adventure",
-        "Capcom",
-        "Eidos Interactive",
+        "PC",
         "Summer Game Fest 2026",
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
         "First person",
         "Resident Evil Veronica",
-        "SEGA Dreamcast",
-        "Third person",
-        "Multiplayer Competitive",
         "SEGA",
-        "PC",
+        "SEGA Dreamcast",
+        "Single Player",
+        "Eidos Interactive",
+        "Third person",
         "Horror",
-        "Xbox Series X/S",
-        "Single Player"
+        "Capcom",
+        "Resident Evil Code: Veronica"
       ],
       "enclosures": [
         {
@@ -1048,19 +1125,19 @@
       "published": 1781093613000,
       "created": 1781093613000,
       "category": [
-        "RPG: Action",
-        "Capcom",
         "Fantasy",
-        "Dragon's Dogma 2",
         "Open World",
         "PS5",
-        "Third person",
-        "Nintendo Switch 2",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
+        "RPG: Action",
+        "Single Player",
         "RPG",
-        "Single Player"
+        "Nintendo Switch 2",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Dragon's Dogma 2",
+        "Capcom",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1086,26 +1163,26 @@
       "published": 1781089215000,
       "created": 1781089215000,
       "category": [
-        "Team Ico",
-        "PS2",
-        "Gen Atlas",
-        "Puzzle",
         "PS5",
-        "Action Adventure",
-        "Platformer",
-        "PS4",
-        "ICO",
-        "Summer Game Fest 2026",
-        "The Last Guardian",
-        "Third person",
         "Bluepoint Games",
-        "Sony Computer Entertainment Europe",
-        "PC",
-        "Xbox Series X/S",
-        "Shadow of the Colossus",
         "Sony Computer Entertainment",
+        "Puzzle",
+        "PS4",
+        "PC",
+        "PS2",
+        "Summer Game Fest 2026",
+        "Sony Computer Entertainment Europe",
+        "The Last Guardian",
+        "ICO",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Epic Games Publishing",
+        "Platformer",
+        "Team Ico",
+        "Gen Atlas",
         "Single Player",
-        "Epic Games Publishing"
+        "Shadow of the Colossus",
+        "Third person"
       ],
       "enclosures": [
         {
@@ -1131,17 +1208,17 @@
       "published": 1781088528000,
       "created": 1781088528000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "JRPG",
-        "Nintendo Switch 2",
-        "Fire Emblem: Fortune's Weave",
-        "Bird view / Isometric",
-        "Intelligent Systems",
-        "Nintendo",
+        "Single Player",
         "Anime",
+        "Nintendo",
         "RPG",
+        "JRPG",
+        "Strategy: Turn-Based Strategy",
+        "Intelligent Systems",
+        "Nintendo Switch 2",
         "Strategy",
-        "Single Player"
+        "Fire Emblem: Fortune's Weave",
+        "Bird view / Isometric"
       ],
       "enclosures": [
         {
@@ -1167,22 +1244,22 @@
       "published": 1781087856000,
       "created": 1781087856000,
       "category": [
-        "Third person",
-        "Naughty Dog",
-        "Multiplayer Competitive",
-        "Android",
-        "PSP",
-        "Sony Computer Entertainment",
-        "PS1",
-        "Crash Bandicoot",
-        "Action Adventure",
         "Konami",
-        "PS3",
-        "Crash Team Racing",
+        "PSP",
+        "Racing",
         "Single Player",
+        "Naughty Dog",
+        "Sony Computer Entertainment",
+        "Multiplayer Competitive",
         "Platformer",
+        "Crash Team Racing",
         "PlayStation Vita",
-        "Racing"
+        "PS3",
+        "Android",
+        "Crash Bandicoot",
+        "Third person",
+        "Action Adventure",
+        "PS1"
       ],
       "enclosures": [
         {
@@ -1208,8 +1285,8 @@
       "published": 1781086369000,
       "created": 1781086369000,
       "category": [
-        "Asha Sharma",
-        "Xbox Series X/S"
+        "Xbox Series X/S",
+        "Asha Sharma"
       ],
       "enclosures": [
         {
@@ -1235,14 +1312,14 @@
       "published": 1781083465000,
       "created": 1781083465000,
       "category": [
+        "Single Player",
         "Gears of War: E-day",
         "Multiplayer Competitive",
-        "Xbox Game Studios",
         "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1269,20 +1346,20 @@
       "created": 1781082401000,
       "category": [
         "Death Stranding",
-        "Third person",
         "PS5",
-        "Death Stranding 2: On The Beach",
         "Kojima Productions",
-        "Sony Interactive Entertainment",
-        "Shooter",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
-        "PS4",
         "505 Games",
-        "RPG",
         "Blockbuster",
-        "Single Player"
+        "Single Player",
+        "Xbox Series X/S",
+        "RPG",
+        "Third person",
+        "PS4",
+        "Shooter",
+        "Sony Interactive Entertainment",
+        "Action Adventure",
+        "Death Stranding 2: On The Beach",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1308,10 +1385,10 @@
       "published": 1781022373000,
       "created": 1781022373000,
       "category": [
-        "Nintendo Switch 2",
-        "Sports",
         "Summer Game Fest 2026",
-        "Nintendo Switch Sports Resort"
+        "Nintendo Switch Sports Resort",
+        "Sports",
+        "Nintendo Switch 2"
       ],
       "enclosures": [
         {
@@ -1337,26 +1414,26 @@
       "published": 1781018969000,
       "created": 1781018969000,
       "category": [
-        "Final Fantasy Brave Exvius",
+        "PS5",
+        "RPG",
+        "Nintendo Switch 2",
+        "Story Rich",
+        "PS4",
+        "Bird view / Isometric",
+        "PC",
+        "Final Fantasy Resonance",
+        "Fantasy",
         "iOS",
         "Nintendo Switch",
-        "PS5",
-        "Nintendo Switch 2",
-        "Action Adventure",
-        "PS4",
-        "Xbox One",
-        "Fantasy",
-        "Story Rich",
-        "Android",
         "RPG: Turn-based",
-        "RPG",
-        "Square Enix",
-        "PC",
-        "gumi",
-        "Bird view / Isometric",
         "Xbox Series X/S",
-        "Final Fantasy Resonance",
-        "Single Player"
+        "Action Adventure",
+        "Xbox One",
+        "Android",
+        "Single Player",
+        "Square Enix",
+        "gumi",
+        "Final Fantasy Brave Exvius"
       ],
       "enclosures": [
         {
@@ -1383,8 +1460,8 @@
       "created": 1781018557000,
       "category": [
         "Project Helix",
-        "Microsoft",
-        "Xbox Game Studios"
+        "Xbox Game Studios",
+        "Microsoft"
       ],
       "enclosures": [
         {
@@ -1410,9 +1487,9 @@
       "published": 1781017508000,
       "created": 1781017508000,
       "category": [
-        "Nintendo Switch 2",
+        "Star Fox (2026)",
         "Nintendo",
-        "Star Fox (2026)"
+        "Nintendo Switch 2"
       ],
       "enclosures": [
         {
@@ -1438,11 +1515,11 @@
       "published": 1781017386000,
       "created": 1781017386000,
       "category": [
-        "Kingdom Hearts IV",
         "Square Enix",
+        "RPG",
+        "Kingdom Hearts IV",
         "Hack & Slash",
-        "The Walt Disney Company",
-        "RPG"
+        "The Walt Disney Company"
       ],
       "enclosures": [
         {
@@ -1468,18 +1545,18 @@
       "published": 1781017361000,
       "created": 1781017361000,
       "category": [
-        "Third person",
+        "Single Player",
         "N64",
-        "Puzzle",
-        "Summer Game Fest 2026",
-        "Nintendo Switch 2",
         "Nintendo Wii",
-        "Action Adventure",
         "Nintendo",
+        "Puzzle",
         "Nintendo Wii U",
         "RPG",
-        "Single Player",
-        "The Legend of Zelda: Ocarina of Time"
+        "Summer Game Fest 2026",
+        "The Legend of Zelda: Ocarina of Time",
+        "Nintendo Switch 2",
+        "Third person",
+        "Action Adventure"
       ],
       "enclosures": [
         {
@@ -1505,30 +1582,30 @@
       "published": 1781017068000,
       "created": 1781017068000,
       "category": [
-        "Simulation",
-        "Nintendo Switch",
-        "iOS",
-        "Minecraft",
-        "Mojang",
-        "Mac",
         "PS5",
-        "Nintendo Switch 2",
         "Microsoft Studios",
-        "Action Adventure",
-        "Nintendo",
-        "PS4",
-        "Xbox One",
-        "Android",
-        "Virtual Reality",
-        "First person",
-        "Third person",
         "Multiplayer Competitive",
-        "Nintendo Direct",
-        "Multiplayer Cooperative",
+        "Minecraft",
+        "Mac",
+        "Nintendo Switch 2",
+        "PS4",
         "PC",
-        "Xbox Series X/S",
+        "Virtual Reality",
+        "iOS",
         "MMORPG",
-        "Single Player"
+        "Multiplayer Cooperative",
+        "Nintendo Switch",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox One",
+        "Nintendo Direct",
+        "First person",
+        "Nintendo",
+        "Android",
+        "Single Player",
+        "Mojang",
+        "Third person",
+        "Simulation"
       ],
       "enclosures": [
         {
@@ -1554,14 +1631,14 @@
       "published": 1781016690000,
       "created": 1781016690000,
       "category": [
-        "Third person",
+        "FromSoftware",
+        "The Duskbloods",
         "Multiplayer Competitive",
+        "Nintendo",
         "Summer Game Fest 2026",
         "Nintendo Switch 2",
-        "FromSoftware",
-        "Action Adventure",
-        "Nintendo",
-        "The Duskbloods"
+        "Third person",
+        "Action Adventure"
       ],
       "enclosures": [
         {
@@ -1587,10 +1664,10 @@
       "published": 1781016021000,
       "created": 1781016021000,
       "category": [
-        "Nintendo Switch 2",
         "Xenoblade Genesis",
+        "Nintendo Direct",
         "Nintendo",
-        "Nintendo Direct"
+        "Nintendo Switch 2"
       ],
       "enclosures": [
         {
@@ -1616,16 +1693,16 @@
       "published": 1781015839000,
       "created": 1781015839000,
       "category": [
-        "Capcom",
         "Fantasy",
-        "Dragon's Dogma 2",
-        "Third person",
         "PS5",
-        "Nintendo Switch 2",
-        "PC",
-        "Xbox Series X/S",
+        "Single Player",
         "RPG",
-        "Single Player"
+        "Nintendo Switch 2",
+        "Third person",
+        "Xbox Series X/S",
+        "Dragon's Dogma 2",
+        "Capcom",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1651,25 +1728,25 @@
       "published": 1781015383000,
       "created": 1781015383000,
       "category": [
-        "Simulation",
-        "Social",
-        "Omega Force",
-        "Open World",
+        "Multiplayer Competitive",
+        "Survival & Crafting",
         "Nintendo Switch 2",
+        "Bird view / Isometric",
+        "Omega Force",
+        "Multiplayer Cooperative",
+        "Summer Game Fest 2026",
+        "The Pokémon Company International",
+        "Pokémon Pokopia",
+        "Social",
+        "Sandbox",
         "Action Adventure",
         "Nintendo",
-        "Kids & Family",
-        "Summer Game Fest 2026",
-        "Game Freak",
-        "The Pokémon Company International",
-        "Third person",
-        "Multiplayer Competitive",
-        "Sandbox",
-        "Multiplayer Cooperative",
-        "Bird view / Isometric",
-        "Pokémon Pokopia",
+        "Open World",
         "Single Player",
-        "Survival & Crafting"
+        "Game Freak",
+        "Kids & Family",
+        "Third person",
+        "Simulation"
       ],
       "enclosures": [
         {
@@ -1695,17 +1772,17 @@
       "published": 1781015282000,
       "created": 1781015282000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "JRPG",
-        "Nintendo Switch 2",
-        "Fire Emblem: Fortune's Weave",
-        "Bird view / Isometric",
-        "Intelligent Systems",
-        "Nintendo",
+        "Single Player",
         "Anime",
+        "Nintendo",
         "RPG",
+        "JRPG",
+        "Strategy: Turn-Based Strategy",
+        "Intelligent Systems",
+        "Nintendo Switch 2",
         "Strategy",
-        "Single Player"
+        "Fire Emblem: Fortune's Weave",
+        "Bird view / Isometric"
       ],
       "enclosures": [
         {
@@ -1731,19 +1808,19 @@
       "published": 1781014341000,
       "created": 1781014341000,
       "category": [
+        "Fantasy",
+        "PS5",
+        "Xbox Series X/S",
+        "Single Player",
+        "Nintendo Direct",
+        "Nintendo Switch 2",
+        "Third person",
+        "Horror",
+        "Action Adventure",
         "RPG: Action",
         "Capcom",
-        "Fantasy",
-        "Third person",
-        "PS5",
-        "Nintendo Switch 2",
-        "Onimusha: Way of the Sword",
-        "Nintendo Direct",
         "PC",
-        "Action Adventure",
-        "Horror",
-        "Xbox Series X/S",
-        "Single Player"
+        "Onimusha: Way of the Sword"
       ],
       "enclosures": [
         {
@@ -1769,29 +1846,29 @@
       "published": 1781010087000,
       "created": 1781010087000,
       "category": [
-        "Helldivers",
-        "Comedy",
-        "PlayStation Productions",
-        "Sony Pictures",
         "PS5",
-        "Shooter",
-        "PS3",
-        "Arrowhead Game Studios",
-        "PS4",
-        "Science Fiction",
-        "Helldivers (Movie)",
-        "First person",
-        "Helldivers 2",
-        "PlayStation Vita",
-        "Third person",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "Bird view / Isometric",
-        "Xbox Series X/S",
-        "Sony Interactive Entertainment",
         "Sony Computer Entertainment",
-        "Single Player"
+        "Multiplayer Competitive",
+        "PS4",
+        "Bird view / Isometric",
+        "Helldivers",
+        "PC",
+        "Arrowhead Game Studios",
+        "Multiplayer Cooperative",
+        "Shooter",
+        "Xbox Series X/S",
+        "Helldivers (Movie)",
+        "Helldivers 2",
+        "Comedy",
+        "First person",
+        "Sony Pictures",
+        "PlayStation Vita",
+        "PS3",
+        "Sony Interactive Entertainment",
+        "Single Player",
+        "PlayStation Productions",
+        "Third person",
+        "Science Fiction"
       ],
       "enclosures": [
         {
@@ -1817,21 +1894,21 @@
       "published": 1781006000000,
       "created": 1781006000000,
       "category": [
-        "Third person",
-        "Resonance: A Plague Tale Legacy",
         "PS5",
-        "Nintendo Switch",
-        "Xbox One",
-        "PS4",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
         "Focus Entertainment",
-        "A Plague Tale: Requiem",
-        "Asobo Studio",
+        "Xbox One",
+        "Single Player",
+        "Resonance: A Plague Tale Legacy",
+        "Nintendo Switch",
         "RPG",
         "A Plague Tale: Innocence",
-        "Single Player"
+        "A Plague Tale: Requiem",
+        "Third person",
+        "Action Adventure",
+        "Xbox Series X/S",
+        "Asobo Studio",
+        "PS4",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1857,18 +1934,18 @@
       "published": 1781004616000,
       "created": 1781004616000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
-        "Crazy Taxi: World Tour",
         "PS5",
-        "SEGA",
-        "Nintendo Switch 2",
-        "Summer Game Fest 2026",
-        "PC",
+        "Crazy Taxi: World Tour",
+        "Racing",
         "Single Player",
         "Xbox Series X/S",
+        "Multiplayer Competitive",
+        "Summer Game Fest 2026",
+        "Nintendo Switch 2",
         "Racing Arcade",
-        "Racing"
+        "SEGA",
+        "Third person",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1894,21 +1971,21 @@
       "published": 1781003878000,
       "created": 1781003878000,
       "category": [
-        "Mina the Hollower",
         "PS5",
-        "Nintendo Switch",
-        "Nintendo Switch 2",
         "Yacht Club Games",
-        "PC",
-        "Action Adventure",
-        "Bird view / Isometric",
-        "Platformer",
-        "PS4",
         "Xbox One",
-        "Xbox Series X/S",
+        "Single Player",
+        "Mina the Hollower",
+        "Platformer",
+        "Nintendo Switch",
         "RPG",
         "Mac",
-        "Single Player"
+        "Nintendo Switch 2",
+        "PS4",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Bird view / Isometric",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1934,22 +2011,22 @@
       "published": 1781003596000,
       "created": 1781003596000,
       "category": [
-        "Multiplayer Competitive",
         "PS5",
-        "Square Enix",
-        "Activision",
+        "Xbox One",
+        "Single Player",
         "First person",
-        "Game Pass",
+        "Treyarch",
+        "Multiplayer Competitive",
+        "Activision",
         "Raven Software",
-        "Shooter",
         "Multiplayer Cooperative",
-        "PC",
+        "Square Enix",
+        "Call of Duty: Black Ops 7",
+        "Shooter",
         "Xbox Series X/S",
         "PS4",
-        "Xbox One",
-        "Call of Duty: Black Ops 7",
-        "Treyarch",
-        "Single Player"
+        "Game Pass",
+        "PC"
       ],
       "enclosures": [
         {
@@ -1975,17 +2052,17 @@
       "published": 1781000440000,
       "created": 1781000440000,
       "category": [
-        "Third person",
-        "Side view",
-        "Square Enix",
-        "Electronic Arts",
-        "Action Adventure",
-        "PS2",
-        "Bird view / Isometric",
         "Final Fantasy X",
-        "RPG",
+        "Single Player",
         "Final Fantasy X-2",
-        "Single Player"
+        "RPG",
+        "PS2",
+        "Electronic Arts",
+        "Square Enix",
+        "Side view",
+        "Third person",
+        "Action Adventure",
+        "Bird view / Isometric"
       ],
       "enclosures": [
         {
@@ -2011,26 +2088,26 @@
       "published": 1780998467000,
       "created": 1780998467000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "Nintendo Switch",
-        "iOS",
-        "Indie",
         "PS5",
-        "Nintendo Switch 2",
-        "Action Adventure",
-        "PS4",
-        "Xbox One",
-        "Playdigious",
-        "Android",
-        "RPG",
         "Multiplayer Competitive",
-        "Sabotage Studio",
-        "Sea of Stars",
-        "Multiplayer Cooperative",
-        "PC",
+        "RPG",
+        "Nintendo Switch 2",
+        "PS4",
         "Bird view / Isometric",
+        "PC",
+        "Sabotage Studio",
+        "iOS",
+        "Multiplayer Cooperative",
+        "Nintendo Switch",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox One",
+        "Android",
+        "Strategy: Turn-Based Strategy",
+        "Playdigious",
+        "Single Player",
+        "Indie",
+        "Sea of Stars"
       ],
       "enclosures": [
         {
@@ -2056,28 +2133,28 @@
       "published": 1780996943000,
       "created": 1780996943000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "JRPG",
-        "Fire Emblem: Fortune's Weave",
-        "The Legend of Zelda: Ocarina of Time",
-        "Puzzle",
-        "Nintendo Switch 2",
-        "Action Adventure",
-        "Nintendo",
-        "Intelligent Systems",
-        "Strategy",
-        "N64",
-        "Summer Game Fest 2026",
-        "FromSoftware",
-        "Nintendo Wii",
-        "RPG",
-        "Third person",
+        "Anime",
         "Multiplayer Competitive",
+        "N64",
+        "Nintendo Wii",
+        "Puzzle",
+        "RPG",
+        "Intelligent Systems",
+        "Nintendo Switch 2",
         "Bird view / Isometric",
         "Nintendo Wii U",
+        "Summer Game Fest 2026",
+        "Action Adventure",
+        "Nintendo",
+        "Strategy: Turn-Based Strategy",
+        "Fire Emblem: Fortune's Weave",
+        "FromSoftware",
+        "Single Player",
         "The Duskbloods",
-        "Anime",
-        "Single Player"
+        "JRPG",
+        "The Legend of Zelda: Ocarina of Time",
+        "Third person",
+        "Strategy"
       ],
       "enclosures": [
         {
@@ -2103,16 +2180,16 @@
       "published": 1780995114000,
       "created": 1780995114000,
       "category": [
+        "Single Player",
         "Gears of War: E-day",
         "Multiplayer Competitive",
-        "Summer Game Fest 2026",
-        "Xbox Game Studios",
         "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "Xbox Games Showcase",
+        "Summer Game Fest 2026",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox Game Studios",
+        "Xbox Games Showcase",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2139,11 +2216,11 @@
       "created": 1780933875000,
       "category": [
         "Vampire: The Masquerade",
-        "Kwalee",
+        "RPG",
         "Vampire: The Masquerade - Eternal Whispers",
-        "PC",
+        "Kwalee",
         "Flyos",
-        "RPG"
+        "PC"
       ],
       "enclosures": [
         {
@@ -2169,20 +2246,20 @@
       "published": 1780933490000,
       "created": 1780933490000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
         "PS5",
-        "Xbox Game Studios",
+        "Single Player",
         "First person",
-        "Shooter",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "Xbox Series X/S",
-        "FPS",
         "Halo Studios",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
         "Halo: Campaign Evolved",
-        "Single Player"
+        "Third person",
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC",
+        "FPS"
       ],
       "enclosures": [
         {
@@ -2208,19 +2285,19 @@
       "published": 1780930766000,
       "created": 1780930766000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
         "PS5",
-        "Summer Game Fest 2026",
-        "Xbox Game Studios",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "State of Decay 3",
-        "Xbox Games Showcase",
         "Xbox Series X/S",
+        "Single Player",
+        "Multiplayer Competitive",
         "Undead Labs",
-        "Single Player"
+        "Multiplayer Cooperative",
+        "Summer Game Fest 2026",
+        "Third person",
+        "State of Decay 3",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "Xbox Games Showcase",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2246,16 +2323,16 @@
       "published": 1780929417000,
       "created": 1780929417000,
       "category": [
-        "id Software",
-        "Bethesda Softworks",
         "PS5",
+        "Single Player",
         "First person",
-        "Shooter",
-        "PC",
-        "Xbox Series X/S",
         "FPS",
+        "Bethesda Softworks",
         "Doom: The Dark Ages",
-        "Single Player"
+        "Shooter",
+        "Xbox Series X/S",
+        "PC",
+        "id Software"
       ],
       "enclosures": [
         {
@@ -2281,17 +2358,17 @@
       "published": 1780927218000,
       "created": 1780927218000,
       "category": [
-        "Third person",
+        "Single Player",
         "N64",
-        "Puzzle",
-        "Nintendo Switch 2",
         "Nintendo Wii",
-        "Action Adventure",
         "Nintendo",
+        "Puzzle",
         "Nintendo Wii U",
         "RPG",
-        "Single Player",
-        "The Legend of Zelda: Ocarina of Time"
+        "The Legend of Zelda: Ocarina of Time",
+        "Nintendo Switch 2",
+        "Third person",
+        "Action Adventure"
       ],
       "enclosures": [
         {
@@ -2317,13 +2394,13 @@
       "published": 1780926110000,
       "created": 1780926110000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
         "PS5",
-        "PC",
+        "MMORPG",
+        "Multiplayer Competitive",
         "Guild Wars 3",
+        "Third person",
         "MMO",
-        "MMORPG"
+        "PC"
       ],
       "enclosures": [
         {
@@ -2349,12 +2426,12 @@
       "published": 1780923881000,
       "created": 1780923881000,
       "category": [
-        "Third person",
-        "Arkane Studios",
-        "PC",
-        "Xbox Series X/S",
+        "Single Player",
         "Marvel's Blade",
-        "Single Player"
+        "Arkane Studios",
+        "Third person",
+        "Xbox Series X/S",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2380,22 +2457,22 @@
       "published": 1780919878000,
       "created": 1780919878000,
       "category": [
-        "Capcom",
-        "Third person",
-        "Multiplayer Competitive",
         "PS5",
-        "Hack & Slash",
-        "Nintendo Switch 2",
-        "Monster Hunter Wilds",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "Xbox Series X/S",
-        "PS4",
         "Xbox One",
-        "Monster Hunter World",
+        "Single Player",
+        "Monster Hunter Wilds",
+        "Xbox Series X/S",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
         "RPG",
-        "Single Player"
+        "Nintendo Switch 2",
+        "Third person",
+        "Monster Hunter World",
+        "Hack & Slash",
+        "Action Adventure",
+        "PS4",
+        "Capcom",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2421,14 +2498,14 @@
       "published": 1780918676000,
       "created": 1780918676000,
       "category": [
+        "Single Player",
         "Gears of War: E-day",
         "Summer Game Fest 2026",
-        "Xbox Game Studios",
-        "PC",
-        "Action Adventure",
-        "Xbox Games Showcase",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox Game Studios",
+        "Xbox Games Showcase",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2455,10 +2532,10 @@
       "created": 1780918578000,
       "category": [
         "PS5",
-        "PC",
+        "Xbox One",
         "Xbox Series X/S",
         "PS4",
-        "Xbox One"
+        "PC"
       ],
       "enclosures": [
         {
@@ -2485,18 +2562,18 @@
       "created": 1780916757000,
       "category": [
         "PS5",
-        "Nintendo Switch",
-        "Mouthwashing",
-        "Indie",
-        "First person",
-        "PC",
-        "Action Adventure",
-        "Horror",
-        "Xbox Series X/S",
-        "Wrong Organ",
         "Critical Reflex",
-        "Carcass Clad",
-        "Single Player"
+        "Single Player",
+        "Xbox Series X/S",
+        "First person",
+        "Wrong Organ",
+        "PC",
+        "Mouthwashing",
+        "Nintendo Switch",
+        "Indie",
+        "Horror",
+        "Action Adventure",
+        "Carcass Clad"
       ],
       "enclosures": [
         {
@@ -2522,24 +2599,24 @@
       "published": 1780915042000,
       "created": 1780915042000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
-        "Side view",
-        "Nintendo Switch",
+        "Strategy",
+        "Xbox One",
+        "Single Player",
         "iOS",
         "Bytten Studio",
-        "Android",
-        "Indie",
+        "Multiplayer Competitive",
         "Cassette Beasts",
         "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
+        "Android",
+        "Nintendo Switch",
+        "Indie",
         "Raw Fury",
-        "Xbox Series X/S",
-        "Xbox One",
         "RPG",
-        "Strategy",
-        "Single Player"
+        "Side view",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2566,14 +2643,14 @@
       "created": 1780909979000,
       "category": [
         "PS5",
-        "Summer Game Fest 2026",
-        "Skydance Interactive",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
-        "Skydance New Media",
         "Single Player",
-        "Marvel 1943: Rise of Hydra"
+        "Skydance New Media",
+        "Skydance Interactive",
+        "Summer Game Fest 2026",
+        "Marvel 1943: Rise of Hydra",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2599,16 +2676,16 @@
       "published": 1780909242000,
       "created": 1780909242000,
       "category": [
-        "Gears of War: E-day",
-        "Xbox Game Studios",
+        "Single Player",
         "inXile Entertainment",
-        "Clockwork Revolution",
         "First person",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
+        "Gears of War: E-day",
         "RPG",
-        "Single Player"
+        "Clockwork Revolution",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2634,8 +2711,8 @@
       "published": 1780909088000,
       "created": 1780909088000,
       "category": [
-        "Universal Pictures",
         "The Super Mario Galaxy Movie",
+        "Universal Pictures",
         "Nintendo",
         "Illumination Entertainment"
       ],
@@ -2663,16 +2740,16 @@
       "published": 1780908000000,
       "created": 1780908000000,
       "category": [
-        "Third person",
         "PS5",
-        "Xbox Game Studios",
-        "PC",
-        "Action Adventure",
         "Single Player",
-        "Xbox Series X/S",
-        "Fable (2026)",
+        "Playground Games",
         "RPG",
-        "Playground Games"
+        "Third person",
+        "Fable (2026)",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2698,24 +2775,24 @@
       "published": 1780906202000,
       "created": 1780906202000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
-        "Coffee Stain Publishing",
         "PS5",
-        "Summer Game Fest 2026",
-        "Nintendo Switch 2",
-        "Indie",
-        "Coffee Stain Studios",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "Single Player",
-        "Xbox Series X/S",
-        "Valheim",
         "Xbox One",
+        "PC Gaming Show",
+        "Single Player",
+        "Coffee Stain Publishing",
+        "Valheim",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
         "RPG",
         "Mac",
-        "PC Gaming Show"
+        "Indie",
+        "Summer Game Fest 2026",
+        "Nintendo Switch 2",
+        "Third person",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Coffee Stain Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2741,30 +2818,30 @@
       "published": 1780869600000,
       "created": 1780869600000,
       "category": [
-        "Interactive Drama",
-        "Nintendo Switch",
-        "Indie",
-        "Management",
-        "Mac",
+        "Citizen Sleeper",
         "PS5",
-        "Action Adventure",
-        "PS4",
-        "Xbox One",
-        "Text",
-        "Jump Over the Age",
-        "Science Fiction",
-        "Summer Game Fest 2026",
-        "Story Rich",
+        "Fellow Traveller",
         "Citizen Sleeper 2: Starward Vector",
         "RPG",
-        "Life Simulation",
-        "Signet City",
+        "Mac",
+        "Survival & Crafting",
+        "Story Rich",
+        "PS4",
         "PC",
+        "Nintendo Switch",
+        "Summer Game Fest 2026",
         "Xbox Series X/S",
-        "Fellow Traveller",
-        "Citizen Sleeper",
+        "Action Adventure",
+        "Xbox One",
+        "Management",
+        "Signet City",
+        "Life Simulation",
+        "Text",
         "Single Player",
-        "Survival & Crafting"
+        "Jump Over the Age",
+        "Indie",
+        "Interactive Drama",
+        "Science Fiction"
       ],
       "enclosures": [
         {
@@ -2790,24 +2867,24 @@
       "published": 1780868676000,
       "created": 1780868676000,
       "category": [
-        "Eidos Interactive",
         "PS5",
-        "Nintendo Switch",
-        "Simulation",
-        "Nintendo Switch 2",
-        "Square Enix",
-        "Stealth",
-        "Summer Game Fest 2026",
-        "First person",
-        "PC",
-        "Action Adventure",
-        "Thief: The Dark Project",
-        "Xbox Series X/S",
-        "PS4",
-        "Xbox One",
         "Looking Glass Studios",
+        "Single Player",
+        "Stealth",
+        "Xbox One",
+        "First person",
+        "Xbox Series X/S",
+        "Nintendo Switch",
+        "Square Enix",
+        "Eidos Interactive",
+        "Summer Game Fest 2026",
+        "Thief: The Dark Project",
         "Thief: The Dark Project Remastered",
-        "Single Player"
+        "Nintendo Switch 2",
+        "Simulation",
+        "Action Adventure",
+        "PS4",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2833,16 +2910,16 @@
       "published": 1780858643000,
       "created": 1780858643000,
       "category": [
-        "Gears of War: E-day",
-        "Xbox Game Studios",
+        "Single Player",
         "inXile Entertainment",
-        "Clockwork Revolution",
         "First person",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
+        "Gears of War: E-day",
         "RPG",
-        "Single Player"
+        "Clockwork Revolution",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2868,25 +2945,25 @@
       "published": 1780857412000,
       "created": 1780857412000,
       "category": [
+        "Nintendo GameCube",
+        "PC",
+        "Racing",
         "Crazy Taxi",
+        "Acclaim Games",
         "iOS",
         "PS2",
-        "PSP",
-        "PS3",
-        "Acclaim Games",
-        "Xbox 360",
-        "Racing",
-        "Nintendo GameCube",
-        "Hitmaker",
-        "Android",
-        "Empire Interactive",
-        "SEGA Dreamcast",
-        "Third person",
-        "SEGA",
-        "SEGA of America",
-        "PC",
         "Arcade",
-        "Single Player"
+        "SEGA of America",
+        "PSP",
+        "Hitmaker",
+        "PS3",
+        "Android",
+        "SEGA",
+        "SEGA Dreamcast",
+        "Single Player",
+        "Empire Interactive",
+        "Third person",
+        "Xbox 360"
       ],
       "enclosures": [
         {
@@ -2939,14 +3016,14 @@
       "published": 1780856620000,
       "created": 1780856620000,
       "category": [
-        "Xbox Game Studios",
+        "Single Player",
         "inXile Entertainment",
-        "Clockwork Revolution",
         "First person",
-        "PC",
-        "Xbox Series X/S",
         "RPG",
-        "Single Player"
+        "Clockwork Revolution",
+        "Xbox Series X/S",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -2972,22 +3049,22 @@
       "published": 1780855777000,
       "created": 1780855777000,
       "category": [
-        "Multiplayer Competitive",
         "PS5",
-        "Activision",
-        "Nintendo Switch 2",
-        "Realism",
-        "First person",
-        "Shooter",
-        "Military",
-        "Multiplayer Cooperative",
-        "PC",
-        "Call of Duty: Modern Warfare 4 (2026)",
         "Modern Day",
+        "Single Player",
+        "First person",
+        "Realism",
+        "Multiplayer Competitive",
+        "Military",
+        "Activision",
+        "Multiplayer Cooperative",
+        "Call of Duty: Modern Warfare 4 (2026)",
+        "Nintendo Switch 2",
+        "Shooter",
         "Xbox Series X/S",
-        "FPS",
         "Infinity Ward",
-        "Single Player"
+        "PC",
+        "FPS"
       ],
       "enclosures": [
         {
@@ -3014,11 +3091,11 @@
       "created": 1780855246000,
       "category": [
         "PS5",
-        "RPG: Turn-based",
-        "PC",
         "Persona 6",
+        "RPG: Turn-based",
+        "RPG",
         "Xbox Series X/S",
-        "RPG"
+        "PC"
       ],
       "enclosures": [
         {
@@ -3045,12 +3122,12 @@
       "created": 1780855109000,
       "category": [
         "PS5",
+        "Spyro: A Realm Beyond",
         "Summer Game Fest 2026",
         "Nintendo Switch 2",
-        "Spyro: A Realm Beyond",
-        "PC",
+        "Xbox Series X/S",
         "Action Adventure",
-        "Xbox Series X/S"
+        "PC"
       ],
       "enclosures": [
         {
@@ -3076,16 +3153,16 @@
       "published": 1780854983000,
       "created": 1780854983000,
       "category": [
-        "Third person",
-        "Resonance: A Plague Tale Legacy",
         "PS5",
+        "Focus Entertainment",
+        "Single Player",
+        "Resonance: A Plague Tale Legacy",
         "Summer Game Fest 2026",
-        "PC",
+        "Third person",
         "Action Adventure",
         "Xbox Series X/S",
-        "Focus Entertainment",
         "Asobo Studio",
-        "Single Player"
+        "PC"
       ],
       "enclosures": [
         {
@@ -3111,18 +3188,18 @@
       "published": 1780854187000,
       "created": 1780854187000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "Third person",
         "PS5",
+        "Xbox Series X/S",
+        "Single Player",
+        "PC",
+        "RPG",
+        "Strategy: Turn-Based Strategy",
         "SEGA",
         "Story Rich",
         "Atlus",
-        "PC",
+        "Third person",
         "Action Adventure",
-        "Xbox Series X/S",
-        "Persona 4 Revival",
-        "RPG",
-        "Single Player"
+        "Persona 4 Revival"
       ],
       "enclosures": [
         {
@@ -3148,22 +3225,22 @@
       "published": 1780854016000,
       "created": 1780854016000,
       "category": [
-        "Capcom",
-        "Multiplayer Competitive",
         "PS5",
-        "Fighting",
-        "Side view",
-        "Collaboration",
-        "Nintendo Switch 2",
-        "Square Enix",
-        "Street Fighter 6",
-        "Crossover",
-        "PC",
-        "Arcade",
         "Xbox Series X/S",
-        "PS4",
+        "Single Player",
+        "Collaboration",
+        "Multiplayer Competitive",
+        "Capcom",
+        "Square Enix",
+        "Crossover",
+        "Side view",
+        "Arcade",
+        "Nintendo Switch 2",
+        "Street Fighter 6",
         "Tifa",
-        "Single Player"
+        "PS4",
+        "Fighting",
+        "PC"
       ],
       "enclosures": [
         {
@@ -3189,14 +3266,14 @@
       "published": 1780853968000,
       "created": 1780853968000,
       "category": [
-        "Koei Tecmo",
         "PS5",
+        "Koei Tecmo",
+        "Wo Long 2: Wings of Ember",
         "Summer Game Fest 2026",
         "Nintendo Switch 2",
-        "Wo Long 2: Wings of Ember",
-        "PC",
+        "Xbox Series X/S",
         "Action Adventure",
-        "Xbox Series X/S"
+        "PC"
       ],
       "enclosures": [
         {
@@ -3222,16 +3299,16 @@
       "published": 1780853942000,
       "created": 1780853942000,
       "category": [
-        "Multiplayer Competitive",
         "PS5",
-        "Xbox Game Studios",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "State of Decay 3",
         "Xbox Series X/S",
+        "Single Player",
+        "Multiplayer Competitive",
         "Undead Labs",
-        "Single Player"
+        "Multiplayer Cooperative",
+        "State of Decay 3",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -3257,20 +3334,20 @@
       "published": 1780853827000,
       "created": 1780853827000,
       "category": [
-        "Third person",
-        "PS5",
-        "Hack & Slash",
-        "Summer Game Fest 2026",
-        "Xbox Game Studios",
         "Hellblade",
-        "PC",
-        "Action Adventure",
-        "Xbox Series X/S",
-        "Senua's Saga: Hellblade II",
-        "PS4",
-        "Xbox One",
+        "PS5",
         "Ninja Theory",
-        "Single Player"
+        "Single Player",
+        "Xbox Game Studios",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Summer Game Fest 2026",
+        "Third person",
+        "Hack & Slash",
+        "Action Adventure",
+        "PS4",
+        "Senua's Saga: Hellblade II",
+        "PC"
       ],
       "enclosures": [
         {
@@ -3297,15 +3374,15 @@
       "created": 1780853462000,
       "category": [
         "PS5",
-        "Summer Game Fest 2026",
-        "First person",
-        "PC",
-        "4A Games",
-        "Xbox Series X/S",
-        "FPS",
-        "Metro 2039",
         "Single Player",
-        "Deep Silver"
+        "Deep Silver",
+        "First person",
+        "Metro 2039",
+        "FPS",
+        "Summer Game Fest 2026",
+        "Xbox Series X/S",
+        "PC",
+        "4A Games"
       ],
       "enclosures": [
         {
@@ -3331,22 +3408,22 @@
       "published": 1780852833000,
       "created": 1780852833000,
       "category": [
-        "Third person",
-        "Multiplayer Competitive",
         "PS5",
-        "Summer Game Fest 2026",
-        "Xbox Game Studios",
+        "Single Player",
         "First person",
-        "Shooter",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "Xbox Games Showcase",
-        "Xbox Series X/S",
-        "FPS",
         "Halo Studios",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Summer Game Fest 2026",
         "Halo: Campaign Evolved",
-        "Single Player"
+        "Third person",
+        "Shooter",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "Xbox Games Showcase",
+        "PC",
+        "FPS"
       ],
       "enclosures": [
         {
@@ -3372,17 +3449,17 @@
       "published": 1780852730000,
       "created": 1780852730000,
       "category": [
-        "Third person",
         "PS5",
-        "Summer Game Fest 2026",
-        "Xbox Game Studios",
-        "PC",
-        "Action Adventure",
         "Single Player",
-        "Xbox Series X/S",
-        "Fable (2026)",
+        "Playground Games",
         "RPG",
-        "Playground Games"
+        "Summer Game Fest 2026",
+        "Third person",
+        "Fable (2026)",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -3408,12 +3485,12 @@
       "published": 1780851603000,
       "created": 1780851603000,
       "category": [
+        "Single Player",
         "Gears of War: E-day",
-        "Xbox Game Studios",
-        "PC",
-        "Action Adventure",
         "Xbox Series X/S",
-        "Single Player"
+        "Action Adventure",
+        "Xbox Game Studios",
+        "PC"
       ],
       "enclosures": [
         {
@@ -3439,26 +3516,26 @@
       "published": 1780851350000,
       "created": 1780851350000,
       "category": [
-        "Nintendo Switch",
-        "iOS",
-        "Indie",
-        "Roguelike",
-        "Mac",
         "PS5",
         "Vampire Survivors",
-        "Action Adventure",
+        "Multiplayer Competitive",
+        "RPG",
+        "Mac",
         "PS4",
+        "Bird view / Isometric",
+        "PC",
+        "iOS",
+        "Multiplayer Cooperative",
+        "Nintendo Switch",
+        "Arcade",
+        "Xbox Series X/S",
+        "Action Adventure",
         "Xbox One",
         "Android",
-        "RPG",
-        "Multiplayer Competitive",
+        "Single Player",
         "poncle",
-        "Multiplayer Cooperative",
-        "PC",
-        "Arcade",
-        "Bird view / Isometric",
-        "Xbox Series X/S",
-        "Single Player"
+        "Indie",
+        "Roguelike"
       ],
       "enclosures": [
         {
@@ -3484,18 +3561,18 @@
       "published": 1780846887000,
       "created": 1780846887000,
       "category": [
-        "Third person",
         "PS5",
-        "Simulation",
-        "11 Bit Studios",
-        "PC",
-        "Action Adventure",
-        "The Alters",
-        "Bird view / Isometric",
         "Xbox Series X/S",
-        "DLC",
         "Single Player",
-        "Survival & Crafting"
+        "The Alters",
+        "DLC",
+        "11 Bit Studios",
+        "Survival & Crafting",
+        "Third person",
+        "Simulation",
+        "Action Adventure",
+        "Bird view / Isometric",
+        "PC"
       ],
       "enclosures": [
         {
@@ -3521,17 +3598,17 @@
       "published": 1780845241000,
       "created": 1780845241000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "Science Fiction",
         "PS5",
-        "Electronic Arts",
         "Star Wars: Zero Company",
-        "PC",
         "Single Player",
-        "Bird view / Isometric",
+        "Bit Reactor",
+        "Electronic Arts",
+        "Strategy: Turn-Based Strategy",
         "Xbox Series X/S",
         "Strategy",
-        "Bit Reactor"
+        "Bird view / Isometric",
+        "PC",
+        "Science Fiction"
       ],
       "enclosures": [
         {
@@ -3557,26 +3634,26 @@
       "published": 1780828770000,
       "created": 1780828770000,
       "category": [
-        "Xbox Game Studios",
-        "Blade",
-        "inXile Entertainment",
-        "The Elder Scrolls VI",
-        "Bethesda Game Studios",
-        "PS1",
-        "Shooter",
-        "Action Adventure",
-        "Text",
-        "Gears of War: E-day",
-        "Summer Game Fest 2026",
-        "First person",
         "RPG",
-        "Third person",
-        "Hack & Slash",
-        "Activision",
-        "Clockwork Revolution",
+        "Blade",
         "PC",
+        "Bethesda Game Studios",
+        "Summer Game Fest 2026",
+        "Shooter",
+        "Hack & Slash",
+        "Action Adventure",
+        "Xbox Game Studios",
         "Xbox Series X/S",
-        "Single Player"
+        "inXile Entertainment",
+        "First person",
+        "Activision",
+        "The Elder Scrolls VI",
+        "Text",
+        "PS1",
+        "Single Player",
+        "Gears of War: E-day",
+        "Third person",
+        "Clockwork Revolution"
       ],
       "enclosures": [
         {
@@ -3602,13 +3679,13 @@
       "published": 1780787400000,
       "created": 1780787400000,
       "category": [
-        "Science Fiction",
         "PS5",
-        "Summer Game Fest 2026",
+        "Xbox Series X/S",
         "PC",
-        "Star Trek: Shadow Frontier",
+        "Summer Game Fest 2026",
         "Horror",
-        "Xbox Series X/S"
+        "Star Trek: Shadow Frontier",
+        "Science Fiction"
       ],
       "enclosures": [
         {
@@ -3634,20 +3711,20 @@
       "published": 1780783068000,
       "created": 1780783068000,
       "category": [
+        "PS5",
+        "Xbox Series X/S",
+        "Single Player",
+        "Monster Hunter Wilds",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "RPG",
+        "Nintendo Switch 2",
+        "Third person",
+        "Hack & Slash",
+        "Action Adventure",
         "RPG: Action",
         "Capcom",
-        "Third person",
-        "Multiplayer Competitive",
-        "PS5",
-        "Hack & Slash",
-        "Nintendo Switch 2",
-        "Monster Hunter Wilds",
-        "Multiplayer Cooperative",
-        "Action Adventure",
-        "PC",
-        "Xbox Series X/S",
-        "RPG",
-        "Single Player"
+        "PC"
       ],
       "enclosures": [
         {
@@ -3674,113 +3751,26 @@
       "created": 1780779078000,
       "category": [
         "PS5",
-        "Nintendo Switch",
+        "Expansion Pass",
+        "Xbox One",
         "Team17",
-        "PC",
-        "Metroidvania",
-        "Xbox Series X/S",
-        "PS4",
-        "Xbox One",
         "The Game Kitchen",
-        "Expansion Pass"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/unnamed_tfX2g8f.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/unnamed_tfX2g8f.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Citizen Sleeper 1 and 2 are coming to Nintendo Switch 2 later this month",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/citizen-sleeper\">Citizen Sleeper</a> &ndash; and its sequel, <a href=\"https://www.eurogamer.net/games/citizen-sleeper-2-starward-vector\">Citizen Sleeper 2: Starward Vector</a> &ndash; are coming to <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a> later this month.</p> <p><a href=\"https://www.eurogamer.net/citizen-sleep-1-2-switch-2-release-date\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/citizen-sleep-1-2-switch-2-release-date",
-      "author": {
-        "$text": "Vikki Blake",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1780776538000,
-      "created": 1780776538000,
-      "category": [
-        "Interactive Drama",
         "Nintendo Switch",
-        "Indie",
-        "Management",
-        "Mac",
-        "PS5",
-        "Nintendo Switch 2",
-        "Action Adventure",
+        "Xbox Series X/S",
         "PS4",
-        "Xbox One",
-        "Text",
-        "Jump Over the Age",
-        "Science Fiction",
-        "Story Rich",
-        "Citizen Sleeper 2: Starward Vector",
-        "RPG",
-        "Life Simulation",
-        "PC",
-        "Xbox Series X/S",
-        "Fellow Traveller",
-        "Citizen Sleeper",
-        "Single Player",
-        "Survival & Crafting"
+        "Metroidvania",
+        "PC"
       ],
       "enclosures": [
         {
           "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=690&quality=85&format=jpg&auto=webp"
+          "url": "https://assetsio.gnwcdn.com/unnamed_tfX2g8f.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       ],
       "media": {
         "thumbnail": {
           "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "The Sinking City 2 arrives this August, and there's a demo you can play right now",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/the-sinking-city-2-header-cropped.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Developer Frogwares' Lovecraftian horror sequel, <a href=\"https://www.eurogamer.net/games/the-sinking-city-2\">The Sinking City 2</a>, is launching 18th August on PC, PS5, and Xbox Series X/S. Additionally, an <a href=\"https://store.steampowered.com/app/2825860/The_Sinking_City_2/\">hour-long The Sinking City 2 demo is now available on Steam</a>.</p> <p><a href=\"https://www.eurogamer.net/the-sinking-city-2-release-date-free-demo\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/the-sinking-city-2-release-date-free-demo",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1780775672000,
-      "created": 1780775672000,
-      "category": [
-        "Future Games Show",
-        "PS5",
-        "Summer Game Fest 2026",
-        "Frogwares",
-        "The Sinking City 2",
-        "Indie",
-        "Shooter",
-        "PC",
-        "Action Adventure",
-        "Horror",
-        "Xbox Series X/S",
-        "Exploration",
-        "Single Player",
-        "Survival & Crafting"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/the-sinking-city-2-header-cropped.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/the-sinking-city-2-header-cropped.jpg?width=690&quality=85&format=jpg&auto=webp"
+          "url": "https://assetsio.gnwcdn.com/unnamed_tfX2g8f.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
