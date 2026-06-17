@@ -2,6 +2,58 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199299848",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/08~06/14)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299848",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10269]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1781683213,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1835871199299747",
+        "title": "PUBG FANTASY : PNC 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299747",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/94837e2edfa9a9125111ffcc4f1d2e8e97ee917f.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10285\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1781679699,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1835871199299621",
+        "title": "Black Market 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299621",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/deeea2593047d3f22ce7be862a2105dbd4552f1d.jpg\"][/img]\n[/p][h2][url=\"https://pubg.com/news/10182\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1781676036,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1835871199299557",
+        "title": "Special Drops - June 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299557",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/b31abac039e046705f7e2ab4fa7557a677fbbee1.jpg\"][/img][/p][h2][url=\"https://pubg.com/events/notice/10183\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1781672433,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1835871199298968",
         "title": "Bungie will let Destiny 2 'near infinite damage' bug ride for a week: 'Do your thing'",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199298968",
@@ -49,45 +101,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/8b97b9c872de55b1621e0e3f5503698807ff1f23.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10280\"]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1781589652,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1835236783573104",
-        "title": "Patch Notes - Update 42.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573104",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/aae0cf5e3b367feb1da68ab47b40009e10baf5ab.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10179\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1781589651,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1835236783573105",
-        "title": "Map Service Report - Update 42.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573105",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/10181]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1781589651,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1835236783573106",
-        "title": "June Store Update 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573106",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/29d3891ceefc6159173bc1d2a1b195d75f3b7317.png\"][/img][/p][h2][url=\"https://pubg.com/news/10180\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1781589651,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
@@ -146,19 +159,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1835236783556689",
-        "title": "PNC 2026 Event Page Now Open",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556689",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p]Hello, PUBG Esports fans.[/p][p]\n[/p][p]The wait is over! The PNC 2026 Event Page, your all-in-one hub for the premier global PUBG Nations Cup showdown featuring 24 all-star teams, officially opens on June 10![/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260609/9BIiunX2.jpg\" style=\"border-style: none; cursor: pointer; padding: 0px 1px; user-select: none; max-width: 100%; position: relative; display: block; float: none; margin: 5px auto; vertical-align: top; text-align: center;\"][/img][/p][p align=\"start\"]On the event page, you can easily check all the essential details of PNC 2026 at a glance, including the full tournament schedule, format, participating teams, and roster information.[/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260609/S7coJt4P.jpg\" style=\"border-style: none; cursor: pointer; padding: 0px 1px; user-select: none; max-width: 100%; position: relative; display: block; float: none; margin: 5px auto; vertical-align: top; text-align: center;\"][/img][/p][p align=\"start\"]But that's not all! The page will also host the exclusive PNC 2026 Fan Cheer Event. Choose your favorite team and leave a message of support! Simply by participating, you are guaranteed to receive the commemorative 'PNC 2026 Nameplate,' and you won't want to miss the special chance to win bonus G-Coin through a lucky draw.[/p][p align=\"start\"]\n[/p][p align=\"start\"][b]PNC 2026 Event Page Link[/b]\n👉 [url=\"https://www.pubg.com/events/pnc2026\"]www.pubg.com/events/pnc2026[/url][/p][p align=\"start\"][/p][p align=\"start\"] [/p][p]Visit the PNC 2026 Event Page now to feel the heat of the tournament, join the Fan Cheer Event, and claim your exciting rewards![/p][p]\n[/p][p]Thank you.[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1781074845,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1834602721194009",
