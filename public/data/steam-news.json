@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199301544",
+        "title": "BFM TV: Sony уволит 50% сотрудников Bungie до конца лета",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199301544",
+        "is_external_url": true,
+        "author": "Вадим Съедин",
+        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199833/a777f8ae4b-2_1390x600.jpg\" alt=\"\"><p>Руководство японской компании <strong>Sony </strong>планирует сократить около 50% сотрудников американской студии <strong>Bungie</strong> в рамках следующей волны реструктуризации. Об этом сообщил редактор французского телеканала <strong>BFM TV </strong><em>Сильвен Тринель </em>со ссылкой на собственные источники.</p>",
+        "feedlabel": "Gamemag.ru",
+        "date": 1781715432,
+        "feedname": "Gamemag.ru",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1835871199299848",
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/08~06/14)",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299848",
@@ -130,19 +143,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1938090
-      },
-      {
-        "gid": "1835236783563959",
-        "title": "Former Destiny 2 CM claims Bungie was 'very close to shutting its doors' before the buyout",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783563959",
-        "is_external_url": true,
-        "author": "Rory Norris",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/zMXS5VFtveBh7txzGWbmKD-1280-80.jpg\"/><br><br>\n                It's a bittersweet time for any Destiny fan, as <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2</a> is now in stasis after its <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/\" target=\"_blank\">final update</a>. Hell, even This Week In Destiny, my weekly ritual for over a decade now, is <a href=\"https://www.pcgamer.com/games/fps/time-to-get-a-little-sadder-about-destiny-2-twids-are-coming-to-an-end/\" target=\"_blank\">coming to an end</a>. All good things must finish, I guess...\n                <a href=\"https://www.pcgamer.com/games/fps/before-you-place-all-the-blame-on-sony-former-destiny-2-cm-says-bungie-was-very-close-to-shutting-its-doors-before-the-buyout/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1781280045,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1835236783558731",
