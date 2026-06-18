@@ -2,6 +2,45 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199305217",
+        "title": "This Week in Destiny – 06/18/2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305217",
+        "is_external_url": true,
+        "author": "Destiny2_Team",
+        "contents": "[p]This week in Destiny, we’re sharing the newest Community Challenge and its reward emblem, celebrating the release of the Monument of Triumph soundtrack on streaming platforms, and going over the previously shared 9.7.0.1 patch notes you may have missed![/p][list][*][p]Introducing our next Community Challenge[/p][/*][*][p]Monument of Triumph’s soundtrack is now streaming available...[/p][/*][*][p]The Traveler graces your lock screen with its presence[/p][/*][*][p]Revisiting the patch notes for Update 9.7.0.1[/p][/*][/list][p]Read more here: [/p][p][url=\"https://www.bungie.net/News/article/twid_06_18_2026\"]https://www.bungie.net/News/article/twid_06_18_2026[/url][/p][p][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1781808529,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 1085660
+      },
+      {
+        "gid": "1835871199304804",
+        "title": "Jump Fortress Play-Offs 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304804",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/d4eab0b8e4e65fff269910b13476ad4aee9aa19b.jpg[/img]\n(Image credit: MetalCloud)\n\nJump Fortress is back and more ambitious than ever! They're proud to present their most exciting rocket jumping tournament yet: [url=https://www.youtube.com/watch?v=4Rq6VQXl5WA]The Jump Fortress Play-Offs[/url]!\n\nAfter months of tournaments and open qualifiers, the stage has been set. The world's best jumpers head to a two-stage, double-elimination showdown across both Soldier and Demoman, all over three days of racing. The Soldier bracket has the likes of Nikita and Bunny in the mix, while newjuls and cander are among the names to beat on Demoman. And keep an eye on vice, who has a shot at the top in both classes! Tune in over at the [url=https://twitch.tv/essentialstf]EssentialsTF Twitch Channel[/url] to watch them go head-to-head in 1v1, 10-minute time attacks.\n\nEight Soldiers open the action on Saturday, June 20th, and Sunday, June 21st. Then four Demomen take over on Saturday, June 27th. Each day kicks off at 4:00pm CEST, all for a community-funded $3000 USD prize pool and the title of the best jumper in their class! And the competitors aren't the only ones walking away with something! With six live raffles running throughout the event, everyone tuning in has a chance to claim a prize or two. Two classes. Three days of racing. And nobody's out until they've lost twice. Who will become the Jump Fortress Champion, who will crash out, and will vice finally lose a live tournament? Find out live at the Jump Fortress Play-Offs!\n\nImportant Links:\n[list]\n[*][url=https://discord.gg/tusBc64wnv]Jump Fortress Discord[/url]\n[/list]\n\n\n",
+        "feedlabel": "Community Announcements",
+        "date": 1781798820,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1835871199304805",
+        "title": "Jump Fortress Play-Offs 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1835871199304805",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://discord.gg/tusBc64wnv\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/273613/essentials26_small.jpg?t=1496190994\"></a>\n(Image credit: <a href=\"https://steamcommunity.com/id/metalcloud\" target=\"_blank\">MetalCloud</a>)<br><br>\n\n<p>Jump Fortress is back and more ambitious than ever! They're proud to present their most exciting rocket jumping tournament yet: <a href=\"https://www.youtube.com/watch?v=4Rq6VQXl5WA\" target=\"_blank\">The Jump Fortress Play-Offs</a>!</p><br>\n\n<p>After months of tournaments and open qualifiers, the stage has been set. The world's best jumpers head to a two-stage, double-elimination showdown across both Soldier and Demoman, all over three days of racing. The Soldier bracket has the likes of Nikita and Bunny in the mix, while newjuls and cander are among the names to beat on Demoman. And keep an eye on vice, who has a shot at the top in both classes! Tune in over at the <a href=\"https://twitch.tv/essentialstf\" target=\"_blank\">EssentialsTF Twitch Channel</a> to watch them go head-to-head in 1v1, 10-minute time attacks.</p><br>\n\n<p>Eight Soldiers open the action on Saturday, June 20th, and Sunday, June 21st. Then four Demomen take over on Saturday, June 27th. Each day kicks off at 4:00pm CEST, all for a community-funded $3000 USD prize pool and the title of the best jumper in their class! And the competitors aren't the only ones walking away with something! With six live raffles running throughout the event, everyone tuning in has a chance to claim a prize or two. Two classes. Three days of racing. And nobody's out until they've lost twice. Who will become the Jump Fortress Champion, who will crash out, and will vice finally lose a live tournament? Find out live at the Jump Fortress Play-Offs!</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://discord.gg/tusBc64wnv\" target=\"_blank\">Jump Fortress Discord</a>\n</ul>\n</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1781798700,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1835871199302220",
         "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
@@ -130,19 +169,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1835236783566113",
-        "title": "It's bittersweet that the best time to play Destiny 2 in years coincides with its end, but I'm happy for the new players who get to experience its most liberating iteration yet",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566113",
-        "is_external_url": true,
-        "author": "Sean Martin",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/GNomNpeFjDRdYrgbKiKGHR-1280-80.jpg\"/><br><br>\n                When Bungie announced <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\" target=\"_blank\">the final update for Destiny 2</a>, I felt relieved. It surprised me as well. As someone who's spent the past six years (and over 3,000 hours) battling humanity's enemies across the solar system, you'd think that news of my favorite MMO's end would fill me with sadness. But no, just a bittersweet sense of relief as I considered we were finally moving on (as we should've after The Final Shape's year) to whatever the future may hold...\n                <a href=\"https://www.pcgamer.com/games/fps/its-bittersweet-that-the-best-time-to-play-destiny-2-in-years-coincides-with-its-end-but-im-happy-for-the-new-players-who-get-to-experience-its-most-liberating-iteration-yet/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1781364600,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1835236783564162",
@@ -310,19 +336,6 @@
         "appid": 440
       },
       {
-        "gid": "1833968530891421",
-        "title": "ETF2L Highlander Season 35 Premiership Grand Final",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1833968530891421",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://discord.com/invite/Tzg2j9r\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/272115/ETF2L_spring26_small.jpg?t=1496190994\"></a>\n(Image credit: <a href=\"https://etf2l.org/forum/user/115358\" target=\"_blank\">soda</a>)<br><br>\n\n<p>Europe's best Highlander teams are duking it out in ETF2L's 35th Premiership Grand Final, with 3AM looking to threepeat as Europe's best! But GANJA look to emerge victorious with a lower bracket run!</p><br>\n\n<p><a href=\"https://twitch.tv/FiresideCasts\" target=\"_blank\">Tune in live</a> on Saturday, May 30th, at 3:15 PM EDT / 9:15 PM CEST as Europe's finest will be battling on Upward, Vigil, and Product with the decider in this best of 3 final!</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://twitch.tv/FiresideCasts\" target=\"_blank\">Twitch</a>\n<li><a href=\"https://discord.etf2l.org/\" target=\"_blank\">Discord</a>\n<li><a href=\"https://etf2l.org/\" target=\"_blank\">ETF2L</a>\n</ul>\n</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1780067640,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1833968530889736",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736",
@@ -337,19 +350,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1833968530889069",
-        "title": "AsiaFortress Summer 6s Finals",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889069",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/1e13f39be5e72518fb21368d9ad7b7924a84180a.png[/img]\n\nAsiaFortress is back with its Summer 6s finals!\n\nAfter a dominant season, can the favorites close it out? [url=https://twitch.tv/FiresideCasts]Tune in[/url] live on Saturday, May 30th, at 9:00 PM SGT / 3:00 PM CEST.\n\nImportant Links:\n[list]\n[*][url=https://twitch.tv/FiresideCasts]Twitch[/url]\n[*][url=https://discord.gg/6AVEnkVUMk]Discord[/url]\n[*][url=https://asiafortress.liquid.tf/]AsiaFortress[/url]\n[/list]\n\n\n",
-        "feedlabel": "Community Announcements",
-        "date": 1779991289,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440
       },
       {
         "gid": "1833334318578495",
