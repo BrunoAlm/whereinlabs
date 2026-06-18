@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199302220",
+        "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFor the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced with 3-2 records.\n\nThe Lanxess Arena will host the Playoffs, beginning with Thursday's Quarterfinals matchups:\n[list]\n[*] 9z Team vs. FURIA\n[*] Aurora vs. BetBoom\n[/list]The second set of Quarterfinals takes place Friday, featuring:\n[list]\n[*] G2 Esports vs. Team Spirit\n[*] Falcons vs. Vitality\n[/list]\nWith Semifinals on Saturday and the Grand Finals on Sunday, we're in for a great weekend of Counter-Strike.\n\nAs the Playoffs approach, there's still time to support your favorite teams. Team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nAnd don't forget, all Playoff picks for the Pick'Em Challenge must be submitted prior to the first Playoff match beginning; you don't want to miss your Diamond Coin!\n\nVitality are looking to win their third straight Major. Will anyone stop them? Tune in and find out!",
+        "feedlabel": "Community Announcements",
+        "date": 1781738540,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730
+      },
+      {
         "gid": "1835871199301544",
         "title": "BFM TV: Sony уволит 50% сотрудников Bungie до конца лета",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199301544",
@@ -392,22 +405,6 @@
         "contents": "[p]\\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.[/p][/*][/list][p]\\[ UI ][/p][list][*][p]Fixed a case of incorrect scoreboard timeline presentation in overtime.[/p][/*][*][p]Fixed weapon entities disallowing pickup from showing pick up weapon hint text.[/p][/*][*][p]Increased spectator in-eye flash amount.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Souvenir quality items can now be selected in Trade Up Contract alongside normal quality items. All Souvenir attributes will be removed from any souvenir items selected, and the result of a Trade Up Contract will be a single normal item of a quality one higher, from a collection of all of the items selected for exchange.[/p][/*][*][p]Fixed a case where tire fire particles were flickering in the advanced video preview.[/p][/*][*][p]Adjusted finger animation on Bayonet model.[/p][/*][/list]",
         "feedlabel": "Community Announcements",
         "date": 1779410434,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1833334318567523",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523",
-        "is_external_url": true,
-        "author": "Vitaliy",
-        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted player and grenade collision.[/p][/*][*][p]Adjusted material blending to improve accuracy of footstep sounds.[/p][/*][*][p]Fixed several gaps reported by players.[/p][/*][/list][p]Ancient[/p][list][*][p]Fixed a gap in the wall.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1779318374,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 730,
