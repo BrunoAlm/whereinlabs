@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199306149",
+        "title": "Несмотря на тёплый приём финального обновления Destiny 2, Sony не одобрила новые проекты Bungie — студию ждут увольнения",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199306149",
+        "is_external_url": true,
+        "author": "Илья",
+        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199869/690e387df8-2_1390x600.jpg\" alt=\"\"><p>Вышедшее 9 июня финальное обновление <strong>Destiny 2</strong> было тепло встречено сообществом. <strong>Интерес к нему оказался настолько высоким, что в первые часы после релиза пользователи сообщали о проблемах с доступом к серверам, а пиковый онлайн в Steam знаительно превысил показатели Marathon</strong>. Кроме того, за прошедшую неделю Destiny 2 вошла в тройку самых прибыльных игр платформы <strong>Steam</strong>.</p>",
+        "feedlabel": "Gamemag.ru",
+        "date": 1781833200,
+        "feedname": "Gamemag.ru",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1835871199305217",
         "title": "This Week in Destiny – 06/18/2026",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305217",
@@ -140,19 +153,6 @@
         "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/87xRe8EuXCmWKz6J9aKRug-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2's</a> live service ambitions have come to an end with its <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/\" target=\"_blank\">final update</a> last week. And with it, Bungie added everything and the kitchen sink, from <a href=\"https://www.pcgamer.com/games/fps/destiny-2-new-catalysts-monument-of-triumph/\" target=\"_blank\">new catalysts</a> for every Exotic weapon to broken perk combinations. With no new endgame to grind or necessarily protect the sanctity of balance, Bungie's <a href=\"https://www.pcgamer.com/games/fps/its-bittersweet-that-the-best-time-to-play-destiny-2-in-years-coincides-with-its-end-but-im-happy-for-the-new-players-who-get-to-experience-its-most-liberating-iteration-yet/\" target=\"_blank\">set us free</a> with some of the most broken—and fun—tools we've ever had...\n                <a href=\"https://www.pcgamer.com/games/fps/an-obscure-new-game-breaking-destiny-bug-lets-you-one-hit-bosses-and-i-dont-think-bungies-gonna-let-this-one-slide/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
         "feedlabel": "PC Gamer",
         "date": 1781627306,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1835236783573782",
-        "title": "Destiny 2 comes full circle as players honour the tradition of pushing bosses to their deaths—this time by becoming a porcupine and smacking them with a void football",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783573782",
-        "is_external_url": true,
-        "author": "Harvey Randall",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/HoAdzb7etD9iwYbuCqAKFV-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/destiny-2/\">Destiny 2</a>'s<a href=\"https://www.pcgamer.com/games/fps/im-sad-im-angry-im-interested-destinys-final-cutscenes-are-a-painful-end-to-a-new-saga-cut-short/\"> sun is setting</a>, and it's perhaps fitting that one of the oldest traditions of the franchise—that is, pushing bosses to their doom—is happening once again. Except this time, they're becoming porcupines holding void light footballs which smacks bosses so hard they fall to their deaths...\n                <a href=\"https://www.pcgamer.com/games/fps/destiny-2-comes-full-circle-as-players-honour-the-tradition-of-pushing-bosses-to-their-deaths-this-time-by-becoming-a-porcupine-and-smacking-them-with-a-void-football/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1781606140,
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
