@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199309769",
+        "title": "Valve calls out Dota 2 dataminers desperate for Dark Carnival news: \"Why are you guys reading our variable names?\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769",
+        "is_external_url": true,
+        "author": "editor@pcgamesn.com",
+        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg\"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months, with the leading speculation being that Valve is preparing a new, large-scale feature in the vein of 2024's Crownfall. Lately, in-game signs have suggested that something, at least, is on the horizon, and now eager dataminers have dug out a fresh line in the game's code that doubles down on that promise. In response, Valve has promptly changed the wording, turning it into a direct call-out message instead.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/dota-2/dark-carnival-variable-names\">Valve calls out Dota 2 dataminers desperate for Dark Carnival news: \"Why are you guys reading our variable names?\"</a></p>",
+        "feedlabel": "PCGamesN",
+        "date": 1781969455,
+        "feedname": "PCGamesN",
+        "feed_type": 0,
+        "appid": 570
+      },
+      {
         "gid": "1835871199307693",
         "title": "PUBG now has genAI team mates capable of \"intelligent decision-making\", and I must remind you that Krafton are working on bots for the military",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835871199307693",
@@ -411,19 +424,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1832065502811921",
-        "title": "Dota 2 patch 7.41c is awful news for Batrider and Puck, and keeps Roshan under wraps",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502811921",
-        "is_external_url": true,
-        "author": "editor@pcgamesn.com",
-        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/dota-2-7-41c-patch-notes-full-breakdown-valve-moba-steam-900x506.jpg\"/><p>New <strong>Dota 2 7.41c</strong> patch notes have arrived to shake up the meta once again, and Valve is bringing some of the most impactful heroes in line with targeted nerfs across the roster. We're still recovering from the grand shakeup of 7.41, which removed Facets from the game altogether, but it feels like the team is honing in on that balancing sweet spot once more. That doesn't mean it's resting easy, with 81 heroes receiving adjustments in the <a href=\"https://www.pcgamesn.com/which-best-moba\">MOBA</a>'s latest update. Here's what you need to watch out for first.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/dota-2/7-41c-patch-notes\">Dota 2 patch 7.41c is awful news for Batrider and Puck, and keeps Roshan under wraps</a></p>\n<p>RELATED LINKS:<br />\n<a href=\"https://www.pcgamesn.com/dota-2/heroic-disband-roster\">Beloved Dota 2 esports team Heroic has just disbanded, saying it's a \"tough game to commercialize\"</a><br />\n<a href=\"https://www.pcgamesn.com/dota-2/options-settings\">The best Dota 2 options and settings</a><br />\n<a href=\"https://www.pcgamesn.com/dota-2/7-41b-patch-notes\">Dota 2 patch 7.41b puts a stop to Meepo's reign of terror as Valve locks in its new meta</a></p>",
-        "feedlabel": "PCGamesN",
-        "date": 1778156403,
-        "feedname": "PCGamesN",
-        "feed_type": 0,
-        "appid": 570
       }
     ]
   }
