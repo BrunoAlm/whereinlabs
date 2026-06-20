@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199307693",
+        "title": "PUBG now has genAI team mates capable of \"intelligent decision-making\", and I must remind you that Krafton are working on bots for the military",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835871199307693",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://assetsio.gnwcdn.com/pubg-arcade-ally-duo-mode.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.rockpapershotgun.com/games/playerunknowns-battlegrounds\">PUBG: Battlegrounds</a> – aka Plunkbat – is getting generative AI team mates in the shape of PUBG Ally Duo, which is available now in beta. The new functionality uses Nvidia tech to simulate \"autonomous game characters that use AI to perceive, plan, and take action within their environment\". They also have speech models so that they can do bantz.</p> <p><a href=\"https://www.rockpapershotgun.com/pubg-has-genai-team-mates-now-capable-of-intelligent-decision-making-and-i-must-remind-you-that-krafton-are-working-on-bots-for-the-military\">Read more</a></p>",
+        "feedlabel": "Rock, Paper, Shotgun",
+        "date": 1781882100,
+        "feedname": "Rock, Paper, Shotgun",
+        "feed_type": 0,
+        "appid": 578080
+      },
+      {
         "gid": "1835871199306149",
         "title": "Несмотря на тёплый приём финального обновления Destiny 2, Sony не одобрила новые проекты Bungie — студию ждут увольнения",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199306149",
@@ -156,19 +169,6 @@
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1835236783573107",
-        "title": "[Dev Letter] Blue Zone Revamp",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573107",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/8b97b9c872de55b1621e0e3f5503698807ff1f23.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10280\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1781589652,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1835236783564162",
