@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199310277",
+        "title": "Ситуацию с закрытием Destiny 2 объяснили",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199310277",
+        "is_external_url": true,
+        "author": "Илья",
+        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News199870/558772772d-2_1390x600.jpg\" alt=\"\"><p>Обозреватель <strong>Forbes Пол Тасси </strong>связался с источниками внутри <strong>Bungie</strong>, чтобы уточнить обстоятельства прекращения активной поддержки<strong> Destiny 2</strong>. </p>",
+        "feedlabel": "Gamemag.ru",
+        "date": 1782005640,
+        "feedname": "Gamemag.ru",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
+        "gid": "1835871199310024",
+        "title": "The IEM Cologne 2026 Grand Finals",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\nFollowing one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.\n\nAfter losing the opening map of their Playoffs, FURIA have been unbeaten, rallying back against 9z Team to win 2-1 in the Quarterfinals and taking down Aurora Gaming 2-0 in the Semifinals to reach the Grand Finals for the first time in the organization's history. \n\nTeam Falcons took down the world's #1 team, Team Vitality, 2-1 in the Quarterfinals. A day later, they punched their ticket to the Grand Finals by defeating Team Spirit 2-1 in dramatic fashion, needing Overtime in the third map. This is Team Falcons first Major Championship appearance.  \n\nCoverage of the best of five Grand Finals between FURIA and Team Falcons begins with the opening ceremony at 16:45 CEST (10:45AM EDT). Don't miss a moment!\n\nAnd with the Major coming to a close, team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nGood luck to both teams!",
+        "feedlabel": "Community Announcements",
+        "date": 1781988714,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730
+      },
+      {
         "gid": "1835871199309769",
         "title": "Valve calls out Dota 2 dataminers desperate for Dark Carnival news: \"Why are you guys reading our variable names?\"",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769",
@@ -166,19 +192,6 @@
         "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/STzDkP4uyDqJVmhcmfdCQW-1280-80.jpg\"/><br><br>\n                Destiny 2's final content update threw so much into the shooter that something was bound to break, and break it did. An upcoming patch will fix a \"near infinite damage\" bug introduced by the Monument of Triumph update, but the developers at Bungie have decided to drag their feet on the fix to let more players have a taste of godlike power...\n                <a href=\"https://www.pcgamer.com/games/fps/bungie-will-let-destiny-2-infinite-damage-bug-ride-for-a-week-do-your-thing/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
         "feedlabel": "PC Gamer",
         "date": 1781648538,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1835236783574959",
-        "title": "An obscure new game-breaking Destiny bug lets you one-hit bosses, and I don't think Bungie's gonna let this one slide (Update: Bungie is letting it slide... for a little bit)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783574959",
-        "is_external_url": true,
-        "author": "Rory Norris",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/87xRe8EuXCmWKz6J9aKRug-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2's</a> live service ambitions have come to an end with its <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/\" target=\"_blank\">final update</a> last week. And with it, Bungie added everything and the kitchen sink, from <a href=\"https://www.pcgamer.com/games/fps/destiny-2-new-catalysts-monument-of-triumph/\" target=\"_blank\">new catalysts</a> for every Exotic weapon to broken perk combinations. With no new endgame to grind or necessarily protect the sanctity of balance, Bungie's <a href=\"https://www.pcgamer.com/games/fps/its-bittersweet-that-the-best-time-to-play-destiny-2-in-years-coincides-with-its-end-but-im-happy-for-the-new-players-who-get-to-experience-its-most-liberating-iteration-yet/\" target=\"_blank\">set us free</a> with some of the most broken—and fun—tools we've ever had...\n                <a href=\"https://www.pcgamer.com/games/fps/an-obscure-new-game-breaking-destiny-bug-lets-you-one-hit-bosses-and-i-dont-think-bungies-gonna-let-this-one-slide/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1781627306,
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
@@ -408,22 +421,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 730
-      },
-      {
-        "gid": "1833334318570409",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570409",
-        "is_external_url": true,
-        "author": "brianlev",
-        "contents": "[p]\\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.[/p][/*][/list][p]\\[ UI ][/p][list][*][p]Fixed a case of incorrect scoreboard timeline presentation in overtime.[/p][/*][*][p]Fixed weapon entities disallowing pickup from showing pick up weapon hint text.[/p][/*][*][p]Increased spectator in-eye flash amount.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Souvenir quality items can now be selected in Trade Up Contract alongside normal quality items. All Souvenir attributes will be removed from any souvenir items selected, and the result of a Trade Up Contract will be a single normal item of a quality one higher, from a collection of all of the items selected for exchange.[/p][/*][*][p]Fixed a case where tire fire particles were flickering in the advanced video preview.[/p][/*][*][p]Adjusted finger animation on Bayonet model.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1779410434,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       }
     ]
   }
