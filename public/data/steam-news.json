@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199314124",
+        "title": "UFR Video Contest",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199314124",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/8b4d3b739a9620f7f03b09aaae519a28ed359093.png[/img]\n\nThe commentary podcast Upon Further Review, UFR, is hosting a public contest for anyone to enter! They're giving prospective content creators the opportunity to have their videos shown to thousands of people, as well as be reviewed by a panel of established and accomplished TF2 YouTubers! All submissions will receive feedback and constructive criticism. Beginners and veterans are equally welcome!\n \nAll entries must be submitted before [b]July 15th, 2026[/b]! The creators of the three best videos will be given cash prizes!\n \nJoin their [url=https://discord.gg/KZ7RPShsuY]Discord[/url] for more details on the rules and how to apply!",
+        "feedlabel": "Community Announcements",
+        "date": 1782166713,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1835871199314129",
+        "title": "UFR Video Contest",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1835871199314129",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://discord.gg/KZ7RPShsuY\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/273966/ufr2026_small.png?t=1506190994\"></a><br><br>\n\n<p>The commentary podcast Upon Further Review, UFR, is hosting a public contest for anyone to enter! They're giving prospective content creators the opportunity to have their videos shown to thousands of people, as well as be reviewed by a panel of established and accomplished TF2 YouTubers! All submissions will receive feedback and constructive criticism. Beginners and veterans are equally welcome!</p><br>\n \n<p>All entries must be submitted before <b>July 15th, 2026</b>! The creators of the three best videos will be given cash prizes!</p><br>\n \n<p>Join their <a href=\"https://discord.gg/KZ7RPShsuY\" target=\"_blank\">Discord</a> for more details on the rules and how to apply!</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1782166680,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1835871199313531",
         "title": "Call of Duty: Black Ops 7 and Warzone - Season 04 Reloaded",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313531",
@@ -299,19 +325,6 @@
         ]
       },
       {
-        "gid": "1834602721188580",
-        "title": "TFCL Alpha Season 2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1834602721188580",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://tfcleague.com/alpha2\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/272701/tfcl_s2_small.png?t=1497190994\"></a><br><br>\n\n<p>After more than six months of stealth development, a super duper secret alpha, and a ton of broken sentry guns, TFCL is back and ready for public testing! TFCL is a North American competitive 6v6 league. Registration for TFCL's Alpha Season 2 opened on May 21st and runs through July 5th!</p><br>\n \n<p>To make things even more awesome, they're throwing a $504 prize pool at this season! And medals, of course. Can't forget those!</p><br>\n \n<p>Alpha Season 2 will last approximately 6 weeks, with an additional week or two for playoffs. There will be 12 matches, two per week, on servers located in North America. Entry is free. TFCL will host and configure all match servers, so all you have to do is sit back, compete, and have fun!</p><br>\n \n<p>More information can be found <a href=\"https://tfcleague.com/alpha2\" target=\"_blank\">here</a>!</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1780601580,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1834602721188157",
         "title": "Call of Duty: Black Ops 7 and Warzone - Season 04 - Live",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188157",
@@ -344,19 +357,6 @@
           "ModAct_1888166638_1780420652_0",
           "mod_require_rereview"
         ]
-      },
-      {
-        "gid": "1833968530891419",
-        "title": "ETF2L Highlander Season 35 Premiership Grand Final",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891419",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/9f5340d0a6c9e60f1515ca22dbe211d13930b0ab.jpg[/img]\n(Image credit: soda)\n\nEurope's best Highlander teams are duking it out in ETF2L's 35th Premiership Grand Final, with 3AM looking to threepeat as Europe's best! But GANJA look to emerge victorious with a lower bracket run!\n\n[url=https://twitch.tv/FiresideCasts]Tune in live[/url] on Saturday, May 30th, at 3:15 PM EDT / 9:15 PM CEST as Europe's finest will be battling on Upward, Vigil, and Product with the decider in this best of 3 final!\n\nImportant Links:\n[list]\n[*][url=https://twitch.tv/FiresideCasts]Twitch[/url]\n[*][url=https://discord.etf2l.org/]Discord[/url]\n[*][url=https://etf2l.org/]ETF2L[/url]\n[/list]\n",
-        "feedlabel": "Community Announcements",
-        "date": 1780067710,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440
       },
       {
         "gid": "1833968530889736",
