@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165552137",
+        "title": "Amid mass layoffs at Bungie, the official White House X account issues sociopathic Destiny 2 meme",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165552137",
+        "is_external_url": true,
+        "author": "Shaun Prescott",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/jQrRQE9Ga7k7QjQ9nrEnqQ-1280-80.png\"/><br><br>\n                In its latest videogame-themed, AI-generated meme, the official White House X account has published a Destiny 2 character sheet featuring an unrealistically ripped Donald Trump wielding a <a href=\"https://www.pcgamer.com/great-moments-in-pc-gaming-finally-getting-gjallarhorn-to-drop-in-destiny/\">Gjallarhorn</a>...\n                <a href=\"https://www.pcgamer.com/gaming-industry/amid-mass-layoffs-at-bungie-the-official-white-house-x-account-issues-sociopathic-destiny-2-meme/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1782430307,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
+        "gid": "1836506165551627",
+        "title": "The Dark Carnival",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165551627",
+        "is_external_url": true,
+        "author": "kyled",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/7942925df6ae43659acf60f2d2ff827461c02485.png[/img]\n\nDon't you hate it when you wake up in a prison car with no memory of how you got there and, worse, no way to escape, only to discover you've been captured by an evil puppet-man as part of some dark bargain with an ancient world-conquering evil? We've all been there.\n\nWe're pulling back the curtain on [url=http://dota2.com/darkcarnival]the Dark Carnival[/url], a new ongoing event in the Dota universe. This first part, \"Midnight Run\", lets you navigate Legion Commander and Hoodwink through a massive, fully-voiced Dota story featuring a spider-legged convoy of deadly robots, heartstopping secrets, and unique rewards.\n\nToday's update features five all-new Automaton Personas (mechanical reimaginings of classic Dota heroes with new animations, effects, icons, and more), 20 new hero sets (some in a brand new treasure, and some that can only be earned by exploring the map and story), and much more. There's [url=http://dota2.com/darkcarnivalcomic]a comic[/url] if you're the kind of person who likes backstory.\n\nBut if, much like Legion Commander and Hoodwink themselves, you'd prefer to be thrown into the action without a lot of pesky memories of how you wound up in Ringmaster's prison train, the first stage of Midnight Run is now live in-game and free for all players. This is just the beginning: There are plenty of surprises in Midnight Run, and we're just getting started.\n",
+        "feedlabel": "Community Announcements",
+        "date": 1782417351,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 570
+      },
+      {
         "gid": "1836506165551262",
         "title": "After mysteriously vanishing from the game, Dota 2's Axe has been 'replaced' by a fake",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165551262",
@@ -169,19 +195,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1835871199313172",
-        "title": "Bungie's at a crossroads: Should Destiny 3 be a live service, just a campaign, or something else entirely?",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199313172",
-        "is_external_url": true,
-        "author": "Rory Norris",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/WzQfrVYmyWocyoopW5q8RP-1280-80.jpg\"/><br><br>\n                Now that <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2's</a> massive <a href=\"https://www.pcgamer.com/games/live/news/destiny-2s-final-update-live-coverage-of-the-end-of-an-era/\" target=\"_blank\">final update</a> is here, it's more or less set in stone forever. Destiny is calcified—no more FOMO, no need to re-grind gear, and the end of a seasonal treadmill...\n                <a href=\"https://www.pcgamer.com/games/fps/bungies-at-a-crossroads-should-destiny-3-be-a-live-service-just-a-campaign-or-something-else-entirely/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1782138727,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1835871199310024",
@@ -385,25 +398,6 @@
         "appid": 730,
         "tags": [
           "patchnotes"
-        ]
-      },
-      {
-        "gid": "1833334318578495",
-        "title": "The International 2026 Ticket Sales",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495",
-        "is_external_url": true,
-        "author": "kyled",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]\n\nIn just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www.dota2.com/newsentry/655981180194128453]the official team invitations[/url], and now we'd like to extend one to you. If you want to be one of those fans cheering live at the arena, it's time to get ready: ticket sales for The International 2026 kick off on June 10th at 2pm China Standard Time.\n\nThe in-arena action runs from August 20 - 23 at the SPD Bank Oriental Sports Center, with two ticket options available: single-day tickets for any day, or two-day bundles covering Thursday/Friday and Saturday/Sunday. All seating this year will be assigned, with no General Admission options available.\n\nTicket prices vary based on day and section, so check out the full chart of options below:\n\n[img]{STEAM_CLAN_LOC_IMAGE}/3703047/eeda1e52cc7d32f4c0db01e2ed4f7ff409a95c4f.png[/img]\n\nThere are two purchase paths this year: one for fans purchasing domestically within China, and another for purchasing internationally.\n\n[h2]China Domestic Sales[/h2]\nChinese domestic ticket sales will be available through [url=https://m.damai.cn/shows/item.html?itemId=1052581844801]Damai[/url] or the Perfect World app, and will require a Chinese ID to complete any sale.\n\nOnce ticket sales begin on June 10th at 2pm (China Standard Time), the first twenty minutes will serve as a priority purchase period for domestic tickets. During this period, purchases are restricted to active Dota players in China who have played at least ten games in within the last six months. (To be eligible for priority purchase, please [url=https://www.dota2.com.cn/international/2026/ticketspriority]verify your account status[/url] in advance by the end of Wednesday, June 3, 2026.)\n\nFrom 2:30pm (CST) onward, domestic tickets will be available for purchase to all Chinese customers.\n\n[h2]International Sales[/h2]\nFor fans purchasing outside of China, ticket sales will commence on June 10th at 2:30pm (CST) via [url=https://www.trip.com/t/TI2026]Trip.com[/url].\n\n[h1]FAQ[/h1]\n\n[b]How does seating work?[/b]\nTickets are purchased for a specific seating region (see chart above). After your purchase, you will be assigned a specific seat in the region you selected. All seats are assigned and reserved. [i]There are no general admission tickets or seats.[/i]\n\n[b]What is the ticket transfer policy?[/b]\nTickets cannot be transferred, gifted, or resold. Tickets can only be used by the names for which they were purchased.\n\n[b]What do I need to purchase tickets internationally?[/b]\nTrip.com requires an account and a valid passport for international ticket purchases. You can create your account and submit attendee documentation before tickets go on sale.\n\n[b]Can I purchase tickets for my group?[/b]\nYes, but note that the ticketing platforms limit each individual account to a maximum of two tickets per day. Multiple transactions may be required depending on the size of your group and how many days you wish to attend. As noted above, each attendee/ticket holder must have proper identification in order to complete the checkout process.\n\n[b]Do I need to bring anything else besides my tickets to enter the event?[/b]\nEvent entrance requires a valid photo ID matching the name on the ticket.\n\n[b]What is the ticket refund policy?[/b]\nFor China domestic ticket sales, please see the [url=https://m.damai.cn/shows/item.html?itemId=1052581844801]Damai refund policy[/url]. For international ticket sales, please see the [url=https://www.trip.com/t/TI2026]Trip.com refund policy[/url].",
-        "feedlabel": "Community Announcements",
-        "date": 1779768568,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 570,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_1415716708_1779769372_0",
-          "ModAct_1847323374_1779809371_4",
-          "mod_require_rereview"
         ]
       },
       {
