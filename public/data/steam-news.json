@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165554448",
+        "title": "Dota 2's Dark Carnival has begun, with a huge story chapter and five automaton hero personas",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165554448",
+        "is_external_url": true,
+        "author": "editor@pcgamesn.com",
+        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-event-live-now-rewards-900x506.jpg\"/><p>At last, weeks of speculation and mystery can finally be put to bed: the Dota 2 Dark Carnival has begun. Valve's latest big event is here, and as many were hoping (myself included), it's a full-scale story campaign in a similar format to 2024's Crownfall. This time, the tale opens with Legion Commander and Hoodwink trapped on board a clanking circus train, imprisoned by the dastardly Ringmaster.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/dota-2/dark-carnival-story-event\">Dota 2's Dark Carnival has begun, with a huge story chapter and five automaton hero personas</a></p>",
+        "feedlabel": "PCGamesN",
+        "date": 1782489318,
+        "feedname": "PCGamesN",
+        "feed_type": 0,
+        "appid": 570
+      },
+      {
         "gid": "1836506165553755",
         "title": "It All Comes Down To This - PNC 2026 Finals Day 3",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553755",
@@ -315,22 +328,6 @@
         "feedname": "PCGamesN",
         "feed_type": 0,
         "appid": 570
-      },
-      {
-        "gid": "1834602721189111",
-        "title": "7.41d Gameplay Patch",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189111",
-        "is_external_url": true,
-        "author": "flynnch",
-        "contents": "[p]Patch 7.41d is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41d\"]here[/url].[/p]\n\nIn addition, we've recently addressed the following issues:\n[list]\n[*] Fixed Greevils not spawning their equipped effects\n[*] Fixed Earthshaker's Planetfall Arcana not tracking combos and combo damage properly\n[*] Fixed right click on Dota Labs Overlay Map not working when \"Auto-Repeat Right Mouse\" is enabled\n[*] Fixed Bottle with a stored Rune being able to be moved in and out of the backpack\n[*] Fixed Harmonizer not considering abilities with charges on cooldown\n[*] Fixed Elder Titan's Astral Spirit's movement speed not taking Wind Lace into account\n[*] Fixed Elder Titan's Echo Stomp shard not swapping places with Astral Spirit if he is being moved by another ability when the stomp goes off\n[*] Fixed Invoker not receiving an Aghanim's Blessing from Alchemist if Alchemist casts Aghanim's Scepter on Invoker when his main inventory is full but the backpack had space\n[*] Fixed Alchemist being able to repeatedly give Invoker Aghanim's Blessings if Invoker hasn't chosen his Aghanim's Scepter upgrade\n[*] Fixed Invoker not correctly being refunded for his Aghanim's Blessing if Invoker has not selected an Aghanim's Scepter upgrade and Alchemist casts Aghanim's Scepter on him\n[*] Fixed Spirit Bear's permanently consumed items not counting towards Lone Druid's net worth\n[*] Fixed Spirit Breaker permanently changing teams when he reflects Venomancer's Noxious Plague with Lotus Orb and then casts Planar Pocket on Venomancer before Noxious Plague spreads, then after it spreads to a neutral creep Venomancer uses Helm of the Dominator on that creep\n[*] Fixed Venomancer being able to Transmute Spirit Breaker with Hand of Midas through the same process\n[*] Fixed Wraith King's Vampiric Spirit not turning Wraith King into a wraith if he levels up at the same time as dying\n[*] Ability Draft: Fixed Forge Spirit starting at too high a level\n[*] Ability Draft: Fixed Brewmaster's old Aghanim's Scepter being available\n[/list]\n\n\n",
-        "feedlabel": "Community Announcements",
-        "date": 1780620314,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 570,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1834602721188579",
