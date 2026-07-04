@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165572678",
+        "title": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165572678",
+        "is_external_url": true,
+        "author": "Justin Wagner",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg\"/><br><br>\n                nytime you're talking about the hottest game on Steam, there's an evergreen unspoken caveat: 'after Counter-Strike, of course.' CS2 is unquestionably Steam's killer app—it has <a href=\"https://steamdb.info/app/730/charts/\" target=\"_blank\">well over a million concurrent players</a> as I write this according to SteamDB, and it's showing no signs of slowing down. But don't count out the game it <a href=\"https://www.pcgamer.com/counter-strike-2-released/\">once absorbed</a> and <a href=\"https://www.pcgamer.com/games/fps/counter-strike-global-offensive-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/\">then spat out</a>: its predecessor, Global Offensive...\n                <a href=\"https://www.pcgamer.com/games/fps/counter-strike-2-might-be-the-biggest-game-on-steam-but-global-offensive-is-breaking-player-count-records-since-it-went-standalone-again/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1783183401,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 730
+      },
+      {
         "gid": "1836506165571358",
         "title": "The Jackass Sticker Capsule",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358",
@@ -327,19 +340,6 @@
         "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
-      },
-      {
-        "gid": "1835871199302220",
-        "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
-        "is_external_url": true,
-        "author": "COMPLEX",
-        "contents": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFor the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced with 3-2 records.\n\nThe Lanxess Arena will host the Playoffs, beginning with Thursday's Quarterfinals matchups:\n[list]\n[*] 9z Team vs. FURIA\n[*] Aurora vs. BetBoom\n[/list]The second set of Quarterfinals takes place Friday, featuring:\n[list]\n[*] G2 Esports vs. Team Spirit\n[*] Falcons vs. Vitality\n[/list]\nWith Semifinals on Saturday and the Grand Finals on Sunday, we're in for a great weekend of Counter-Strike.\n\nAs the Playoffs approach, there's still time to support your favorite teams. Team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nAnd don't forget, all Playoff picks for the Pick'Em Challenge must be submitted prior to the first Playoff match beginning; you don't want to miss your Diamond Coin!\n\nVitality are looking to win their third straight Major. Will anyone stop them? Tune in and find out!",
-        "feedlabel": "Community Announcements",
-        "date": 1781738540,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730
       },
       {
         "gid": "1835236783564162",
