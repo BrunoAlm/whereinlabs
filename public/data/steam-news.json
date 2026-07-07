@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165578614",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578614",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[b]Summer 2026![/b]\n[list]\n[*]Featuring 6 new community maps: Dryfield, Camp Saxton, Shorelight, Redwood, Premuda, and Mojave\n[*]Added the Summer 2026 Cosmetic Case[list]\n[*]Contains 24 new community-contributed items\n[*]Has a chance to give a taunt Unusualifier as a bonus item[/list]\n[*]Added 4 new community-contributed taunts to the Mann Co. Store[list]\n[*]Taunt: The Circuit Breaker\n[*]Taunt: Buffoon's Bivouac\n[*]Taunt: Faux-calization\n[*]Taunt: Friendly Fire[/list]\n[*]Added 12 new community-created Unusual effects[list]\n[*]7 new effects for Unusual hats\n[*]5 new effects for Unusual taunts[/list]\n[*]Added the Summer 2026 War Paint Case[list]\n[*]Contains 10 new community-created War Paints that make-up the Summer 2026 Collection\n[*]Has a chance to give a taunt Unusualifier as a bonus item[/list]\n[*]All cosmetic and taunt cases will grant Summer 2026 Unusual effects instead of their normal Unusual effects during the Summer event. This does not include crates.\n[*]The Summer event runs through September 15th, 2026\n[/list]\n[b]General[/b]\n[list]\n[*]Security and stability improvements\n[*]Fixed bad alpha channel for The Creature's Grin, Rocket Operator, The Bountiful Bow, The Alternative Medicine Mann, and The Candyman's Cap (community fix from Chickenman456)\n[*]Fixed the \"Neo Tokyo\" warpaint on the BLU team not matching the RED team because the alpha channel was incorrect (community fix from Whurrhurr)\n[*]Fixed bad alpha channel for the Pile of End of the Line Key Gifts' backpack icon (community fix from Grampa Swood)\n[*]Fixed Stat Clock model attaching incorrectly on dropped weapons (community fix from rabscootle)\n[*]Fixed Stat Clock values always displaying '0' on world models (community fix from rabscootle)\n[*]Fixed intel carrier glow disappearing when Spy cloaks (community fix from shockpast)\n[*]Fixed bad alpha channel for Voodoo Juju's backpack icon (community fix from DiskIntegrity)\n[*]Fixed Silver Botkiller Mk.I having cubemapping in the wrong area due to a VMT error (community fix from Whurrhurr)\n[*]Fixed misspelling on cp_well's BLU rocket clamp texture (community fix from DiskIntegrity)\n[*]Fixed wrong paths in soundscript events for some taunts (community fix from robbilookatme)\n[*]Fixed Spy control point response rules lines playing when disguised/invisible (community fix from Churkinator)\n[*]Fixed weapon Unusual effects (community fix from Cipherlock and rune)[list]\n[*]Fixed particles being orphaned after death\n[*]Fixed the Energy Orb Unusual effect desyncing from the weapon when the player moves too sharply[/list]\n[*]Fixed effects flooding the screen when spectating a dead teammate in first person with an unusual weapon (community fix from RGBACatlord)\n[*]Fixed missing coin effect for HOUWAR's second style (community fix from DiskIntegrity)\n[*]Fixed outdated description for the Splendid Screen (community fix from Grampa Swood)\n[*]Trimmed delay at the start of the sound file for the Panic Attack's shooting sound\n[*]Fixed the Engineer not being able to move for a few seconds after using Taunt: Cheers!\n[*]Updated cp_powerhouse to fix collision problem with crates on final control points\n[*]Updated cp_fortezza[list]\n[*]Reworked interior of shack building next to Point A\n[*]Rebalanced ammo packs around Point A\n[*]Improved visuals across the map\n[*]Made rotation for shortcut path shorter[/list]\n[*]Updated koth_blowout[list]\n[*]Prevent sentry guns from being built inside a prop under the stairs in the maintenance room\n[*]Visual changes to improve clarity and consistency[/list]\n[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1783444717,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1836506165578616",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/274747/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><br><br><b>Summer 2026!</b><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Featuring 6 new community maps: Dryfield, Camp Saxton, Shorelight, Redwood, Premuda, and Mojave<br><li>Added the Summer 2026 Cosmetic Case<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Contains 24 new community-contributed items<br><li>Has a chance to give a taunt Unusualifier as a bonus item</ul><li>Added 4 new community-contributed taunts to the Mann Co. Store<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Taunt: The Circuit Breaker<br><li>Taunt: Buffoon's Bivouac<br><li>Taunt: Faux-calization<br><li>Taunt: Friendly Fire</ul><li>Added 12 new community-created Unusual effects<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>7 new effects for Unusual hats<br><li>5 new effects for Unusual taunts</ul><li>Added the Summer 2026 War Paint Case<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Contains 10 new community-created War Paints that make-up the Summer 2026 Collection<br><li>Has a chance to give a taunt Unusualifier as a bonus item</ul><li>All cosmetic and taunt cases will grant Summer 2026 Unusual effects instead of their normal Unusual effects during the Summer event. This does not include crates.<br><li>The Summer event runs through September 15th, 2026<br></ul><b>General</b><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Security and stability improvements<br><li>Fixed bad alpha channel for The Creature's Grin, Rocket Operator, The Bountiful Bow, The Alternative Medicine Mann, and The Candyman's Cap (community fix from Chickenman456)<br><li>Fixed the \"Neo Tokyo\" warpaint on the BLU team not matching the RED team because the alpha channel was incorrect (community fix from Whurrhurr)<br><li>Fixed bad alpha channel for the Pile of End of the Line Key Gifts' backpack icon (community fix from Grampa Swood)<br><li>Fixed Stat Clock model attaching incorrectly on dropped weapons (community fix from rabscootle)<br><li>Fixed Stat Clock values always displaying '0' on world models (community fix from rabscootle)<br><li>Fixed intel carrier glow disappearing when Spy cloaks (community fix from shockpast)<br><li>Fixed bad alpha channel for Voodoo Juju's backpack icon (community fix from DiskIntegrity)<br><li>Fixed Silver Botkiller Mk.I having cubemapping in the wrong area due to a VMT error (community fix from Whurrhurr)<br><li>Fixed misspelling on cp_well's BLU rocket clamp texture (community fix from DiskIntegrity)<br><li>Fixed wrong paths in soundscript events for some taunts (community fix from robbilookatme)<br><li>Fixed Spy control point response rules lines playing when disguised/invisible (community fix from Churkinator)<br><li>Fixed weapon Unusual effects (community fix from Cipherlock and rune)<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed particles being orphaned after death<br><li>Fixed the Energy Orb Unusual effect desyncing from the weapon when the player moves too sharply</ul><li>Fixed effects flooding the screen when spectating a dead teammate in first person with an unusual weapon (community fix from RGBACatlord)<br><li>Fixed missing coin effect for HOUWAR's second style (community fix from DiskIntegrity)<br><li>Fixed outdated description for the Splendid Screen (community fix from Grampa Swood)<br><li>Trimmed delay at the start of the sound file for the Panic Attack's shooting sound<br><li>Fixed the Engineer not being able to move for a few seconds after using Taunt: Cheers!<br><li>Updated cp_powerhouse to fix collision problem with crates on final control points<br><li>Updated cp_fortezza<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Reworked interior of shack building next to Point A<br><li>Rebalanced ammo packs around Point A<br><li>Improved visuals across the map<br><li>Made rotation for shortcut path shorter</ul><li>Updated koth_blowout<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Prevent sentry guns from being built inside a prop under the stairs in the maintenance room<br><li>Visual changes to improve clarity and consistency</ul></ul>",
+        "feedlabel": "Product Update",
+        "date": 1783444680,
+        "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1836506165578623",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1836506165578623",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<br>\n<b>Summer 2026!</b>\n<ul>\n<li>Featuring 6 new community maps: Dryfield, Camp Saxton, Shorelight, Redwood, Premuda, and Mojave\n<li>Added the Summer 2026 Cosmetic Case<ul>\n<li>Contains 24 new community-contributed items\n<li>Has a chance to give a taunt Unusualifier as a bonus item</ul>\n<li>Added 4 new community-contributed taunts to the Mann Co. Store<ul>\n<li>Taunt: The Circuit Breaker\n<li>Taunt: Buffoon's Bivouac\n<li>Taunt: Faux-calization\n<li>Taunt: Friendly Fire</ul>\n<li>Added 12 new community-created Unusual effects<ul>\n<li>7 new effects for Unusual hats\n<li>5 new effects for Unusual taunts</ul>\n<li>Added the Summer 2026 War Paint Case<ul>\n<li>Contains 10 new community-created War Paints that make-up the Summer 2026 Collection\n<li>Has a chance to give a taunt Unusualifier as a bonus item</ul>\n<li>All cosmetic and taunt cases will grant Summer 2026 Unusual effects instead of their normal Unusual effects during the Summer event. This does not include crates.\n<li>The Summer event runs through September 15th, 2026\n</ul>\n<b>General</b>\n<ul>\n<li>Security and stability improvements\n<li>Fixed bad alpha channel for The Creature's Grin, Rocket Operator, The Bountiful Bow, The Alternative Medicine Mann, and The Candyman's Cap (community fix from Chickenman456)\n<li>Fixed the \"Neo Tokyo\" warpaint on the BLU team not matching the RED team because the alpha channel was incorrect (community fix from Whurrhurr)\n<li>Fixed bad alpha channel for the Pile of End of the Line Key Gifts' backpack icon (community fix from Grampa Swood)\n<li>Fixed Stat Clock model attaching incorrectly on dropped weapons (community fix from rabscootle)\n<li>Fixed Stat Clock values always displaying '0' on world models (community fix from rabscootle)\n<li>Fixed intel carrier glow disappearing when Spy cloaks (community fix from shockpast)\n<li>Fixed bad alpha channel for Voodoo Juju's backpack icon (community fix from DiskIntegrity)\n<li>Fixed Silver Botkiller Mk.I having cubemapping in the wrong area due to a VMT error (community fix from Whurrhurr)\n<li>Fixed misspelling on cp_well's BLU rocket clamp texture (community fix from DiskIntegrity)\n<li>Fixed wrong paths in soundscript events for some taunts (community fix from robbilookatme)\n<li>Fixed Spy control point response rules lines playing when disguised/invisible (community fix from Churkinator)\n<li>Fixed weapon Unusual effects (community fix from Cipherlock and rune)<ul>\n<li>Fixed particles being orphaned after death\n<li>Fixed the Energy Orb Unusual effect desyncing from the weapon when the player moves too sharply</ul>\n<li>Fixed effects flooding the screen when spectating a dead teammate in first person with an unusual weapon (community fix from RGBACatlord)\n<li>Fixed missing coin effect for HOUWAR's second style (community fix from DiskIntegrity)\n<li>Fixed outdated description for the Splendid Screen (community fix from Grampa Swood)\n<li>Trimmed delay at the start of the sound file for the Panic Attack's shooting sound\n<li>Fixed the Engineer not being able to move for a few seconds after using Taunt: Cheers!\n<li>Updated cp_powerhouse to fix collision problem with crates on final control points\n<li>Updated cp_fortezza<ul>\n<li>Reworked interior of shack building next to Point A\n<li>Rebalanced ammo packs around Point A\n<li>Improved visuals across the map\n<li>Made rotation for shortcut path shorter</ul>\n<li>Updated koth_blowout<ul>\n<li>Prevent sentry guns from being built inside a prop under the stairs in the maintenance room\n<li>Visual changes to improve clarity and consistency</ul>\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1783444680,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1836506165572678",
         "title": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165572678",
@@ -316,32 +358,6 @@
         "appid": 570
       },
       {
-        "gid": "1835871199304804",
-        "title": "Jump Fortress Play-Offs 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304804",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/d4eab0b8e4e65fff269910b13476ad4aee9aa19b.jpg[/img]\n(Image credit: MetalCloud)\n\nJump Fortress is back and more ambitious than ever! They're proud to present their most exciting rocket jumping tournament yet: [url=https://www.youtube.com/watch?v=4Rq6VQXl5WA]The Jump Fortress Play-Offs[/url]!\n\nAfter months of tournaments and open qualifiers, the stage has been set. The world's best jumpers head to a two-stage, double-elimination showdown across both Soldier and Demoman, all over three days of racing. The Soldier bracket has the likes of Nikita and Bunny in the mix, while newjuls and cander are among the names to beat on Demoman. And keep an eye on vice, who has a shot at the top in both classes! Tune in over at the [url=https://twitch.tv/essentialstf]EssentialsTF Twitch Channel[/url] to watch them go head-to-head in 1v1, 10-minute time attacks.\n\nEight Soldiers open the action on Saturday, June 20th, and Sunday, June 21st. Then four Demomen take over on Saturday, June 27th. Each day kicks off at 4:00pm CEST, all for a community-funded $3000 USD prize pool and the title of the best jumper in their class! And the competitors aren't the only ones walking away with something! With six live raffles running throughout the event, everyone tuning in has a chance to claim a prize or two. Two classes. Three days of racing. And nobody's out until they've lost twice. Who will become the Jump Fortress Champion, who will crash out, and will vice finally lose a live tournament? Find out live at the Jump Fortress Play-Offs!\n\nImportant Links:\n[list]\n[*][url=https://discord.gg/tusBc64wnv]Jump Fortress Discord[/url]\n[/list]\n\n\n",
-        "feedlabel": "Community Announcements",
-        "date": 1781798820,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440
-      },
-      {
-        "gid": "1835871199304805",
-        "title": "Jump Fortress Play-Offs 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1835871199304805",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://discord.gg/tusBc64wnv\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/273613/essentials26_small.jpg?t=1496190994\"></a>\n(Image credit: <a href=\"https://steamcommunity.com/id/metalcloud\" target=\"_blank\">MetalCloud</a>)<br><br>\n\n<p>Jump Fortress is back and more ambitious than ever! They're proud to present their most exciting rocket jumping tournament yet: <a href=\"https://www.youtube.com/watch?v=4Rq6VQXl5WA\" target=\"_blank\">The Jump Fortress Play-Offs</a>!</p><br>\n\n<p>After months of tournaments and open qualifiers, the stage has been set. The world's best jumpers head to a two-stage, double-elimination showdown across both Soldier and Demoman, all over three days of racing. The Soldier bracket has the likes of Nikita and Bunny in the mix, while newjuls and cander are among the names to beat on Demoman. And keep an eye on vice, who has a shot at the top in both classes! Tune in over at the <a href=\"https://twitch.tv/essentialstf\" target=\"_blank\">EssentialsTF Twitch Channel</a> to watch them go head-to-head in 1v1, 10-minute time attacks.</p><br>\n\n<p>Eight Soldiers open the action on Saturday, June 20th, and Sunday, June 21st. Then four Demomen take over on Saturday, June 27th. Each day kicks off at 4:00pm CEST, all for a community-funded $3000 USD prize pool and the title of the best jumper in their class! And the competitors aren't the only ones walking away with something! With six live raffles running throughout the event, everyone tuning in has a chance to claim a prize or two. Two classes. Three days of racing. And nobody's out until they've lost twice. Who will become the Jump Fortress Champion, who will crash out, and will vice finally lose a live tournament? Find out live at the Jump Fortress Play-Offs!</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://discord.gg/tusBc64wnv\" target=\"_blank\">Jump Fortress Discord</a>\n</ul>\n</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1781798700,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1835236783564162",
         "title": "Modern Warfare 4: Campaign Early Access Confirmed",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783564162",
@@ -366,24 +382,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1938090
-      },
-      {
-        "gid": "1834602721188579",
-        "title": "TFCL Alpha Season 2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188579",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/cdee279951600e2e94e58dc1ae778b87411de00a.png[/img]\n\nAfter more than six months of stealth development, a super duper secret alpha, and a ton of broken sentry guns, TFCL is back and ready for public testing! TFCL is a North American competitive 6v6 league. Registration for TFCL's Alpha Season 2 opened on May 21st and runs through July 5th!\n \nTo make things even more awesome, they're throwing a $504 prize pool at this season! And medals, of course. Can't forget those!\n \nAlpha Season 2 will last approximately 6 weeks, with an additional week or two for playoffs. There will be 12 matches, two per week, on servers located in North America. Entry is free. TFCL will host and configure all match servers, so all you have to do is sit back, compete, and have fun!\n \nMore information can be found [url=https://tfcleague.com/alpha2]here[/url]!",
-        "feedlabel": "Community Announcements",
-        "date": 1780601679,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_1888979151_1780603221_0",
-          "mod_require_rereview"
-        ]
       },
       {
         "gid": "1834602721188157",
