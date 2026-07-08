@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165580666",
+        "title": "You're invited to Destiny's cursed unofficial final raid: Pete Carsons' Vault of Cars",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165580666",
+        "is_external_url": true,
+        "author": "Rory Norris",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/dMHoY9uV9awJLjHVgg5hfa-1280-80.jpg\"/><br><br>\n                The reasons behind the decline and ultimate end of <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2</a> will always be a topic of discussion. It's, in my opinion, one of the biggest fumbles in entertainment history. No one thing is to blame, but <a href=\"https://www.pcgamer.com/games/bungie-ceo-pete-parsons-retires-with-destiny-2-sentiment-at-an-all-time-low-and-pressure-from-sony-growing-parsons-has-decided-its-time-to-pass-the-torch-and-head-for-an-exit/\" target=\"_blank\">former Bungie CEO and avid car collector Pete Parsons</a>, who retired in August 2025 as sentiment was at an all-time low and pressure from Sony grew, is the focus of much of the ire. <a href=\"https://www.pcgamer.com/gaming-industry/eat-s-pete-in-a-rare-moment-of-unity-destiny-players-bid-good-riddance-to-departing-bungie-ceo-pete-parsons/\" target=\"_blank\">\"I hope all your cars break down,\"</a> one player wrote in a cheerful farewell to the departing CEO last year, in a rare moment of community unity...\n                <a href=\"https://www.pcgamer.com/games/fps/youre-invited-to-destinys-cursed-unofficial-final-raid-pete-carsons-vault-of-cars/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1783516581,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1836506165579719",
         "title": "[Dev Letter] Console Experience Improvement Roadmap",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579719",
@@ -278,19 +291,6 @@
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1836506165544348",
-        "title": "\"Truthfully, it's heartbreaking\": Warframe dev on the hole that Destiny 2 leaves behind",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165544348",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<img src=\"https://assetsio.gnwcdn.com/destiny-2-the-witch-queen-armour.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>\nThere's long been a bit of a rivalry between Destiny and <a href=\"https://www.rockpapershotgun.com/games/warframe\">Warframe</a>'s respective communities because of them both being shooty, sci-fi, MMOy joints. But when it comes to the community director behind Warframe, the recent end to new <a href=\"https://www.rockpapershotgun.com/games/destiny-2\">Destiny 2</a> updates and expansions is no victory, and mostly just finds the whole situation to be \"devastating.\"\n</p> <p><a href=\"https://www.rockpapershotgun.com/truthfully-its-heartbreaking-warframe-dev-on-the-hole-that-destiny-2-leaves-behind\">Read more</a></p>",
-        "feedlabel": "Rock, Paper, Shotgun",
-        "date": 1782247221,
-        "feedname": "Rock, Paper, Shotgun",
-        "feed_type": 0,
-        "appid": 230410
       },
       {
         "gid": "1835871199314124",
