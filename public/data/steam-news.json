@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165583014",
+        "title": "Former Marathon director settles lawsuit against Sony and Bungie, following his firing over alleged inappropriate messages to female staff",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165583014",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://assetsio.gnwcdn.com/marathon-season-2-flare.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Former <a href=\"https://www.rockpapershotgun.com/games/marathon-2025\">Marathon</a> director Christopher Barrett has settled his lawsuit against Sony and Bungie. He filed the lawsuit against the studio after a <a href=\"https://www.rockpapershotgun.com/bungie-replace-marathon-director-amid-reports-of-creative-leadership-shake-up\">quiet departure which was confirmed in March 2024</a>.</p>\n<p>Bloomberg <a href=\"https://www.rockpapershotgun.com/bungie-reportedly-fired-marathon-reboot-director-chris-barrett-for-unwanted-and-inappropriate-messages-to-female-staff\">reported in August 2024</a> that Barrett had been fired after he was accused by several female Bungie staff of inappropriate behaviour. Barrett subsequently sued Sony and Bungie for breach of contract and defamation, claiming that the real reason he was fired was to prevent him being paid a bonus of over $45 million, with the suit seeing Sony <a href=\"https://www.rockpapershotgun.com/these-are-the-text-messages-that-allegedly-got-a-former-bungie-executive-fired-according-to-a-court-document-written-by-sony\">reveal some of the inappropriate text messages</a> Barret allegedly sent to staff.</p>\n <p><a href=\"https://www.rockpapershotgun.com/former-marathon-director-settles-lawsuit-against-sony-and-bungie-following-his-firing-over-alleged-inappropriate-messages-to-female-staff\">Read more</a></p>",
+        "feedlabel": "Rock, Paper, Shotgun",
+        "date": 1783588611,
+        "feedname": "Rock, Paper, Shotgun",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1836506165581862",
         "title": "Team Fortress 2 Update Released",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581862",
@@ -294,19 +307,6 @@
         "feedname": "PCGamesN",
         "feed_type": 0,
         "appid": 570
-      },
-      {
-        "gid": "1836506165552137",
-        "title": "Amid mass layoffs at Bungie, the official White House X account issues sociopathic Destiny 2 meme",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165552137",
-        "is_external_url": true,
-        "author": "Shaun Prescott",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/jQrRQE9Ga7k7QjQ9nrEnqQ-1280-80.png\"/><br><br>\n                In its latest videogame-themed, AI-generated meme, the official White House X account has published a Destiny 2 character sheet featuring an unrealistically ripped Donald Trump wielding a <a href=\"https://www.pcgamer.com/great-moments-in-pc-gaming-finally-getting-gjallarhorn-to-drop-in-destiny/\">Gjallarhorn</a>...\n                <a href=\"https://www.pcgamer.com/gaming-industry/amid-mass-layoffs-at-bungie-the-official-white-house-x-account-issues-sociopathic-destiny-2-meme/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1782430307,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1836506165551627",
