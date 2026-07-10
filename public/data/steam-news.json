@@ -2,6 +2,35 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165584645",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where season medals were missing their gold tint on one of the bars.[/p][/*][*][p]Fixed a case where the scoreboard wouldn't update while open.[/p][/*][*][p]Various stability improvements.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1783633576,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1836506165584471",
+        "title": "Destiny 2 players get a final farewell gift from Bungie",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584471",
+        "is_external_url": true,
+        "author": "Andy Chalk",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/RXL2nn4i6henNNxthpZsYN-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2</a> is done: The final patch is out, Bungie is decimated, and the game will remain playable but the story of one of the biggest, best and most influential online shooters ever is over. To memorialize the moment, Bungie has rolled out one last gift for players: A new emblem, free for everyone, called Gloriabundus...\n                <a href=\"https://www.pcgamer.com/games/fps/destiny-2-players-get-a-final-farewell-gift-from-bungie/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1783626439,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1836506165583014",
         "title": "Former Marathon director settles lawsuit against Sony and Bungie, following his firing over alleged inappropriate messages to female staff",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165583014",
@@ -120,19 +149,6 @@
         "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/xThnDr7AD5B7bn2NP2PPG7-1280-80.jpg\"/><br><br>\n                Destiny 2 has entered its long goodnight. Despite earlier assurances that Destiny 2 will \"remain playable\" for the foreseeable future, the studio <a href=\"https://x.com/A_dmg04/status/2074539218999890083?s=20\" target=\"_blank\">now seems to be signaling</a> that its ability to ensure the game's ongoing health is constrained. Even if Bungie and Sony had the will to ensure Destiny 2's sandbox stays fulfilling in its sunset years, they'd struggle to find someone to make it happen—because most of the Destiny team was <a href=\"https://www.pcgamer.com/gaming-industry/with-destiny-2-over-bungie-lays-off-employees-to-align-the-studios-resources-with-its-current-priorities-and-long-term-goals/\" target=\"_blank\">cut loose last month</a>...\n                <a href=\"https://www.pcgamer.com/games/fps/players-prove-destiny-2-can-still-produce-wonders-with-discovery-of-poopy-pants-transmog/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
         "feedlabel": "PC Gamer",
         "date": 1783526296,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1836506165580666",
-        "title": "You're invited to Destiny's cursed unofficial final raid: Pete Carsons' Vault of Cars",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165580666",
-        "is_external_url": true,
-        "author": "Rory Norris",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/dMHoY9uV9awJLjHVgg5hfa-1280-80.jpg\"/><br><br>\n                The reasons behind the decline and ultimate end of <a href=\"https://www.pcgamer.com/destiny-2/\" target=\"_blank\">Destiny 2</a> will always be a topic of discussion. It's, in my opinion, one of the biggest fumbles in entertainment history. No one thing is to blame, but <a href=\"https://www.pcgamer.com/games/bungie-ceo-pete-parsons-retires-with-destiny-2-sentiment-at-an-all-time-low-and-pressure-from-sony-growing-parsons-has-decided-its-time-to-pass-the-torch-and-head-for-an-exit/\" target=\"_blank\">former Bungie CEO and avid car collector Pete Parsons</a>, who retired in August 2025 as sentiment was at an all-time low and pressure from Sony grew, is the focus of much of the ire. <a href=\"https://www.pcgamer.com/gaming-industry/eat-s-pete-in-a-rare-moment-of-unity-destiny-players-bid-good-riddance-to-departing-bungie-ceo-pete-parsons/\" target=\"_blank\">\"I hope all your cars break down,\"</a> one player wrote in a cheerful farewell to the departing CEO last year, in a rare moment of community unity...\n                <a href=\"https://www.pcgamer.com/games/fps/youre-invited-to-destinys-cursed-unofficial-final-raid-pete-carsons-vault-of-cars/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1783516581,
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
@@ -278,24 +294,6 @@
         "appid": 578080
       },
       {
-        "gid": "1836506165564136",
-        "title": "Team Falcons' Finale",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136",
-        "is_external_url": true,
-        "author": "COMPLEX",
-        "contents": "[p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.\n\nFacing the defending Major Champions in the Quarterfinals, Falcons defeated Vitality 2-1, with each map taking 24 rounds to determine a winner. The Semifinals weren't any easier, where the Falcons met Team Spirit in a best of three that saw two maps go to Overtime. In the end, the Falcons outlasted Team Spirit 16:12 on Dust II, taking the series 2-1 and booking their first appearance in the Grand Finals. \n\nIn the Grand Finals the Falcons left no doubt, defeating FURIA 3-0 to claim the organization's first Major Championship.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/1a646666feb18ff678ffee27f43faa3c8b0e1560.png[/img]\nTo celebrate the closing of the Cologne Major, new items are available in the Major Shop: the IEM Cologne 2026 Champions Autograph stickers (featuring Paper, Holo, Foil, and Gold autographs from Falcons players), and IEM Cologne 2026 Highlight Charms (featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment.)\n\nCongratulations to the Falcons, champions of the Cathedral and champions of the IEM Cologne 2026 Major![/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1782874684,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_1415716708_1782874726_0",
-          "mod_require_rereview"
-        ]
-      },
-      {
         "gid": "1836506165554448",
         "title": "Dota 2's Dark Carnival has begun, with a huge story chapter and five automaton hero personas",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165554448",
@@ -413,12 +411,7 @@
         "date": 1780419999,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 1938090,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_1888166638_1780420652_0",
-          "mod_require_rereview"
-        ]
+        "appid": 1938090
       }
     ]
   }
