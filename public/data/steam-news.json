@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1837955055357756",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357756",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\n[*]Updated the Beachcomber's Brim to fix an incorrect material\n[*]Updated Taunt: The Circuit Breaker[list]\n[*]Fixed incorrect team color on prop\n[*]Fixed orphaned particles[/list]\n[*]Updated the Inglorious Patriot[list]\n[*]Adjusted the normal map and refined the colors\n[*]Improved the weighting on the bottom pockets\n[*]Updated the backpack icon[/list]\n[*]Updated pl_redwood[list]\n[*]Fixed various lighting issues \n[*]Zipline dismount jump speed now ramps up from 1.1x base class speed to 1.8x \n[*]Decreased delay before a player can dismount a zipline by jumping from 0.6s to 0.25s\n[*]Decreased delay before a player can dismount a zipline by crouching from 0.3s to 0.1s\n[*]Fixed players who dismount a zipline in mid-air not receiving mini-crits from the Direct Hit and Reserve Shooter\n[*]Fixed the B.A.S.E. Jumper's parachute deploying while using a zipline[/list]\n[*]Updated koth_camp_saxton[list]\n[*]Vastly improved optimization. Further investigation is ongoing.\n[*]Tweaked log-and-netting walls along the central shore for clearer definition\n[*]Fixed several instances of minor prop clipping\n[*]Fixed players getting stuck on the wood-carved Saxtons\n[*]Improved clipping throughout[/list]\n[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1783710094,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1837955055357761",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/275718/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Updated the Beachcomber's Brim to fix an incorrect material<br><li>Updated Taunt: The Circuit Breaker<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed incorrect team color on prop<br><li>Fixed orphaned particles</ul><li>Updated the Inglorious Patriot<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Adjusted the normal map and refined the colors<br><li>Improved the weighting on the bottom pockets<br><li>Updated the backpack icon</ul><li>Updated pl_redwood<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed various lighting issues <br><li>Zipline dismount jump speed now ramps up from 1.1x base class speed to 1.8x <br><li>Decreased delay before a player can dismount a zipline by jumping from 0.6s to 0.25s<br><li>Decreased delay before a player can dismount a zipline by crouching from 0.3s to 0.1s<br><li>Fixed players who dismount a zipline in mid-air not receiving mini-crits from the Direct Hit and Reserve Shooter<br><li>Fixed the B.A.S.E. Jumper's parachute deploying while using a zipline</ul><li>Updated koth_camp_saxton<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Vastly improved optimization. Further investigation is ongoing.<br><li>Tweaked log-and-netting walls along the central shore for clearer definition<br><li>Fixed several instances of minor prop clipping<br><li>Fixed players getting stuck on the wood-carved Saxtons<br><li>Improved clipping throughout</ul></ul>",
+        "feedlabel": "Product Update",
+        "date": 1783710000,
+        "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1837955055357772",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1837955055357772",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated the Beachcomber's Brim to fix an incorrect material\n<li>Updated Taunt: The Circuit Breaker<ul>\n<li>Fixed incorrect team color on prop\n<li>Fixed orphaned particles</ul>\n<li>Updated the Inglorious Patriot<ul>\n<li>Adjusted the normal map and refined the colors\n<li>Improved the weighting on the bottom pockets\n<li>Updated the backpack icon</ul>\n<li>Updated pl_redwood<ul>\n<li>Fixed various lighting issues \n<li>Zipline dismount jump speed now ramps up from 1.1x base class speed to 1.8x \n<li>Decreased delay before a player can dismount a zipline by jumping from 0.6s to 0.25s\n<li>Decreased delay before a player can dismount a zipline by crouching from 0.3s to 0.1s\n<li>Fixed players who dismount a zipline in mid-air not receiving mini-crits from the Direct Hit and Reserve Shooter\n<li>Fixed the B.A.S.E. Jumper's parachute deploying while using a zipline</ul>\n<li>Updated koth_camp_saxton<ul>\n<li>Vastly improved optimization. Further investigation is ongoing.\n<li>Tweaked log-and-netting walls along the central shore for clearer definition\n<li>Fixed several instances of minor prop clipping\n<li>Fixed players getting stuck on the wood-carved Saxtons\n<li>Improved clipping throughout</ul>\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1783710000,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1836506165584645",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
@@ -69,19 +111,6 @@
         "feedlabel": "TF2 Blog",
         "date": 1783552380,
         "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1836506165581864",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/275469/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Updated the Beachcomber's Brim to add a second style that was originally missed<br><li>Updated the Northern Nights, Umbral Lights, and Solar Singed Unusual effects to fix a naming conflict<br><li>Updated the Blissful Butterflies and Wispful Wings Unusual effects to fix visibility issues<br><li>Updated the Hard Hearing to fix truncated style names<br><li>Updated backpack image for the Pyro's Overalls to fix the alpha channel<br><li>Updated the Sandwich Diner and Sideshow war paints to fix the alpha channels<br><li>Updated the Team Union war paint to remove a few rogue pixels<br></ul>",
-        "feedlabel": "Product Update",
-        "date": 1783552380,
-        "feedname": "steam_updates",
         "feed_type": 0,
         "appid": 440
       },
@@ -178,35 +207,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1836506165578614",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578614",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[b]Summer 2026![/b]\n[list]\n[*]Featuring 6 new community maps: Dryfield, Camp Saxton, Shorelight, Redwood, Premuda, and Mojave\n[*]Added the Summer 2026 Cosmetic Case[list]\n[*]Contains 24 new community-contributed items\n[*]Has a chance to give a taunt Unusualifier as a bonus item[/list]\n[*]Added 4 new community-contributed taunts to the Mann Co. Store[list]\n[*]Taunt: The Circuit Breaker\n[*]Taunt: Buffoon's Bivouac\n[*]Taunt: Faux-calization\n[*]Taunt: Friendly Fire[/list]\n[*]Added 12 new community-created Unusual effects[list]\n[*]7 new effects for Unusual hats\n[*]5 new effects for Unusual taunts[/list]\n[*]Added the Summer 2026 War Paint Case[list]\n[*]Contains 10 new community-created War Paints that make-up the Summer 2026 Collection\n[*]Has a chance to give a taunt Unusualifier as a bonus item[/list]\n[*]All cosmetic and taunt cases will grant Summer 2026 Unusual effects instead of their normal Unusual effects during the Summer event. This does not include crates.\n[*]The Summer event runs through September 15th, 2026\n[/list]\n[b]General[/b]\n[list]\n[*]Security and stability improvements\n[*]Fixed bad alpha channel for The Creature's Grin, Rocket Operator, The Bountiful Bow, The Alternative Medicine Mann, and The Candyman's Cap (community fix from Chickenman456)\n[*]Fixed the \"Neo Tokyo\" warpaint on the BLU team not matching the RED team because the alpha channel was incorrect (community fix from Whurrhurr)\n[*]Fixed bad alpha channel for the Pile of End of the Line Key Gifts' backpack icon (community fix from Grampa Swood)\n[*]Fixed Stat Clock model attaching incorrectly on dropped weapons (community fix from rabscootle)\n[*]Fixed Stat Clock values always displaying '0' on world models (community fix from rabscootle)\n[*]Fixed intel carrier glow disappearing when Spy cloaks (community fix from shockpast)\n[*]Fixed bad alpha channel for Voodoo Juju's backpack icon (community fix from DiskIntegrity)\n[*]Fixed Silver Botkiller Mk.I having cubemapping in the wrong area due to a VMT error (community fix from Whurrhurr)\n[*]Fixed misspelling on cp_well's BLU rocket clamp texture (community fix from DiskIntegrity)\n[*]Fixed wrong paths in soundscript events for some taunts (community fix from robbilookatme)\n[*]Fixed Spy control point response rules lines playing when disguised/invisible (community fix from Churkinator)\n[*]Fixed weapon Unusual effects (community fix from Cipherlock and rune)[list]\n[*]Fixed particles being orphaned after death\n[*]Fixed the Energy Orb Unusual effect desyncing from the weapon when the player moves too sharply[/list]\n[*]Fixed effects flooding the screen when spectating a dead teammate in first person with an unusual weapon (community fix from RGBACatlord)\n[*]Fixed missing coin effect for HOUWAR's second style (community fix from DiskIntegrity)\n[*]Fixed outdated description for the Splendid Screen (community fix from Grampa Swood)\n[*]Trimmed delay at the start of the sound file for the Panic Attack's shooting sound\n[*]Fixed the Engineer not being able to move for a few seconds after using Taunt: Cheers!\n[*]Updated cp_powerhouse to fix collision problem with crates on final control points\n[*]Updated cp_fortezza[list]\n[*]Reworked interior of shack building next to Point A\n[*]Rebalanced ammo packs around Point A\n[*]Improved visuals across the map\n[*]Made rotation for shortcut path shorter[/list]\n[*]Updated koth_blowout[list]\n[*]Prevent sentry guns from being built inside a prop under the stairs in the maintenance room\n[*]Visual changes to improve clarity and consistency[/list]\n[/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1783444717,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1836506165578616",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/274747/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><br><br><b>Summer 2026!</b><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Featuring 6 new community maps: Dryfield, Camp Saxton, Shorelight, Redwood, Premuda, and Mojave<br><li>Added the Summer 2026 Cosmetic Case<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Contains 24 new community-contributed items<br><li>Has a chance to give a taunt Unusualifier as a bonus item</ul><li>Added 4 new community-contributed taunts to the Mann Co. Store<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Taunt: The Circuit Breaker<br><li>Taunt: Buffoon's Bivouac<br><li>Taunt: Faux-calization<br><li>Taunt: Friendly Fire</ul><li>Added 12 new community-created Unusual effects<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>7 new effects for Unusual hats<br><li>5 new effects for Unusual taunts</ul><li>Added the Summer 2026 War Paint Case<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Contains 10 new community-created War Paints that make-up the Summer 2026 Collection<br><li>Has a chance to give a taunt Unusualifier as a bonus item</ul><li>All cosmetic and taunt cases will grant Summer 2026 Unusual effects instead of their normal Unusual effects during the Summer event. This does not include crates.<br><li>The Summer event runs through September 15th, 2026<br></ul><b>General</b><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Security and stability improvements<br><li>Fixed bad alpha channel for The Creature's Grin, Rocket Operator, The Bountiful Bow, The Alternative Medicine Mann, and The Candyman's Cap (community fix from Chickenman456)<br><li>Fixed the \"Neo Tokyo\" warpaint on the BLU team not matching the RED team because the alpha channel was incorrect (community fix from Whurrhurr)<br><li>Fixed bad alpha channel for the Pile of End of the Line Key Gifts' backpack icon (community fix from Grampa Swood)<br><li>Fixed Stat Clock model attaching incorrectly on dropped weapons (community fix from rabscootle)<br><li>Fixed Stat Clock values always displaying '0' on world models (community fix from rabscootle)<br><li>Fixed intel carrier glow disappearing when Spy cloaks (community fix from shockpast)<br><li>Fixed bad alpha channel for Voodoo Juju's backpack icon (community fix from DiskIntegrity)<br><li>Fixed Silver Botkiller Mk.I having cubemapping in the wrong area due to a VMT error (community fix from Whurrhurr)<br><li>Fixed misspelling on cp_well's BLU rocket clamp texture (community fix from DiskIntegrity)<br><li>Fixed wrong paths in soundscript events for some taunts (community fix from robbilookatme)<br><li>Fixed Spy control point response rules lines playing when disguised/invisible (community fix from Churkinator)<br><li>Fixed weapon Unusual effects (community fix from Cipherlock and rune)<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed particles being orphaned after death<br><li>Fixed the Energy Orb Unusual effect desyncing from the weapon when the player moves too sharply</ul><li>Fixed effects flooding the screen when spectating a dead teammate in first person with an unusual weapon (community fix from RGBACatlord)<br><li>Fixed missing coin effect for HOUWAR's second style (community fix from DiskIntegrity)<br><li>Fixed outdated description for the Splendid Screen (community fix from Grampa Swood)<br><li>Trimmed delay at the start of the sound file for the Panic Attack's shooting sound<br><li>Fixed the Engineer not being able to move for a few seconds after using Taunt: Cheers!<br><li>Updated cp_powerhouse to fix collision problem with crates on final control points<br><li>Updated cp_fortezza<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Reworked interior of shack building next to Point A<br><li>Rebalanced ammo packs around Point A<br><li>Improved visuals across the map<br><li>Made rotation for shortcut path shorter</ul><li>Updated koth_blowout<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Prevent sentry guns from being built inside a prop under the stairs in the maintenance room<br><li>Visual changes to improve clarity and consistency</ul></ul>",
-        "feedlabel": "Product Update",
-        "date": 1783444680,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1836506165572678",
