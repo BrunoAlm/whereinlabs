@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1837955055363349",
+        "title": "Warframe creative director says Destiny 2's end is tragic, because even with hard work 'the business side of this industry always gets the last remark'",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363349",
+        "is_external_url": true,
+        "author": "Harvey Randall",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/qqACJ76T6ux8N24NoYJ5UL-1280-80.png\"/><br><br>\n                <a href=\"https://www.pcgamer.com/destiny-2/\">Destiny 2</a> isn't going anywhere, but it also isn't… well, <em>going </em>anywhere. The game's servers will still be running for the foreseeable future, but <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\">Bungie has since ceased updates</a> to its flagship shooter to move onto other projects, tragically <a href=\"https://www.pcgamer.com/gaming-industry/with-destiny-2-over-bungie-lays-off-employees-to-align-the-studios-resources-with-its-current-priorities-and-long-term-goals/\">laying off much of its staff</a> in the aftermath of that decision...\n                <a href=\"https://www.pcgamer.com/gaming-industry/warframe-creative-director-says-destiny-2s-end-is-tragic-because-even-with-hard-work-the-business-side-of-this-industry-always-gets-the-last-remark/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1783946290,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1837955055357756",
         "title": "Team Fortress 2 Update Released",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357756",
@@ -166,19 +179,6 @@
         "feedlabel": "Rock, Paper, Shotgun",
         "date": 1783527300,
         "feedname": "Rock, Paper, Shotgun",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1836506165581087",
-        "title": "Players prove Destiny 2 can still produce wonders with discovery of poopy pants transmog",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165581087",
-        "is_external_url": true,
-        "author": "Lincoln Carpenter",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/xThnDr7AD5B7bn2NP2PPG7-1280-80.jpg\"/><br><br>\n                Destiny 2 has entered its long goodnight. Despite earlier assurances that Destiny 2 will \"remain playable\" for the foreseeable future, the studio <a href=\"https://x.com/A_dmg04/status/2074539218999890083?s=20\" target=\"_blank\">now seems to be signaling</a> that its ability to ensure the game's ongoing health is constrained. Even if Bungie and Sony had the will to ensure Destiny 2's sandbox stays fulfilling in its sunset years, they'd struggle to find someone to make it happen—because most of the Destiny team was <a href=\"https://www.pcgamer.com/gaming-industry/with-destiny-2-over-bungie-lays-off-employees-to-align-the-studios-resources-with-its-current-priorities-and-long-term-goals/\" target=\"_blank\">cut loose last month</a>...\n                <a href=\"https://www.pcgamer.com/games/fps/players-prove-destiny-2-can-still-produce-wonders-with-discovery-of-poopy-pants-transmog/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1783526296,
-        "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
       },
