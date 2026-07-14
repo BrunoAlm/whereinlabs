@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1837955055364609",
+        "title": "RGL.gg Season 20 LAN Playoffs (Philadelphia, PA)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055364609",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/260c3d698c369f4522414069596367bdc94299cd.png[/img]\n(Image credit: MetalCloud)\n\nOn July 24-26th, the top four teams in RGL will be flying out to Philadelphia, PA, for the Season 20 LAN Playoffs and a chance to prove who is the best team in North America!\n\nCome watch in person or catch all of the action live on the [url=https://www.twitch.tv/RGLgg]RGL.gg Twitch Stream[/url]. Below are the match schedules for July 25th - 26th (July 24th is an optional preparation day for PC time, player and spectator pre-registration, media/interview time, and more).\n\nSchedule - Day 1 (Saturday, July 25th)\n1:00 pm Eastern Daylight Time - Round 1 Match\n4:30 pm Eastern Daylight Time - Semi-Finals\n\nSchedule - Day 2 (Sunday, July 26th)\n12:30 pm Eastern Daylight Time - Lower Bracket Finals\n4:00 pm Eastern Daylight Time - GRAND FINAL\n",
+        "feedlabel": "Community Announcements",
+        "date": 1783983004,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1837955055364611",
+        "title": "RGL.gg Season 20 LAN Playoffs (Philadelphia, PA)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1837955055364611",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://www.twitch.tv/RGLgg\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/275946/rglgg_lan3_small.png?t=1496190994\"></a>\n(Image credit: <a href=\"https://steamcommunity.com/id/metalcloud/\" target=\"_blank\">MetalCloud</a>)<br><br>\n\n<p>On July 24-26th, the top four teams in RGL will be flying out to Philadelphia, PA, for the Season 20 LAN Playoffs and a chance to prove who is the best team in North America!</p><br>\n\n<p>Come watch in person or catch all of the action live on the <a href=\"https://www.twitch.tv/RGLgg\" target=\"_blank\">RGL.gg Twitch Stream</a>. Below are the match schedules for July 25th - 26th (July 24th is an optional preparation day for PC time, player and spectator pre-registration, media/interview time, and more).</p><br>\n\n<p>Schedule - Day 1 (Saturday, July 25th)<br>\n1:00 pm Eastern Daylight Time - Round 1 Match<br>\n4:30 pm Eastern Daylight Time - Semi-Finals</p><br>\n\n<p>Schedule - Day 2 (Sunday, July 26th)<br>\n12:30 pm Eastern Daylight Time - Lower Bracket Finals<br>\n4:00 pm Eastern Daylight Time - GRAND FINAL</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1783982940,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1837955055364028",
         "title": "Call of Duty: Black Ops 7 and Warzone - Season 05",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055364028",
@@ -110,35 +136,6 @@
         "feedname": "Rock, Paper, Shotgun",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1836506165581862",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581862",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\n[*]Updated the Beachcomber's Brim to add a second style that was originally missed\n[*]Updated the Northern Nights, Umbral Lights, and Solar Singed Unusual effects to fix a naming conflict\n[*]Updated the Blissful Butterflies and Wispful Wings Unusual effects to fix visibility issues\n[*]Updated the Hard Hearing to fix truncated style names\n[*]Updated backpack image for the Pyro's Overalls to fix the alpha channel\n[*]Updated the Sandwich Diner and Sideshow war paints to fix the alpha channels\n[*]Updated the Team Union war paint to remove a few rogue pixels\n[/list]\n",
-        "feedlabel": "Community Announcements",
-        "date": 1783552425,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1836506165581871",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1836506165581871",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated the Beachcomber's Brim to add a second style that was originally missed\n<li>Updated the Northern Nights, Umbral Lights, and Solar Singed Unusual effects to fix a naming conflict\n<li>Updated the Blissful Butterflies and Wispful Wings Unusual effects to fix visibility issues\n<li>Updated the Hard Hearing to fix truncated style names\n<li>Updated backpack image for the Pyro's Overalls to fix the alpha channel\n<li>Updated the Sandwich Diner and Sideshow war paints to fix the alpha channels\n<li>Updated the Team Union war paint to remove a few rogue pixels\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1783552380,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1836506165581861",
