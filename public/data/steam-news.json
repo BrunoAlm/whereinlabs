@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329253418",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/06~07/12)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253418",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10490]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1784098823,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1838407329253249",
+        "title": "Special Drops - July 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253249",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/7a659653915ff6828151532283aadb046ff45e28.jpg\"][/img][/p][h2][url=\"https://pubg.com/events/notice/10406\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1784091616,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1838407329252903",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903",
@@ -246,32 +272,6 @@
         "feedname": "Rock, Paper, Shotgun",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1836506165579719",
-        "title": "[Dev Letter] Console Experience Improvement Roadmap",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579719",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/1d8c072b06da90a19f1f5b84100abeb34fcdae46.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10385\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1783494109,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1836506165579713",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/29~07/05)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579713",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10405]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1783494050,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1836506165572678",
