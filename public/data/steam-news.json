@@ -2,6 +2,64 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329252903",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903",
+        "is_external_url": true,
+        "author": "mcjohn",
+        "contents": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url]).[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url]).[/p][/*][/list][p]El Dorado[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3408790618\"]Update Notes[/url]).[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Various stability and security fixes.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1784076120,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1837955055367044",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055367044",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\t\t\n[*]Fixed missing sound for Taunt: Circuit Breaker\n[*]Renamed \"Northern Nights\" Summer 2026 Unusual effect to \"Polar Prism\"\n[*]Updated the Floral Growth Unusual effect to fix orientation/position problems\n[*]Updated the Bald Spotter[list]\t\t\n[*]Adjusted vertex normals and diffuse on head\n[*]Adjusted normals and specular on head mirror\n[*]Reduced mesh size slightly toward the front and back of the head\n[*]Fixed some facial flexes\n[*]Reduced texture size of lens[/list]\t\t\n[*]Updated the Surgical Shroud[list]\t\t\n[*]Fixed vertex normal issue on coat\n[*]Adjusted Phongfresnelranges on mirror to improve envmap effect\n[*]Reduced texture size of mirror[/list]\t\t\n[*]Updated/Added some tournament medals\n[*]Updated koth_dusker to globally improve lighting in outdoor areas for better team recognition\n[*]Updated cp_premuda[list]\t\t\n[*]Fixed conflicting files leading to crashes\n[*]Fixed several spawn room errors\n[*]Adjusted respawn-times to make capping easier\n[*]Adjusted sound timings and volume\n[*]Brightened up dark spaces and tunnels\n[*]Smaller changes all around the map to improve game flow\n[*]Miscellaneous visual and clipping bugs fixed[/list]\t\t\n[/list]\t\t",
+        "feedlabel": "Community Announcements",
+        "date": 1784061408,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1837955055367045",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/276074/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed missing sound for Taunt: Circuit Breaker<br><li>Renamed \"Northern Nights\" Summer 2026 Unusual effect to \"Polar Prism\"<br><li>Updated the Floral Growth Unusual effect to fix orientation/position problems<br><li>Updated the Bald Spotter<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Adjusted vertex normals and diffuse on head<br><li>Adjusted normals and specular on head mirror<br><li>Reduced mesh size slightly toward the front and back of the head<br><li>Fixed some facial flexes<br><li>Reduced texture size of lens</ul><li>Updated the Surgical Shroud<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed vertex normal issue on coat<br><li>Adjusted Phongfresnelranges on mirror to improve envmap effect<br><li>Reduced texture size of mirror</ul><li>Updated/Added some tournament medals<br><li>Updated koth_dusker to globally improve lighting in outdoor areas for better team recognition<br><li>Updated cp_premuda<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed conflicting files leading to crashes<br><li>Fixed several spawn room errors<br><li>Adjusted respawn-times to make capping easier<br><li>Adjusted sound timings and volume<br><li>Brightened up dark spaces and tunnels<br><li>Smaller changes all around the map to improve game flow<br><li>Miscellaneous visual and clipping bugs fixed</ul></ul>",
+        "feedlabel": "Product Update",
+        "date": 1784060700,
+        "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1837955055367047",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1837955055367047",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Fixed missing sound for Taunt: Circuit Breaker\n<li>Renamed \"Northern Nights\" Summer 2026 Unusual effect to \"Polar Prism\"\n<li>Updated the Floral Growth Unusual effect to fix orientation/position problems\n<li>Updated the Bald Spotter<ul>\n<li>Adjusted vertex normals and diffuse on head\n<li>Adjusted normals and specular on head mirror\n<li>Reduced mesh size slightly toward the front and back of the head\n<li>Fixed some facial flexes\n<li>Reduced texture size of lens</ul>\n<li>Updated the Surgical Shroud<ul>\n<li>Fixed vertex normal issue on coat\n<li>Adjusted Phongfresnelranges on mirror to improve envmap effect\n<li>Reduced texture size of mirror</ul>\n<li>Updated/Added some tournament medals\n<li>Updated koth_dusker to globally improve lighting in outdoor areas for better team recognition\n<li>Updated cp_premuda<ul>\n<li>Fixed conflicting files leading to crashes\n<li>Fixed several spawn room errors\n<li>Adjusted respawn-times to make capping easier\n<li>Adjusted sound timings and volume\n<li>Brightened up dark spaces and tunnels\n<li>Smaller changes all around the map to improve game flow\n<li>Miscellaneous visual and clipping bugs fixed</ul>\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1784060700,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1837955055365237",
         "title": "July Store Update 2026",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365237",
@@ -91,48 +149,6 @@
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1837955055357756",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357756",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\n[*]Updated the Beachcomber's Brim to fix an incorrect material\n[*]Updated Taunt: The Circuit Breaker[list]\n[*]Fixed incorrect team color on prop\n[*]Fixed orphaned particles[/list]\n[*]Updated the Inglorious Patriot[list]\n[*]Adjusted the normal map and refined the colors\n[*]Improved the weighting on the bottom pockets\n[*]Updated the backpack icon[/list]\n[*]Updated pl_redwood[list]\n[*]Fixed various lighting issues \n[*]Zipline dismount jump speed now ramps up from 1.1x base class speed to 1.8x \n[*]Decreased delay before a player can dismount a zipline by jumping from 0.6s to 0.25s\n[*]Decreased delay before a player can dismount a zipline by crouching from 0.3s to 0.1s\n[*]Fixed players who dismount a zipline in mid-air not receiving mini-crits from the Direct Hit and Reserve Shooter\n[*]Fixed the B.A.S.E. Jumper's parachute deploying while using a zipline[/list]\n[*]Updated koth_camp_saxton[list]\n[*]Vastly improved optimization. Further investigation is ongoing.\n[*]Tweaked log-and-netting walls along the central shore for clearer definition\n[*]Fixed several instances of minor prop clipping\n[*]Fixed players getting stuck on the wood-carved Saxtons\n[*]Improved clipping throughout[/list]\n[/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1783710094,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1837955055357761",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/275718/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Updated the Beachcomber's Brim to fix an incorrect material<br><li>Updated Taunt: The Circuit Breaker<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed incorrect team color on prop<br><li>Fixed orphaned particles</ul><li>Updated the Inglorious Patriot<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Adjusted the normal map and refined the colors<br><li>Improved the weighting on the bottom pockets<br><li>Updated the backpack icon</ul><li>Updated pl_redwood<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed various lighting issues <br><li>Zipline dismount jump speed now ramps up from 1.1x base class speed to 1.8x <br><li>Decreased delay before a player can dismount a zipline by jumping from 0.6s to 0.25s<br><li>Decreased delay before a player can dismount a zipline by crouching from 0.3s to 0.1s<br><li>Fixed players who dismount a zipline in mid-air not receiving mini-crits from the Direct Hit and Reserve Shooter<br><li>Fixed the B.A.S.E. Jumper's parachute deploying while using a zipline</ul><li>Updated koth_camp_saxton<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Vastly improved optimization. Further investigation is ongoing.<br><li>Tweaked log-and-netting walls along the central shore for clearer definition<br><li>Fixed several instances of minor prop clipping<br><li>Fixed players getting stuck on the wood-carved Saxtons<br><li>Improved clipping throughout</ul></ul>",
-        "feedlabel": "Product Update",
-        "date": 1783710000,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1837955055357772",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1837955055357772",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated the Beachcomber's Brim to fix an incorrect material\n<li>Updated Taunt: The Circuit Breaker<ul>\n<li>Fixed incorrect team color on prop\n<li>Fixed orphaned particles</ul>\n<li>Updated the Inglorious Patriot<ul>\n<li>Adjusted the normal map and refined the colors\n<li>Improved the weighting on the bottom pockets\n<li>Updated the backpack icon</ul>\n<li>Updated pl_redwood<ul>\n<li>Fixed various lighting issues \n<li>Zipline dismount jump speed now ramps up from 1.1x base class speed to 1.8x \n<li>Decreased delay before a player can dismount a zipline by jumping from 0.6s to 0.25s\n<li>Decreased delay before a player can dismount a zipline by crouching from 0.3s to 0.1s\n<li>Fixed players who dismount a zipline in mid-air not receiving mini-crits from the Direct Hit and Reserve Shooter\n<li>Fixed the B.A.S.E. Jumper's parachute deploying while using a zipline</ul>\n<li>Updated koth_camp_saxton<ul>\n<li>Vastly improved optimization. Further investigation is ongoing.\n<li>Tweaked log-and-netting walls along the central shore for clearer definition\n<li>Fixed several instances of minor prop clipping\n<li>Fixed players getting stuck on the wood-carved Saxtons\n<li>Improved clipping throughout</ul>\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1783710000,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1836506165584645",
@@ -268,19 +284,6 @@
         "date": 1783183401,
         "feedname": "PC Gamer",
         "feed_type": 0,
-        "appid": 730
-      },
-      {
-        "gid": "1836506165571358",
-        "title": "The Jackass Sticker Capsule",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358",
-        "is_external_url": true,
-        "author": "COMPLEX",
-        "contents": "[img]https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png[/img]\nToday we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem.\n\nCelebrating the release of [i]jackass: best and last[/i], the Jackass Sticker Capsule contains 39 stickers referencing iconic Jackass moments.\n\nWhether it’s an airhorn on a golf course or a trip down Electric Avenue, there’s something for every jackass in here; even you!",
-        "feedlabel": "Community Announcements",
-        "date": 1783108086,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
         "appid": 730
       },
       {
