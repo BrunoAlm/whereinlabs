@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329258689",
+        "title": "Valve say the Team Fortress 2 MvM update is still coming and they're still working on it",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1838407329258689",
+        "is_external_url": true,
+        "author": "",
+        "contents": "After the usual silence we've come to expect from Valve on everything, they gave a short blog post on the upcoming MvM update for Team Fortress 2.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2107235501id29404gol.webp\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/07/valve-say-the-team-fortress-2-mvm-update-is-still-coming-and-theyre-still-working-on-it/</p>",
+        "feedlabel": "GamingOnLinux",
+        "date": 1784273513,
+        "feedname": "GamingOnLinux",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1838407329258098",
         "title": "Call II Arms-ory",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098",
@@ -87,19 +100,6 @@
         "date": 1784144053,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 440
-      },
-      {
-        "gid": "1838407329255053",
-        "title": "LAN Downunder 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1838407329255053",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://cappingtv.com/ldu26\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/276191/ldu26_small.png?t=1496190994\"></a><br><br>\n\n<p>Ten years ago, CappingTV started casting Team Fortress 2 matches to whoever would watch. This July, the last decade comes full circle at Fortress Arena in Melbourne, where LAN Downunder 2026 will crown Australia's next TF2 champion on July 18-19th!</p><br>\n\n<p>Eight teams will make the trip, and the storylines write themselves. BLG and j*b, last year's grand finalists, are both back and neither is interested in settling for second again! Around them sits a mix of veterans with years on LAN stages and rookies who'll be walking onto one for the first time!</p><br>\n\n<p>There's another reason this year's event carries extra weight. Alongside the tournament, CappingTV will be taking time across the weekend to look back on ten years of broadcasts, rivalries, and the community that got everyone to this point! It's a tournament and an anniversary sharing the same stage!</p><br>\n\n<p>Tune in from 12pm AEST both days via <a href=\"https://twitch.tv/CappingTV\" target=\"_blank\">Twitch</a>, or grab a seat at Fortress Arena in person! Tickets and full event details are available at the <a href=\"https://cappingtv.com/ldu26\" target=\"_blank\">Event Hub</a>!</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1784143920,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
         "appid": 440
       },
       {
