@@ -2,6 +2,68 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329258098",
+        "title": "Call II Arms-ory",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!\n\nNow that these items are available, we're looking for new items for one new weapon collection:\n    \n - Fairy Tales\n    \nAnd two new sticker collections:\n\n- Cryptids\n- Pop Art\n\nTo submit weapon finishes and stickers to this Call to Arms, select the appropriate option using the Counter-Strike 2 Workshop Tool:\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/a81bfcc2c8c1dccad0505d7aced8c7091a808283.png[/img]\nIn order to have your items included in these new collections, you must agree to [url=https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730&snr=1_2108_9__2107]Counter-Strike 2's Supplemental terms[/url].\n\nWe're excited to see your take on the categories above!",
+        "feedlabel": "Community Announcements",
+        "date": 1784245194,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "hide_store",
+          "hide_library_overview",
+          "patchnotes",
+          "workshop",
+          "hide_library_detail"
+        ]
+      },
+      {
+        "gid": "1838407329257837",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257837",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\n[*]Updated Taxi Cabbed war paint[list]\n[*]Fixed mip settings on the stickers\n[*]Fixed using the incorrect wear texture[/list]\n[*]Updated/Added some tournament medals\n[*]Updated koth_dryfield[list]\n[*]Fixed the teleporter prison exploit\n[*]Fixed the broken geometry of the RED hut near the point\n[*]Attempt to fix a flying RED roof spotted from afar\n[*]Fixed the watercooler facing the wall\n[*]Improved access to the balcony section to make jumping easier\n[*]Added many missing player clip[/list]\n[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1784233399,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1838407329257845",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1838407329257845",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated Taxi Cabbed war paint<ul>\n<li>Fixed mip settings on the stickers\n<li>Fixed using the incorrect wear texture</ul>\n<li>Updated/Added some tournament medals\n<li>Updated koth_dryfield<ul>\n<li>Fixed the teleporter prison exploit\n<li>Fixed the broken geometry of the RED hut near the point\n<li>Attempt to fix a flying RED roof spotted from afar\n<li>Fixed the watercooler facing the wall\n<li>Improved access to the balcony section to make jumping easier\n<li>Added many missing player clip</ul>\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1784233320,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1838407329257840",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/276347/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Updated Taxi Cabbed war paint<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed mip settings on the stickers<br><li>Fixed using the incorrect wear texture</ul><li>Updated/Added some tournament medals<br><li>Updated koth_dryfield<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed the teleporter prison exploit<br><li>Fixed the broken geometry of the RED hut near the point<br><li>Attempt to fix a flying RED roof spotted from afar<br><li>Fixed the watercooler facing the wall<br><li>Improved access to the balcony section to make jumping easier<br><li>Added many missing player clip</ul></ul>",
+        "feedlabel": "Product Update",
+        "date": 1784233320,
+        "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1838407329257013",
         "title": "Call of Duty® and Aston Martin Unveil the Dreadnought for Modern Warfare® 4",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257013",
@@ -107,48 +169,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1837955055367044",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055367044",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\t\t\n[*]Fixed missing sound for Taunt: Circuit Breaker\n[*]Renamed \"Northern Nights\" Summer 2026 Unusual effect to \"Polar Prism\"\n[*]Updated the Floral Growth Unusual effect to fix orientation/position problems\n[*]Updated the Bald Spotter[list]\t\t\n[*]Adjusted vertex normals and diffuse on head\n[*]Adjusted normals and specular on head mirror\n[*]Reduced mesh size slightly toward the front and back of the head\n[*]Fixed some facial flexes\n[*]Reduced texture size of lens[/list]\t\t\n[*]Updated the Surgical Shroud[list]\t\t\n[*]Fixed vertex normal issue on coat\n[*]Adjusted Phongfresnelranges on mirror to improve envmap effect\n[*]Reduced texture size of mirror[/list]\t\t\n[*]Updated/Added some tournament medals\n[*]Updated koth_dusker to globally improve lighting in outdoor areas for better team recognition\n[*]Updated cp_premuda[list]\t\t\n[*]Fixed conflicting files leading to crashes\n[*]Fixed several spawn room errors\n[*]Adjusted respawn-times to make capping easier\n[*]Adjusted sound timings and volume\n[*]Brightened up dark spaces and tunnels\n[*]Smaller changes all around the map to improve game flow\n[*]Miscellaneous visual and clipping bugs fixed[/list]\t\t\n[/list]\t\t",
-        "feedlabel": "Community Announcements",
-        "date": 1784061408,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1837955055367045",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/276074/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed missing sound for Taunt: Circuit Breaker<br><li>Renamed \"Northern Nights\" Summer 2026 Unusual effect to \"Polar Prism\"<br><li>Updated the Floral Growth Unusual effect to fix orientation/position problems<br><li>Updated the Bald Spotter<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Adjusted vertex normals and diffuse on head<br><li>Adjusted normals and specular on head mirror<br><li>Reduced mesh size slightly toward the front and back of the head<br><li>Fixed some facial flexes<br><li>Reduced texture size of lens</ul><li>Updated the Surgical Shroud<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed vertex normal issue on coat<br><li>Adjusted Phongfresnelranges on mirror to improve envmap effect<br><li>Reduced texture size of mirror</ul><li>Updated/Added some tournament medals<br><li>Updated koth_dusker to globally improve lighting in outdoor areas for better team recognition<br><li>Updated cp_premuda<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed conflicting files leading to crashes<br><li>Fixed several spawn room errors<br><li>Adjusted respawn-times to make capping easier<br><li>Adjusted sound timings and volume<br><li>Brightened up dark spaces and tunnels<br><li>Smaller changes all around the map to improve game flow<br><li>Miscellaneous visual and clipping bugs fixed</ul></ul>",
-        "feedlabel": "Product Update",
-        "date": 1784060700,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1837955055367047",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1837955055367047",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Fixed missing sound for Taunt: Circuit Breaker\n<li>Renamed \"Northern Nights\" Summer 2026 Unusual effect to \"Polar Prism\"\n<li>Updated the Floral Growth Unusual effect to fix orientation/position problems\n<li>Updated the Bald Spotter<ul>\n<li>Adjusted vertex normals and diffuse on head\n<li>Adjusted normals and specular on head mirror\n<li>Reduced mesh size slightly toward the front and back of the head\n<li>Fixed some facial flexes\n<li>Reduced texture size of lens</ul>\n<li>Updated the Surgical Shroud<ul>\n<li>Fixed vertex normal issue on coat\n<li>Adjusted Phongfresnelranges on mirror to improve envmap effect\n<li>Reduced texture size of mirror</ul>\n<li>Updated/Added some tournament medals\n<li>Updated koth_dusker to globally improve lighting in outdoor areas for better team recognition\n<li>Updated cp_premuda<ul>\n<li>Fixed conflicting files leading to crashes\n<li>Fixed several spawn room errors\n<li>Adjusted respawn-times to make capping easier\n<li>Adjusted sound timings and volume\n<li>Brightened up dark spaces and tunnels\n<li>Smaller changes all around the map to improve game flow\n<li>Miscellaneous visual and clipping bugs fixed</ul>\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1784060700,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1837955055365237",
@@ -303,19 +323,6 @@
         "feedname": "Rock, Paper, Shotgun",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1836506165572678",
-        "title": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165572678",
-        "is_external_url": true,
-        "author": "Justin Wagner",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg\"/><br><br>\n                nytime you're talking about the hottest game on Steam, there's an evergreen unspoken caveat: 'after Counter-Strike, of course.' CS2 is unquestionably Steam's killer app—it has <a href=\"https://steamdb.info/app/730/charts/\" target=\"_blank\">well over a million concurrent players</a> as I write this according to SteamDB, and it's showing no signs of slowing down. But don't count out the game it <a href=\"https://www.pcgamer.com/counter-strike-2-released/\">once absorbed</a> and <a href=\"https://www.pcgamer.com/games/fps/counter-strike-global-offensive-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/\">then spat out</a>: its predecessor, Global Offensive...\n                <a href=\"https://www.pcgamer.com/games/fps/counter-strike-2-might-be-the-biggest-game-on-steam-but-global-offensive-is-breaking-player-count-records-since-it-went-standalone-again/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1783183401,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 730
       },
       {
         "gid": "1836506165566626",
