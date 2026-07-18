@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329261909",
+        "title": "Valve reassures Team Fortress 2 players that it's still working on the Mann vs Machine update it announced last year: 'We promise we're making progress'",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329261909",
+        "is_external_url": true,
+        "author": "Rick Lane",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/ttKafj5nxqZWKL4iegk3ZQ-1280-80.jpg\"/><br><br>\n                I had completely forgotten that Valve is working on an update for<a href=\"https://www.pcgamer.com/team-fortress-2/\"> Team Fortress 2</a>'s cooperative Mann vs. Machine mode, though in my defence, it's been a long<em> </em>time since we last heard about it. The prospective patch was<a href=\"https://www.pcgamer.com/games/fps/valve-announces-team-fortress-2-is-getting-a-much-needed-update-focused-on-mann-vs-machine-a-chilling-cautionary-tale-where-an-artificial-consciousness-tried-to-take-all-our-jobs/\"> announced</a> in June last year, via a<a href=\"https://www.teamfortress.com/post.php?id=247188\" target=\"_blank\"> blog post</a> on TF2's official website that requested map and mission submissions from the community in time for this update—with a \"fictional deadline\" of August 27...\n                <a href=\"https://www.pcgamer.com/games/fps/valve-reassures-team-fortress-2-players-that-its-still-working-on-the-mann-vs-machine-update-it-announced-last-year-we-promise-were-making-progress/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1784381770,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1838407329258689",
         "title": "Valve say the Team Fortress 2 MvM update is still coming and they're still working on it",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1838407329258689",
@@ -88,19 +101,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1938090
-      },
-      {
-        "gid": "1838407329255086",
-        "title": "LAN Downunder 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329255086",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/d067ebd98e49f3c81769cdabf2f17f7bc2a6c7d8.png[/img]\n\nTen years ago, CappingTV started casting Team Fortress 2 matches to whoever would watch. This July, the last decade comes full circle at Fortress Arena in Melbourne, where LAN Downunder 2026 will crown Australia's next TF2 champion on July 18-19th!\n\nEight teams will make the trip, and the storylines write themselves. BLG and j*b, last year's grand finalists, are both back and neither is interested in settling for second again! Around them sits a mix of veterans with years on LAN stages and rookies who'll be walking onto one for the first time!\n\nThere's another reason this year's event carries extra weight. Alongside the tournament, CappingTV will be taking time across the weekend to look back on ten years of broadcasts, rivalries, and the community that got everyone to this point! It's a tournament and an anniversary sharing the same stage!\n\nTune in from 12pm AEST both days via [url=https://twitch.tv/CappingTV]Twitch[/url], or grab a seat at Fortress Arena in person! Tickets and full event details are available at the [url=https://cappingtv.com/ldu26]Event Hub[/url]!\n",
-        "feedlabel": "Community Announcements",
-        "date": 1784144053,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440
       },
       {
         "gid": "1838407329254835",
