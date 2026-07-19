@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329263623",
+        "title": "PUBG is the original battle royale game and probably still the best",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329263623",
+        "is_external_url": true,
+        "author": "editor@pcgamesn.com",
+        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/pubg-state-feat.jpg\"/><p>A look back on what made PlayerUnknown's Battlegrounds such a smash hit reveals a little about its enduring popularity today.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/playerunknowns-battlegrounds/pubg-today\">PUBG is the original battle royale game and probably still the best</a></p>",
+        "feedlabel": "PCGamesN",
+        "date": 1784466025,
+        "feedname": "PCGamesN",
+        "feed_type": 0,
+        "appid": 578080
+      },
+      {
         "gid": "1838407329261909",
         "title": "Valve reassures Team Fortress 2 players that it's still working on the Mann vs Machine update it announced last year: 'We promise we're making progress'",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329261909",
@@ -179,19 +192,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/9b6e2e1183b9c0859b92ac15d0ad57dcc32a330c.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10427\"]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1784008834,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1837955055365235",
-        "title": "Map Service Report - Update 42.2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365235",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/10415]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1784008833,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
