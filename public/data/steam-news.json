@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329268090",
+        "title": "Improved Unban Policy for Account Theft",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268090",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/0d7d34e16c37e47ad61022999ef0c2819268ee33.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10505\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1784610009,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1838407329267700",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700",
@@ -192,19 +205,6 @@
         "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10490]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1784098823,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1838407329253249",
-        "title": "Special Drops - July 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253249",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/7a659653915ff6828151532283aadb046ff45e28.jpg\"][/img][/p][h2][url=\"https://pubg.com/events/notice/10406\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1784091616,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
