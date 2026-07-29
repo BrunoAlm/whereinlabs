@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1839676055881740",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/20~07/26)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881740",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10789]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1785308411,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1839676055881227",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881227",
@@ -143,19 +156,6 @@
         "date": 1784553144,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1838407329263623",
-        "title": "PUBG is the original battle royale game and probably still the best",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329263623",
-        "is_external_url": true,
-        "author": "editor@pcgamesn.com",
-        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/pubg-state-feat.jpg\"/><p>A look back on what made PlayerUnknown's Battlegrounds such a smash hit reveals a little about its enduring popularity today.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/playerunknowns-battlegrounds/pubg-today\">PUBG is the original battle royale game and probably still the best</a></p>",
-        "feedlabel": "PCGamesN",
-        "date": 1784466025,
-        "feedname": "PCGamesN",
-        "feed_type": 0,
         "appid": 578080
       },
       {
