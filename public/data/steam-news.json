@@ -2,6 +2,35 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1839676055881227",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881227",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.[/p][/*][*][p]Items in the the Cologne 2026 Shop will be available for purchase until September 29th.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed a bug where scripts would fail to load in tools mode until a manual recompile.[/p][/*][/list][p]\n\\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a bug which prevented some users from claiming Collection Catalog XP for The Dead Hand Collection.[/p][/*][*][p]Fixed a bug that allowed malicious players to avoid being processed by VACnet.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1785285504,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1839676055881226",
+        "title": "Cologne 2026: Ranked Series",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881226",
+        "is_external_url": true,
+        "author": "brianlev",
+        "contents": "[img]https://clan.fastly.steamstatic.com/images/3381077/81b4cf3f2d2130bd4aed48bad3d2d5e5ee061756.png[/img]\n\nToday we're shipping the Ranked Series of Cologne 2026 Major stickers--new stickers that indicate a team's final standing in the design. As with all items in the Cologne 2026 Shop, 50% of the royalties support the teams, players and tournament organizer.\n\nThe original dynamic pricing system determined the relative interest in players and teams, but it didn't produce reasonable prices. So the Ranked stickers have a lower price, but with the same relationship between players and teams as the Event Series stickers (as of today's update).\n\nCheck out the new stickers and support your favorite players and teams! The Cologne 2026 Shop will be available until September 29th.",
+        "feedlabel": "Community Announcements",
+        "date": 1785285490,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730
+      },
+      {
         "gid": "1839041357032122",
         "title": "Discussion time: Have you ever said goodbye to an MMO you've played for 1,000s of hours?",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839041357032122",
@@ -291,22 +320,6 @@
         "appid": 1085660
       },
       {
-        "gid": "1836506165584645",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where season medals were missing their gold tint on one of the bars.[/p][/*][*][p]Fixed a case where the scoreboard wouldn't update while open.[/p][/*][*][p]Various stability improvements.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1783633576,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
         "gid": "1836506165584471",
         "title": "Destiny 2 players get a final farewell gift from Bungie",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584471",
@@ -331,22 +344,6 @@
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1836506165581827",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827",
-        "is_external_url": true,
-        "author": "brianlev",
-        "contents": "[p]\\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosion damage on all official defusal-mode maps.[/p][list][*][p]Damage is now applied according to precomputed simulation values, baked into the compiled map.[/p][/*][*][p]Explosion shockwave damage now rapidly expands from the center of the explosion instead of being applied instantly.[/p][/*][/list][/*][*][p]Fixed case where picking up dropped weapons through the Buy Menu would fail to complete.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Added two new weapon collections based on the recent Call to Arms community announcement: Spy Tech + Arabesque[/p][/*][*][p]Added two new sticker collections based on the recent Call to Arms community announcement: Fruits & Vegetables + Auto Racing[/p][/*][*][p]Train 2025 and Sport & Field weapon collections are no longer available in the Armory[/p][/*][*][p]Sugarface 2 and Elemental Craft sticker collections are no longer available in the Armory[/p][/*][/list][p][/p][p]\\[ WORKSHOP ][/p][list][*][p]Updated \"Custom Paint Job Extended\" [/p][list][*][p]Added option to include a dedicated overlay mask texture [/p][/*][*][p]Added option to set unique overlay UV randomization separate from albedo UV randomization [/p][/*][/list][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Reduced the performance cost of showing the scoreboard.[/p][/*][*][p]Fixed a case where material blending effects would disappear when you got too close (e.g. the dirt on the barrels in Inferno Banana).[/p][/*][*][p]Increased sticker rotation precision to allow half-degree increments on application screen.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.QueueAfterThinks[/p][/*][*][p]Added Instance.OnWeaponDrop[/p][/*][*][p]Added CSWeaponBase.GetOriginalOwner[/p][/*][*][p]Fixed a crash when the name passed to Instance.RegisterCheatCommand collided with an existing command.[/p][/*][*][p]Added file name and line number to errors caught during the CompileModule step of script loading.[/p][/*][*][p]Removed support for deprecated vts assets.[/p][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][list][*][p]Removed community maps: Warden, Stronghold, Alpine, and Sanctum from all game modes[/p][/*][*][p]Added community maps Boulder, Fachwerk, and Shelter to Competitive, Casual, and Deathmatch modes[/p][/*][*][p]Added community maps Debris and El Dorado to Wingman mode[/p][/*][/list][p]Cache[/p][list][*][p]Various clipping adjustments[/p][/*][/list][p]Dust II[/p][list][*][p]Fixed pixel gap Outside Tunnel[/p][/*][*][p]Clipping adjustment Outside Tunnel[/p][/*][/list][p]Inferno[/p][list][*][p]Clipping fix to prevent pixel boost at Top of Mid[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1783551091,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1836506165581087",
@@ -374,11 +371,7 @@
         "feed_type": 1,
         "appid": 570,
         "tags": [
-          "patchnotes",
-          "mod_reviewed",
-          "ModAct_1751692459_1782953054_0",
-          "ModAct_1426387032_1783031615_4",
-          "mod_require_rereview"
+          "patchnotes"
         ]
       },
       {
