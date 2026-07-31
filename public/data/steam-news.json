@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1839676055886687",
+        "title": "Gameplay Patch 7.41e and Summer Scrub",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687",
+        "is_external_url": true,
+        "author": "kyled",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]\n\nThe International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance to prove your skills and win new Immortals and unlock terrains.\n\nBut that's not all. Today we're also releasing [url=https://dota2.com/summerscrub2026]patch 7.41e[/url]. Even that's not everything, though. Dota is a complicated game, and while we greatly enjoy the creativity and diligence of the dedicated players who find intricate and absurd bugs, we also like *fixing* those bugs. So today we're also releasing the Summer Scrub, a huge collection of new features as well as fixes for gameplay and content bugs, ranging from Abaddon's taunt to Zeus's Dota Plus challenge.\n\nThe list is too long for this post, so we made a whole page just to [url=https://dota2.com/summerscrub2026]list all the changes[/url].",
+        "feedlabel": "Community Announcements",
+        "date": 1785455895,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 570
+      },
+      {
+        "gid": "1839676055886685",
+        "title": "The International: Predictions, Fantasy, and Supporter Bundles",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886685",
+        "is_external_url": true,
+        "author": "kyled",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/5c825b3d35627bfc4276c013745aa6fd4de935ea.png[/img]\n\nNearly a year has passed since Team Falcons hoisted the Aegis of Champions as the final team standing in Hamburg. But that was last year's story, and the time has come to turn our thoughts to Shanghai and the crop of competitors who vie to write the tale of [i]this[/i] year. All of their battles have brought them to the precipice. The International is just two weeks away.\n\nAfter a decisive month of intense qualifiers, dominant performances from prior champions, and upset victories from up-and-comers, all sixteen teams have earned their invitations to this year's International.\n\nNow it's time for us to extend an invitation to you.\n\nWe've just released an update featuring this year's TI-themed activities and item bundles. Not sure what that means? Keep reading for a handy guide to all the different ways to participate so you can find the content that's most interesting to you.\n\n[list][*][b]I want to directly support my favorite teams and personalities.[/b][/list]\nWith supporter bundles for all sixteen teams and more than a hundred participating event talent, there's never been a better time to support your favorites. In addition to the four primary event languages, this year we're also offering community bundles for WXC Co. (Filipino), NS_ART (Brazilian Portuguese), and Maincast (Ukrainian). 50% of sales from supporter bundles (teams, talent, and community broadcasts) goes directly to the team or talent and 30% goes to the tournament prize pool.\n\n[list][*][b]I want to show off that I supported my favorite team.[/b][/list]\nPurchasing team supporter bundles of various levels will grant all kinds of things: custom sprays, a special badge for your health bar, custom team emoticons, custom chat wheel lines, and — new this year as a part of the Gold tier — a global effigy. This new building will replace your regular effigy through the end of September, allowing you to show your team support right in your base. Not supportive enough? You can purchase additional supporter levels that will upgrade the appearance of your effigy, including custom effects.\n\n[list][*][b]I'm right about everything. Help me prove it.[/b][/list]\nPredictions are back: How will the Swiss matches shake out? What about the bracket? Fun fact: Exactly zero have ever gotten the full Swiss stage results correct. Will you be the first this year? Not if you don't get your guesses in before the first match starts (10am CST, Thursday 8/13).\n\n[list][*][b]I'm a huge fan of my favorite team but also I dislike all of their choices and wish I was in charge.[/b][/list]\nWe've got a new take on fantasy this year. We've introduced a new customization point: You. You're the coach, and can now assign custom modifiers to yourself that influence your whole team. We've also updated prefixes, suffixes, and the player drafting rules. You'll draft your perfect team in (mostly) pairs: both supports from one team, the safelaner and offlaner from one team, and then your favorite midlaner. \n\n[list][*][b]I am a Dota player and I'm already assuming I'll be the best at everything. What do I win?[/b][/list]\nLike last year, awards will be granted to participating players based on their performance relative to everyone else. The Tyrian Regalia treasure is making a royal return with five refashioned Immortal items, exclusively available to the top performing players. New this year is the Terrain Token, which will allow winners to choose one of six returning custom terrains, including Reef's Edge and Immortal Gardens. Look for more information, including reward tiers and lots of details, in the Rewards section of the main Dota 2 menu.\n\n[list][*][b]All of this is great but I did my predictions and my fantasy and supported the teams and talent already. What do I do [i]now[/i]?[/b][/list]\nGood news for you: We also just shipped a new gameplay patch along with a ton of content fixes. Check out the [url=https://dota2.com/summerscrub2026]Summer Scrub 2026[/url] page for more details.",
+        "feedlabel": "Community Announcements",
+        "date": 1785455868,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 570
+      },
+      {
         "gid": "1839676055881978",
         "title": "PUBG Saturday Custom Games return this weekend!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881978",
@@ -398,32 +424,6 @@
         "date": 1782417351,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 570
-      },
-      {
-        "gid": "1836506165551262",
-        "title": "After mysteriously vanishing from the game, Dota 2's Axe has been 'replaced' by a fake",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165551262",
-        "is_external_url": true,
-        "author": "editor@pcgamesn.com",
-        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg\"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into the Valve MOBA this week, you might have been surprised to find that Axe, one of its longest-standing and most iconic faces, was completely absent from the roster. You couldn't play him, and his spot in the lineup was replaced by the sort of poster you might find asking for help finding a missing person. All of a sudden, however, Axe has returned, just as quickly as he left... but something's not quite right.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/dota-2/axe-replaced\">After mysteriously vanishing from the game, Dota 2's Axe has been 'replaced' by a fake</a></p>",
-        "feedlabel": "PCGamesN",
-        "date": 1782404865,
-        "feedname": "PCGamesN",
-        "feed_type": 0,
-        "appid": 570
-      },
-      {
-        "gid": "1835871199309769",
-        "title": "Valve calls out Dota 2 dataminers desperate for Dark Carnival news: \"Why are you guys reading our variable names?\"",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769",
-        "is_external_url": true,
-        "author": "editor@pcgamesn.com",
-        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg\"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months, with the leading speculation being that Valve is preparing a new, large-scale feature in the vein of 2024's Crownfall. Lately, in-game signs have suggested that something, at least, is on the horizon, and now eager dataminers have dug out a fresh line in the game's code that doubles down on that promise. In response, Valve has promptly changed the wording, turning it into a direct call-out message instead.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/dota-2/dark-carnival-variable-names\">Valve calls out Dota 2 dataminers desperate for Dark Carnival news: \"Why are you guys reading our variable names?\"</a></p>",
-        "feedlabel": "PCGamesN",
-        "date": 1781969455,
-        "feedname": "PCGamesN",
-        "feed_type": 0,
         "appid": 570
       }
     ]
