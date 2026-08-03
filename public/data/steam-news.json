@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1839676055895019",
+        "title": "6s Newcomer Cup by RGL and TF2 Coaching Central",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895019",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/effce82b13149bfeab59ae4809f6638fdff50421.png[/img]\n\nAnnouncing the RGL 6s Newcomer Cup with training intensive by TF2 Coaching Central!\n\nRGL, the largest North American competitive TF2 league, is running their next 6s Newcomer Cup September 4-6! In conjunction, TF2 Coaching Central (TF2CC) will run a four week training intensive, where eligible players with no to minimal competitive experience will be put into teams and assigned a coach to teach them the basics of 6s! Coaches will help players learn the maps and strategies while preparing them for their first competitive event. Similarly to TF2CC's previous Newbie Cup events, players will spend the training period scrimming with teammates and reviewing with their coach before facing off in the cup operated by RGL.\n\nSignups for the training intensive are open now at the [url=https://discord.gg/ybSYAd9]TF2CC Discord[/url]! The deadline to apply is August 8, 2026. Players are also welcome to sign up and participate in the RGL cup independently without the training program. TF2 Coaching Central will have coaching, learning resources, and pickup games available to the public.\n\nImportant Links:\n[list]\n[*][url=https://rgl.gg/]RGL.gg[/url]\n[*][url=https://rgl.gg/PUGs]RGL Discord[/url]\n[*][url=https://discord.gg/ybSYAd9]TF2CC Discord[/url]\n[/list]\n\n\n",
+        "feedlabel": "Community Announcements",
+        "date": 1785770095,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1839676055895034",
+        "title": "6s Newcomer Cup by RGL and TF2 Coaching Central",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1839676055895034",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://discord.gg/ybSYAd9\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/278208/newbie13_small.png?t=1496190994\"></a><br><br>\n\n<p>Announcing the RGL 6s Newcomer Cup with training intensive by TF2 Coaching Central!</p><br>\n\n<p>RGL, the largest North American competitive TF2 league, is running their next 6s Newcomer Cup September 4-6! In conjunction, TF2 Coaching Central (TF2CC) will run a four week training intensive, where eligible players with no to minimal competitive experience will be put into teams and assigned a coach to teach them the basics of 6s! Coaches will help players learn the maps and strategies while preparing them for their first competitive event. Similarly to TF2CC's previous Newbie Cup events, players will spend the training period scrimming with teammates and reviewing with their coach before facing off in the cup operated by RGL.</p><br>\n\n<p>Signups for the training intensive are open now at the <a href=\"https://discord.gg/ybSYAd9\" target=\"_blank\">TF2CC Discord</a>! The deadline to apply is August 8, 2026. Players are also welcome to sign up and participate in the RGL cup independently without the training program. TF2 Coaching Central will have coaching, learning resources, and pickup games available to the public.</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://rgl.gg/\" target=\"_blank\">RGL.gg</a>\n<li><a href=\"https://rgl.gg/PUGs\" target=\"_blank\">RGL Discord</a>\n<li><a href=\"https://discord.gg/ybSYAd9\" target=\"_blank\">TF2CC Discord</a>\n</ul>\n</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1785770040,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1839676055886687",
         "title": "Gameplay Patch 7.41e and Summer Scrub",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687",
@@ -245,32 +271,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1838407329257845",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1838407329257845",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated Taxi Cabbed war paint<ul>\n<li>Fixed mip settings on the stickers\n<li>Fixed using the incorrect wear texture</ul>\n<li>Updated/Added some tournament medals\n<li>Updated koth_dryfield<ul>\n<li>Fixed the teleporter prison exploit\n<li>Fixed the broken geometry of the RED hut near the point\n<li>Attempt to fix a flying RED roof spotted from afar\n<li>Fixed the watercooler facing the wall\n<li>Improved access to the balcony section to make jumping easier\n<li>Added many missing player clip</ul>\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1784233320,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1838407329257840",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/276347/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Updated Taxi Cabbed war paint<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed mip settings on the stickers<br><li>Fixed using the incorrect wear texture</ul><li>Updated/Added some tournament medals<br><li>Updated koth_dryfield<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed the teleporter prison exploit<br><li>Fixed the broken geometry of the RED hut near the point<br><li>Attempt to fix a flying RED roof spotted from afar<br><li>Fixed the watercooler facing the wall<br><li>Improved access to the balcony section to make jumping easier<br><li>Added many missing player clip</ul></ul>",
-        "feedlabel": "Product Update",
-        "date": 1784233320,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1838407329257013",
