@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1839676055897281",
+        "title": "PUBG is hosting a modding competition, and you could earn a share of $95k",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897281",
+        "is_external_url": true,
+        "author": "editor@pcgamesn.com",
+        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/08/pubg-modding-competition-curseforge-krafton.jpg\"/><p>Krafton and CurseForge have teamed up for a new modding competition, and with a $95k prize pool, it's worth flexing your modding muscles.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/playerunknowns-battlegrounds/modding-competition\">PUBG is hosting a modding competition, and you could earn a share of $95k</a></p>",
+        "feedlabel": "PCGamesN",
+        "date": 1785842738,
+        "feedname": "PCGamesN",
+        "feed_type": 0,
+        "appid": 578080
+      },
+      {
+        "gid": "1839676055896872",
+        "title": "PUBG: Playgrounds x CurseForge UGC Contest Announcement",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055896872",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/799edf9a27c3a21df5838e83117907575192978b.png\"][/img][/p][h2][url=\"https://pubg.com/events/notice/10543\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1785834031,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1839676055895877",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877",
@@ -154,19 +180,6 @@
         ]
       },
       {
-        "gid": "1839041357023224",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/13~07/19)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023224",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10523]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1784703605,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
         "gid": "1838407329269549",
         "title": "Introducing the Season 05 Battle Pass, BlackCell, and New Store Bundles",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269549",
@@ -178,19 +191,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1938090
-      },
-      {
-        "gid": "1838407329268090",
-        "title": "Improved Unban Policy for Account Theft",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268090",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/0d7d34e16c37e47ad61022999ef0c2819268ee33.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10505\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1784610009,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1838407329267700",
