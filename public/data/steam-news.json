@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1840310314338395",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/27~08/02)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338395",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10847]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1785913230,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1839676055898437",
         "title": "PUBG GLOBAL SERIES 7 GROUP STAGE IS LIVE",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055898437",
@@ -117,19 +130,6 @@
         "contents": "[p]The next edition of [b]PUBG Saturday Custom Games[/b] is happening this [b]Saturday, August 1st at 20:00 CEST[/b], bringing the community together once again for custom matches, creator co-streams, and G-Coin giveaways.[/p][p][/p][p][b]Tune in live on Twitch:[/b] [/p][p]Join the games, squad up with the community, and follow the broadcast for your chance to win rewards throughout the event.[/p][p][/p][h3][b]G-Coin Giveaways[/b][/h3][p]During this month’s event, players will have the chance to win:[/p][p][/p][p][b]Main broadcast raffle[/b]\n10x 1,000 G-Coin codes[/p][p][/p][p][b]Creator giveaways[/b]\n5x 500 G-Coin codes per participating co-streaming creator[/p][p][/p][p]Whether you are jumping into the custom games or watching along with your favorite creators, there will be plenty of chances to get involved.[/p][p][/p][p]Keep an eye on the official [url=\"http://discord.gg/Battlegrounds\"]PUBG Discord[/url], the [url=\"https://www.twitch.tv/jorosar\"]Twitch broadcast[/url], and participating creator channels for lobby details, event updates, and giveaway information.[/p][p]\nSee you on the Battlegrounds this Saturday![/p]",
         "feedlabel": "Community Announcements",
         "date": 1785316778,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1839676055881740",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/20~07/26)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881740",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10789]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1785308411,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
