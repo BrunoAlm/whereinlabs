@@ -2,6 +2,24 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1840310314344098",
+        "title": "[Dev Letter] A New Era of Gunplay: Meta Rotation",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344098",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/734ebc55364ff6382ba0992d3997fcdaf4426889.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10874\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1786089659,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1890460210_1786091684_0",
+          "mod_require_rereview"
+        ]
+      },
+      {
         "gid": "1840310314343041",
         "title": "PUBG GLOBAL SERIES 7 SURVIVAL STAGE IS LIVE",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314343041",
@@ -90,19 +108,6 @@
         "date": 1785842738,
         "feedname": "PCGamesN",
         "feed_type": 0,
-        "appid": 578080
-      },
-      {
-        "gid": "1839676055896872",
-        "title": "PUBG: Playgrounds x CurseForge UGC Contest Announcement",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055896872",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/799edf9a27c3a21df5838e83117907575192978b.png\"][/img][/p][h2][url=\"https://pubg.com/events/notice/10543\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1785834031,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
         "appid": 578080
       },
       {
