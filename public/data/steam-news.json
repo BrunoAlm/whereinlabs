@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1840310314352283",
+        "title": "CLTF2 Halloween Cup",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314352283",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/8636d1221f9d795f26154af1c638033f7923b09f.png[/img]\n(Image credit: MetalCloud)\n\nCLTF2 is announcing their Halloween Cup, a new event to help get ready for Halloween! This time around players can expect Highlander 9v9 action but with the twist of playing on Halloween themed maps!\n \nSign-ups for the Halloween Cup are already open and run until the 6th of September. The first set of matches will be generated shortly after sign-ups close. All regions and skill levels are welcome!\n \nYou can sign up for the Halloween Cup on the [url=https://www.cltf2.com/]CLTF2 website[/url] or visit their [url=https://discord.gg/cuT8hcTRpZ]Discord server[/url] for more information!\n",
+        "feedlabel": "Community Announcements",
+        "date": 1786385972,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1840310314352288",
+        "title": "CLTF2 Halloween Cup",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1840310314352288",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://www.cltf2.com/\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/278972/hw_cup_small.png?t=1496190994\"></a>\n(Image credit: <a href=\"https://steamcommunity.com/id/metalcloud/\" target=\"_blank\">MetalCloud</a>)<br><br>\n\n<p>CLTF2 is announcing their Halloween Cup, a new event to help get ready for Halloween! This time around players can expect Highlander 9v9 action but with the twist of playing on Halloween themed maps!</p><br>\n \n<p>Sign-ups for the Halloween Cup are already open and run until the 6th of September. The first set of matches will be generated shortly after sign-ups close. All regions and skill levels are welcome!</p><br>\n \n<p>You can sign up for the Halloween Cup on the <a href=\"https://www.cltf2.com/\" target=\"_blank\">CLTF2 website</a> or visit their <a href=\"https://discord.gg/cuT8hcTRpZ\" target=\"_blank\">Discord server</a> for more information!</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1786385940,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1840310314347611",
         "title": "PUBG GLOBAL SERIES 7 FINAL STAGE DAY 2 IS LIVE",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314347611",
@@ -140,19 +166,6 @@
         "appid": 440
       },
       {
-        "gid": "1839676055895034",
-        "title": "6s Newcomer Cup by RGL and TF2 Coaching Central",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1839676055895034",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://discord.gg/ybSYAd9\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/278208/newbie13_small.png?t=1496190994\"></a><br><br>\n\n<p>Announcing the RGL 6s Newcomer Cup with training intensive by TF2 Coaching Central!</p><br>\n\n<p>RGL, the largest North American competitive TF2 league, is running their next 6s Newcomer Cup September 4-6! In conjunction, TF2 Coaching Central (TF2CC) will run a four week training intensive, where eligible players with no to minimal competitive experience will be put into teams and assigned a coach to teach them the basics of 6s! Coaches will help players learn the maps and strategies while preparing them for their first competitive event. Similarly to TF2CC's previous Newbie Cup events, players will spend the training period scrimming with teammates and reviewing with their coach before facing off in the cup operated by RGL.</p><br>\n\n<p>Signups for the training intensive are open now at the <a href=\"https://discord.gg/ybSYAd9\" target=\"_blank\">TF2CC Discord</a>! The deadline to apply is August 8, 2026. Players are also welcome to sign up and participate in the RGL cup independently without the training program. TF2 Coaching Central will have coaching, learning resources, and pickup games available to the public.</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://rgl.gg/\" target=\"_blank\">RGL.gg</a>\n<li><a href=\"https://rgl.gg/PUGs\" target=\"_blank\">RGL Discord</a>\n<li><a href=\"https://discord.gg/ybSYAd9\" target=\"_blank\">TF2CC Discord</a>\n</ul>\n</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1785770040,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1839676055886687",
         "title": "Gameplay Patch 7.41e and Summer Scrub",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687",
@@ -266,19 +279,6 @@
           "ModAct_1691520782_1784570808_0",
           "mod_require_rereview"
         ]
-      },
-      {
-        "gid": "1838407329261909",
-        "title": "Valve reassures Team Fortress 2 players that it's still working on the Mann vs Machine update it announced last year: 'We promise we're making progress'",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329261909",
-        "is_external_url": true,
-        "author": "Rick Lane",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/ttKafj5nxqZWKL4iegk3ZQ-1280-80.jpg\"/><br><br>\n                I'd completely forgotten Valve is working on an update for<a href=\"https://www.pcgamer.com/team-fortress-2/\"> Team Fortress 2</a>'s cooperative Mann vs. Machine mode, though in my defence, it's been a long<em> </em>time since we last heard about it. The prospective patch was<a href=\"https://www.pcgamer.com/games/fps/valve-announces-team-fortress-2-is-getting-a-much-needed-update-focused-on-mann-vs-machine-a-chilling-cautionary-tale-where-an-artificial-consciousness-tried-to-take-all-our-jobs/\"> announced</a> in June last year, via a<a href=\"https://www.teamfortress.com/post.php?id=247188\" target=\"_blank\"> blog post</a> on TF2's official website that requested map and mission submissions from the community in time for this update—with a \"fictional deadline\" of August 27...\n                <a href=\"https://www.pcgamer.com/games/fps/valve-reassures-team-fortress-2-players-that-its-still-working-on-the-mann-vs-machine-update-it-announced-last-year-we-promise-were-making-progress/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1784381770,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1838407329258098",
