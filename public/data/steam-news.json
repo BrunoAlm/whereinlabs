@@ -7,12 +7,18 @@
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353234",
         "is_external_url": true,
         "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/f7ef9447f1760f593564acd461b01f0ce717e87d.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10857\"]Read the full announcement here![/url][/h2]",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/f7ef9447f1760f593564acd461b01f0ce717e87d.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10885\"]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1786428047,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 578080
+        "appid": 578080,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1870293249_1786428254_0",
+          "ModAct_1415716708_1786434079_4",
+          "mod_require_rereview"
+        ]
       },
       {
         "gid": "1840310314353235",
