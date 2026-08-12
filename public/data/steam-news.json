@@ -44,6 +44,19 @@
         "appid": 570
       },
       {
+        "gid": "1840310314353235",
+        "title": "August Store Update 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353235",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/52eb67ceb2ad3200f47fe82831c30712eef341bf.png\"][/img][/p][h2][url=\"https://pubg.com/news/10828\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1786428047,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1840310314353234",
         "title": "Patch Notes - Update 42.3",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353234",
@@ -61,19 +74,6 @@
           "ModAct_1415716708_1786434079_4",
           "mod_require_rereview"
         ]
-      },
-      {
-        "gid": "1840310314353235",
-        "title": "August Store Update 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353235",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/52eb67ceb2ad3200f47fe82831c30712eef341bf.png\"][/img][/p][h2][url=\"https://pubg.com/news/10828\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1786428047,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1840310314353233",
