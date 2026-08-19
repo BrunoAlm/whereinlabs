@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1840944183789938",
+        "title": "Modern Warfare 4 Beta Weekend One First Look",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789938",
+        "is_external_url": true,
+        "author": "ATVI_Dov",
+        "contents": "[p][/p][previewyoutube=\"VGQoDkezJ0Y;full\"][/previewyoutube]",
+        "feedlabel": "Community Announcements",
+        "date": 1787087962,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 1938090,
+        "tags": [
+          "workshop"
+        ]
+      },
+      {
+        "gid": "1840944183789813",
+        "title": "ÜBERFEST 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789813",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/c84ee9b825a4f7c0bb24cfc3a5263ff9acf1fad4.png[/img]\n(Image credit: SFM - BloodiestBanana, Illustrator - Max Shortt)\n\nFor the third consecutive year, KritzKast presents ÜBERFEST LAN! This year it's not just the players who'll be celebrating! Viewers at home (or wherever you enjoy top-tier European 6s esports) will have cause for merriment! Anyone who tunes in and watches a few hours of the event live stream will receive an exclusive in-game viewer medal!\n\nThe goodies don't stop there! In-person players, supporters and top teams win unique medals, and first place will receive a massive trophy created by Arkan, based on a design by David, the winner of May's [url=https://www.teamfortress.com/post.php?id=270037]community competition[/url].\n\nWe hope you visit Germany's summer sun for beer* and BBQ. Grab your tickets if you'd like to play or just want to stand behind the players who do! Either way we'll see you for the long weekend in Stuttgart, [b]September 10th - 13th 2026[/b]!\n\n*Please note: the beer is [u][b]not[/b][/u] free.\n\nImportant Links:\n[list]\n[*][url=https://kritzkast.com/uberfest-2026]More information and tickets[/url]\n[*][url=https://www.twitch.tv/kritzkast]KritzKast's Twitch[/url]\n[*][url=https://discord.gg/g4RdGgYzBQ]ÜBERFEST Discord[/url]\n[*][url=https://discord.gg/kritzkast]KritzKast Discord[/url]\n[/list]\n\n\n",
+        "feedlabel": "Community Announcements",
+        "date": 1787083545,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1840944183789824",
+        "title": "ÜBERFEST 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1840944183789824",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://www.twitch.tv/kritzkast\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/279597/uber26_small.png?t=1506190994\"></a>\n(Image credit: SFM - <a href=\"http://steamcommunity.com/profiles/76561198935532676\" target=\"_blank\">BloodiestBanana</a>, Illustrator - <a href=\"http://steamcommunity.com/profiles/76561199065090344\" target=\"_blank\">Max Shortt</a>)<br><br>\n\n<p>For the third consecutive year, KritzKast presents ÜBERFEST LAN! This year it's not just the players who'll be celebrating! Viewers at home (or wherever you enjoy top-tier European 6s esports) will have cause for merriment! Anyone who tunes in and watches a few hours of the event live stream will receive an exclusive in-game viewer medal!</p><br>\n\n<p>The goodies don't stop there! In-person players, supporters and top teams win unique medals, and first place will receive a massive trophy created by Arkan, based on a design by David, the winner of May's <a href=\"https://www.teamfortress.com/post.php?id=270037\" target=\"_blank\">community competition</a>.</p><br>\n\n<p>We hope you visit Germany's summer sun for beer* and BBQ. Grab your tickets if you'd like to play or just want to stand behind the players who do! Either way we'll see you for the long weekend in Stuttgart, <b>September 10th - 13th 2026</b>!</p><br>\n\n<p>*Please note: the beer is <u><b>not</b></u> free.</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://kritzkast.com/uberfest-2026\" target=\"_blank\">More information and tickets</a>\n<li><a href=\"https://www.twitch.tv/kritzkast\" target=\"_blank\">KritzKast's Twitch</a>\n<li><a href=\"https://discord.gg/g4RdGgYzBQ\" target=\"_blank\">ÜBERFEST Discord</a>\n<li><a href=\"https://discord.gg/kritzkast\" target=\"_blank\">KritzKast Discord</a>\n</ul>\n</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1787083500,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1840944183788225",
         "title": "PGS 9: Watch live and earn Drops!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788225",
@@ -173,32 +215,6 @@
         "appid": 440
       },
       {
-        "gid": "1840310314352288",
-        "title": "CLTF2 Halloween Cup",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1840310314352288",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://www.cltf2.com/\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/278972/hw_cup_small.png?t=1496190994\"></a>\n(Image credit: <a href=\"https://steamcommunity.com/id/metalcloud/\" target=\"_blank\">MetalCloud</a>)<br><br>\n\n<p>CLTF2 is announcing their Halloween Cup, a new event to help get ready for Halloween! This time around players can expect Highlander 9v9 action but with the twist of playing on Halloween themed maps!</p><br>\n \n<p>Sign-ups for the Halloween Cup are already open and run until the 6th of September. The first set of matches will be generated shortly after sign-ups close. All regions and skill levels are welcome!</p><br>\n \n<p>You can sign up for the Halloween Cup on the <a href=\"https://www.cltf2.com/\" target=\"_blank\">CLTF2 website</a> or visit their <a href=\"https://discord.gg/cuT8hcTRpZ\" target=\"_blank\">Discord server</a> for more information!</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1786385940,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1840310314342773",
-        "title": "Operation Mooncrash",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342773",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/9d27b988ee35f2abf369a4fa2645365a1e2ecb5c.png[/img]\n\n[b]In a desperate effort to attain ultimate global dominance, RED and BLU race to conquer the final frontier![/b]\n\nDestination – the [b]Moon![/b]\n\nTF2 Painter's Workshop is proud to host a new [b]community project[/b] that aims to revive and expand upon the [b]Moon Base theme[/b]! They're encouraging all kinds of participation and will be considering [b]cosmetics, war paints, maps, weapons, weapon unusuals, map assets and more[/b] for inclusion into the final community collection!\n\nAt the same time, they're also hosting contests for TWO specific item types!\n\nThe [b]War Paint contest[/b], which includes categories for both Standard and Limited Skins/UV/Dragon Slayer war paints!\n\nThe [b]Map Asset contest[/b], which includes assets ranging from posters, world textures, gameplay assets, environment assets, and detail props! Participants will contribute to five subcategories with five initial prize placements!\n\nCreators may still contribute their war paint/map asset to the final community collection, even if they have already submitted the maximum contest entries.\n\nJoin the TF2 Painter's Workshop [url=https://discord.com/invite/6C4858e4JB]Discord server[/url] to participate and build the future!\n",
-        "feedlabel": "Community Announcements",
-        "date": 1786039295,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440
-      },
-      {
         "gid": "1840310314340132",
         "title": "Destiny 2 players are learning how to crack into its infamous content vault by tinkering with old game builds",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840310314340132",
@@ -341,19 +357,6 @@
           "ModAct_1691520782_1784570808_0",
           "mod_require_rereview"
         ]
-      },
-      {
-        "gid": "1838407329257013",
-        "title": "Call of Duty® and Aston Martin Unveil the Dreadnought for Modern Warfare® 4",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329257013",
-        "is_external_url": true,
-        "author": "COD Official",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/42501705/0d1f4a12856e4f1b5640b9d0d42502e8a9625204.jpg\"][/img][/p][h3]Introducing the Dreadnought[/h3][p][/p][p]Every so often a vehicle drops into [i]Call of Duty[/i] that stands apart from the rest. Today, [i]Call of Duty[/i] and Aston Martin are proud to reveal that vehicle, the Aston Martin Dreadnought, an in-game, bespoke tactical SUV concept created for [i]Call of Duty: Modern Warfare 4[/i] and [i]Call of Duty: Warzone[/i]™. Developed through a collaboration between Aston Martin’s design team and engineered from the ground up with Infinity Ward, the Dreadnought reimagines what happens when one of the world’s most iconic ultra-luxury performance brands enters the world of [i]Modern Warfare[/i]. This is one of the most aggressive all-wheel drive machines in the game.[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/42501705/db29101b300d40b76b2dbf2001a58ffac57fd523.jpg\"][/img][/p][h3]When Luxury Meets Tactical Performance[/h3][p][/p][p]Designed by the same Aston Martin team responsible for some of the marque’s most celebrated vehicles, the Dreadnought is an exploration of what’s possible when designers are freed from real-world constraints.[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/42501705/ef000566858cba7d55f21a55688323cfaa8fa34b.jpg\"][/img][/p][h3]Drive to survive[/h3][p][/p][p]The Dreadnought rolls with an armored exterior and military-grade armor plating. This isn't a joyride SUV that folds under the first burst of fire. It's a mobile fortress. Push objectives and drive straight through contested ground while its impressive armor plating helps absorb the heaviest of incoming fire.[/p][p][/p][h3]The most aggressive AWD in MW4[/h3][p][/p][p]Grounded in Modern Warfare's in-game physics and packing supercar-level performance, the Dreadnought is the most aggressive all-wheel drive in the game. This translates to brutal traction, real speed, and the momentum to ram, escape, or run down a squad that thought it had you cornered — all announced by the roar of a full-blooded V12 engine.[/p][p][/p][p][/p][carousel autoadvance=\"true\"][img src=\"{STEAM_CLAN_IMAGE}/42501705/fed0500b10b280a29ebf4b328bcc7e2acb7bbf56.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/02706d0bd289bc2ff97377783b2781809f73f0d7.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/fcf2aad1e915fc34161f0490f3330407e71b0ba3.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/e9b2715ab0ca26119c8e8837e3cc5f6646d7252c.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/511329bb9d1eeb66a444f3fd139c42f51fd3d9b8.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/a5b5bd2a0fb58e6720b4d0ca2d6fb857a767673e.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/9d9348360fb59057ecc686db3bd1b3c10d7c3350.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/04ed158bfe8421422ac4a537cb57a4ce63b9444f.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/b1a0edb3a5addbb10f1c7460b85c6b8cb1edc095.jpg\"][/img][/carousel][p][i]Aston Martin Dreadnought concept photography shown.[/i][/p][p][/p][h3]A Closer Look at the Aston Martin Dreadnought[/h3][p][/p][p]The capabilities of a performance SUV have been translated into an immersive virtual world for the next generation of Aston Martin fans. Grounded in the in-game physics of the [i]Call of Duty[/i] universe, this unapologetic, uncompromising tactical all-wheel drive SUV delivers not only a stunning exploration of extreme visual language, but also an engaging and dynamic player experience. [/p][p][/p][p]The Dreadnought name naturally conjures up images of military might. Aside from its obvious dictionary definition, “fear nothing”, it also recalls the famous early 20th Century British warship, [i]HMS Dreadnought[/i], which was so revolutionary in terms of her armament and propulsion that she coined an entirely new class of warship, defining global naval military ambition in the early 1900s.  The Dreadnought combines supercar levels of performance, advanced armor technologies, and adaptive combat zone intelligence systems into a single, striking form. [/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/42501705/554282834cd87a056a675fa5dcc4108180836be4.jpg\"][/img][/p][p]Though these elements are purely cosmetic in the game, all have been imagined for elite tactical performance: from its optimized aerodynamics to its fully integrated digital command interfaces. Exquisite design details emphasize the Dreadnought’s high luxury heritage: from the herringbone weave of the exterior carbon fiber to the Oxford Tan leather dashboard and door panel details, and the metallic gold gear lever. These are uniquely contrasted in this digital creation with features rarely found in an Aston Martin like military grade armor plating. [/p][p][/p][h3]Amplified without restraint: Unmistakably Aston Martin[/h3][p][/p][p]Commenting on the debut of the Dreadnought in [i]Call of Duty: Modern Warfare 4[/i], Aston Martin Chief Creative Officer, Marek Reichman, said: “The team have hugely enjoyed the not inconsiderable challenge of redefining what an Aston Martin can be when the only limit is imagination. [/p][p][/p][p]“To create the ultimate exotic off-road machine, I had to imagine Dreadnought not only as a digital asset, but as a vehicle living in the real world — navigating the streets of New York, powering through the monsoon-soaked roads of Mumbai, and performing with complete authenticity in every environment,” Reichman said. “That vision allowed us to create something that feels genuinely real, even within the immersive world of the game.[/p][p][/p][p][/p][carousel autoadvance=\"true\"][img src=\"{STEAM_CLAN_IMAGE}/42501705/3fb3623736367c301aed57b993a1a04d64dda0df.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/1bba46c88ba10814787b71bdc3824e47e5f7adca.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/33a20fe66bc458cad3b0b363d621ae131b31f1cb.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/bcb1480136477b2bd5e31d659aac8da23febb992.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/e07e364958a4fb1c3b92f05ee6500ed5bd99d21e.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/d8e9465282337d4a9020913f191e4447955089ca.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/8d8543c5f09ae1a0c38b38a4c1d701348846fa25.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/2f07051cf9429ceb11c32e882dccc752dc038d82.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/a8266a71ca3eb55b989eca15ec3d1c3a84f85971.jpg\"][/img][img src=\"{STEAM_CLAN_IMAGE}/42501705/44ab3513f706e1f4328a10b3beee35f1b1d2ee7c.jpg\"][/img][/carousel][p][i]Aston Martin Dreadnought in-game imagery shown.\n\n[/i]“To me, Dreadnought is unmistakably an Aston Martin — amplified without restraint. The quality of the details we have been able to include, right down to the iconic Chiltern Green paint color so synonymous with this marque, underscores our dedication to delivering a truly authentic Aston Martin experience,” Reichman said. “Features as diverse as the carbon fiber chassis right through to exquisite elements such as the door hinges in anodized Satin Gold, reflect our real-world determination to be the most desirable ultra-luxury brand in the automotive sector, and beyond.”[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/42501705/d72106a962457c99f954e40f385a6ecdd6151704.jpg\"][/img][/p][h3]Built Together with Infinity Ward[/h3][p][/p][p]Bringing the Dreadnought to life required close collaboration between Aston Martin and Infinity Ward throughout every stage of development, from concepting and vehicle geometry to animation, in-game physics, propulsion, and gameplay tuning. Every element was engineered to reflect Aston Martin's distinctive design philosophy while delivering a high-performance armored vehicle purpose-built for Modern Warfare 4. The results, explains a member of Infinity Ward’s design team, is “a high performance armored vehicle that stays true to Aston Martin’s distinctive design philosophy and dominates any battleground. This is the most aggressive all-wheel drive vehicle in [i]Modern Warfare 4[/i].” [/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/42501705/33a20fe66bc458cad3b0b363d621ae131b31f1cb.jpg\"][/img][/p][p][/p][h3]See It First at Fanatics Fest NYC, Drive it in game on October 23[/h3][p][/p][p]Fans attending Fanatics Fest NYC will have the opportunity to see a full-size physical interpretation of the Dreadnought before it arrives in [i]Modern Warfare 4[/i].[/p][p][/p][p]At launch players can locate the Dreadnought within a few key points of interest across both [i]Modern Warfare 4[/i] DMZ and [i]Call of Duty: Warzone™[/i].[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1784215509,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 1938090
       },
       {
         "gid": "1837955055363349",
