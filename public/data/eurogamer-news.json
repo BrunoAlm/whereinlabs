@@ -6,8 +6,150 @@
   "category": [],
   "items": [
     {
-      "title": "Having Duskbloods connectivity issues? FromSoftware says sit closer to your router or use an ethernet cable",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/The-Duskbloods-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-1-58-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>The Duskbloods closed network test has begun, offering players an early peek at FromSoftware's upcoming PvPvE action game ahead of launch later this year. And with reports of connectivity issues already coming in,  FromSoftware has offered some somewhat old-fashioned advice for dealing with it.</p> <p><a href=\"https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware\">Read more</a></p>",
+      "title": "Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data \"sufficient to identify the users person\"",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/gta-6-lucia-retro-olive.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The hunt for the <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">GTA 6</a> leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online.</p> <p><a href=\"https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1787327719000,
+      "created": 1787327719000,
+      "category": [
+        "Open World",
+        "Single Player",
+        "Modern Day",
+        "Rockstar Games",
+        "Shooter",
+        "Shooter: Third Person",
+        "First person",
+        "Full product",
+        "Take-Two Interactive",
+        "PS5",
+        "Grand Theft Auto VI",
+        "Action Adventure",
+        "Xbox Series X/S",
+        "Multiplayer Cooperative",
+        "Third person",
+        "Multiplayer Competitive",
+        "Racing"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/gta-6-lucia-retro-olive.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/gta-6-lucia-retro-olive.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "The second season of Netflix's Cyberpunk Edgerunners anime releases this year",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/cyberpunk-edgerunners-season-2-face.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>The second season of Netflix anime Cyberpunk Edgerunners has a release date, and it's being released this year. We also have a new trailer giving us a peek at the 10-episode run.</p> <p><a href=\"https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1787322596000,
+      "created": 1787322596000,
+      "category": [
+        "Anime",
+        "CD Projekt RED",
+        "Netflix",
+        "Cyberpunk: Edgerunners",
+        "Cyberpunk 2077: Edgerunners",
+        "Cyberpunk Edgerunner"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/cyberpunk-edgerunners-season-2-face.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/cyberpunk-edgerunners-season-2-face.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/limited-edition-green-xbox-series-x.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>That <a href=\"https://www.eurogamer.net/xbox-limited-edition-console-controller-25th-anniversary\">fancy green see-through Xbox Series X</a> - a limited edition creation for Xbox's 25th anniversary - reportedly releases on Black Friday and costs as much as a <a href=\"https://www.eurogamer.net/topics/ps5-pro\">PS5 Pro</a>.</p> <p><a href=\"https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1787318533000,
+      "created": 1787318533000,
+      "category": [
+        "Single Player",
+        "Gears of War: E-Day",
+        "PC",
+        "Multiplayer Cooperative",
+        "Xbox Game Studios",
+        "PS5",
+        "Action Adventure",
+        "Xbox Series X/S",
+        "Microsoft",
+        "Multiplayer Competitive"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/limited-edition-green-xbox-series-x.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/limited-edition-green-xbox-series-x.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Careful, the new Plague Tale game appears to have leaked a week ahead of launch",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/plague-tale-resonance-leaked.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Plague Tale fans beware: the new game, Resonance: A Plague Tale Legacy, appears to have been cracked and shared online a week before release. It means spoilers may start appearing online, so be careful what you watch and read.</p> <p><a href=\"https://www.eurogamer.net/plague-tale-resonance-leaked-pc\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/plague-tale-resonance-leaked-pc",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1787317313000,
+      "created": 1787317313000,
+      "category": [
+        "Single Player",
+        "PC",
+        "Resonance: A Plague Tale Legacy",
+        "Focus Entertainment",
+        "PS5",
+        "Action Adventure",
+        "Xbox Series X/S",
+        "Asobo Studio",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/plague-tale-resonance-leaked.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/plague-tale-resonance-leaked.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Connectivity issues force FromSoftware to close The Duskbloods network test early",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/The-Duskbloods-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-1-58-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><strong>UPDATE 2PM BST:</strong> FormSoftware has closed today's The Duskbloods network test early due to connectivity issues.</p> <p><a href=\"https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware\">Read more</a></p>",
       "link": "https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware",
       "author": {
         "$text": "Connor Makar",
@@ -3679,144 +3821,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/overwatch-2-juno-trailer-crop.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Xbox now requires Australians to prove their age to access games rated 18+, though \"games you already own won't be affected\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Xbox is now asking users in Australia to verify their age before they're able to purchase games rated at 18+ on the Xbox Store on Xbox consoles, as well as the Microsoft Store on PC.</p> <p><a href=\"https://www.eurogamer.net/xbox-store-pc-australia-age-verification-r18-games\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/xbox-store-pc-australia-age-verification-r18-games",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1786350445000,
-      "created": 1786350445000,
-      "category": [
-        "Microsoft Store",
-        "Xbox Games Store",
-        "PC",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "You can now stream PS Plus games to Steam Deck without owning a PS5 - and without buying a PS Portal",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/release-asobi-remote-play-for-steam-deck-machine-linux-is-v0-mtu29gka8zhh1.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A new cloud-streaming app that lets players stream PlayStation games to their Steam Deck and Steam Machine without a PS5 has just opened a playtest.</p> <p><a href=\"https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi",
-      "author": {
-        "$text": "Vikki Blake",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1786292185000,
-      "created": 1786292185000,
-      "category": [
-        "Streaming",
-        "PS5",
-        "Steam Deck",
-        "Steam Machine"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/release-asobi-remote-play-for-steam-deck-machine-linux-is-v0-mtu29gka8zhh1.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/release-asobi-remote-play-for-steam-deck-machine-linux-is-v0-mtu29gka8zhh1.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Battlefield-6-Official-Multiplayer-Gameplay-Trailer-1-27-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>A <a href=\"https://www.eurogamer.net/games/battlefield-2025\">Battlefield 6</a> player \"upset\" at the removal of the popular Rush mode claims to have secured a full refund from Steam despite having clocked up 470 hours.</p> <p><a href=\"https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
-      "author": {
-        "$text": "Vikki Blake",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1786289326000,
-      "created": 1786289326000,
-      "category": [
-        "Single Player",
-        "FPS",
-        "Electronic Arts",
-        "PC",
-        "Science Fiction",
-        "Shooter",
-        "refunds",
-        "First person",
-        "Steam Refunds",
-        "Valve",
-        "PS5",
-        "Bird view / Isometric",
-        "Xbox Series X/S",
-        "Battlefield 6",
-        "EA",
-        "Multiplayer Competitive"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Battlefield-6-Official-Multiplayer-Gameplay-Trailer-1-27-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Battlefield-6-Official-Multiplayer-Gameplay-Trailer-1-27-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "New Lies of P documentary teases next game \"is going to be really fun and emotionally moving\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/LIES-SITE.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>One of the teams behind Neowiz's Souls-like <a href=\"https://www.eurogamer.net/games/lies-of-p\">Lies of P</a> has released a short documentary detailing how they kept \"testing and refining\" the game before its release, as well as offering a little insight into its hardcore \"games by gamers\" culture.</p> <p><a href=\"https://www.eurogamer.net/lies-of-p-studio-next-game-tease\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/lies-of-p-studio-next-game-tease",
-      "author": {
-        "$text": "Vikki Blake",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1786286538000,
-      "created": 1786286538000,
-      "category": [
-        "Single Player",
-        "RPG",
-        "PS4",
-        "PC",
-        "Lies of P",
-        "Mac",
-        "Nintendo Switch 2",
-        "Neowiz",
-        "PS5",
-        "Xbox One",
-        "Action Adventure",
-        "Xbox Series X/S",
-        "Round 8 Studio",
-        "Third person"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/LIES-SITE.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/LIES-SITE.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
