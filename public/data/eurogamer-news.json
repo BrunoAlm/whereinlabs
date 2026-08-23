@@ -6,6 +6,61 @@
   "category": [],
   "items": [
     {
+      "title": "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/OpenLetterHeader_1920x1080.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>A <a href=\"https://www.eurogamer.net/companies/twitch\">Twitch</a> streamer has filed a proposed class action against the platform and its parent company Amazon, claiming his broadcasts, and those of countless other creators, were fed into generative AI training with neither consent nor payment.</p> <p><a href=\"https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1787504120000,
+      "created": 1787504120000,
+      "category": [
+        "AI",
+        "Lawsuits",
+        "Twitch"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/OpenLetterHeader_1920x1080.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/OpenLetterHeader_1920x1080.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Epic Games Store overhaul might be \"too little, too late\", says Newzoo analyst",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2025-02-14-at-16.37.26.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>While Epic has spent much of this year promising a launcher overhaul, including a faster, redesigned storefront with tailored recommendations and quicker ways to browse, one industry analyst has revealed that it might not be enough.</p> <p><a href=\"https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1787501993000,
+      "created": 1787501993000,
+      "category": [
+        "PC",
+        "Epic Games"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2025-02-14-at-16.37.26.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2025-02-14-at-16.37.26.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Miyazaki explains how The Duskbloods plans to protect newcomers from its best players",
       "description": "<img src=\"https://assetsio.gnwcdn.com/duskbloods-miyazaki-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>FromSoftware is stepping into one of multiplayer gaming's most divisive arguments with The Duskbloods, confirming the upcoming <a href=\"https://www.eurogamer.net/platforms/switch-2\">Switch 2</a> exclusive will lean on skill-based matchmaking to keep newcomers safe from its most battle-hardened players.</p> <p><a href=\"https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki\">Read more</a></p>",
       "link": "https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki",
@@ -16,13 +71,13 @@
       "published": 1787485420000,
       "created": 1787485420000,
       "category": [
-        "Multiplayer Competitive",
         "Third person",
-        "Nintendo",
-        "Nintendo Switch 2",
-        "FromSoftware",
-        "Single Player",
+        "Multiplayer Competitive",
         "The Duskbloods",
+        "Nintendo Switch 2",
+        "Single Player",
+        "Nintendo",
+        "FromSoftware",
         "Action Adventure"
       ],
       "enclosures": [
@@ -50,8 +105,8 @@
       "created": 1787483656000,
       "category": [
         "Sony",
-        "PS5",
-        "Sony PlayStation"
+        "Sony PlayStation",
+        "PS5"
       ],
       "enclosures": [
         {
@@ -77,16 +132,16 @@
       "published": 1787481791000,
       "created": 1787481791000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Third person",
-        "ARC Raiders",
-        "Shooter",
-        "Embark Studios",
         "PC",
+        "Multiplayer Competitive",
+        "Third person",
         "PS5",
         "Multiplayer Cooperative",
-        "Science Fiction"
+        "Shooter",
+        "Science Fiction",
+        "Xbox Series X/S",
+        "ARC Raiders",
+        "Embark Studios"
       ],
       "enclosures": [
         {
@@ -112,21 +167,21 @@
       "published": 1787415095000,
       "created": 1787415095000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Shooter",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "FPS",
-        "Nintendo Switch 2",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "FPS",
         "Military",
-        "Realism",
+        "PS5",
         "Multiplayer Cooperative",
-        "First person",
+        "Nintendo Switch 2",
+        "Realism",
+        "Shooter",
         "Activision",
+        "First person",
+        "Single Player",
         "Modern Day",
+        "Call of Duty: Modern Warfare 4 (2026)",
+        "Xbox Series X/S",
         "Infinity Ward"
       ],
       "enclosures": [
@@ -153,12 +208,12 @@
       "published": 1787411193000,
       "created": 1787411193000,
       "category": [
-        "Rebel Wolves",
-        "Xbox Series X/S",
-        "RPG: Action",
-        "PS5",
         "PC",
-        "RPG"
+        "PS5",
+        "RPG",
+        "Rebel Wolves",
+        "RPG: Action",
+        "Xbox Series X/S"
       ],
       "enclosures": [
         {
@@ -184,16 +239,16 @@
       "published": 1787399537000,
       "created": 1787399537000,
       "category": [
-        "Horror",
-        "Annapurna Interactive",
-        "Silent Hill: Townfall",
-        "Single Player",
-        "PS5",
         "PC",
-        "Konami",
-        "First person",
+        "PS5",
         "No Code",
-        "Action Adventure"
+        "Silent Hill: Townfall",
+        "Konami",
+        "Annapurna Interactive",
+        "Single Player",
+        "Horror",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -219,25 +274,25 @@
       "published": 1787397393000,
       "created": 1787397393000,
       "category": [
-        "Leaks",
-        "First person",
-        "Third person",
-        "Action Adventure",
-        "Shooter: Third Person",
-        "Grand Theft Auto VI",
-        "Xbox Series X/S",
-        "Shooter",
         "Multiplayer Cooperative",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Full product",
+        "Shooter: Third Person",
+        "Shooter",
         "Single Player",
-        "PS5",
-        "Racing",
-        "Take-Two Interactive",
         "Legal",
-        "Open World"
+        "Take-Two Interactive",
+        "Full product",
+        "Modern Day",
+        "Action Adventure",
+        "Multiplayer Competitive",
+        "Grand Theft Auto VI",
+        "Racing",
+        "Xbox Series X/S",
+        "Leaks",
+        "Third person",
+        "PS5",
+        "Rockstar Games",
+        "Open World",
+        "First person"
       ],
       "enclosures": [
         {
@@ -263,15 +318,15 @@
       "published": 1787394811000,
       "created": 1787394811000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Third person",
-        "Kiln",
-        "Party",
-        "Xbox Game Studios",
-        "PS5",
         "PC",
-        "Double Fine Productions"
+        "Multiplayer Competitive",
+        "Third person",
+        "PS5",
+        "Party",
+        "Xbox Series X/S",
+        "Double Fine Productions",
+        "Xbox Game Studios",
+        "Kiln"
       ],
       "enclosures": [
         {
@@ -297,23 +352,23 @@
       "published": 1787327719000,
       "created": 1787327719000,
       "category": [
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Xbox Series X/S",
         "Third person",
-        "Shooter",
-        "Full product",
-        "Single Player",
+        "Multiplayer Competitive",
         "PS5",
-        "Racing",
+        "Rockstar Games",
         "Take-Two Interactive",
         "Open World",
         "Multiplayer Cooperative",
-        "First person",
-        "Action Adventure",
         "Shooter: Third Person",
+        "Full product",
+        "Shooter",
+        "Grand Theft Auto VI",
+        "Single Player",
         "Modern Day",
-        "Grand Theft Auto VI"
+        "Racing",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -339,12 +394,12 @@
       "published": 1787322596000,
       "created": 1787322596000,
       "category": [
-        "Cyberpunk Edgerunner",
         "CD Projekt RED",
-        "Anime",
-        "Cyberpunk: Edgerunners",
+        "Cyberpunk 2077: Edgerunners",
+        "Cyberpunk Edgerunner",
         "Netflix",
-        "Cyberpunk 2077: Edgerunners"
+        "Cyberpunk: Edgerunners",
+        "Anime"
       ],
       "enclosures": [
         {
@@ -370,16 +425,16 @@
       "published": 1787318533000,
       "created": 1787318533000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Xbox Game Studios",
-        "Microsoft",
-        "Gears of War: E-Day",
         "PC",
+        "Multiplayer Competitive",
         "PS5",
-        "Single Player",
+        "Gears of War: E-Day",
         "Multiplayer Cooperative",
-        "Action Adventure"
+        "Single Player",
+        "Microsoft",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios"
       ],
       "enclosures": [
         {
@@ -405,15 +460,15 @@
       "published": 1787317313000,
       "created": 1787317313000,
       "category": [
-        "Xbox Series X/S",
-        "Third person",
-        "Asobo Studio",
-        "Single Player",
-        "PS5",
         "PC",
+        "Third person",
+        "PS5",
         "Focus Entertainment",
+        "Resonance: A Plague Tale Legacy",
+        "Single Player",
+        "Xbox Series X/S",
         "Action Adventure",
-        "Resonance: A Plague Tale Legacy"
+        "Asobo Studio"
       ],
       "enclosures": [
         {
@@ -439,13 +494,13 @@
       "published": 1787310221000,
       "created": 1787310221000,
       "category": [
-        "Multiplayer Competitive",
         "Third person",
-        "Nintendo",
-        "Nintendo Switch 2",
-        "FromSoftware",
-        "Single Player",
+        "Multiplayer Competitive",
         "The Duskbloods",
+        "Nintendo Switch 2",
+        "Single Player",
+        "Nintendo",
+        "FromSoftware",
         "Action Adventure"
       ],
       "enclosures": [
@@ -473,25 +528,25 @@
       "created": 1787308382000,
       "category": [
         "PC",
+        "iOS",
+        "RPG",
+        "Hack & Slash",
+        "Guardians of the Galaxy",
+        "Single Player",
+        "Dave Bautista",
+        "PS4",
+        "Sony Santa Monica",
+        "Capcom",
+        "Santa Monica Studio",
+        "Action Adventure",
+        "Sony Computer Entertainment",
+        "Puzzle",
+        "God of War",
         "SIE Santa Monica Studio",
         "Third person",
-        "Guardians of the Galaxy",
-        "Puzzle",
-        "Hack & Slash",
-        "iOS",
-        "Sony Computer Entertainment",
-        "RPG",
-        "Action Adventure",
-        "God of War",
-        "Capcom",
-        "Strategy",
-        "Dave Bautista",
-        "Santa Monica Studio",
-        "Single Player",
         "PS5",
-        "PS4",
-        "God of War Ragnarök",
-        "Sony Santa Monica"
+        "Strategy",
+        "God of War Ragnarök"
       ],
       "enclosures": [
         {
@@ -517,15 +572,15 @@
       "published": 1787302897000,
       "created": 1787302897000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "PS5",
         "Riot Games",
-        "Side view",
-        "2XKO",
         "Multiplayer Cooperative",
+        "2XKO",
+        "Single Player",
+        "Side view",
+        "Xbox Series X/S",
         "Fighting"
       ],
       "enclosures": [
@@ -552,13 +607,13 @@
       "published": 1787244252000,
       "created": 1787244252000,
       "category": [
-        "Multiplayer Competitive",
         "Third person",
-        "Nintendo",
-        "Nintendo Switch 2",
-        "FromSoftware",
-        "Single Player",
+        "Multiplayer Competitive",
         "The Duskbloods",
+        "Nintendo Switch 2",
+        "Single Player",
+        "Nintendo",
+        "FromSoftware",
         "Action Adventure"
       ],
       "enclosures": [
@@ -585,15 +640,15 @@
       "published": 1787239946000,
       "created": 1787239946000,
       "category": [
-        "IO Interactive",
-        "Xbox Series X/S",
-        "Third person",
-        "Shooter",
-        "Nintendo Switch 2",
-        "Single Player",
-        "PS5",
         "PC",
         "007 First Light",
+        "Third person",
+        "PS5",
+        "Nintendo Switch 2",
+        "IO Interactive",
+        "Shooter",
+        "Single Player",
+        "Xbox Series X/S",
         "Action Adventure"
       ],
       "enclosures": [
@@ -620,13 +675,13 @@
       "published": 1787239808000,
       "created": 1787239808000,
       "category": [
-        "Multiplayer Competitive",
         "Third person",
-        "Nintendo",
-        "Nintendo Switch 2",
-        "FromSoftware",
-        "Single Player",
+        "Multiplayer Competitive",
         "The Duskbloods",
+        "Nintendo Switch 2",
+        "Single Player",
+        "Nintendo",
+        "FromSoftware",
         "Action Adventure"
       ],
       "enclosures": [
@@ -653,18 +708,18 @@
       "published": 1787237287000,
       "created": 1787237287000,
       "category": [
-        "Multiplayer Competitive",
         "Nintendo GameCube",
-        "Quiz/Trivia",
+        "Multiplayer Competitive",
+        "Strategy",
+        "RPG",
+        "Bird view / Isometric",
         "Simulation",
+        "Nintendo DS",
+        "Quiz/Trivia",
         "Nintendo",
         "Single Player",
         "Side view",
-        "Strategy",
-        "Bird view / Isometric",
-        "Final Fantasy Crystal Chronicles",
-        "RPG",
-        "Nintendo DS"
+        "Final Fantasy Crystal Chronicles"
       ],
       "enclosures": [
         {
@@ -690,15 +745,15 @@
       "published": 1787236180000,
       "created": 1787236180000,
       "category": [
-        "Arc System Works",
-        "Multiplayer Competitive",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "PS5",
+        "Marvel Tokon: Fighting Souls",
+        "Single Player",
         "Marvel Games",
         "Side view",
-        "Fighting",
-        "Marvel Tokon: Fighting Souls"
+        "Arc System Works",
+        "Fighting"
       ],
       "enclosures": [
         {
@@ -724,21 +779,21 @@
       "published": 1787235646000,
       "created": 1787235646000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Shooter",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "FPS",
-        "Nintendo Switch 2",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "FPS",
         "Military",
-        "Realism",
+        "PS5",
         "Multiplayer Cooperative",
-        "First person",
+        "Nintendo Switch 2",
+        "Realism",
+        "Shooter",
         "Activision",
+        "First person",
+        "Single Player",
         "Modern Day",
+        "Call of Duty: Modern Warfare 4 (2026)",
+        "Xbox Series X/S",
         "Infinity Ward"
       ],
       "enclosures": [
@@ -765,44 +820,44 @@
       "published": 1787231112000,
       "created": 1787231112000,
       "category": [
-        "Call of Duty: Black Ops 2",
         "PC",
-        "First person",
-        "Activision",
-        "Ubisoft Entertainment",
-        "Call of Duty: Black Ops",
-        "Nintendo",
-        "Nintendo Wii U",
-        "Third person",
-        "Nintendo Switch 2",
-        "Xbox Game Studios",
-        "Square Enix",
-        "Aspyr",
-        "Halo Studios",
-        "Action Adventure",
-        "Ubisoft Singapore",
-        "PS3",
-        "Ubisoft Montreal",
-        "Xbox Series X/S",
-        "Shooter",
-        "FPS",
-        "Assassin's Creed Black Flag Resynced",
-        "Mac",
         "Multiplayer Cooperative",
-        "Splatoon Raiders",
-        "Nintendo Wii",
-        "Nintendo DS",
-        "n-Space",
-        "Circana",
-        "Multiplayer Competitive",
-        "Activision Blizzard",
+        "Shooter",
+        "Aspyr",
         "Single Player",
-        "PS5",
-        "Xbox 360",
         "PS4",
-        "Halo: Campaign Evolved",
+        "Square Enix",
+        "Xbox Game Studios",
+        "Circana",
+        "n-Space",
+        "Ubisoft Singapore",
+        "Assassin's Creed Black Flag Resynced",
+        "PS3",
+        "Activision Blizzard",
+        "Action Adventure",
+        "Nintendo Wii U",
+        "Multiplayer Competitive",
+        "FPS",
+        "Halo Studios",
+        "Call of Duty: Black Ops 2",
+        "Treyarch",
+        "Xbox Series X/S",
+        "Third person",
+        "PS5",
         "Open World",
-        "Treyarch"
+        "Call of Duty: Black Ops",
+        "Nintendo Switch 2",
+        "Nintendo Wii",
+        "Splatoon Raiders",
+        "Halo: Campaign Evolved",
+        "Xbox 360",
+        "Activision",
+        "Nintendo DS",
+        "Nintendo",
+        "Ubisoft Montreal",
+        "Mac",
+        "First person",
+        "Ubisoft Entertainment"
       ],
       "enclosures": [
         {
@@ -828,12 +883,12 @@
       "published": 1787227639000,
       "created": 1787227639000,
       "category": [
-        "Game Science",
-        "Third person",
-        "Single Player",
-        "Black Myth: Zhong Kui",
         "PC",
+        "Third person",
+        "Game Science",
         "RPG",
+        "Black Myth: Zhong Kui",
+        "Single Player",
         "Action Adventure"
       ],
       "enclosures": [
@@ -860,23 +915,23 @@
       "published": 1787225271000,
       "created": 1787225271000,
       "category": [
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Xbox Series X/S",
         "Third person",
-        "Shooter",
-        "Full product",
-        "Single Player",
+        "Multiplayer Competitive",
         "PS5",
-        "Racing",
+        "Rockstar Games",
         "Take-Two Interactive",
         "Open World",
         "Multiplayer Cooperative",
-        "First person",
-        "Action Adventure",
         "Shooter: Third Person",
+        "Full product",
+        "Shooter",
+        "Grand Theft Auto VI",
+        "Single Player",
         "Modern Day",
-        "Grand Theft Auto VI"
+        "Racing",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -902,13 +957,13 @@
       "published": 1787217391000,
       "created": 1787217391000,
       "category": [
-        "Multiplayer Competitive",
         "Third person",
-        "Nintendo",
-        "Nintendo Switch 2",
-        "FromSoftware",
-        "Single Player",
+        "Multiplayer Competitive",
         "The Duskbloods",
+        "Nintendo Switch 2",
+        "Single Player",
+        "Nintendo",
+        "FromSoftware",
         "Action Adventure"
       ],
       "enclosures": [
@@ -935,9 +990,9 @@
       "published": 1787214656000,
       "created": 1787214656000,
       "category": [
-        "PS5",
         "PC",
         "Xbox Series X/S",
+        "PS5",
         "Mass Effect 5"
       ],
       "enclosures": [
@@ -964,23 +1019,23 @@
       "published": 1787153175000,
       "created": 1787153175000,
       "category": [
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Xbox Series X/S",
         "Third person",
-        "Shooter",
-        "Full product",
-        "Single Player",
+        "Multiplayer Competitive",
         "PS5",
-        "Racing",
+        "Rockstar Games",
         "Take-Two Interactive",
         "Open World",
         "Multiplayer Cooperative",
-        "First person",
-        "Action Adventure",
         "Shooter: Third Person",
+        "Full product",
+        "Shooter",
+        "Grand Theft Auto VI",
+        "Single Player",
         "Modern Day",
-        "Grand Theft Auto VI"
+        "Racing",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -1006,15 +1061,15 @@
       "published": 1787147037000,
       "created": 1787147037000,
       "category": [
+        "PC",
         "Multiplayer Competitive",
         "Third person",
+        "PS5",
+        "Multiplayer Cooperative",
+        "Guerrilla Games",
         "Shooter",
         "Single Player",
-        "PS5",
-        "PC",
-        "Guerrilla Games",
         "Horizon Hunters Gathering",
-        "Multiplayer Cooperative",
         "Action Adventure"
       ],
       "enclosures": [
@@ -1042,25 +1097,25 @@
       "created": 1787140782000,
       "category": [
         "PC",
-        "Arcade",
-        "Bird view / Isometric",
-        "RPG",
-        "Action Adventure",
-        "Xbox Series X/S",
-        "Shooter",
-        "Valve Corporation",
-        "Edmund McMillen",
-        "Mac",
         "Indie",
+        "RPG",
         "Multiplayer Cooperative",
+        "Bird view / Isometric",
+        "Shooter",
+        "Single Player",
+        "PS4",
+        "Nicalis",
+        "Arcade",
+        "The Binding of Isaac",
+        "Action Adventure",
         "Multiplayer Competitive",
         "Xbox One",
-        "Single Player",
-        "Nicalis",
+        "Valve Corporation",
+        "Xbox Series X/S",
         "PS5",
-        "PS4",
+        "Edmund McMillen",
         "The Binding of Isaac: Repentance",
-        "The Binding of Isaac"
+        "Mac"
       ],
       "enclosures": [
         {
@@ -1086,23 +1141,23 @@
       "published": 1787138741000,
       "created": 1787138741000,
       "category": [
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Xbox Series X/S",
         "Third person",
-        "Shooter",
-        "Full product",
-        "Single Player",
+        "Multiplayer Competitive",
         "PS5",
-        "Racing",
+        "Rockstar Games",
         "Take-Two Interactive",
         "Open World",
         "Multiplayer Cooperative",
-        "First person",
-        "Action Adventure",
         "Shooter: Third Person",
+        "Full product",
+        "Shooter",
+        "Grand Theft Auto VI",
+        "Single Player",
         "Modern Day",
-        "Grand Theft Auto VI"
+        "Racing",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -1128,23 +1183,23 @@
       "published": 1787136556000,
       "created": 1787136556000,
       "category": [
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Xbox Series X/S",
         "Third person",
-        "Shooter",
-        "Full product",
-        "Single Player",
+        "Multiplayer Competitive",
         "PS5",
-        "Racing",
+        "Rockstar Games",
         "Take-Two Interactive",
         "Open World",
         "Multiplayer Cooperative",
-        "First person",
-        "Action Adventure",
         "Shooter: Third Person",
+        "Full product",
+        "Shooter",
+        "Grand Theft Auto VI",
+        "Single Player",
         "Modern Day",
-        "Grand Theft Auto VI"
+        "Racing",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -1170,11 +1225,11 @@
       "published": 1787136359000,
       "created": 1787136359000,
       "category": [
-        "Sony Interactive Entertainment",
-        "DualSense Edge",
-        "PS5",
         "PC",
-        "Sony"
+        "Sony",
+        "PS5",
+        "DualSense Edge",
+        "Sony Interactive Entertainment"
       ],
       "enclosures": [
         {
@@ -1200,16 +1255,16 @@
       "published": 1787130389000,
       "created": 1787130389000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Bandai Namco Entertainment",
-        "Single Player",
-        "PS5",
         "PC",
-        "Side view",
-        "BANDAI NAMCO Studios",
+        "Multiplayer Competitive",
+        "PS5",
+        "Fighting",
+        "Single Player",
         "Tekken 8",
-        "Fighting"
+        "BANDAI NAMCO Studios",
+        "Side view",
+        "Xbox Series X/S",
+        "Bandai Namco Entertainment"
       ],
       "enclosures": [
         {
@@ -1235,10 +1290,10 @@
       "published": 1787128530000,
       "created": 1787128530000,
       "category": [
-        "Pokémon",
-        "Steam Machine",
         "The Pokemon Center",
-        "The Pokémon Company International"
+        "The Pokémon Company International",
+        "Pokémon",
+        "Steam Machine"
       ],
       "enclosures": [
         {
@@ -1265,29 +1320,29 @@
       "created": 1787063948000,
       "category": [
         "PC",
-        "Fighting",
-        "Nidhogg",
-        "Arcade",
-        "Third person",
-        "Asobo Studio",
-        "Xbox Game Studios",
-        "Side view",
-        "Action Adventure",
-        "Xbox Series X/S",
-        "Nintendo Switch",
-        "Focus Entertainment",
-        "Mac",
         "Indie",
-        "Resonance: A Plague Tale Legacy",
-        "Multiplayer Competitive",
         "Sports",
-        "Messhof",
-        "Xbox One",
+        "Focus Entertainment",
+        "Resonance: A Plague Tale Legacy",
         "Single Player",
-        "PS5",
-        "Nidhogg 2",
+        "Side view",
         "PS4",
-        "PlayStation Vita"
+        "Xbox Game Studios",
+        "Arcade",
+        "Action Adventure",
+        "Nidhogg 2",
+        "Multiplayer Competitive",
+        "Xbox One",
+        "Messhof",
+        "Xbox Series X/S",
+        "Fighting",
+        "PlayStation Vita",
+        "Third person",
+        "PS5",
+        "Nintendo Switch",
+        "Nidhogg",
+        "Mac",
+        "Asobo Studio"
       ],
       "enclosures": [
         {
@@ -1313,23 +1368,23 @@
       "published": 1787059644000,
       "created": 1787059644000,
       "category": [
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Xbox Series X/S",
         "Third person",
-        "Shooter",
-        "Full product",
-        "Single Player",
+        "Multiplayer Competitive",
         "PS5",
-        "Racing",
+        "Rockstar Games",
         "Take-Two Interactive",
         "Open World",
         "Multiplayer Cooperative",
-        "First person",
-        "Action Adventure",
         "Shooter: Third Person",
+        "Full product",
+        "Shooter",
+        "Grand Theft Auto VI",
+        "Single Player",
         "Modern Day",
-        "Grand Theft Auto VI"
+        "Racing",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -1355,27 +1410,27 @@
       "published": 1787054087000,
       "created": 1787054087000,
       "category": [
-        "Battlefield 6",
         "PC",
-        "First person",
-        "Activision",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "Nintendo Switch 2",
-        "Electronic Arts",
-        "Military",
-        "Realism",
-        "Bird view / Isometric",
-        "Infinity Ward",
-        "Top Gun: Maverick",
-        "Xbox Series X/S",
-        "Shooter",
-        "FPS",
         "Multiplayer Cooperative",
-        "Top Gun",
-        "Modern Day",
-        "Multiplayer Competitive",
+        "Bird view / Isometric",
+        "Electronic Arts",
+        "Shooter",
         "Single Player",
-        "PS5"
+        "Call of Duty: Modern Warfare 4 (2026)",
+        "Battlefield 6",
+        "Military",
+        "Modern Day",
+        "Top Gun: Maverick",
+        "Multiplayer Competitive",
+        "FPS",
+        "Xbox Series X/S",
+        "PS5",
+        "Nintendo Switch 2",
+        "Realism",
+        "Top Gun",
+        "Activision",
+        "First person",
+        "Infinity Ward"
       ],
       "enclosures": [
         {
@@ -1401,21 +1456,21 @@
       "published": 1787048187000,
       "created": 1787048187000,
       "category": [
-        "Horror",
-        "Third person",
-        "Shooter",
-        "Xbox Series X/S",
-        "Nintendo Switch 2",
-        "Resident Evil Requiem",
-        "PS5",
-        "Capcom",
         "PC",
-        "Puzzle",
-        "Single Player",
+        "Third person",
+        "PS5",
         "RPG",
+        "Nintendo Switch 2",
+        "Shooter",
+        "Single Player",
+        "Capcom",
+        "Puzzle",
         "Tides of Annihilation",
-        "First person",
-        "Action Adventure"
+        "Resident Evil Requiem",
+        "Xbox Series X/S",
+        "Horror",
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -1442,24 +1497,24 @@
       "created": 1787047926000,
       "category": [
         "PC",
-        "First person",
-        "Third person",
-        "Nintendo Switch 2",
         "The Elder Scrolls V: Skyrim",
         "RPG",
-        "Action Adventure",
-        "Fallout 4",
-        "PS3",
-        "Xbox Series X/S",
-        "Bethesda Softworks",
         "Shooter",
-        "Nintendo Switch",
-        "Xbox One",
-        "Bethesda Game Studios",
-        "PS5",
+        "Fallout 4",
         "Single Player",
+        "PS4",
+        "PS3",
+        "Action Adventure",
+        "Bethesda Game Studios",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Third person",
+        "PS5",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
         "Xbox 360",
-        "PS4"
+        "First person",
+        "Bethesda Softworks"
       ],
       "enclosures": [
         {
@@ -1485,9 +1540,9 @@
       "published": 1787045389000,
       "created": 1787045389000,
       "category": [
-        "Action Adventure",
+        "Gunz: The Duel",
         "PC",
-        "Gunz: The Duel"
+        "Action Adventure"
       ],
       "enclosures": [
         {
@@ -1513,21 +1568,21 @@
       "published": 1787045157000,
       "created": 1787045157000,
       "category": [
-        "Fantasy",
-        "Crystal Dynamics",
-        "Third person",
-        "Xbox Series X/S",
-        "Tomb Raider: Legacy of Atlantis",
-        "Nintendo Switch 2",
-        "Single Player",
-        "PS5",
         "PC",
-        "Puzzle",
-        "Flying Wild Hog",
-        "Action Adventure",
+        "Third person",
+        "PS5",
+        "Tomb Raider: Legacy of Atlantis",
         "Shooter: Third Person",
+        "Fantasy",
+        "Nintendo Switch 2",
         "Amazon Games",
-        "Platformer"
+        "Crystal Dynamics",
+        "Single Player",
+        "Platformer",
+        "Flying Wild Hog",
+        "Puzzle",
+        "Xbox Series X/S",
+        "Action Adventure"
       ],
       "enclosures": [
         {
@@ -1553,22 +1608,22 @@
       "published": 1787043485000,
       "created": 1787043485000,
       "category": [
-        "ion storm",
-        "Multiplayer Competitive",
-        "Shooter",
-        "Deus Ex",
-        "Single Player",
-        "Eidos-Montreal",
         "PC",
-        "Eidos",
-        "PS2",
-        "Aspyr",
-        "Mac",
-        "Square Enix",
+        "Multiplayer Competitive",
+        "ion storm",
         "RPG",
+        "Deus Ex",
+        "PS2",
+        "Eidos Interactive",
+        "Aspyr",
         "First person",
+        "Shooter",
+        "Single Player",
+        "Square Enix",
+        "Mac",
         "Action Adventure",
-        "Eidos Interactive"
+        "Eidos",
+        "Eidos-Montreal"
       ],
       "enclosures": [
         {
@@ -1594,18 +1649,18 @@
       "published": 1787041786000,
       "created": 1787041786000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "Xbox Series X/S",
-        "Third person",
-        "Sandfall Interactive",
         "Clair Obscur: Expedition 33",
-        "Single Player",
-        "PS5",
         "PC",
-        "Kepler Interactive",
+        "Third person",
+        "PS5",
         "Indie",
         "RPG",
         "Shuhei Yoshida",
+        "Sandfall Interactive",
+        "Single Player",
+        "Strategy: Turn-Based Strategy",
+        "Kepler Interactive",
+        "Xbox Series X/S",
         "Action Adventure"
       ],
       "enclosures": [
@@ -1633,25 +1688,25 @@
       "created": 1786982408000,
       "category": [
         "PC",
-        "Blizzard Entertainment",
-        "Diablo IV",
-        "Hack & Slash",
-        "Blockbuster",
-        "Bird view / Isometric",
-        "RPG",
-        "Action Adventure",
-        "Diablo 4: Lord of Hatred",
-        "Fantasy",
-        "Xbox Series X/S",
-        "Multiplayer Cooperative",
         "Diablo IV: Vessel of Hatred",
+        "RPG",
+        "Hack & Slash",
+        "Multiplayer Cooperative",
+        "Bird view / Isometric",
+        "Single Player",
+        "Diablo IV",
+        "PS4",
+        "Blockbuster",
+        "Action Adventure",
         "Multiplayer Competitive",
         "Xbox One",
-        "RPG: Action",
+        "Blizzard Entertainment",
+        "Xbox Series X/S",
         "PS5",
-        "Single Player",
-        "PS4",
-        "Open World"
+        "Open World",
+        "Fantasy",
+        "Diablo 4: Lord of Hatred",
+        "RPG: Action"
       ],
       "enclosures": [
         {
@@ -1677,13 +1732,13 @@
       "published": 1786978698000,
       "created": 1786978698000,
       "category": [
-        "Sony PlayStation",
-        "Hardware",
-        "Sony Electronics",
-        "PS5",
         "Sony",
+        "PS5",
+        "PS6",
+        "Sony Electronics",
         "Memory shortages",
-        "PS6"
+        "Sony PlayStation",
+        "Hardware"
       ],
       "enclosures": [
         {
@@ -1709,15 +1764,15 @@
       "published": 1786975182000,
       "created": 1786975182000,
       "category": [
-        "Arc System Works",
-        "Multiplayer Competitive",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "PS5",
+        "Marvel Tokon: Fighting Souls",
+        "Single Player",
         "Marvel Games",
         "Side view",
-        "Fighting",
-        "Marvel Tokon: Fighting Souls"
+        "Arc System Works",
+        "Fighting"
       ],
       "enclosures": [
         {
@@ -1744,27 +1799,27 @@
       "created": 1786968743000,
       "category": [
         "PC",
-        "First person",
-        "Activision",
+        "Multiplayer Cooperative",
+        "Shooter",
+        "Single Player",
+        "Call of Duty: Black Ops 7",
         "Call of Duty: Modern Warfare 4 (2026)",
-        "Nintendo Switch 2",
+        "PS4",
         "Square Enix",
         "Military",
-        "Realism",
-        "Infinity Ward",
-        "Xbox Series X/S",
-        "Shooter",
-        "FPS",
-        "Multiplayer Cooperative",
-        "Raven Software",
         "Modern Day",
         "Multiplayer Competitive",
-        "Call of Duty: Black Ops 7",
+        "FPS",
+        "Infinity Ward",
         "Xbox One",
-        "Single Player",
+        "Treyarch",
+        "Raven Software",
+        "Xbox Series X/S",
         "PS5",
-        "PS4",
-        "Treyarch"
+        "Nintendo Switch 2",
+        "Realism",
+        "Activision",
+        "First person"
       ],
       "enclosures": [
         {
@@ -1790,21 +1845,21 @@
       "published": 1786961502000,
       "created": 1786961502000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Third person",
-        "Shooter",
-        "FPS",
-        "Xbox Game Studios",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "FPS",
+        "PS5",
+        "Third person",
         "Halo Studios",
         "Sledgehammer Games",
         "Multiplayer Cooperative",
         "Halo: Campaign Evolved",
+        "Shooter",
+        "Single Player",
+        "Xbox Series X/S",
+        "Action Adventure",
         "First person",
-        "Action Adventure"
+        "Xbox Game Studios"
       ],
       "enclosures": [
         {
@@ -1854,23 +1909,23 @@
       "published": 1786958777000,
       "created": 1786958777000,
       "category": [
-        "Supermassive Games",
-        "Horror",
-        "Kingdom Hearts",
-        "Third person",
         "Disney Interactive Studios",
-        "Single Player",
-        "PS5",
         "PC",
-        "PS2",
-        "Square Enix",
-        "PS4",
-        "Story Rich",
+        "Third person",
+        "PS5",
         "RPG",
         "Sony Computer Entertainment",
-        "Action Adventure",
+        "Kingdom Hearts",
+        "PS2",
+        "Supermassive Games",
         "Sony Computer Entertainment Europe",
-        "Until Dawn"
+        "Single Player",
+        "Story Rich",
+        "Horror",
+        "Action Adventure",
+        "Square Enix",
+        "Until Dawn",
+        "PS4"
       ],
       "enclosures": [
         {
@@ -1896,33 +1951,33 @@
       "published": 1786958101000,
       "created": 1786958101000,
       "category": [
-        "Meta Quest",
         "PC",
-        "First person",
-        "Arcade",
-        "Third person",
-        "Nintendo Switch 2",
-        "Android",
+        "Virtual Reality",
         "iOS",
-        "Action Adventure",
-        "RPG",
-        "Platformer",
-        "Xbox Series X/S",
-        "Simulation",
         "Roblox Corporation",
-        "Shooter",
-        "Nintendo Switch",
-        "Epic Games",
-        "Mac",
-        "Strategy",
+        "RPG",
         "Multiplayer Cooperative",
-        "Fortnite",
+        "Shooter",
+        "Single Player",
+        "Android",
+        "PS4",
+        "Arcade",
+        "Simulation",
+        "Action Adventure",
         "Multiplayer Competitive",
         "Xbox One",
-        "Virtual Reality",
-        "Single Player",
+        "Epic Games",
+        "Xbox Series X/S",
+        "Fortnite",
+        "Third person",
         "PS5",
-        "PS4",
+        "Meta Quest",
+        "Strategy",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
+        "Platformer",
+        "Mac",
+        "First person",
         "Roblox"
       ],
       "enclosures": [
@@ -1949,22 +2004,22 @@
       "published": 1786955279000,
       "created": 1786955279000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Shooter",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "FPS",
-        "Nintendo Switch 2",
-        "Single Player",
-        "PS5",
         "PC",
-        "Military",
-        "Realism",
         "Call of Duty: Next",
+        "Multiplayer Competitive",
+        "Military",
+        "PS5",
+        "FPS",
         "Multiplayer Cooperative",
-        "First person",
+        "Nintendo Switch 2",
+        "Realism",
+        "Shooter",
         "Activision",
+        "First person",
+        "Single Player",
         "Modern Day",
+        "Call of Duty: Modern Warfare 4 (2026)",
+        "Xbox Series X/S",
         "Infinity Ward"
       ],
       "enclosures": [
@@ -1991,16 +2046,16 @@
       "published": 1786901661000,
       "created": 1786901661000,
       "category": [
+        "PC",
+        "Saber Interactive",
+        "Third person",
+        "PS5",
+        "Rideshare \"Stimulator\"",
         "Xbox Series X/S",
         "Simulation",
-        "Third person",
-        "Rideshare \"Stimulator\"",
         "Single Player",
-        "PS5",
-        "PC",
         "Racing",
         "Exploration",
-        "Saber Interactive",
         "First person"
       ],
       "enclosures": [
@@ -2027,17 +2082,17 @@
       "published": 1786899127000,
       "created": 1786899127000,
       "category": [
+        "PC",
         "Third person",
+        "PS5",
+        "The Last of Us Part II",
+        "Sony Computer Entertainment",
         "Shooter",
         "Single Player",
-        "PS5",
-        "PC",
-        "Naughty Dog",
-        "PS4",
         "TV adaptation",
-        "Sony Computer Entertainment",
-        "The Last of Us Part II",
-        "Action Adventure"
+        "PS4",
+        "Action Adventure",
+        "Naughty Dog"
       ],
       "enclosures": [
         {
@@ -2063,19 +2118,19 @@
       "published": 1786897367000,
       "created": 1786897367000,
       "category": [
-        "Disney Channel",
+        "PC",
         "Kingdom Hearts IV",
         "Third person",
-        "Xbox Series X/S",
-        "Nintendo Switch 2",
-        "RPG: Action",
         "PS5",
-        "PC",
-        "Hack & Slash",
-        "Single Player",
-        "Square Enix",
+        "RPG",
         "The Walt Disney Company",
-        "RPG"
+        "Hack & Slash",
+        "Nintendo Switch 2",
+        "Disney Channel",
+        "Single Player",
+        "RPG: Action",
+        "Xbox Series X/S",
+        "Square Enix"
       ],
       "enclosures": [
         {
@@ -2101,15 +2156,15 @@
       "published": 1786894575000,
       "created": 1786894575000,
       "category": [
-        "Horror",
-        "Burger King",
-        "Xbox Series X/S",
+        "Halloween: The Game",
         "IllFonic",
-        "Android",
-        "PS5",
         "PC",
         "iOS",
-        "Halloween: The Game"
+        "PS5",
+        "Burger King",
+        "Android",
+        "Xbox Series X/S",
+        "Horror"
       ],
       "enclosures": [
         {
@@ -2135,16 +2190,16 @@
       "published": 1786892673000,
       "created": 1786892673000,
       "category": [
+        "PC",
+        "Saber Interactive",
+        "Third person",
+        "PS5",
+        "Rideshare \"Stimulator\"",
         "Xbox Series X/S",
         "Simulation",
-        "Third person",
-        "Rideshare \"Stimulator\"",
         "Single Player",
-        "PS5",
-        "PC",
         "Racing",
         "Exploration",
-        "Saber Interactive",
         "First person"
       ],
       "enclosures": [
@@ -2171,21 +2226,21 @@
       "published": 1786813007000,
       "created": 1786813007000,
       "category": [
-        "Multiplayer Competitive",
         "Nintendo GameCube",
-        "Third person",
-        "Vivendi Games",
-        "Single Player",
+        "Multiplayer Competitive",
         "PC",
-        "PS2",
-        "Racing",
-        "Radical Entertainment",
-        "Leaks",
         "remakes",
-        "Xbox",
-        "Action Adventure",
         "The Simpsons: Hit & Run",
-        "Platformer"
+        "Third person",
+        "Radical Entertainment",
+        "Xbox",
+        "PS2",
+        "Action Adventure",
+        "Platformer",
+        "Single Player",
+        "Racing",
+        "Leaks",
+        "Vivendi Games"
       ],
       "enclosures": [
         {
@@ -2211,9 +2266,9 @@
       "published": 1786810882000,
       "created": 1786810882000,
       "category": [
-        "Hardware",
         "PS5",
-        "Physical Media"
+        "Physical Media",
+        "Hardware"
       ],
       "enclosures": [
         {
@@ -2240,18 +2295,18 @@
       "created": 1786793363000,
       "category": [
         "Kingdom Hearts IV",
-        "Third person",
-        "Xbox Series X/S",
-        "Nintendo Switch 2",
-        "RPG: Action",
-        "PS5",
         "PC",
-        "Hack & Slash",
-        "Single Player",
-        "Square Enix",
-        "The Walt Disney Company",
+        "Third person",
+        "PS5",
         "RPG",
-        "Disney Interactive"
+        "The Walt Disney Company",
+        "Hack & Slash",
+        "Nintendo Switch 2",
+        "Disney Interactive",
+        "Single Player",
+        "RPG: Action",
+        "Xbox Series X/S",
+        "Square Enix"
       ],
       "enclosures": [
         {
@@ -2278,16 +2333,16 @@
       "created": 1786791939000,
       "category": [
         "Kingdom Hearts IV",
+        "PC",
         "Third person",
-        "Xbox Series X/S",
+        "PS5",
+        "RPG",
+        "The Walt Disney Company",
+        "Hack & Slash",
         "Nintendo Switch 2",
         "Single Player",
-        "PS5",
-        "PC",
-        "Hack & Slash",
-        "Square Enix",
-        "The Walt Disney Company",
-        "RPG"
+        "Xbox Series X/S",
+        "Square Enix"
       ],
       "enclosures": [
         {
@@ -2314,17 +2369,17 @@
       "created": 1786790569000,
       "category": [
         "Kingdom Hearts IV",
-        "Third person",
-        "Xbox Series X/S",
-        "Nintendo Switch 2",
-        "RPG: Action",
-        "PS5",
         "PC",
-        "Hack & Slash",
-        "Single Player",
-        "Square Enix",
+        "Third person",
+        "PS5",
+        "RPG",
         "The Walt Disney Company",
-        "RPG"
+        "Hack & Slash",
+        "Nintendo Switch 2",
+        "Single Player",
+        "RPG: Action",
+        "Xbox Series X/S",
+        "Square Enix"
       ],
       "enclosures": [
         {
@@ -2350,8 +2405,8 @@
       "published": 1786717271000,
       "created": 1786717271000,
       "category": [
-        "Charity",
-        "SpecialEffect"
+        "SpecialEffect",
+        "Charity"
       ],
       "enclosures": [
         {
@@ -2377,17 +2432,17 @@
       "published": 1786717064000,
       "created": 1786717064000,
       "category": [
-        "Xbox Series X/S",
-        "Third person",
-        "Nintendo Switch 2",
-        "Xbox Game Studios",
-        "Single Player",
-        "PS5",
         "PC",
-        "Compulsion Games",
-        "Action Adventure",
         "South of Midnight",
-        "Platformer"
+        "Third person",
+        "PS5",
+        "Nintendo Switch 2",
+        "Single Player",
+        "Platformer",
+        "Compulsion Games",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios"
       ],
       "enclosures": [
         {
@@ -2413,23 +2468,23 @@
       "published": 1786713548000,
       "created": 1786713548000,
       "category": [
-        "Multiplayer Competitive",
         "Sandbox",
-        "Simulation",
-        "Nintendo",
-        "Survival & Crafting",
-        "Third person",
-        "Nintendo Switch 2",
-        "Kids & Family",
-        "Omega Force",
-        "Single Player",
-        "Open World",
-        "Game Freak",
-        "Bird view / Isometric",
-        "Multiplayer Cooperative",
+        "Multiplayer Competitive",
         "Pokémon Pokopia",
-        "Social",
+        "Third person",
+        "Open World",
+        "Multiplayer Cooperative",
         "The Pokémon Company International",
+        "Nintendo Switch 2",
+        "Bird view / Isometric",
+        "Simulation",
+        "Single Player",
+        "Survival & Crafting",
+        "Nintendo",
+        "Kids & Family",
+        "Social",
+        "Game Freak",
+        "Omega Force",
         "Action Adventure"
       ],
       "enclosures": [
@@ -2456,28 +2511,28 @@
       "published": 1786708416000,
       "created": 1786708416000,
       "category": [
-        "EA Sports",
         "PC",
-        "EA Sports FC 27",
-        "Fighting",
-        "2K",
-        "Third person",
-        "Nintendo Switch 2",
-        "Bird view / Isometric",
-        "NBA 2K26",
-        "Xbox Series X/S",
-        "Simulation",
-        "Nintendo Switch",
-        "2K Sports",
         "Multiplayer Cooperative",
-        "Multiplayer Competitive",
         "Sports",
-        "WWE 2K26",
-        "Xbox One",
-        "Visual Concepts",
+        "Bird view / Isometric",
         "Single Player",
+        "2K",
+        "NBA 2K26",
+        "PS4",
+        "Simulation",
+        "WWE 2K26",
+        "Multiplayer Competitive",
+        "Xbox One",
+        "EA Sports",
+        "Xbox Series X/S",
+        "Fighting",
+        "Third person",
         "PS5",
-        "PS4"
+        "2K Sports",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
+        "Visual Concepts",
+        "EA Sports FC 27"
       ],
       "enclosures": [
         {
@@ -2503,32 +2558,32 @@
       "published": 1786704050000,
       "created": 1786704050000,
       "category": [
-        "Night School Studio",
         "Oxenfree",
         "PC",
-        "Story Rich",
-        "Walking Sim",
-        "Android",
-        "Puzzle",
-        "Side view",
         "iOS",
-        "Unhinged",
+        "Indie",
         "RPG",
-        "Action Adventure",
+        "MWM Interactive",
+        "Single Player",
+        "Walking Sim",
+        "Side view",
+        "Android",
+        "Horror",
+        "PS4",
+        "Story Rich",
         "Simulation",
+        "Unhinged",
+        "Netflix",
+        "Action Adventure",
+        "Thronglets",
+        "Oxenfree II: Lost Signals",
+        "Xbox One",
+        "Puzzle",
+        "PS5",
+        "Strategy",
         "Nintendo Switch",
         "Mac",
-        "Strategy",
-        "Indie",
-        "Oxenfree II: Lost Signals",
-        "Horror",
-        "Xbox One",
-        "Thronglets",
-        "Single Player",
-        "PS5",
-        "PS4",
-        "MWM Interactive",
-        "Netflix"
+        "Night School Studio"
       ],
       "enclosures": [
         {
@@ -2554,20 +2609,20 @@
       "published": 1786703729000,
       "created": 1786703729000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Third person",
-        "Shooter",
-        "FPS",
-        "Xbox Game Studios",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "FPS",
+        "PS5",
+        "Third person",
         "Halo Studios",
         "Multiplayer Cooperative",
         "Halo: Campaign Evolved",
+        "Shooter",
+        "Single Player",
+        "Xbox Series X/S",
+        "Action Adventure",
         "First person",
-        "Action Adventure"
+        "Xbox Game Studios"
       ],
       "enclosures": [
         {
@@ -2593,15 +2648,15 @@
       "published": 1786698456000,
       "created": 1786698456000,
       "category": [
-        "Arc System Works",
-        "Multiplayer Competitive",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "PS5",
+        "Marvel Tokon: Fighting Souls",
+        "Single Player",
         "Marvel Games",
         "Side view",
-        "Fighting",
-        "Marvel Tokon: Fighting Souls"
+        "Arc System Works",
+        "Fighting"
       ],
       "enclosures": [
         {
@@ -2627,12 +2682,12 @@
       "published": 1786633220000,
       "created": 1786633220000,
       "category": [
-        "Marvel's Wolverine",
         "Third person",
-        "Insomniac Games",
-        "Single Player",
         "PS5",
         "Hack & Slash",
+        "Marvel's Wolverine",
+        "Single Player",
+        "Insomniac Games",
         "Action Adventure"
       ],
       "enclosures": [
@@ -2659,21 +2714,21 @@
       "published": 1786633150000,
       "created": 1786633150000,
       "category": [
-        "Nintendo GBA",
-        "ILCA (I Love Computer Art)",
-        "Nintendo",
-        "Nintendo Switch",
+        "iOS",
         "Pokémon FireRed and LeafGreen",
+        "RPG",
+        "The Pokémon Company International",
+        "Nintendo Switch",
+        "Creatures",
+        "Bird view / Isometric",
+        "ILCA (I Love Computer Art)",
+        "Nintendo GBA",
+        "Single Player",
+        "Nintendo",
+        "Pokémon Bank",
         "Pokémon Home",
         "Android",
-        "Single Player",
         "Game Freak",
-        "Bird view / Isometric",
-        "iOS",
-        "RPG",
-        "Creatures",
-        "The Pokémon Company International",
-        "Pokémon Bank",
         "Action Adventure"
       ],
       "enclosures": [
@@ -2700,23 +2755,23 @@
       "published": 1786625879000,
       "created": 1786625879000,
       "category": [
-        "The Elder Scrolls VI",
-        "Xbox Series X/S",
-        "Third person",
-        "Bethesda Softworks",
-        "Shooter",
-        "FPS",
-        "Xbox Game Studios",
-        "Bethesda Game Studios",
-        "PS5",
         "PC",
-        "Single Player",
+        "Third person",
+        "FPS",
+        "PS5",
+        "The Elder Scrolls VI",
+        "Xbox Game Studios",
         "Starfield",
-        "Science Fiction",
-        "Open World",
         "RPG",
+        "Open World",
+        "Shooter",
+        "Single Player",
+        "Bethesda Game Studios",
+        "Science Fiction",
+        "Xbox Series X/S",
+        "Action Adventure",
         "First person",
-        "Action Adventure"
+        "Bethesda Softworks"
       ],
       "enclosures": [
         {
@@ -2742,18 +2797,18 @@
       "published": 1786618238000,
       "created": 1786618238000,
       "category": [
-        "Xbox Series X/S",
-        "Third person",
-        "Nintendo Switch 2",
-        "Bethesda Game Studios",
-        "PS5",
         "PC",
-        "Single Player",
+        "Third person",
+        "PS5",
         "RPG",
+        "Nintendo Switch 2",
+        "Virtuos",
+        "Single Player",
         "The Elder Scrolls IV: Oblivion Remastered",
-        "First person",
+        "Bethesda Game Studios",
+        "Xbox Series X/S",
         "Action Adventure",
-        "Virtuos"
+        "First person"
       ],
       "enclosures": [
         {
@@ -2779,16 +2834,16 @@
       "published": 1786617755000,
       "created": 1786617755000,
       "category": [
+        "PC",
+        "Saber Interactive",
+        "Third person",
+        "PS5",
+        "Rideshare \"Stimulator\"",
         "Xbox Series X/S",
         "Simulation",
-        "Third person",
-        "Rideshare \"Stimulator\"",
         "Single Player",
-        "PS5",
-        "PC",
         "Racing",
         "Exploration",
-        "Saber Interactive",
         "First person"
       ],
       "enclosures": [
@@ -2815,20 +2870,20 @@
       "published": 1786611981000,
       "created": 1786611981000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Third person",
-        "Shooter",
-        "FPS",
-        "Xbox Game Studios",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "FPS",
+        "PS5",
+        "Third person",
         "Halo Studios",
         "Multiplayer Cooperative",
         "Halo: Campaign Evolved",
+        "Shooter",
+        "Single Player",
+        "Xbox Series X/S",
+        "Action Adventure",
         "First person",
-        "Action Adventure"
+        "Xbox Game Studios"
       ],
       "enclosures": [
         {
@@ -2854,11 +2909,11 @@
       "published": 1786611843000,
       "created": 1786611843000,
       "category": [
+        "AI",
+        "PC",
+        "iOS",
         "Amazon",
         "Android",
-        "PC",
-        "AI",
-        "iOS",
         "Twitch"
       ],
       "enclosures": [
@@ -2885,11 +2940,11 @@
       "published": 1786609313000,
       "created": 1786609313000,
       "category": [
-        "Sony Interactive Entertainment",
-        "PS5",
         "Sony",
+        "Stop Killing Games",
+        "PS5",
         "PS6",
-        "Stop Killing Games"
+        "Sony Interactive Entertainment"
       ],
       "enclosures": [
         {
@@ -2915,27 +2970,27 @@
       "published": 1786563000000,
       "created": 1786563000000,
       "category": [
-        "Sam Barlow",
         "PC",
-        "Immortality",
-        "First person",
-        "Annapurna Interactive",
-        "Android",
-        "Puzzle",
-        "Visual Novel & Dating",
         "iOS",
-        "Point and Click",
-        "Action Adventure",
+        "Indie",
+        "Telling Lies",
         "Half Mermaid",
+        "Single Player",
+        "Visual Novel & Dating",
+        "Android",
+        "PS4",
+        "Her Story",
+        "Annapurna Interactive",
         "Simulation",
+        "Action Adventure",
+        "Xbox One",
+        "Immortality",
+        "Puzzle",
+        "Sam Barlow",
         "Nintendo Switch",
         "Mac",
-        "Telling Lies",
-        "Indie",
-        "Xbox One",
-        "Her Story",
-        "Single Player",
-        "PS4"
+        "Point and Click",
+        "First person"
       ],
       "enclosures": [
         {
@@ -2961,15 +3016,15 @@
       "published": 1786551682000,
       "created": 1786551682000,
       "category": [
-        "Multiplayer Competitive",
-        "Single Player",
         "PC",
+        "Multiplayer Competitive",
         "Strategy",
-        "Bird view / Isometric",
         "Deep Silver",
         "Multiplayer Cooperative",
-        "Warhammer 40,000: Dawn of War IV",
-        "Strategy: Real-Time Strategy"
+        "Bird view / Isometric",
+        "Single Player",
+        "Strategy: Real-Time Strategy",
+        "Warhammer 40,000: Dawn of War IV"
       ],
       "enclosures": [
         {
@@ -2995,17 +3050,17 @@
       "published": 1786549614000,
       "created": 1786549614000,
       "category": [
-        "Strategy: Turn-Based Strategy",
-        "Xbox Series X/S",
-        "Third person",
-        "Sandfall Interactive",
         "Clair Obscur: Expedition 33",
-        "Single Player",
-        "PS5",
         "PC",
-        "Kepler Interactive",
+        "Third person",
+        "PS5",
         "Indie",
         "RPG",
+        "Sandfall Interactive",
+        "Single Player",
+        "Strategy: Turn-Based Strategy",
+        "Kepler Interactive",
+        "Xbox Series X/S",
         "Action Adventure"
       ],
       "enclosures": [
@@ -3032,24 +3087,24 @@
       "published": 1786547931000,
       "created": 1786547931000,
       "category": [
-        "Xbox Series X/S",
+        "PC",
+        "Blockbuster",
         "Third person",
-        "Bandai Namco Entertainment",
-        "Nintendo Switch",
+        "PS5",
         "Xbox One",
         "CD Projekt RED",
-        "PS5",
-        "PC",
-        "Single Player",
-        "Blockbuster",
-        "Open World",
-        "PS4",
-        "RPG",
-        "The Witcher IV",
         "CD Projekt",
-        "Action Adventure",
+        "RPG",
+        "Open World",
+        "Nintendo Switch",
+        "The Witcher IV",
+        "Single Player",
+        "The Witcher 3: Wild Hunt",
+        "Xbox Series X/S",
+        "Bandai Namco Entertainment",
         "Warner Bros. Games",
-        "The Witcher 3: Wild Hunt"
+        "Action Adventure",
+        "PS4"
       ],
       "enclosures": [
         {
@@ -3075,15 +3130,15 @@
       "published": 1786546308000,
       "created": 1786546308000,
       "category": [
-        "Multiplayer Competitive",
         "Third person",
-        "Ghost of Yotei",
-        "Single Player",
-        "Ghost of Yotei: Legends",
+        "Multiplayer Competitive",
         "PS5",
-        "RPG",
-        "Multiplayer Cooperative",
+        "Ghost of Yotei",
         "Sucker Punch Productions",
+        "RPG",
+        "Ghost of Yotei: Legends",
+        "Multiplayer Cooperative",
+        "Single Player",
         "Action Adventure"
       ],
       "enclosures": [
@@ -3110,17 +3165,17 @@
       "published": 1786544437000,
       "created": 1786544437000,
       "category": [
-        "Crimson Desert",
-        "Xbox Series X/S",
-        "Third person",
-        "Single Player",
-        "PS5",
         "PC",
-        "MMORPG",
-        "Mac",
-        "RPG",
+        "Third person",
+        "PS5",
         "Pearl Abyss",
-        "Action Adventure"
+        "MMORPG",
+        "RPG",
+        "Single Player",
+        "Mac",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Crimson Desert"
       ],
       "enclosures": [
         {
@@ -3146,19 +3201,19 @@
       "published": 1786542489000,
       "created": 1786542489000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Third person",
-        "Shooter",
-        "Single Player",
+        "Comedy",
         "Helldivers 2",
+        "Multiplayer Competitive",
         "PC",
         "PS5",
-        "Science Fiction",
-        "Multiplayer Cooperative",
-        "First person",
+        "Third person",
         "Arrowhead Game Studios",
-        "Comedy"
+        "Multiplayer Cooperative",
+        "Shooter",
+        "Single Player",
+        "Science Fiction",
+        "Xbox Series X/S",
+        "First person"
       ],
       "enclosures": [
         {
@@ -3184,13 +3239,13 @@
       "published": 1786535384000,
       "created": 1786535384000,
       "category": [
-        "Multiplayer Competitive",
-        "Stealth",
-        "Third person",
-        "Party",
         "PC",
-        "Steam",
+        "Multiplayer Competitive",
+        "Third person",
         "Indie",
+        "Party",
+        "Steam",
+        "Stealth",
         "First person",
         "Meccha Chameleon"
       ],
@@ -3218,16 +3273,16 @@
       "published": 1786533526000,
       "created": 1786533526000,
       "category": [
-        "Multiplayer Competitive",
-        "Single Player",
         "PC",
+        "Multiplayer Competitive",
         "MMORPG",
-        "Hack & Slash",
-        "Bird view / Isometric",
-        "Lost Ark",
-        "Multiplayer Cooperative",
         "RPG",
-        "Action Adventure"
+        "Hack & Slash",
+        "Multiplayer Cooperative",
+        "Bird view / Isometric",
+        "Single Player",
+        "Action Adventure",
+        "Lost Ark"
       ],
       "enclosures": [
         {
@@ -3253,10 +3308,10 @@
       "published": 1786531957000,
       "created": 1786531957000,
       "category": [
-        "Xbox Game Studios",
-        "Microsoft",
+        "PC",
         "Xbox Series X/S",
-        "PC"
+        "Xbox Game Studios",
+        "Microsoft"
       ],
       "enclosures": [
         {
@@ -3283,24 +3338,24 @@
       "created": 1786531325000,
       "category": [
         "PC",
-        "Third person",
-        "Nintendo Switch 2",
-        "Hack & Slash",
         "RPG",
-        "Action Adventure",
-        "PS3",
-        "The Lord of the Rings: War in the North",
-        "Xbox Series X/S",
-        "Nintendo Switch",
-        "Snowblind Studios",
-        "Mac",
-        "Strategy",
+        "Hack & Slash",
         "Multiplayer Cooperative",
-        "Multiplayer Competitive",
         "Single Player",
+        "PS3",
+        "Warner Bros. Games",
+        "Action Adventure",
+        "Multiplayer Competitive",
+        "Xbox Series X/S",
+        "Snowblind Studios",
+        "Third person",
         "PS5",
+        "Strategy",
+        "The Lord of the Rings: War in the North",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
         "Xbox 360",
-        "Warner Bros. Games"
+        "Mac"
       ],
       "enclosures": [
         {
@@ -3326,17 +3381,17 @@
       "published": 1786526185000,
       "created": 1786526185000,
       "category": [
-        "The Elder Scrolls VI",
-        "Xbox Series X/S",
-        "Third person",
-        "Xbox Game Studios",
-        "Bethesda Game Studios",
-        "Single Player",
         "PC",
+        "Third person",
+        "The Elder Scrolls VI",
         "RPG",
-        "First person",
         "Layoffs",
-        "Action Adventure"
+        "Single Player",
+        "Bethesda Game Studios",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "First person",
+        "Xbox Game Studios"
       ],
       "enclosures": [
         {
@@ -3362,37 +3417,37 @@
       "published": 1786524625000,
       "created": 1786524625000,
       "category": [
-        "Call of Duty: Black Ops 2",
         "PC",
-        "First person",
-        "Activision",
-        "Call of Duty: Black Ops",
-        "Third person",
-        "Nintendo Wii U",
-        "Xbox Game Studios",
-        "Square Enix",
-        "Steam",
-        "Aspyr",
-        "Halo Studios",
-        "Action Adventure",
-        "PS3",
-        "Xbox Series X/S",
-        "Shooter",
-        "FPS",
-        "Mac",
         "Multiplayer Cooperative",
-        "Nintendo Wii",
-        "Nintendo DS",
+        "Shooter",
+        "Aspyr",
+        "Single Player",
+        "PS4",
+        "Square Enix",
+        "Xbox Game Studios",
         "Game Pass",
         "n-Space",
-        "Multiplayer Competitive",
+        "PS3",
         "Activision Blizzard",
-        "Single Player",
+        "Action Adventure",
+        "Nintendo Wii U",
+        "Multiplayer Competitive",
+        "FPS",
+        "Halo Studios",
+        "Call of Duty: Black Ops 2",
+        "Treyarch",
+        "Steam",
+        "Xbox Series X/S",
+        "Third person",
         "PS5",
+        "Call of Duty: Black Ops",
+        "Nintendo Wii",
         "Xbox 360",
-        "PS4",
         "Halo: Campaign Evolved",
-        "Treyarch"
+        "Activision",
+        "Nintendo DS",
+        "Mac",
+        "First person"
       ],
       "enclosures": [
         {
@@ -3418,12 +3473,12 @@
       "published": 1786464000000,
       "created": 1786464000000,
       "category": [
-        "Multiplayer Competitive",
-        "Shooter",
-        "Team17",
         "PC",
-        "First person",
-        "Wardogs"
+        "Multiplayer Competitive",
+        "Wardogs",
+        "Team17",
+        "Shooter",
+        "First person"
       ],
       "enclosures": [
         {
@@ -3449,13 +3504,13 @@
       "published": 1786463662000,
       "created": 1786463662000,
       "category": [
-        "Xbox Series X/S",
-        "Third person",
         "Panache Digital Games",
-        "Single Player",
-        "PS5",
         "PC",
+        "Third person",
+        "PS5",
         "1666: Amsterdam",
+        "Single Player",
+        "Xbox Series X/S",
         "Action Adventure"
       ],
       "enclosures": [
@@ -3483,30 +3538,30 @@
       "created": 1786453953000,
       "category": [
         "PC",
-        "The Dark Pictures Anthology: Directive 8020",
-        "Story Rich",
-        "Third person",
-        "Bandai Namco Entertainment",
-        "Nintendo Switch 2",
-        "Puzzle",
-        "Side view",
-        "Sony Computer Entertainment",
-        "Action Adventure",
-        "Platformer",
-        "Supermassive Games",
-        "2K Games",
-        "Xbox Series X/S",
-        "Nintendo Switch",
+        "Little Nightmares III",
         "Multiplayer Cooperative",
-        "Multiplayer Competitive",
-        "Horror",
-        "Xbox One",
-        "The Quarry",
+        "Supermassive Games",
         "Single Player",
-        "PS5",
+        "Side view",
+        "Story Rich",
+        "Horror",
+        "Bandai Namco Entertainment",
         "PS4",
+        "The Dark Pictures Anthology: Directive 8020",
+        "Action Adventure",
+        "Multiplayer Competitive",
+        "Xbox One",
+        "Sony Computer Entertainment",
+        "Puzzle",
+        "Xbox Series X/S",
+        "The Quarry",
         "Until Dawn",
-        "Little Nightmares III"
+        "Third person",
+        "2K Games",
+        "PS5",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
+        "Platformer"
       ],
       "enclosures": [
         {
@@ -3532,15 +3587,15 @@
       "published": 1786453852000,
       "created": 1786453852000,
       "category": [
-        "Multiplayer Competitive",
-        "Xbox Series X/S",
-        "Xbox Game Studios",
-        "Single Player",
-        "Gears of War: E-Day",
         "PC",
+        "Multiplayer Competitive",
         "PS5",
+        "Gears of War: E-Day",
         "Multiplayer Cooperative",
-        "Action Adventure"
+        "Single Player",
+        "Xbox Series X/S",
+        "Action Adventure",
+        "Xbox Game Studios"
       ],
       "enclosures": [
         {
@@ -3567,25 +3622,25 @@
       "created": 1786448394000,
       "category": [
         "PC",
-        "Story Rich",
-        "Remedy Entertainment",
-        "Third person",
-        "Alan Wake II",
-        "505 Games",
-        "Hack & Slash",
+        "Epic Games Publishing",
         "RPG",
-        "Action Adventure",
-        "Mystery",
-        "Xbox Series X/S",
+        "Hack & Slash",
+        "Remedy Entertainment",
         "Shooter",
-        "Epic Games",
-        "Mac",
-        "Control Resonant",
-        "Horror",
-        "RPG: Action",
-        "PS5",
         "Single Player",
-        "Epic Games Publishing"
+        "Story Rich",
+        "Horror",
+        "505 Games",
+        "Action Adventure",
+        "Epic Games",
+        "Xbox Series X/S",
+        "Third person",
+        "PS5",
+        "Alan Wake II",
+        "Mystery",
+        "Mac",
+        "RPG: Action",
+        "Control Resonant"
       ],
       "enclosures": [
         {
@@ -3611,24 +3666,24 @@
       "published": 1786444929000,
       "created": 1786444929000,
       "category": [
-        "Multiplayer Competitive",
-        "Rockstar Games",
-        "Xbox Series X/S",
         "Third person",
-        "Shooter",
-        "Full product",
-        "Single Player",
+        "Multiplayer Competitive",
         "PS5",
-        "Racing",
+        "Rockstar Games",
         "Take-Two Interactive",
         "Open World",
         "Multiplayer Cooperative",
-        "First person",
-        "Action Adventure",
         "Shooter: Third Person",
+        "Full product",
+        "Shooter",
+        "Grand Theft Auto VI",
+        "Single Player",
         "Modern Day",
+        "Racing",
+        "Xbox Series X/S",
         "Netflix",
-        "Grand Theft Auto VI"
+        "Action Adventure",
+        "First person"
       ],
       "enclosures": [
         {
@@ -3654,20 +3709,20 @@
       "published": 1786442891000,
       "created": 1786442891000,
       "category": [
-        "Multiplayer Competitive",
-        "House House",
-        "Third person",
-        "Nintendo Switch 2",
-        "Panic",
-        "PS5",
         "PC",
-        "Puzzle",
-        "Single Player",
-        "Mac",
-        "Multiplayer Cooperative",
-        "Action Adventure",
+        "Multiplayer Competitive",
+        "Third person",
+        "PS5",
         "Big Walk",
-        "Platformer"
+        "Multiplayer Cooperative",
+        "Nintendo Switch 2",
+        "Single Player",
+        "Panic",
+        "Platformer",
+        "Puzzle",
+        "Mac",
+        "Action Adventure",
+        "House House"
       ],
       "enclosures": [
         {
@@ -3693,15 +3748,15 @@
       "published": 1786440022000,
       "created": 1786440022000,
       "category": [
-        "Arc System Works",
-        "Multiplayer Competitive",
-        "Single Player",
-        "PS5",
         "PC",
+        "Multiplayer Competitive",
+        "PS5",
+        "Marvel Tokon: Fighting Souls",
+        "Single Player",
         "Marvel Games",
         "Side view",
-        "Fighting",
-        "Marvel Tokon: Fighting Souls"
+        "Arc System Works",
+        "Fighting"
       ],
       "enclosures": [
         {
@@ -3713,76 +3768,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/marvel-tokon-spiderman.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Marvel's Spider-Man 2 just had its biggest sales boost in years thanks to Brand New Day",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/spider-man-2-brand-new-day-costume-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>In yet another example of a <a href=\"https://www.vg247.com/witcher-netflix-show-game-purchases\">successful film or TV show raising the profile of a related game</a>, Hollywood blockbuster Spider-Man: Brand New Day has brought new players to the years-old <a href=\"https://www.eurogamer.net/spider-man-2-walkthrough-9356\">Marvel's Spider-Man 2</a> game.</p> <p><a href=\"https://www.eurogamer.net/spider-man-2-brand-new-day-film-sales-boost\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/spider-man-2-brand-new-day-film-sales-boost",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1786437696000,
-      "created": 1786437696000,
-      "category": [
-        "Marvel's Spider-Man 2",
-        "Third person",
-        "Insomniac Games",
-        "Single Player",
-        "PS5",
-        "PC",
-        "Hack & Slash",
-        "Spider-Man: Brand New Day",
-        "Steam",
-        "Open World",
-        "Sony",
-        "Action Adventure"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/spider-man-2-brand-new-day-costume-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/spider-man-2-brand-new-day-costume-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/amsterdam-1666_GtEC3xc.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>1666: Amsterdam, a game that's survived years of legal battles between Assassin's Creed creator Patrice D&eacute;silets and Ubisoft, has an early access release date. It'll be released 25th August for PC, on Steam and the Epic Games Store.</p> <p><a href=\"https://www.eurogamer.net/amsterdam-1666-early-access-release-date\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1786377729000,
-      "created": 1786377729000,
-      "category": [
-        "Xbox Series X/S",
-        "Third person",
-        "Panache Digital Games",
-        "Single Player",
-        "PS5",
-        "PC",
-        "1666: Amsterdam",
-        "Action Adventure"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/amsterdam-1666_GtEC3xc.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/amsterdam-1666_GtEC3xc.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
