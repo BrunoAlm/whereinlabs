@@ -6,6 +6,75 @@
   "category": [],
   "items": [
     {
+      "title": "Saber Interactive CCO says studio won't change its comms strategy after AI writer controversy",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Saber Interactive CCO Tim Willits has confirmed the company has not revised its communications strategy despite its CEO telling the press that he \"would [...] have been happy to replace [a writer] with AI\" after she claimed she was replaced by ChatGPT.</p> <p><a href=\"https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1788709250000,
+      "created": 1788709250000,
+      "category": [
+        "Single Player",
+        "Xbox Series X/S",
+        "PS5",
+        "First person",
+        "Racing",
+        "Third person",
+        "Exploration",
+        "Saber Interactive",
+        "PC",
+        "Rideshare \"Stimulator\"",
+        "pr",
+        "Simulation"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Double Fine's first game since leaving Xbox is a comedy bus-driving sim called Thank You Bus Driver",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Thank-You-Bus-Driver-Screenshot-05-Announce-Buena-Vista.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Double Fine's first game in its new post-Xbox era is Thank You Bus Driver.</p> <p><a href=\"https://www.eurogamer.net/double-fine-thank-you-bus-driver-first-game-post-xbox\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-first-game-post-xbox",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1788707265000,
+      "created": 1788707265000,
+      "category": [
+        "Double Fine Productions",
+        "Announcement",
+        "Racing Arcade",
+        "PC",
+        "Thank You Bus Driver",
+        "Indie",
+        "Simulation"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Thank-You-Bus-Driver-Screenshot-05-Announce-Buena-Vista.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Thank-You-Bus-Driver-Screenshot-05-Announce-Buena-Vista.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Valve staged its own Left 4 Dead 2 trailer \"leak\" to get around an ESRB ban, says former writer",
       "description": "<img src=\"https://assetsio.gnwcdn.com/l4d2_main.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Valve itself \"leaked\" the 2009 <a href=\"https://www.eurogamer.net/games/left-4-dead-2\">Left 4 Dead 2</a> trailer.</p> <p><a href=\"https://www.eurogamer.net/valve-left-4-dead-2-trailer-leak-esrb-chet-faliszek\">Read more</a></p>",
       "link": "https://www.eurogamer.net/valve-left-4-dead-2-trailer-leak-esrb-chet-faliszek",
@@ -3800,72 +3869,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/songs-of-the-past-header.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "The legendary Heroes of Might and Magic 3 is being remade by Ubisoft, and while it's visually redone, it's reportedly like-for-like in terms of gameplay",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/heroes-of-might-and-magic-remake-11.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Heroes of Might and Magic 3, the iconic and arguably never-bettered strategic fantasy role-playing game, is being remade by Ubisoft for release on PC, PlayStation 5 and Xbox Series S/X at some point next year. Related: the Complete Edition of Heroes of Might and Magic 3 is now available on Steam for the first time.</p> <p><a href=\"https://www.eurogamer.net/heroes-of-might-and-magic-3-remade-ubisoft\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/heroes-of-might-and-magic-3-remade-ubisoft",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1787737631000,
-      "created": 1787737631000,
-      "category": [
-        "RPG",
-        "Single Player",
-        "Strategy",
-        "Bird view / Isometric",
-        "PC",
-        "Heroes of Might & Magic III Remake"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/heroes-of-might-and-magic-remake-11.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/heroes-of-might-and-magic-remake-11.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/humankind-2-trailer-shot-crop-3.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>One of the bigger <a href=\"https://www.eurogamer.net/everything-announced-at-gamescom-opening-night-live-2026\">Gamescom Opening Night Live</a> pre-show reveals <a href=\"https://www.eurogamer.net/humankind-2-announced-coming-2027-and-promises-climate-change-and-a-new-take-on-historical-strategy\">was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021</a>. The trailer didn't feature much gameplay, rather a swiftly moving cinematic montage of Earth through humanity's ages,  and it immediately sparked suspicions of gen-AI use because of the way it looks.</p> <p><a href=\"https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1787734290000,
-      "created": 1787734290000,
-      "category": [
-        "Single Player",
-        "Strategy",
-        "AMPLITUDE Studios",
-        "Multiplayer Competitive",
-        "Gamescom 2026",
-        "Humankind 2",
-        "Bird view / Isometric",
-        "PC",
-        "4X",
-        "Historical"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/humankind-2-trailer-shot-crop-3.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/humankind-2-trailer-shot-crop-3.jpeg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
