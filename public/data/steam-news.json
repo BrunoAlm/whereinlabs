@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1842846814454347",
+        "title": "PUBG x Jujutsu Kaisen",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814454347",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/3322997d0324c723b9d7df9b183b8da30d4bd6d0.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10991\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1788829217,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1842846814453273",
         "title": "PUBG EMEA Championship: Fall - Playoffs & Finals kick off this weekend!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814453273",
@@ -148,19 +161,6 @@
           "ModAct_1894963720_1787765183_0",
           "mod_require_rereview"
         ]
-      },
-      {
-        "gid": "1842212951295986",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/17~08/23)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951295986",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/10974]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1787727608,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1842212951295354",
