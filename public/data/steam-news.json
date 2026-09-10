@@ -2,6 +2,25 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1843481262690556",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556",
+        "is_external_url": true,
+        "author": "tomd",
+        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPlayerCamera:[/p][list][*][p]Renamed it to CustomPlayerCamera.[/p][/*][*][p]Added GetPlayer, GetMode, SetMode, and SetFollowConfig.[/p][/*][*][p]Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.[/p][/*][/list][/*][*][p]Added an 'observable' property to custom_hud_layout that controls whether an observer sees the UI as the spectated player sees it. Defaults to false.[/p][/*][*][p]Fixed several bugs related to stale custom_hud_layout state when changing spectator targets.[/p][/*][*][p]Added top-level custom_hud_layout classes driven by client state:[/p][list][*][p]HUD_BUYMENU_VISIBLE[/p][/*][*][p]HUD_SCOREBOARD_VISIBLE[/p][/*][/list][/*][*][p]custom_hud_layout now always draws on top of the base HUD.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Chat is now encrypted in demo files using the same rules as CS:GO :[/p][list][*][p]Team chat is no longer readable when playing back demo files.[/p][/*][*][p]Global chat is only readable in demo files when played back via the in-game watch UI.[/p][/*][/list][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1788994268,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes",
+          "mod_reviewed",
+          "ModAct_487176015_1788994844_0",
+          "mod_require_rereview"
+        ]
+      },
+      {
         "gid": "1843481262689906",
         "title": "MGE.tf is back!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262689906",
@@ -28,58 +47,6 @@
         "appid": 440
       },
       {
-        "gid": "1843481262688215",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/31~09/06)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688215",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11052]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788937219,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1843481262688119",
-        "title": "Patch Notes - Update 43.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688119",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ee855dbefc298e4233fc117bce06a8e1e531cb4.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11057\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788933617,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1843481262688120",
-        "title": "September Store Update 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688120",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/a4f09f42979ee22bdd1c09eec391ea18ca291fab.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10994\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788933617,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1843481262688118",
-        "title": "Map Service Report - Update 43.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688118",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/11019]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788933615,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
         "gid": "1842846814456331",
         "title": "Call of Duty: Black Ops 7 and Warzone - Season 06",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456331",
@@ -91,19 +58,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1938090
-      },
-      {
-        "gid": "1842846814455757",
-        "title": "PUBG Americas Series 2: Everything You Need To Know",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814455757",
-        "is_external_url": true,
-        "author": "Eoin",
-        "contents": "[p align=\"start\"]PUBG's biggest tournament in the Americas kicks off this weekend! The PUBG Americas Series 2 is about to begin, with four weekends of bombastic PUBG action, drops, and more. Find out all the details below![/p][p align=\"start\"][/p][p align=\"start\"][img src=\"{STEAM_CLAN_IMAGE}/27971017/b2fb8d96ad3b649cb63c129f327c67b5668cf0a6.png\"][/img]\n[/p][h2]Twitch & Kick Drops[/h2][p align=\"start\"][/p][p align=\"start\"]4 Weekends of Drops await - tune in to our Twitch or Kick channels to earn progress towards a new item on each match day![/p][p align=\"start\"]Drop into an official PAS2 or PEC: Fall stream on the dates listed below and watch for [u]120 minutes[/u] to earn the item listed. Each stream begins at:\n\n[/p][p align=\"start\"]PUBG Americas Series 2: [b]7pm EDT / 4pm PDT[/b][/p][p align=\"start\"]\nPUBG EMEA Championship Fall: [b]12pm EDT / 9am PDT[/b]\n[/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td rowspan=\"3\"][p]PAS & PEC Playoffs 1[/p][/td][td][p] Sep 11, 2026[/p][/td][td][p]Battle Hazard Work Boots[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/sAUf5F7P.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Sep 12, 2026[/p][/td][td][p]Fried Chicken (Spray)[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/iCCxJis0.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Sep 13, 2026[/p][/td][td][p]PUBG Creed Backpack (Level 2)[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/KuVFzXUn.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td rowspan=\"3\"][p]PAS & PEC Finals 1[/p][/td][td][p] Sep 18, 2026[/p][/td][td][p]THE ORIGINAL IS BACK T-Shirt[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/TtzqRWb9.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Sep 19, 2026[/p][/td][td][p]Peculiar Greeting[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/hgecF6Ma.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Sep 20, 2026[/p][/td][td][p]PUBG Varsity Jacket[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/KUSusmGW.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td rowspan=\"3\"][p]PAS & PEC Playoffs 2[/p][/td][td][p] Sep 25, 2026[/p][/td][td][p]Victory Dance 60[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/cQTsCAC6.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Sep 26, 2026[/p][/td][td][p]Tactical Tabby (Spray)[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/TIwKum8u.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Sep 27, 2026[/p][/td][td][p]PUBG Creed - Helmet (Level 2)[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/io9cKstX.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td rowspan=\"3\"][p]PAS & PEC Finals 2[/p][/td][td][p] Oct 2, 2026[/p][/td][td][p]RIP YOU (Spray)[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/ompF84SP.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Oct 3, 2026[/p][/td][td][p]Battle Hazard Logo Tee[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/offvYWzw.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][tr][td][p] Oct 4, 2026[/p][/td][td][p]Winner Winner Hat[/p][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/fDgy5PUq.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][/td][/tr][/table][p align=\"start\"]\n[/p][h2]Teams[/h2][p align=\"start\"]PAS2 features a unique Playoffs format - teams are seeded into different Playoffs days based on their performance in previous stages of the tournament.[/p][p align=\"start\"]At the end of each Playoffs day, the top teams earn a place in the Finals, before the leaderboard is reset for the next day. As the days go by, the qualification slots become fewer and fewer![/p][p align=\"start\"][/p][table equalcells=\"1\" colwidth=\",,,,\"][tr][td rowspan=\"4\"][p]\n\n\n[/p][p align=\"center\"][b]Playoffs Day 1[/b][/p][p align=\"center\"](Top 9 advance)[/p][/td][td][p]Team Falcons[/p][/td][td][p]Team Liquid[/p][/td][td][p]ROC Esports[/p][/td][td][p]Copenhagen Wolves[/p][/td][/tr][tr][td][p]TOYO[/p][/td][td][p]55 e-Sports[/p][/td][td][p]GodLike[/p][/td][td][p]Circle Nine[/p][/td][/tr][tr][td][p]NO ORG[/p][/td][td][p]Per Diem Withholders[/p][/td][td][p]DUEL[/p][/td][td][p]SHHHHHHHH[/p][/td][/tr][tr][td][p]Team FATE[/p][/td][td][p]BILU[/p][/td][td][p]Gosu Intl Gaming Alliance[/p][/td][td][p]PEST Control[/p][/td][/tr][/table][p align=\"start\"]\n[/p][table equalcells=\"1\" colwidth=\",,,,\"][tr][td rowspan=\"3\"][p]\n\n\n[/p][p align=\"center\"][b]Playoffs Day 2[/b][/p][p align=\"center\"](Top 5 advance)[/p][/td][td][p]NO WAY[/p][/td][td][p]ARC e-Sports[/p][/td][td][p]Taesan[/p][/td][td][p]For Nothing[/p][/td][/tr][tr][td][p]me anoto mi tio[/p][/td][td][p]Chupinsky s[/p][/td][td][p]Earthworms[/p][/td][td][p]Newgen Allstars[/p][/td][/tr][tr][td colspan=\"4\"][p][/p][p align=\"center\"]Bottom 8 teams from Playoffs Day 1[/p][p][/p][/td][/tr][/table][p align=\"start\"]\n[/p][table equalcells=\"1\" colwidth=\",,,,,\"][tr][td rowspan=\"2\"][p]\n\n[/p][p align=\"center\"][b]Playoffs Day 3[/b][/p][p align=\"center\"](Top 3 advance)[/p][/td][td][p]Boundary Esports[/p][/td][td][p]Keep Out[/p][/td][td][p]OVERP0WERED[/p][/td][td][p]Antarctic Fox[/p][/td][td][p]Last Minute Roster[/p][/td][/tr][tr][td colspan=\"5\"][p][/p][p align=\"center\"]Bottom 11 teams from Playoffs Day 2[/p][p align=\"center\"][/p][/td][/tr][/table][p align=\"start\"]\n\n[/p][h2]Broadcast Channels[/h2][p align=\"start\"][/p][p align=\"start\"][b]English Language Offical Broadcast[/b][/p][p][dynamiclink href=\"https://twitch.tv/pubg_battlegrounds\"][/dynamiclink] / [dynamiclink href=\"https://youtube.com/@PUBGEsports/streams\"][/dynamiclink] / [url=\"https://kick.com/pubg_battlegrounds\"]kick.com/pubg_battlegrounds[/url] / [url=\"https://www.tiktok.com/@pubg.esports.official\"]https://www.tiktok.com/@pubg.esports.official[/url][/p][p][/p][p][b]Portugese Language Official Broadcast[/b][/p][p][dynamiclink href=\"https://www.twitch.tv/pubg_br\"][/dynamiclink] / [dynamiclink href=\"https://www.youtube.com/@PUBG_BRASIL\"][/dynamiclink] / [url=\"https://kick.com/pubgesportsbra\"]https://kick.com/pubgesportsbra[/url] / [url=\"https://www.tiktok.com/@pubg_br\"]https://www.tiktok.com/@pubg_br[/url][/p][p]   [/p][p align=\"start\"] [/p][h2]Costreamers[/h2][p][/p][p align=\"start\"][dynamiclink href=\"https://www.twitch.tv/Corky\"][/dynamiclink]\n[dynamiclink href=\"https://www.twitch.tv/ThugFaasT\"][/dynamiclink][/p][p align=\"start\"][dynamiclink href=\"https://www.twitch.tv/Tecnosh\"][/dynamiclink][/p][p align=\"start\"][dynamiclink href=\"https://www.twitch.tv/Enoquiano\"][/dynamiclink]\n[/p][h2]Schedule[/h2][p][/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/oaAaDNqG.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/VbkjbtL7.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260908/XdhXyzka.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center;\"][/img][/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1788876296,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1842846814452504",
@@ -373,22 +327,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 570
-      },
-      {
-        "gid": "1839676055881227",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881227",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.[/p][/*][*][p]Items in the the Cologne 2026 Shop will be available for purchase until September 29th.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed a bug where scripts would fail to load in tools mode until a manual recompile.[/p][/*][/list][p]\n\\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a bug which prevented some users from claiming Collection Catalog XP for The Dead Hand Collection.[/p][/*][*][p]Fixed a bug that allowed malicious players to avoid being processed by VACnet.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1785285504,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1839041357032122",
