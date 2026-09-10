@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1843481262691148",
+        "title": "Special Drops - September 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691148",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/53d2afa8567255e600ca2326ae539f730a41e262.jpg\"][/img][/p][h2][url=\"https://pubg.com/events/notice/11012\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1789016410,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1843481262690556",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556",
@@ -45,6 +58,58 @@
         "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
+      },
+      {
+        "gid": "1843481262688215",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/31~09/06)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688215",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11052]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1788937219,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1843481262688119",
+        "title": "Patch Notes - Update 43.1",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688119",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ee855dbefc298e4233fc117bce06a8e1e531cb4.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11057\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1788933617,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1843481262688120",
+        "title": "September Store Update 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688120",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/a4f09f42979ee22bdd1c09eec391ea18ca291fab.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10994\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1788933617,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1843481262688118",
+        "title": "Map Service Report - Update 43.1",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688118",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/11019]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1788933615,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
       },
       {
         "gid": "1842846814456331",
