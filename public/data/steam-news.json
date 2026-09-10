@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1843481262692271",
+        "title": "PUBG Americas Series 2: Meet The Talent!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692271",
+        "is_external_url": true,
+        "author": "Eoin",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/e50ce87cd2b35881bd555a365d31df0275d900a2.jpg\"][/img][/p][p]The PUBG Americas Series 2 Playoffs and Finals are nearly here! Across four weekends, 29 teams will compete twice for the chance to be crowned champions of the Americas. Bringing you all the action on a rotating basis is our brilliant, bombastic and iconic broadcast talent: Gibson, Porosaurus and Toffees.[/p][p align=\"start\"]The 29 teams are not the only ones with something to play for. By watching an official PUBG Americas Series 2 or PAS2 stream on Twitch or Kick, you can earn up to 12 unique PUBG item drops. A different item will be available each day, so make sure you tune in regularly if you want to complete the collection.\n\nCheck out our main PAS article for full details about Drops, Participating Teams, Schedule and more![/p][p][dynamiclink href=\"https://store.steampowered.com/news/app/578080/view/712285688032135588?l=english\"][/dynamiclink][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1789047921,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1843481262692250",
+        "title": "PUBG EMEA Championship: Fall - Talent Revealed!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692250",
+        "is_external_url": true,
+        "author": "Eoin",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/945bc0422c020b5bd0b5772fa8f3615cfef064bd.png\"][/img][/p][p align=\"start\"]\nThe PEC: Fall Playoffs and Finals are about to begin! Over the course of four weekends, 29 teams will face off twice for a chance to be crowned as the Champion of EMEA. Guiding you through all of the action (on a roatating basis) is our brilliant, bombastic, iconic, dashing cast of Broadcast Talent: Kaelaris, Avnqr, Blank and Mark Power! [/p][p align=\"start\"][/p][p align=\"start\"]It's not just the 29 teams that will be playing with something on the line - you can earn up to 12 unique PUBG item drops on Twitch and Kick by watching an official PEC or PAS stream! The item up for grabs changes each day, so be sure not to miss a day if you want to get the whole collection.\n\nCheck out our main PEC article for full details about Drops, Participating Teams, Schedule and more! -[dynamiclink href=\"https://store.steampowered.com/news/app/578080/view/712285688032135377?l=english\"][/dynamiclink][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1789047404,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1843481262691148",
         "title": "Special Drops - September 2026",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262691148",
@@ -81,32 +107,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ee855dbefc298e4233fc117bce06a8e1e531cb4.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11057\"]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1788933617,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1843481262688120",
-        "title": "September Store Update 2026",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688120",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/a4f09f42979ee22bdd1c09eec391ea18ca291fab.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/10994\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788933617,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1843481262688118",
-        "title": "Map Service Report - Update 43.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688118",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/11019]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788933615,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
