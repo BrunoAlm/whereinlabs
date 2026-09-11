@@ -2,6 +2,37 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1843481262695265",
+        "title": "PUBG Americas Series 2: Playoffs 1 Bracket Revealed!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695265",
+        "is_external_url": true,
+        "author": "Eoin",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/ddbeb885135f45e94a13a33d83da4d1505b9d484.png\"][/img][/p][p][/p][h2]The PUBG Americas Series 2 Playoffs begin tonight at 4pm EDT / 7pm EST![/h2][p][/p][p]Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut?[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ad84952d2d7de902c1c42b704aecb9ec94955d8.png\"][/img][/p][p]The PAS2 Playoffs have a unique qualification format. After each day of Playoffs, the leaderboard resets and the amount of qualification slots is lower on each consecutive day. Check out the full breakdown below![/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/9f79d9285f0259373652411829913f532d85f430.jpg\"][/img][/p][p][b][u]An important update:[/u][/b] the Twitch & Kick drops originally scheduled for this weekend have been postponed due to a technical issue and will instead be available during the Finals 2 Weekend, alongside the original planned Finals drops. This does not affect our G-Coin giveaway, which will continue during this weekend's broadcasts as usual. Find more information on our full blog here:[/p][p][dynamiclink href=\"https://store.steampowered.com/news/app/578080/view/712285688032135588?l=english\"][/dynamiclink][/p][p][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1789132866,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1847323374_1789135209_0",
+          "mod_require_rereview"
+        ]
+      },
+      {
+        "gid": "1843481262695221",
+        "title": "PUBG EMEA Championship: Meet The Teams of Playoffs 1!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695221",
+        "is_external_url": true,
+        "author": "Eoin",
+        "contents": "[p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2312bbf08c2469742e48a0b58fe1cf837bc8d95d.png\"][/img][/p][h2]The PUBG EMEA Championship: Fall Playoffs are about to kick off tonight at 18:00 CEST! [/h2][p][/p][p]Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut? [/p][p]The PEC: Fall Playoffs have a unique qualification format. On Day 1, the top 8 teams in the 16-team lobby will qualify straight to the Finals. Teams who miss out will have a second chance on Day 2 with an easier lobby - but there will only be 5 qualification spots up for grabs. Finally, on Day 3, the remaining 16 teams will face off for just 3 qualification spots. Every match counts - who will make the cutoff? Tune in on [url=\"https://twitch.tv/pubg_battlegrounds\"]Twitch[/url], [url=\"https://kick.com/pubgesports\"]Kick[/url] and [url=\"https://www.youtube.com/@PUBGEsports/streams\"]YouTube[/url] from tonight at 18:00 CEST to find out.[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/1a4123c08e8181bd7c32e2f81997c1ee0da15149.png\"][/img][/p][p][b][u]An important update:[/u][/b] the Twitch & Kick drops originally scheduled for this weekend have been postponed due to a technical issue and will instead be available during the Finals 2 Weekend, alongside the original planned Finals drops. This does not affect our G-Coin giveaway, which will continue during this weekend's broadcasts as usual. Find more information on our full blog here: [dynamiclink href=\"https://store.steampowered.com/news/app/578080/view/712285688032135377?l=english\"][/dynamiclink][/p][p][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1789131699,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1843481262692271",
         "title": "PUBG Americas Series 2: Meet The Talent!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692271",
@@ -84,32 +115,6 @@
         "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
-      },
-      {
-        "gid": "1843481262688215",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/31~09/06)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688215",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11052]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788937219,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1843481262688119",
-        "title": "Patch Notes - Update 43.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688119",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ee855dbefc298e4233fc117bce06a8e1e531cb4.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11057\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1788933617,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1842846814456331",
