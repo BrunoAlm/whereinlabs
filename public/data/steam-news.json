@@ -2,6 +2,22 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1843481262705400",
+        "title": "7.41f Gameplay Patch",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705400",
+        "is_external_url": true,
+        "author": "flynnch",
+        "contents": "[p]Patch 7.41f is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41f\"]here[/url].[/p]\n\nIn addition, we've recently addressed the following issues:\n[list]\n[*] Fixed spot on map near the top Roshan Pit where a hero could hide within the geometry of the cave\n[*] Fixed being able to mark items for sale that are normally unsellable during their initial sellback period\n[*] Fixed Tranquil Boots not going on cooldown when disassembled from stash\n[*] Fixed Bane's Nightmare removing vision from debuff immune targets\n[*] Fixed Bounty Hunter's Big Game Hunter not granting any bonus gold\n[*] Fixed Elder Titan's Astral Spirit being able to Echo Stomp while being recalled\n[*] Fixed Lone Druid's Spirit Bear remaining under the control of the original player when swapping heroes\n[*] Fixed interaction between Lina's Level 25 Critical Talent and other sources of critical strike\n[*] Fixed Spirit Breaker's Planar Pocket redirecting Alchemist's Aghanim's Scepter and Moon Shard's Consume\n[*] Fixed interactions between Spirit Breaker's Planar Pocket and Linken's Sphere\n[*] Fixed Timbersaw's Flamethrower revealing the hero on the minimap\n[/list]\n\n\n",
+        "feedlabel": "Community Announcements",
+        "date": 1789497865,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 570,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1843481262703376",
         "title": "Now Available: Team Edition Skins 2nd Drop!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703376",
@@ -379,19 +395,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1839676055886687",
-        "title": "Gameplay Patch 7.41e and Summer Scrub",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687",
-        "is_external_url": true,
-        "author": "kyled",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]\n\nThe International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance to prove your skills and win new Immortals and unlock terrains.\n\nBut that's not all. Today we're also releasing [url=https://dota2.com/summerscrub2026]patch 7.41e[/url]. Even that's not everything, though. Dota is a complicated game, and while we greatly enjoy the creativity and diligence of the dedicated players who find intricate and absurd bugs, we also like *fixing* those bugs. So today we're also releasing the Summer Scrub, a huge collection of new features as well as fixes for gameplay and content bugs, ranging from Abaddon's taunt to Zeus's Dota Plus challenge.\n\nThe list is too long for this post, so we made a whole page just to [url=https://dota2.com/summerscrub2026]list all the changes[/url].",
-        "feedlabel": "Community Announcements",
-        "date": 1785455895,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 570
       },
       {
         "gid": "1839041357032122",
