@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844115010488289",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/07~09/13)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488289",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11101]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1789542007,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1843481262705400",
         "title": "7.41f Gameplay Patch",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705400",
@@ -65,19 +78,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/3869e752335d92fdb96276b2a810571c0e1b417e.png\"][/img][/p][p][/p][h2]The PUBG Americas Series 2 Playoffs begin tonight at 4pm EDT / 7pm EST![/h2][p][/p][p]Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut?[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ad84952d2d7de902c1c42b704aecb9ec94955d8.png\"][/img][/p][p]The PAS2 Playoffs have a unique qualification format. After each day of Playoffs, the leaderboard resets and the amount of qualification slots is lower on each consecutive day. Check out the full breakdown below![/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/9f79d9285f0259373652411829913f532d85f430.jpg\"][/img][/p][p][u][b]An important update:[/b][/u] the Twitch & Kick drops originally scheduled for this weekend have been postponed due to a technical issue and will instead be available during the Finals 2 Weekend, alongside the original planned Finals drops. This does not affect our G-Coin giveaway, which will continue during this weekend's broadcasts as usual. Find more information on our full blog here:[/p][p][dynamiclink href=\"https://store.steampowered.com/news/app/578080/view/712285688032135588?l=english\"][/dynamiclink][/p][p][/p]",
         "feedlabel": "Community Announcements",
         "date": 1789178567,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1843481262696801",
-        "title": "PUBG EMEA Championship: Playoffs 1 Day 2 is LIVE!!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696801",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/a1eae8a8f33c948d01f3f84cacbb8b5f0e64f291.png\"][/img][/p][h2]The PUBG EMEA Championship: Fall Playoffs are about to kick off tonight at 18:00 CEST! [/h2][p][/p][p]Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut? [/p][p]The PEC: Fall Playoffs have a unique qualification format. On Day 1, the top 8 teams in the 16-team lobby will qualify straight to the Finals. Teams who miss out will have a second chance on Day 2 with an easier lobby - but there will only be 5 qualification spots up for grabs. Finally, on Day 3, the remaining 16 teams will face off for just 3 qualification spots. Every match counts - who will make the cutoff? Tune in on [url=\"https://twitch.tv/pubg_battlegrounds\"]Twitch[/url], [url=\"https://kick.com/pubgesports\"]Kick[/url] and [url=\"https://www.youtube.com/@PUBGEsports/streams\"]YouTube[/url] from tonight at 18:00 CEST to find out.[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/1a4123c08e8181bd7c32e2f81997c1ee0da15149.png\"][/img][/p][p][u][b]An important update:[/b][/u] the Twitch & Kick drops originally scheduled for this weekend have been postponed due to a technical issue and will instead be available during the Finals 2 Weekend, alongside the original planned Finals drops. This does not affect our G-Coin giveaway, which will continue during this weekend's broadcasts as usual. Find more information on our full blog here: [dynamiclink href=\"https://store.steampowered.com/news/app/578080/view/712285688032135377?l=english\"][/dynamiclink][/p][p][/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1789177155,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
