@@ -15,6 +15,19 @@
         "appid": 578080
       },
       {
+        "gid": "1844115010499298",
+        "title": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/QjoU8pvWU6yD1hp9c0Hp5A.png\"/>\n              <br />\n                                                                                <p>Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со спасением заложников, который стоял у истоков культовой франшизы. В рамках интервью независимому блогеру разработчик отметил, что стремительное развитие соревновательной сцены вынесло приговор сценариям с префиксом cs_, сместив весь фокус компании Valve и игрового сообщества на разминирование бомбы.</p>                                                        <p>Изначальная концепция командного шутера в 1999 году строилась именно вокруг спецопераций по освобождению пленных, вдохновленных тактическим проектом Rainbow Six и реальными операциями отряда специального назначения SAS вроде штурма захваченного террористами посольства в Лондоне. Первые бета-версии сетевого боевика обрели популярность именно благодаря локациям cs_siege и cs_assault, где бойцы спецназа были обязаны штурмовать укрепленные позиции противника.</p>                                                        <p>Главным изъяном сценариев с заложниками разработчик назвал структурный дисбаланс, который не поддается выравниванию. В отличие от карт с закладкой взрывчатки, где 2 стороны борются за контроль над нейтральными точками, локации по спасению пленных изначально дают огромное позиционное преимущество обороняющимся террористам. Попытки адаптировать эти уровни под равное состязание регулярно терпели крах, поскольку штурмующей команде приходится преодолевать узкие коридоры под перекрестным огнем без возможности гибкого тактического маневра.</p>                                                        <p>С ростом профессиональной киберспортивной сцены компания Valve сосредоточила усилия на сценариях обезвреживания бомбы, где строгая геометрия и симметрия таймингов обеспечили понятный спортивный регламент. По воспоминаниям Мина Ли, создатели игры всегда проявляли предельную осторожность в отношении базовых механик, опасаясь отпугнуть профессиональных игроков и турнирных операторов непредсказуемыми условиями матчей.</p>                                                        <p>Ориентация индустрии на турниры повлекла за собой охлаждение интереса со стороны авторов пользовательских модификаций. Картоделы быстро перестали создавать локации с заложниками, поскольку игроки не проявляли к ним интереса и предпочитали тренироваться на соревновательных полигонах вроде de_dust2. В результате классический режим полностью исчез из турнирного пула, превратившись в нишевую забаву для случайных матчей на казуальных серверах.</p>                                                        <p>Несмотря на наличие обновленных карт cs_office и cs_italy в актуальной версии Counter-Strike 2, соревновательный базис игры окончательно закрепился за сценариями с деактивацией взрывчатки, оставив исторический режим в статусе ретро-развлечения.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1789841729,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 730
+      },
+      {
         "gid": "1844115010496482",
         "title": "PAS2 Finals 1 Day 2 is LIVE!!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496482",
@@ -365,22 +378,6 @@
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1839676055895877",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where grenades could be thrown through level geometry[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map[/p][/*][*][p]Fixed collision in various spots across map[/p][/*][*][p]Fixed flickering on some assets[/p][/*][*][p]Removed boost spot in Outside A[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.TracePlayer[/p][/*][*][p]Added Instance.OnWeaponPickup[/p][/*][*][p]Added Instance.OnBombExplode[/p][/*][*][p]Added Instance.SpawnGrenadeProjectile[/p][/*][*][p]Added dropper to Instance.OnWeaponDrop event[/p][/*][*][p]Added hitEntity to Instance.OnGrenadeBounce event[/p][/*][*][p]Added normal to Instance.OnGrenadeBounce event[/p][/*][*][p]Added CSGrenadeProjectileBase.GetGrenadeType[/p][/*][*][p]Added CSGrenadeProjectileBase.GetThrower[/p][/*][*][p]Added CSGrenadeProjectileBase.Detonate[/p][/*][*][p]Added CSPlantedC4.IsBombsiteA[/p][/*][*][p]Added CSPlantedC4.IsBombsiteB[/p][/*][*][p]Added CSPlantedC4.GetPlanter[/p][/*][*][p]Added CSPlantedC4.GetDefuser[/p][/*][*][p]Added CSPlantedC4.IsActive[/p][/*][*][p]Added CSPlantedC4.IsExploded[/p][/*][*][p]Added CSPlantedC4.IsDefused[/p][/*][*][p]Added CSPlantedC4.GetPlantTime[/p][/*][*][p]Added CSPlantedC4.GetExplodeTime[/p][/*][*][p]Added CSPlantedC4.GetDefuseStartTime[/p][/*][*][p]Added CSPlantedC4.GetDefuseFinishTime[/p][/*][*][p]Added CSPlayerPawn.HasDefuser[/p][/*][*][p]Added CSPlayerPawn.SetHasDefuser[/p][/*][*][p]Added CSGrenadeType enum[/p][/*][*][p]Fixed a bug where Instance.RegisterCheatCommand would not work on script reload.[/p][/*][*][p]Deprecated bounces from Instance.OnGrenadeBounce event.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1785791934,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1839041357032122",
