@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844115010502066",
+        "title": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1844115010502066",
+        "is_external_url": true,
+        "author": "Morgan Park",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/bV3F7nx2W39gwhYQHBNvCi-1920-80.jpg\"/><br><br>\n                Bungie's new leadership duo laid out the \"next chapter of Bungie\" today in a blog post with an accompanying video. The big news is that Bungie has essentially uncanceled Destiny 2, or will at least go the lengths to finally undo its greatest mistake: vaulting a bunch of raids and multiple of its story campaigns. Funnily enough, that work has already begun on the community side with a <a href=\"https://www.pcgamer.com/games/fps/destiny-2-players-are-learning-how-to-crack-into-its-infamous-content-vault-by-tinkering-with-old-builds/\" target=\"_blank\">mod project</a> that makes vaulted content playable through an offline build of Destiny...\n                <a href=\"https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1790010809,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
+        "gid": "1844115010501848",
+        "title": "Destiny возвращается после отмены поддержки благодаря фанатам - Bungie вернёт вырезанный контент и готовит новые игры",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010501848",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/IEN1DvB0pZ3QOSUdmI9jrw.jpeg\"/>\n              <br />\n                                                                                <p>Bungie неожиданно пересмотрела планы по развитию Destiny 2. Всего через несколько месяцев после заявления о прекращении выпуска нового контента студия объявила о возвращении ранее удалённых материалов и подтвердила, что у вселенной Destiny есть будущее за пределами текущей игры.</p>                                                        <p>Главной частью заявления стало возвращение контента, который начал исчезать из Destiny 2 ещё в 2020 году. Bungie планирует вернуть кампании и локации Red War и Forsaken, а также более ранние дополнения Curse of Osiris и Warmind. Подробности о сроках и формате возвращения разработчики обещают раскрыть позднее.</p>                                                        <p>Удаление старого контента на протяжении многих лет оставалось одной из наиболее спорных особенностей Destiny 2. В результате новые игроки фактически получали игру без значительной части её первоначальной истории, тогда как владельцы ранее доступных дополнений лишались возможности снова пройти некоторые из них. Возвращение этих материалов должно сделать Destiny 2 более цельной с точки зрения контента и упростить знакомство с многолетней историей серии.</p>                                                        <p>При этом Bungie дала понять, что речь идёт не только о Destiny 2. В новом заявлении студия подтвердила планы на новые истории и новые игры во вселенной Destiny. Конкретных названий и сроков пока нет, поэтому говорить о Destiny 3 преждевременно. Marathon также продолжит развиваться, но Bungie не рассматривает его как замену Destiny.</p>                                                        <p>По словам студии, одним из факторов пересмотра стратегии стала реакция сообщества. Особенно показательной оказалась аудитория финального обновления «Монумент Триумфа»: несмотря на отсутствие нового контента, оно собрало больше игроков, чем два предыдущих дополнения. Это стало важным сигналом о сохраняющемся интересе к Destiny 2 и самой франшизе.</p>                                                        <p>При этом возвращение к активному развитию не произойдёт мгновенно. Поддержка была остановлена относительно недавно, поэтому Bungie потребуется время для восстановления процессов и определения дальнейших планов. В ближайшие месяцы студия обещает рассказать больше о функциях, сроках и будущем Destiny 2.</p>                                                                                  <p>Таким образом, история Destiny 2 получила неожиданный поворот. Игра, которую ещё недавно готовили к фактическому завершению развития, не только возвращает значительную часть своего прошлого контента, но и получает перспективу дальнейшего существования вместе с новыми проектами во вселенной Destiny.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1790007311,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1844115010498218",
         "title": "PEC: Fall Finals 1 Day 3 is LIVE!!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498218",
@@ -375,32 +401,6 @@
         "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/CgMD94ntsUhWUx26Ua99aD-1280-80.jpg\"/><br><br>\n                In June 2020, Bungie made what would come to be remembered as one of the most reviled PR incidents in modern videogames: It announced <a href=\"https://www.pcgamer.com/heres-everything-being-removed-from-destiny-2-at-the-end-of-this-seasonits-a-lot/\" target=\"_blank\">the content vault</a>. To make Destiny 2's long-term development more manageable, the studio said, the launch of its Beyond Light expansion coincided with a culling of in-game content, paring away story campaigns, world regions, and activities of all stripes...\n                <a href=\"https://www.pcgamer.com/games/fps/destiny-2-players-are-learning-how-to-crack-into-its-infamous-content-vault-by-tinkering-with-old-builds/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
         "feedlabel": "PC Gamer",
         "date": 1785960741,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1839041357032122",
-        "title": "Discussion time: Have you ever said goodbye to an MMO you've played for 1,000s of hours?",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839041357032122",
-        "is_external_url": true,
-        "author": "Sean Martin",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/xoDNuYbXV48hRGXei4xZ5E-1280-80.jpg\"/><br><br>\n                s someone who writes guides for a living, I'm always hopping between different games, riding the ever-rolling wave of live service updates, DLC, and new releases that define our industry. I've dipped my toes into all sorts of MMOs over the years, but amidst the constant barrage of games, only one ended up sticking around for me, and that was Destiny 2...\n                <a href=\"https://www.pcgamer.com/games/mmo/discussion-time-have-you-ever-said-goodbye-to-an-mmo-youve-played-for-1-000s-of-hours/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1784991600,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1837955055363349",
-        "title": "Warframe creative director says Destiny 2's end is tragic, because even with hard work 'the business side of this industry always gets the last remark'",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363349",
-        "is_external_url": true,
-        "author": "Harvey Randall",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/qqACJ76T6ux8N24NoYJ5UL-1280-80.png\"/><br><br>\n                <a href=\"https://www.pcgamer.com/destiny-2/\">Destiny 2</a> isn't going anywhere, but it also isn't… well, <em>going </em>anywhere. The game's servers will still be running for the foreseeable future, but <a href=\"https://www.pcgamer.com/games/fps/destiny-2-ending-live-service-content-updates-in-june-as-bungie-moves-on-to-a-new-beginning/\">Bungie has since ceased updates</a> to its flagship shooter to move onto other projects, tragically <a href=\"https://www.pcgamer.com/gaming-industry/with-destiny-2-over-bungie-lays-off-employees-to-align-the-studios-resources-with-its-current-priorities-and-long-term-goals/\">laying off much of its staff</a> in the aftermath of that decision...\n                <a href=\"https://www.pcgamer.com/gaming-industry/warframe-creative-director-says-destiny-2s-end-is-tragic-because-even-with-hard-work-the-business-side-of-this-industry-always-gets-the-last-remark/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1783946290,
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
