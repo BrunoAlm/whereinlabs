@@ -6,6 +6,68 @@
   "category": [],
   "items": [
     {
+      "title": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/francesca-baerald-art-book-unbound.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>If you're an enjoyer of video game maps, you might like this: celebrated artist and cartographer Francesca Baerald - who's created in-game (and out) maps for Dragon Age, Warcraft, <a href=\"https://www.eurogamer.net/games/octopath-traveler\">Octopath Traveler</a>, Diablo, Dungeons & Dragons and many more - is releasing a glossy new art book. It's an oversized, A3 book that features page after page of her sumptuously detailed, hand-painted maps.</p> <p><a href=\"https://www.eurogamer.net/francesca-baerald-game-map-art-book\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1790093886000,
+      "created": 1790093886000,
+      "category": [
+        "Dungeons & Dragons",
+        "Nintendo",
+        "World of Warcraft",
+        "Electronic Arts",
+        "Dragon Age: Inquisition",
+        "Side view",
+        "Strategy",
+        "Single Player",
+        "Open World",
+        "Blizzard",
+        "Multiplayer Cooperative",
+        "MMO",
+        "PS3",
+        "Stadia",
+        "Xbox 360",
+        "Project Octopath Traveler",
+        "Multiplayer Competitive",
+        "Diablo IV",
+        "MMORPG",
+        "Blizzard Entertainment",
+        "Nintendo Switch",
+        "Hack & Slash",
+        "Bioware",
+        "Xbox Series X/S",
+        "Xbox One",
+        "RPG",
+        "PC",
+        "Mac",
+        "Blockbuster",
+        "Bird view / Isometric",
+        "Action Adventure",
+        "Square Enix",
+        "PS4",
+        "Nintendo Switch 2",
+        "PS5",
+        "Third person",
+        "Fantasy"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/francesca-baerald-art-book-unbound.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/francesca-baerald-art-book-unbound.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
       "description": "<img src=\"https://assetsio.gnwcdn.com/grounded-1.2-wasps-screen.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Following <a href=\"https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report\">reports that further job cuts were imminent at Xbox</a>, Microsoft has confirmed more sweeping changes as its major restructuring continues. As a result, some Xbox studios will combine, others are set for closure, and 268 more layoffs have been announced.</p> <p><a href=\"https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory\">Read more</a></p>",
       "link": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
@@ -3866,38 +3928,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/physint.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "After 43 years, Dragon Quest creator Yuji Horii is making a surprise sequel to his NES murder mystery game",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Portopia-Murder-Case.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>This week's dual-pronged Nintendo Direct shows were stuffed with huge games. <a href=\"https://www.eurogamer.net/kirby-and-the-world-beyond-reveal-trailer-nintendo-direct\">Kirby and the World Beyond</a>! <a href=\"https://www.eurogamer.net/metroid-ravenous-switch-2-release-date\">Metroid Ravenous</a>! <a href=\"https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-gameplay-finally-revealed-during-40th-anniversary-nintendo-direct-and-it-looks-interesting\">The Legend of Zelda: Ocarina of Time</a>! But the Japanese version of today's show quietly snuck in at least one game the rest of us didn't get: a sequel to Dragon Quest creator Yuji Horii's 1983 adventure game.</p> <p><a href=\"https://www.eurogamer.net/dragon-quest-yuji-horii-nes-sequel-43-years\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/dragon-quest-yuji-horii-nes-sequel-43-years",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1788982830000,
-      "created": 1788982830000,
-      "category": [
-        "PC",
-        "Mystery",
-        "Nintendo Switch 2",
-        "Point and Click",
-        "Interactive Drama",
-        "Puzzle",
-        "The Portopia Serial Murder Case"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Portopia-Murder-Case.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Portopia-Murder-Case.png?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
