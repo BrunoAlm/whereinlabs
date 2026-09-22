@@ -2,12 +2,25 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844115010502705",
+        "title": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1844115010502705",
+        "is_external_url": true,
+        "author": "Samuel Roberts",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/yokeh8TULQm2EL3GsHYzrN-1920-80.jpg\"/><br><br>\n                Over the past couple of months, my Destiny 2 Fireteam has given me a tour of the Destiny 2 content I missed when I hopped off the train following the pandemic. When you play all the dungeons back-to-back, it's a buffet of delights—a concentrated dose of amazing and frequently obtuse FPS level design that you simply can't find anywhere else. A reminder that Bungie, pre-layoffs, was the very best at what it did...\n                <a href=\"https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1790033063,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1844115010502391",
-        "title": "Hammer.tf Art Pass Contest",
+        "title": "Art Pass Contest",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502391",
         "is_external_url": true,
         "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/d29ad6d869e04fb0982a6f8a648f93e800a596da.png[/img]\n(Image credit: Concept - Endi, SFM - Oldmann)\n\n[b]Movin' out![/b]\n\nHammer.tf is proud to announce their first [b]ART-PASS CONTEST![/b] Participants will art-pass an existing KOTH map donated by a community member! As for the theme, there is no theme! Jungle? City? Swamp? Halloween? Uncle Jerry's house? Participants have total creative control, so go wild with any and all ideas!\n\nAnd there will be prizes! The prize pool of [b]60+ Keys[/b] will be split amongst 3 winners!\n\nIn order to qualify, all submissions must be made in the [url=https://discord.gg/y9b4QeFWv]Hammer.tf Discord server[/url], where the VMF and BSP files for the map can also be found. Submissions must be made before the deadline, [b]November 26th[/b], in order to be considered eligible for the contest.\n\nJoin the [url=https://discord.gg/y9b4QeFWv]Hammer.tf Discord server[/url] for more details, the rules, and to participate! Happy mapping!\n",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/d651bb0462a39f27ab9058916f4fc4a3212c6f13.png[/img]\n(Image credit: Concept - Endi, SFM - Oldmann)\n\n[b]Movin' out![/b]\n\nThe Hammer.tf (not an actual URL) community is proud to announce their first [b]ART-PASS CONTEST![/b] Participants will art-pass an existing KOTH map donated by a community member! As for the theme, there is no theme! Jungle? City? Swamp? Halloween? Uncle Jerry's house? Participants have total creative control, so go wild with any and all ideas!\n\nAnd there will be prizes! The prize pool of [b]60+ Keys[/b] will be split amongst 3 winners!\n\nIn order to qualify, all submissions must be made in their [url=https://discord.gg/y9b4QeFWv]Discord server[/url], where the VMF and BSP files for the map can also be found. Submissions must be made before the deadline, [b]November 26th[/b], in order to be considered eligible for the contest.\n\nJoin their [url=https://discord.gg/y9b4QeFWv]Discord server[/url] for more details, the rules, and to participate! Happy mapping!\n",
         "feedlabel": "Community Announcements",
         "date": 1790020691,
         "feedname": "steam_community_announcements",
@@ -16,16 +29,17 @@
         "tags": [
           "mod_reviewed",
           "ModAct_1447510170_1790021217_0",
+          "ModAct_1447510170_1790022585_4",
           "mod_require_rereview"
         ]
       },
       {
         "gid": "1844115010502396",
-        "title": "Hammer.tf Art Pass Contest",
+        "title": "Art Pass Contest",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1844115010502396",
         "is_external_url": true,
         "author": "",
-        "contents": "<a href=\"https://discord.gg/y9b4QeFWv\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/283924/artpass_small.png?t=1506190994\"></a>\n(Image credit: Concept - <a href=\"https://steamcommunity.com/profiles/76561198914938199/\" target=\"_blank\">Endi</a>, SFM - <a href=\"https://steamcommunity.com/id/old_mann_forgot_his_age/\" target=\"_blank\">Oldmann</a>)<br><br>\n\n<p><b>Movin' out!</b></p><br>\n\n<p>Hammer.tf is proud to announce their first <b>ART-PASS CONTEST!</b> Participants will art-pass an existing KOTH map donated by a community member! As for the theme, there is no theme! Jungle? City? Swamp? Halloween? Uncle Jerry's house? Participants have total creative control, so go wild with any and all ideas!</p><br>\n\n<p>And there will be prizes! The prize pool of <b>60+ Keys</b> will be split amongst 3 winners!</p><br>\n\n<p>In order to qualify, all submissions must be made in the <a href=\"https://discord.gg/y9b4QeFWv\" target=\"_blank\">Hammer.tf Discord server</a>, where the VMF and BSP files for the map can also be found. Submissions must be made before the deadline, <b>November 26th</b>, in order to be considered eligible for the contest.</p><br>\n\n<p>Join the <a href=\"https://discord.gg/y9b4QeFWv\" target=\"_blank\">Hammer.tf Discord server</a> for more details, the rules, and to participate! Happy mapping!</p><br>",
+        "contents": "<a href=\"https://discord.gg/y9b4QeFWv\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/283924/artpass26_small.png?t=1516190994\"></a>\n(Image credit: Concept - <a href=\"https://steamcommunity.com/profiles/76561198914938199/\" target=\"_blank\">Endi</a>, SFM - <a href=\"https://steamcommunity.com/id/old_mann_forgot_his_age/\" target=\"_blank\">Oldmann</a>)<br><br>\n\n<p><b>Movin' out!</b></p><br>\n\n<p>The Hammer.tf (not an actual URL) community is proud to announce their first <b>ART-PASS CONTEST!</b> Participants will art-pass an existing KOTH map donated by a community member! As for the theme, there is no theme! Jungle? City? Swamp? Halloween? Uncle Jerry's house? Participants have total creative control, so go wild with any and all ideas!</p><br>\n\n<p>And there will be prizes! The prize pool of <b>60+ Keys</b> will be split amongst 3 winners!</p><br>\n\n<p>In order to qualify, all submissions must be made in their <a href=\"https://discord.gg/y9b4QeFWv\" target=\"_blank\">Discord server</a>, where the VMF and BSP files for the map can also be found. Submissions must be made before the deadline, <b>November 26th</b>, in order to be considered eligible for the contest.</p><br>\n\n<p>Join their <a href=\"https://discord.gg/y9b4QeFWv\" target=\"_blank\">Discord server</a> for more details, the rules, and to participate! Happy mapping!</p><br>",
         "feedlabel": "TF2 Blog",
         "date": 1790020620,
         "feedname": "tf2_blog",
@@ -396,19 +410,6 @@
           "ModAct_1890460210_1786495912_0",
           "mod_require_rereview"
         ]
-      },
-      {
-        "gid": "1840310314340132",
-        "title": "Destiny 2 players are learning how to crack into its infamous content vault by tinkering with old game builds",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840310314340132",
-        "is_external_url": true,
-        "author": "Lincoln Carpenter",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/CgMD94ntsUhWUx26Ua99aD-1280-80.jpg\"/><br><br>\n                In June 2020, Bungie made what would come to be remembered as one of the most reviled PR incidents in modern videogames: It announced <a href=\"https://www.pcgamer.com/heres-everything-being-removed-from-destiny-2-at-the-end-of-this-seasonits-a-lot/\" target=\"_blank\">the content vault</a>. To make Destiny 2's long-term development more manageable, the studio said, the launch of its Beyond Light expansion coincided with a culling of in-game content, paring away story campaigns, world regions, and activities of all stripes...\n                <a href=\"https://www.pcgamer.com/games/fps/destiny-2-players-are-learning-how-to-crack-into-its-infamous-content-vault-by-tinkering-with-old-builds/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1785960741,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       }
     ]
   }
