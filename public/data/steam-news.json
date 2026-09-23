@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844751498217560",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/14~09/20)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217560",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11135]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1790146898,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1844751498217397",
+        "title": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498217397",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/fjWNcZHyjWFPvbzrT18CeA.png\"/>\n              <br />\n                                                      <p>Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только принес новый контент в игру, но и изменил привычные моменты, которые многие пользователи уже посчитали кардинально ломающими привычный соревновательный процесс.</p>                                                                                  <p>Главные споры в сообществе вызвали нововведения в механике скрытности:</p>                                                        <p>Теперь игроки могут сменить магазин оружия без звука. Для этого необходимо зажать и удерживать клавишу перезарядки, однако за скрытность придется платить заметно увеличенным временем анимации.</p>                                                        <p>: Выход из снайперского зума на винтовках больше не издает щелчка и стал абсолютно неслышным для противников.</p>                                                        <p>Команда ammo_grenade_limit_total теперь жестко ограничивает общее число гранат, которое один игрок может приобрести за раунд.</p>                                                        <p>Курицы на картах теперь получают урон от электрошокера Zeus x27.</p>                                                        <p>Крупным контентным добавлением стал соревновательный режим «Rush» в формате 3v3. Команды продвигаются через череду случайно сменяющихся боевых арен, сражаясь за контроль над центральной башней и пытаясь добраться до базы противника. Для нового режима добавлена отдельная таблица рекордов среди друзей.</p>                                                        <p>Существенной переработке подверглась стадия выбора карт в режиме «Премьер». Система банов уступила место выбору. Теперь команды суммарно выбирают четыре карты, после чего игра случайным образом запускает одну из них.</p>                                                        <p>Вместе с этим патч обновил движок до свежей версии Source 2, улучшил отображение брызг крови и следов от пуль, вернул клан-теги из групп Steam, ввел возможность клеить стикеры на бомбу C4 и переработал настройки прицелов, сделав их независимыми от разрешения экрана. Также разработчики устранили пиксельные щели и ошибки геометрии на картах Mirage, Ancient, Train и Cache. Ну а в качестве бонуса в еженедельных наградах появились куриные яйца.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1790139805,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 730
+      },
+      {
         "gid": "1844751498216926",
         "title": "Rush Hour",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926",
@@ -206,19 +232,6 @@
         "appid": 440
       },
       {
-        "gid": "1844115010494697",
-        "title": "PAS2 Finals 1: Drops available this weekend!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010494697",
-        "is_external_url": true,
-        "author": "Eoin",
-        "contents": "[p]After an exciting weekend of qualifications (and non-qualifications) at last week’s Playoffs 1, it’s now almost time to crown our first (of two) PUBG Americas Series 2 Champions!\n[/p][p]With wins in Finals 1 and 2 of PAS1 respectively, Team Falcons and Team Liquid are the teams to beat. Will their throne(s) be usurped?[/p][p][/p][p]Here’s your look at the lobby:[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/1454202cd9cd3fdc4b5909f7c98d3b97f829c89a.png\"][/img][/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td][p align=\"center\"]ROC Esports[/p][/td][td][p align=\"center\"]Circle Nine[/p][/td][td][p align=\"center\"]Team Falcons[/p][/td][td][p align=\"center\"]Team Liquid[/p][/td][/tr][tr][td][p align=\"center\"]DUEL[/p][/td][td][p align=\"center\"]Copenhagen Wolves[/p][/td][td][p align=\"center\"]TOYO[/p][/td][td][p align=\"center\"]PEST Control[/p][/td][/tr][tr][td][p align=\"center\"]GodLike[/p][/td][td][p align=\"center\"]+55 Esports[/p][/td][td][p align=\"center\"]Per Diem Withholders[/p][/td][td][p align=\"center\"]ARC e-Sports[/p][/td][/tr][tr][td][p align=\"center\"]NO WAY[/p][/td][td][p align=\"center\"]NO ORG[/p][/td][td][p align=\"center\"]Last Minute Roster[/p][/td][td][p align=\"center\"]Chupinsky[/p][/td][/tr][/table][p][/p][p]The PAS2 Finals are all about consistency. We play the classic SUPER format: three match days, and whoever has the most amount of combined kill points and placement points at the end of 15 matches will become the first PAS2 Champion, claiming vital PGC Points in the process! [/p][p][/p][h2]PGC Points[/h2][p]Finals 1 & Finals 2 of PAS2 is the final chance for teams to earn PGC Points, which they will use to qualify to the PUBG Global Championship (PGC) 2026, in Istanbul, Türkiye! With 32 teams competing and over $1,500,000 of prize pool on the line (not to mention bragging rights of being the best PUBG team in the world), it’s already shaping up to be a dramatic event. Make sure to tune in to the PAS2 Finals to find out who will secure their tickets to the event![/p][p][/p][h2]Drops[/h2][p]Even if a PAS2 tournament title isn’t in your future, you can still tune in and earn Drops by watching the official broadcast live on Twitch and Kick! Each day this weekend there’s a new Drop up for grabs - reach 120 minutes of cumulative watch time on a PAS (or PEC, or both!) broadcast on any given day to unlock that day’s drop.[/p][p][/p][p]In addition, there will be G-Coin giveaways throughout the broadcast. Check the hints shared on our social media channels during the broadcast to uncover the codes!\n[/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td rowspan=\"3\"][p]PAS & PEC Finals 1[/p][/td][td][p] Sep 18, 2026[/p][p][i]How to unlock: watch a PEC or PAS stream for 120 minutes[/i][/p][p]PEC: from 18:00 CEST[/p][p]PAS: from 4pm PDT / 7pm EDT[/p][p]\n[/p][/td][td][p]THE ORIGINAL IS BACK T-Shirt[/p][/td][td][p][img src=\"https://clan.fastly.steamstatic.com/images//27971017/650c80e1608ff15361aa29bd8febbd3290282599.png\" style=\"border: none; -webkit-user-drag: none; display: block; max-width: 100%;\"][/img][/p][/td][/tr][tr][td][p] Sep 19, 2026[/p][/td][td][p]Peculiar Greeting[/p][/td][td][p][img src=\"https://clan.fastly.steamstatic.com/images//27971017/4d51d8648002ef6c25ba497a3af12c52c5f31aa3.png\" style=\"border: none; -webkit-user-drag: none; display: block; max-width: 100%;\"][/img][/p][/td][/tr][tr][td][p] Sep 20, 2026[/p][/td][td][p]PUBG Varsity Jacket[/p][/td][td][p][img src=\"https://clan.fastly.steamstatic.com/images//27971017/c7d44ca643f73aeca9770e4c8ac3ac1a6f0b5a53.png\" style=\"border: none; -webkit-user-drag: none; display: block; max-width: 100%;\"][/img][/p][/td][/tr][/table][p]\nAnd in case you missed it: we had originally planned to also run drops during last weekend’s Playoffs broadcasts, but due to technical issues they were instead moved to the second Finals weekend (Oct 2 - 4). They’ll be available alongside the drops we originally planned, so be extra sure to tune in then for a weekend of double Drops. Mark your calendar![/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1789736290,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
         "gid": "1844115010492905",
         "title": "Call of Duty: Black Ops 7 and Warzone - Season 06 - Now Live",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492905",
@@ -347,22 +360,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 570
-      },
-      {
-        "gid": "1841579228676851",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851",
-        "is_external_url": true,
-        "author": "tomd",
-        "contents": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/p][/*][*][p]Events and client side scripting are not supported.[/p][/*][*][p]Maintains state during tools mode reloads.[/p][/*][/list][/*][*][p]Added cs_player_camera entity:[/p][list][*][p]Gives control of a player's view without moving their pawn.[/p][/*][*][p]Can be configured to let the player look around from the scripted position.[/p][/*][/list][/*][*][p]Added Instance.Delay[/p][/*][*][p]Added Instance.OnBombPlantStart[/p][/*][*][p]Added Instance.OnBombPlantAbort[/p][/*][*][p]Added Instance.OnBombDefuseStart[/p][/*][*][p]Added Instance.OnBombDefuseAbort[/p][/*][*][p]Added Instance.OnCustomHudClicked[/p][/*][*][p]Added Instance.IsDedicatedServer[/p][/*][*][p]Added Entity.Move[/p][/*][*][p]Added Entity.GetMoveType[/p][/*][*][p]Added Entity.SetMoveType[/p][/*][*][p]Added CSPlayerPawn.GetC4[/p][/*][*][p]Added CSPlayerPawn.GetDefuseTarget[/p][/*][*][p]Added CSPlayerPawn.IsBuyMenuOpen[/p][/*][*][p]Added CSPlayerPawn.GetCamera[/p][/*][*][p]Added C4.GetPlantStartTime[/p][/*][*][p]Added C4.GetPlantFinishTime[/p][/*][*][p]Added C4.AbortPlant[/p][/*][*][p]Added CustomHudLayout.SetHasClass[/p][/*][*][p]Added CustomHudLayout.SetHasClassForPlayer[/p][/*][*][p]Added CustomHudLayout.SetDialogVariableString[/p][/*][*][p]Added CustomHudLayout.SetDialogVariableStringForPlayer[/p][/*][*][p]Added CustomHudLayout.SetInputCaptureEnabled[/p][/*][*][p]Added CustomHudLayout.IsInputCaptureEnabled[/p][/*][*][p]Added CSPlayerCamera.IsEnabled[/p][/*][*][p]Added CSPlayerCamera.SetEnabled[/p][/*][*][p]Added CSPlayerCamera.SetIsControllingAngles[/p][/*][*][p]Added enum CSMoveType[/p][/*][*][p]Corrected types for some events where parameters were maybe undefined.[/p][/*][*][p]Errors encountered during initial script run are now logged to the console.[/p][/*][*][p]Unhandled promise rejections are now logged to the console.[/p][/*][*][p]Added the column number to errors caught during the CompileModule step of script loading.[/p][/*][*][p]Deprecated planter from Instance.OnBombPlant event[/p][/*][*][p]Deprecated defuser from Instance.OnBombDefuse event[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1787614760,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1841579228666735",
