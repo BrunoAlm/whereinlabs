@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844751498218029",
+        "title": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029",
+        "is_external_url": true,
+        "author": "",
+        "contents": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/558215747id29826gol.webp\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/</p>",
+        "feedlabel": "GamingOnLinux",
+        "date": 1790159109,
+        "feedname": "GamingOnLinux",
+        "feed_type": 0,
+        "appid": 730
+      },
+      {
         "gid": "1844751498217560",
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/14~09/20)",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217560",
@@ -288,25 +301,6 @@
         "appid": 570,
         "tags": [
           "patchnotes"
-        ]
-      },
-      {
-        "gid": "1843481262690556",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556",
-        "is_external_url": true,
-        "author": "tomd",
-        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPlayerCamera:[/p][list][*][p]Renamed it to CustomPlayerCamera.[/p][/*][*][p]Added GetPlayer, GetMode, SetMode, and SetFollowConfig.[/p][/*][*][p]Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.[/p][/*][/list][/*][*][p]Added an 'observable' property to custom_hud_layout that controls whether an observer sees the UI as the spectated player sees it. Defaults to false.[/p][/*][*][p]Fixed several bugs related to stale custom_hud_layout state when changing spectator targets.[/p][/*][*][p]Added top-level custom_hud_layout classes driven by client state:[/p][list][*][p]HUD_BUYMENU_VISIBLE[/p][/*][*][p]HUD_SCOREBOARD_VISIBLE[/p][/*][/list][/*][*][p]custom_hud_layout now always draws on top of the base HUD.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Chat is now encrypted in demo files using the same rules as CS:GO :[/p][list][*][p]Team chat is no longer readable when playing back demo files.[/p][/*][*][p]Global chat is only readable in demo files when played back via the in-game watch UI.[/p][/*][/list][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1788994268,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes",
-          "mod_reviewed",
-          "ModAct_487176015_1788994844_0",
-          "mod_require_rereview"
         ]
       },
       {
