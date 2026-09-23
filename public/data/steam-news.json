@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844751498216926",
+        "title": "Rush Hour",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926",
+        "is_external_url": true,
+        "author": "brianlev",
+        "contents": "[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png\" autoplay=\"true\" controls=\"false\"][/video]\nPut your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match!\n\nMake the most of your limited budget and precious time to clear the objective. Control the tower when you eliminate the enemy team (or time expires) to win the round.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/4ccfe4f44119ac6ddd5cd39d24c907dd11f4c70a.png[/img]\nRun the gauntlet of battle arenas to capture the enemy castle and win the match. The battle arenas are randomly selected each time you play, so no two matches are the same.\n\nKeep track of your wins and compete for bragging rights with the Rush friends leaderboard!\n\n[h3]Pick, Pick Pick, Pick[/h3]\n[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/332c9f95f6e825649d2db55d15bff8a7d7c7b82a.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/a26282d4460f972b036a9873a3f1ed5a98fe989a.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/ab74e99b6fa25b35a355bc110a65e81906b3b22f.png\" autoplay=\"true\" controls=\"false\"][/video]\nWe think that if you spend a lot of time developing strategies on a map, you should have a chance to benefit from that investment. So today we're changing the process for getting into a map in Premier--instead of banning down to a single map, teams will vote to pick two maps each. After all four maps are picked, a single map will be randomly selected and the match will begin.\n\n[h3]Change You Can See[/h3]\n[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/5341ed2d42a633c39e6aedb7342f26f3db78a418.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/6f5bc36b20be7f069115b6bb1ea22e75ed4734e4.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/924591876f9ac3a56b658770ca6945b6fa9096c7.png\" autoplay=\"true\" controls=\"false\"][/video]\nToday's update also includes several quality of life improvements, starting with blood and bullet impact visiblity. Blood is now much more bloody, and bullet impacts are far more impacty.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/22559f46380abfdad669fbbebfb02f50149fb1a2.png[/img]\nBut wait, there's more! Crosshairs have gotten a significant upgrade with new shapes and other features, so check out the new Crosshair/Scopes settings and create the custom crosshair of your dreams. Also, Clan Tags are back! Select one of your Steam Groups in your player profile and you'll see your clan tag appear next to your name wherever you play.\n\n[h3]Change You Can't See (or Hear)[/h3]\nThere are some gameplay adjustments in today's update to add a bit of stealth to your game-time decisions. Reloading can now be performed silently (by holding the reload key), but with a cost--silent reloads take quite a bit longer. And for those of you who love scoping your scoped weapons, you'll now be perfectly silent when you unscope, as nature intended.\n\n[h3]Starjunk 95[/h3]\n[img]https://clan.fastly.steamstatic.com/images/3381077/602718694f8ef8a7d4adce9f2db208286af6b37f.png[/img]\nThere's a new Music Kit in town, featuring the sounds of Starjunk 95. Experience music from the grooviest station in the galaxy, available now!",
+        "feedlabel": "Community Announcements",
+        "date": 1790120317,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730
+      },
+      {
+        "gid": "1844751498216924",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924",
+        "is_external_url": true,
+        "author": "brianlev",
+        "contents": "[p]\\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map. [/p][/*][*][p]One of the four maps will be randomly selected and the match will begin.[/p][/*][/list][/*][/list][p][/p][p]\\[ RUSH ][/p][list][*][p]Rush is a fast-paced queued 3v3 game mode. [/p][/*][*][p]Players battle through a series of battle arenas to reach the opponent's castle and win the match.[/p][/*][*][p]Battle arenas are randomly selected for each match, so no two matches are the same.[/p][/*][*][p]Control the tower when you eliminate the enemy team (or time expires) to win the round.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Players can now reload silently (but slowly) by pressing and holding the reload key.[/p][/*][*][p]Un-scoping a sniper weapon no longer produces a sound.[/p][/*][*][p]Globally increased visual clarity and improved fidelity of bullet impact decals.[/p][/*][*][p]ammo_grenade_limit_total setting now also enforces the total number of grenades a player is allowed to purchase in a round.[/p][/*][*][p]Chickens now take damage from the Zeus x27.\n[/p][/*][/list][p]\\[ SETTINGS ][/p][list][*][p]Crosshairs have been updated to be resolution independent.[/p][list][*][p]A new \"Crosshair/Scopes\" tab is available in the Settings menu, and includes updated crosshair settings.[/p][/*][*][p]Added new crosshair styles[/p][/*][*][p]Updated the default crosshair to \"Dynamic Quad,\" which better represents weapon accuracy.[/p][/*][/list][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Fixed holes in world in Long A Main Hall.[/p][/*][*][p]Adjusted door geometry and grenade clipping inside Jaguar.[/p][/*][/list][p]Cache[/p][list][*][p]Some gap fixes and clipping adjustments around the blue doors in Mid.[/p][/*][/list][p]Mirage[/p][list][*][p]Reinforced scaffolding by balcony in A site.[/p][/*][/list][p]Train[/p][list][*][p]Blocked pixel gap in crates on bombsite A.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added ability to set a \"Clan Tag\" for players who are members of Steam Community Groups. You can adjust your Clan Tag from your Player Profile.[/p][/*][*][p]Added support for applying stickers to C4.[/p][/*][*][p]The Starjunk 95, Industrial Sunset Memories Music Kit is now available for purchase in standard and StatTrak versions through the STORE tab.[/p][/*][*][p]Halftime scoreboard stats should now fully reflect the results of the previous round.[/p][/*][*][p]Fixed a case where players could avoid a kick ban.[/p][/*][*][p]Players can now adjust music volume per game-mode.[/p][/*][/list][p][/p][p]\\[ WORKSHOP ] [/p][list][*][p]Added \"minimap_volume\" entity which enables a custom minimap image when a player is within the volume.[/p][/*][*][p]Added \"sky_camera_volume\" and \"sky_camera_volume_target\", which enable custom location-specific skybox rendering.[/p][/*][*][p]Added \"point_deathcam_bounds\" entity that constrains the player death camera.[/p][/*][*][p]Added \"env_shake_volume\" entity that allows camera shake only within a specified volume.[/p][/*][/list][p][/p][p]\\[ SCRIPTING ][/p][list][*][p]Added CSRadarPoint entity.[/p][/*][*][p]Added CSObservablePoint entity.[/p][/*][*][p]Added AddTeamMoney API method.[/p][/*][*][p]Added OnPlayerTeamChanged callback.[/p][/*][*][p]SetDialogVariableString now accepts a localization string.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1790120256,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1844115010503885",
+        "title": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://assetsio.gnwcdn.com/destiny-2-header_WGwvqoj.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Not long after announcing <a href=\"https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule\">changes to how they'll handle</a> majorly updating <a href=\"https://www.rockpapershotgun.com/games/marathon-2025\">Marathon</a> going forwards, Bungie have reversed course on their decision to <a href=\"https://www.rockpapershotgun.com/most-of-bungies-staff-were-reportedly-unaware-of-the-decision-to-end-active-development-on-destiny-2-until-it-went-public\">stop developing</a> <a href=\"https://www.rockpapershotgun.com/games/destiny-2\">Destiny 2</a> - a move they <a href=\"https://www.rockpapershotgun.com/following-the-last-destiny-2-update-layoffs-at-bungie-are-underway-with-most-of-the-shooters-team-affected\">followed with layoffs</a>. Promising to bring back vaulted bits of Destiny 2 and declaring that the series is \"foundational\" to their future. A future which they've kicked off with a lot of grovelling for forgiveness.</p>\n <p><a href=\"https://www.rockpapershotgun.com/bungie-decide-their-destiny-is-to-do-more-destiny-after-all-pledging-to-bring-back-vaulted-destiny-2-campaigns-while-declaring-that-marathon-needs-to-evolve\">Read more</a></p>",
+        "feedlabel": "Rock, Paper, Shotgun",
+        "date": 1790074725,
+        "feedname": "Rock, Paper, Shotgun",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1844115010502705",
         "title": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1844115010502705",
@@ -281,19 +323,6 @@
         "appid": 1938090
       },
       {
-        "gid": "1842846814452504",
-        "title": "Bungie готова сдать в аренду свою штаб-квартиру на срок до 2035 года",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1842846814452504",
-        "is_external_url": true,
-        "author": "Вадим Съедин",
-        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News201142/61563800a9-2_1390x600.jpg\" alt=\"\"><p>В 2021 году американское руководство<strong> Bungie</strong> объявило о масштабном расширении (почти в три раза) штаб-квартиры студии в штате Вашингтон. По данным СМИ, на кампус площадью 1,9 гектара было потрачено несколько сотен миллионов долларов.</p>",
-        "feedlabel": "Gamemag.ru",
-        "date": 1788751209,
-        "feedname": "Gamemag.ru",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
         "gid": "1842212951300964",
         "title": "Modern Warfare 4 Open Beta: Maps and Modes",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300964",
@@ -349,22 +378,6 @@
         "appid": 570
       },
       {
-        "gid": "1841579228663932",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932",
-        "is_external_url": true,
-        "author": "tomd",
-        "contents": "[p]\\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/p][/*][/list][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where player speed was too high when moving against walls.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1787182593,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
         "gid": "1841579228661427",
         "title": "The International Main Event",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661427",
@@ -378,22 +391,6 @@
         "appid": 570
       },
       {
-        "gid": "1840944183775194",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194",
-        "is_external_url": true,
-        "author": "tomd",
-        "contents": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1786575047,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
         "gid": "1840944183772671",
         "title": "The International: Streams, Secret Shop, and More",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772671",
@@ -404,12 +401,7 @@
         "date": 1786494519,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 570,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_1890460210_1786495912_0",
-          "mod_require_rereview"
-        ]
+        "appid": 570
       }
     ]
   }
