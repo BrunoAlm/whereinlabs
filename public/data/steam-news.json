@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844751498225646",
+        "title": "Джейсон Шрайер раскрыл подробности отменённого проекта Bungie - песочницы во вселенной Destiny под названием Payback",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498225646",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/ypCRbp4q6T3Iq9ZsCvYulA.png\"/>\n              <br />\n                                                                                <p>Согласно отчёту Bloomberg, Bungie в течение некоторого времени работала над игрой-песочницей во вселенной Destiny. Проект, возглавляемый Люком Смитом и Марком Ноузворти, получил название Payback. По описанию Шрайера, это должен был быть «будущий» Destiny — с той же вселенной, но, возможно, без привычного названия франшизы.</p>                                                                                  <p>Структура игры значительно отличалась от того, к чему привыкли фанаты Destiny. Шрайер сравнил Payback с Genshin Impact: акцент на героях, открытый мир, исследование и решение головоломок. Игровой процесс строился вокруг этих элементов, а не вокруг привычных шутерных механик.</p>                                                        <p>Одна из ключевых идей Payback — привлечь более молодую аудиторию, которая ещё не была знакома с Destiny. Средний возраст игроков франшизы постоянно рос, а Destiny 2 плохо справлялась с привлечением новичков из-за сложной системы адаптации и удаления контента.</p>                                                        <p>«В Payback было много отличий, но одна из идей заключалась в том, чтобы привлечь более молодую аудиторию, новую аудиторию, ту, которая ещё не была в самом центре вселенной Destiny, потому что средний возраст игроков Destiny постоянно увеличивался».</p>                                                                                  <p>Payback был отменён летом 2024 года. Официальные причины не называются, но решение совпало с общей перестройкой стратегии Bungie и сложностями внутри студии.</p>                                                                                  <p>Несмотря на отмену Payback, Bungie недавно подтвердила, что «не собирается заканчивать с Destiny». Студия анонсировала возвращение удалённого контента Destiny 2, включая кампании Red War и Forsaken.</p>                                                        <p>«Мы понимаем, что удаление этих элементов оказало долгосрочное влияние на доверие игроков к Destiny и их удовольствие от игры. Destiny 2 — это больше, чем просто контент. Это место, где игроки вместе создавали воспоминания, заводили прочные дружеские отношения и делились опытом, который оставался с ними на протяжении многих лет. Мы не можем изменить принятое нами решение, но мы можем признать его последствия и приложить усилия, чтобы исправить ситуацию, восстановив эти важные части истории Destiny».</p>                                                        <p>Однако студия предупредила, что возвращение контента займёт время: движок Destiny 2 сильно изменился после выхода Beyond Light, и старые зоны потребуют серьёзной адаптации — освещения, сражений, противников и игровых систем — под современные стандарты.</p>                                                        <p>Параллельно Bungie продолжает работу над Marathon — PvPvE-шутером с элементами эвакуации. Следующее крупное обновление выйдет в декабре и добавит режим командного боя насмерть, социальное пространство и отдельный PvE-режим. Студия обещает «более глубокий опыт выживания», который выйдет «за рамки жанровых ограничений».</p>                                                                                  <p>Таким образом, даже после отмены Payback Bungie сохраняет амбиции в отношении Destiny и продолжает экспериментировать с новыми форматами.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1790361219,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1844751498222773",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773",
@@ -207,19 +220,6 @@
         "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
-      },
-      {
-        "gid": "1844115010502066",
-        "title": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1844115010502066",
-        "is_external_url": true,
-        "author": "Morgan Park",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/bV3F7nx2W39gwhYQHBNvCi-1920-80.jpg\"/><br><br>\n                Bungie's new leadership duo laid out the \"next chapter of Bungie\" today in a blog post with an accompanying video. The big news is that Bungie has essentially uncanceled Destiny 2, or will at least go the lengths to finally undo its greatest mistake: vaulting a bunch of raids and multiple of its story campaigns. Funnily enough, that work has already begun on the community side with a <a href=\"https://www.pcgamer.com/games/fps/destiny-2-players-are-learning-how-to-crack-into-its-infamous-content-vault-by-tinkering-with-old-builds/\" target=\"_blank\">mod project</a> that makes vaulted content playable through an offline build of Destiny...\n                <a href=\"https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1790010809,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
       },
       {
         "gid": "1844115010498218",
