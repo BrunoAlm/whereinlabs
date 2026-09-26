@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1844751498226371",
+        "title": "PUBG Americas Series 2: Playoffs 2 Day 2 is LIVE!!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226371",
+        "is_external_url": true,
+        "author": "JBowlerr",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/85fe055d10511e8ce6508cc7ecca379d1569389d.png\"][/img][/p][p][/p][h2]The PUBG Americas Series 2 Playoffs begin tonight at 4pm EDT / 7pm EST![/h2][p][/p][p]Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut?[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ad84952d2d7de902c1c42b704aecb9ec94955d8.png\"][/img][/p][p]The PAS2 Playoffs have a unique qualification format. After each day of Playoffs, the leaderboard resets and the amount of qualification slots is lower on each consecutive day. Check out the full breakdown below![/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/9f79d9285f0259373652411829913f532d85f430.jpg\"][/img][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1790389009,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1844751498226291",
+        "title": "PUBG EMEA Championship: Playoffs 2 Day 2 is LIVE!!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226291",
+        "is_external_url": true,
+        "author": "JBowlerr",
+        "contents": "[p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/4a67769ad8c6873729a70b8673d1097db08196cb.png\"][/img][/p][h2]The PUBG EMEA Championship: Fall Playoffs are about to kick off tonight at 18:00 CEST! [/h2][p][/p][p]Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut? [/p][p]The PEC: Fall Playoffs have a unique qualification format. On Day 1, the top 8 teams in the 16-team lobby will qualify straight to the Finals. Teams who miss out will have a second chance on Day 2 with an easier lobby - but there will only be 5 qualification spots up for grabs. Finally, on Day 3, the remaining 16 teams will face off for just 3 qualification spots. Every match counts - who will make the cutoff? Tune in on [url=\"https://twitch.tv/pubg_battlegrounds\"]Twitch[/url], [url=\"https://kick.com/pubgesports\"]Kick[/url] and [url=\"https://www.youtube.com/@PUBGEsports/streams\"]YouTube[/url] from tonight at 18:00 CEST to find out.[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/1a4123c08e8181bd7c32e2f81997c1ee0da15149.png\"][/img][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1790384771,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1844751498226015",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added sv_clantags_enabled option so custom servers can disable clan tags.[/p][/*][*][p]The eggs of background players in main menu lobbies now rest in nests.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1790373294,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1844751498225646",
         "title": "Джейсон Шрайер раскрыл подробности отменённого проекта Bungie - песочницы во вселенной Destiny под названием Payback",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498225646",
@@ -138,19 +180,6 @@
         "appid": 730
       },
       {
-        "gid": "1844751498216926",
-        "title": "Rush Hour",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926",
-        "is_external_url": true,
-        "author": "brianlev",
-        "contents": "[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png\" autoplay=\"true\" controls=\"false\"][/video]\nPut your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match!\n\nMake the most of your limited budget and precious time to clear the objective. Control the tower when you eliminate the enemy team (or time expires) to win the round.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/4ccfe4f44119ac6ddd5cd39d24c907dd11f4c70a.png[/img]\nRun the gauntlet of battle arenas to capture the enemy castle and win the match. The battle arenas are randomly selected each time you play, so no two matches are the same.\n\nKeep track of your wins and compete for bragging rights with the Rush friends leaderboard!\n\n[h3]Pick, Pick Pick, Pick[/h3]\n[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/332c9f95f6e825649d2db55d15bff8a7d7c7b82a.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/a26282d4460f972b036a9873a3f1ed5a98fe989a.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/ab74e99b6fa25b35a355bc110a65e81906b3b22f.png\" autoplay=\"true\" controls=\"false\"][/video]\nWe think that if you spend a lot of time developing strategies on a map, you should have a chance to benefit from that investment. So today we're changing the process for getting into a map in Premier--instead of banning down to a single map, teams will vote to pick two maps each. After all four maps are picked, a single map will be randomly selected and the match will begin.\n\n[h3]Change You Can See[/h3]\n[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/5341ed2d42a633c39e6aedb7342f26f3db78a418.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/6f5bc36b20be7f069115b6bb1ea22e75ed4734e4.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/924591876f9ac3a56b658770ca6945b6fa9096c7.png\" autoplay=\"true\" controls=\"false\"][/video]\nToday's update also includes several quality of life improvements, starting with blood and bullet impact visiblity. Blood is now much more bloody, and bullet impacts are far more impacty.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/22559f46380abfdad669fbbebfb02f50149fb1a2.png[/img]\nBut wait, there's more! Crosshairs have gotten a significant upgrade with new shapes and other features, so check out the new Crosshair/Scopes settings and create the custom crosshair of your dreams. Also, Clan Tags are back! Select one of your Steam Groups in your player profile and you'll see your clan tag appear next to your name wherever you play.\n\n[h3]Change You Can't See (or Hear)[/h3]\nThere are some gameplay adjustments in today's update to add a bit of stealth to your game-time decisions. Reloading can now be performed silently (by holding the reload key), but with a cost--silent reloads take quite a bit longer. And for those of you who love scoping your scoped weapons, you'll now be perfectly silent when you unscope, as nature intended.\n\n[h3]Starjunk 95[/h3]\n[img]https://clan.fastly.steamstatic.com/images/3381077/602718694f8ef8a7d4adce9f2db208286af6b37f.png[/img]\nThere's a new Music Kit in town, featuring the sounds of Starjunk 95. Experience music from the grooviest station in the galaxy, available now!",
-        "feedlabel": "Community Announcements",
-        "date": 1790120317,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730
-      },
-      {
         "gid": "1844115010503885",
         "title": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
@@ -220,19 +249,6 @@
         "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
-      },
-      {
-        "gid": "1844115010498218",
-        "title": "PEC: Fall Finals 1 Day 3 is LIVE!!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010498218",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p]After an exciting weekend of qualifications (and non-qualifications) at last week’s Playoffs 1, it’s now almost time to crown our first (of two) PUBG EMEA Championship: Fall Champions!\n[/p][p]Will reigning champions Virtus.pro and NAVI retain their tournament title, or will a new challenger usurp them? I guess you’ll just have to find out this weekend…[/p][p][/p][p]Here’s your look at the lobby:[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/c7cb33a32aaefd63dbc4e35e0a29a7f21e9ce1b0.png\"][/img][/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td][p align=\"center\"]S8UL[/p][/td][td][p align=\"center\"]09[/p][/td][td][p align=\"center\"]Team Vitality[/p][/td][td][p align=\"center\"]S2G Esports[/p][/td][/tr][tr][td][p align=\"center\"]ACEND Club[/p][/td][td][p align=\"center\"]PGG[/p][/td][td][p align=\"center\"]Joga Bonito[/p][/td][td][p align=\"center\"]noslack[/p][/td][/tr][tr][td][p align=\"center\"]Virtus.pro[/p][/td][td][p align=\"center\"]Everlong[/p][/td][td][p align=\"center\"]Bushido Wildcats[/p][/td][td][p align=\"center\"]Big John[/p][/td][/tr][tr][td][p align=\"center\"]Twisted Minds[/p][/td][td][p align=\"center\"]Vis[/p][/td][td][p align=\"center\"]Natus Vincere[/p][/td][td][p align=\"center\"]Team Kazakhstan[/p][/td][/tr][/table][p][/p][p]The PEC Finals are all about consistency. We play the classic SUPER format: three match days, and whoever has the most amount of combined kill points and placement points at the end of 15 matches will become the first PEC: Fall Champion![/p][p][/p][h2]PGC Points[/h2][p][/p][p]Finals 1 & Finals 2 of PEC: Fall is the final chance for teams to earn PGC Points, which they will use to qualify to the PUBG Global Championship (PGC) 2026, in Istanbul, Türkiye! With 32 teams competing and over $1,500,000 of prize pool on the line (not to mention bragging rights of being the best PUBG team in the world), it’s already shaping up to be a dramatic event. Make sure to tune in to the PEC: Finals to find out who will secure their tickets to the event![/p][p]\n[/p][h2]PGC Host Wildcard[/h2][p][/p][p]With PGC taking place in Türkiye, one team for the Türkiye region will also be selected to represent their nation as the host team - seeded directly into the Grand Finals in Istanbul from December 11 - 13. The team will be selected based on performances throughout the year and other criteria - so a strong performance in regional tournaments like PEC could be critical. [/p][p][/p][p]Additionally, if a Turkish team qualifies for PGC via PGC Points, they will automatically receive the wildcard slot. The PGC Points slot will then be assigned to the next best ranked EMEA team in the PGC Points standings. If more than one Turkish team qualify for PGC via PGC Points directly, the top-ranked team will receive the Host Team Wildcard.[/p][p]\n[/p][h2]Drops[/h2][p][/p][p]Even if a PEC: Fall tournament title or ticket to Istanbul isn’t in your future, you can still tune in and earn Drops by watching the broadcast live on Twitch and Kick! Each day this weekend there’s a new Drop up for grabs - reach 120 minutes of cumulative watch time on a PEC (or PAS, or both!) broadcast on any given day to unlock that day’s drop.[/p][p][/p][p]In addition, there will be G-Coin giveaways throughout the broadcast. Check the hints shared on our social media channels during the broadcast to uncover the codes!\n [/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td rowspan=\"3\"][p]PAS & PEC Finals 1[/p][/td][td][p] Sep 18, 2026[/p][p][i]How to unlock: watch a PEC or PAS stream for 120 minutes[/i][/p][p][/p][p]PEC: from 18:00 CEST[/p][p]PAS: from 4pm PDT / 7pm EDT[/p][p]\n[/p][/td][td][p]THE ORIGINAL IS BACK T-Shirt[/p][/td][td][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/650c80e1608ff15361aa29bd8febbd3290282599.png\"][/img][/p][/td][/tr][tr][td][p] Sep 19, 2026[/p][/td][td][p]Peculiar Greeting[/p][/td][td][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/4d51d8648002ef6c25ba497a3af12c52c5f31aa3.png\"][/img][/p][/td][/tr][tr][td][p] Sep 20, 2026[/p][/td][td][p]PUBG Varsity Jacket[/p][/td][td][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/c7d44ca643f73aeca9770e4c8ac3ac1a6f0b5a53.png\"][/img][/p][/td][/tr][/table][p][/p][p]And in case you missed it: we had originally planned to also run drops during last weekend’s Playoffs broadcasts, but due to technical issues they were instead moved to the second Finals weekend (Oct 2 - 4). They’ll be available alongside the drops we originally planned, so be extra sure to tune in then for a weekend of double Drops. Mark your calendar! [/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1789869659,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1844115010495700",
