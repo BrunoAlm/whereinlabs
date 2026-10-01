@@ -2,6 +2,22 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1845383656379136",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
+        "is_external_url": true,
+        "author": "Vitaliy",
+        "contents": "[p]\\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style \"Static Quadrant\"[/p][/*][*][p]Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)[/p][/*][*][p]Allowed negative gaps for classic dynamic crosshair style[/p][/*][*][p]Changed the classic dynamic crosshair alpha increments to 0.01[/p][/*][*][p]Scope dot scale and color preferences are now included in the new crosshair share code[/p][/*][*][p]Changed the format of the crosshair share code to accommodate newly included crosshair settings[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1790808379,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1845383656376954",
         "title": "Get ready for Double Drops this weekend!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656376954",
@@ -204,19 +220,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1844751498218029",
-        "title": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029",
-        "is_external_url": true,
-        "author": "",
-        "contents": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/558215747id29826gol.webp\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/</p>",
-        "feedlabel": "GamingOnLinux",
-        "date": 1790159109,
-        "feedname": "GamingOnLinux",
-        "feed_type": 0,
-        "appid": 730
       },
       {
         "gid": "1844115010503885",
