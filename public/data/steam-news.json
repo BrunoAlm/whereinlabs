@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1845383656385644",
+        "title": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1845383656385644",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://assetsio.gnwcdn.com/pubg-black-budget-extraction-shooter-cancelled-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.rockpapershotgun.com/games/pubg-black-budget\">PUBG: Black Budget</a>, an extraction <a href=\"https://www.rockpapershotgun.com/best-fps-games\">shooter</a> spin-off of Krafton's battle royale, has been cancelled after just under a year of closed alpha testing. Krafton cited a lack of faith that Black Budget's \"current direction\" would lead to \"an experience players could enjoy over the long term\" as the reasoning behind their call to end development. Though, they insisted PUBG Studios have learned valuable lessons that'll serve future games.</p>\n <p><a href=\"https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term\">Read more</a></p>",
+        "feedlabel": "Rock, Paper, Shotgun",
+        "date": 1790933162,
+        "feedname": "Rock, Paper, Shotgun",
+        "feed_type": 0,
+        "appid": 578080
+      },
+      {
         "gid": "1845383656384313",
         "title": "Для Team Fortress 2 вышло обновление с хеллоуинским событием Scream Fortress XVIII",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656384313",
@@ -175,19 +188,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1844751498228394",
-        "title": "PUBG Americas Series 2: Playoffs 2 Day 3 is LIVE!!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498228394",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/1c242bae8d71c0439b274f95de884b17d3b79a2d.png\"][/img][/p][p][/p][h2]The PUBG Americas Series 2 Playoffs begin tonight at 4pm EDT / 7pm EST![/h2][p][/p][p]Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut?[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/2ad84952d2d7de902c1c42b704aecb9ec94955d8.png\"][/img][/p][p]The PAS2 Playoffs have a unique qualification format. After each day of Playoffs, the leaderboard resets and the amount of qualification slots is lower on each consecutive day. Check out the full breakdown below![/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/9f79d9285f0259373652411829913f532d85f430.jpg\"][/img][/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1790474698,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1844751498226015",
