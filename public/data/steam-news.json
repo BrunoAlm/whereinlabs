@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1845383656386586",
+        "title": "The 7 incredibly hyper-specific things I'm looking forward to when Destiny 2 brings back its deleted campaigns, raids and destinations",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1845383656386586",
+        "is_external_url": true,
+        "author": "Phil Savage",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/NqS3mSmFgDwbXoz3LYMafJ-1920-80.jpg\"/><br><br>\n                In a surprise move, Bungie is <a href=\"https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/\">bringing a bunch of stuff back</a> to Destiny 2. All the campaigns, destinations and raids that were removed from the game back in 2020 will return at some unspecified point in the future...\n                <a href=\"https://www.pcgamer.com/games/fps/the-7-incredibly-hyper-specific-things-im-looking-forward-to-when-destiny-2-brings-back-its-deleted-campaigns-raids-and-destinations/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1790952526,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1845383656385644",
         "title": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1845383656385644",
@@ -299,19 +312,6 @@
         "feedlabel": "PC Gamer",
         "date": 1790033063,
         "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1844115010504108",
-        "title": "Официально: Bungie возобновит поддержку Destiny 2 и вернёт весь удалённый контент",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010504108",
-        "is_external_url": true,
-        "author": "Вадим Съедин",
-        "contents": "<img src=\"https://gamemag.ru/images/cache/News/News201353/697798067d-2_1390x600.jpg\" alt=\"\"><p><strong>Bungie </strong>объявила о решении возобновить поддержку <strong>Destiny 2</strong>. Как пояснил новый лидер студии<em> Порья Торкан, </em>за последние несколько лет Bungie лишилась доверия со стороны аудитории и потеряла ценных специалистов. Сейчас она намерена трансформироваться.</p>",
-        "feedlabel": "Gamemag.ru",
-        "date": 1790029774,
-        "feedname": "Gamemag.ru",
         "feed_type": 0,
         "appid": 1085660
       },
