@@ -2,6 +2,22 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1845383656394875",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875",
+        "is_external_url": true,
+        "author": "Vitaliy",
+        "contents": "[p]\\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1791243583,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1845383656394827",
         "title": "Team Fortress 2 Update Released",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394827",
@@ -288,22 +304,6 @@
         "feedname": "PlayGround.ru - официальная группа",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1844751498222773",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.[/p][/*][*][p]Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where the AK-47 inspect animation sometimes popped.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1790286698,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1844751498222077",
