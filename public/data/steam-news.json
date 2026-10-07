@@ -2,6 +2,45 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846018067925681",
+        "title": "В Dota 2 добавили сокровищницу Trove of Terror - новая аркана на Tidehunter и возвращение арканы Drow Ranger",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925681",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/GW8W6FVboA8d86KpT-cu6g.png\"/>\n              <br />\n                                                                                <p>В Dota 2 вышла сокровищница Trove of Terror. Она принесла 19 косметических предметов, включая 15 наборов уровня Immortal и две арканы — для Drow Ranger и Tidehunter.</p>                                                        <p>Разработчики также добавили механику, снижающую риск неудачных открытий. Обе арканы гарантированно выпадут на 50-м сундуке, а на 12-м и 40-м игрок получит дополнительные награды — облики для Терзателя и Рошана. Одна сокровищница стоит 424 рубля.</p>                                                        <p>Кроме аркан, в набор вошли скины для Tiny, Marci, Treant Protector, Terrorblade, Oracle, Primal Beast, Ancient Apparition, Broodmother, Anti-Mage, Undying, Pudge и Death Prophet.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <p>Ранее, 15 сентября, в Dota 2 вышел патч 7.41f, где разработчики скорректировали баланс героев и предметов.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1791368107,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 570
+      },
+      {
+        "gid": "1846018067925197",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/28~10/04)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925197",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11200]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791356440,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1846018067925017",
+        "title": "Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png\"/>\n              <br />\n                                                      <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете естественных и технических наук, предложив новый подход к борьбе с нечестными пользователями. Его работа посвящена системе поведенческой биометрии, которая позволяет вычислять реальную личность игрока по микромоторике рук и связывать баны с человеком, а не с его учетной записью Steam.</p>                                                                                  <p>Главной уязвимостью современных античитов геймер назвал блокировку конкретных аккаунтов. Получив бан, реальный нарушитель просто покупает или регистрирует новый аккаунт и возвращается на серверы со своими читами. Разработанный алгоритм анализирует обычные записи матчей, которые игра уже сохраняет, и формирует персональный «цифровой отпечаток» на основе индивидуальных привычек ввода:</p>                                                        <p>В соревновательном шутере игроки тысячи раз повторяют одни и те же действия под давлением фактора времени: флики, контр-стрейфы, контроль отдачи и броски гранат. Со временем эти движения переходят на уровень подсознательной мышечной памяти. Вы можете сменить ник, звание, аккаунт, оружие и даже общий стиль игры. Но изменить собственные руки куда сложнее.</p>                                                        <p>— объяснил автор диссертации.</p>                                                        <p>В ходе испытаний на выборке из более чем тысячи игроков система показала свою эффективность:</p>                                                        <p>анализ движений мыши безошибочно определил пользователя во всех 100% случаев;</p>                                                        <p>паттерны нажатий клавиатуры показали точность в 98%;</p>                                                        <p>комбинация двух метрик безошибочно подтвердила все 13 известных исследователю тестовых пар аккаунтов одного и того же человека.</p>                                                                                                                                      <p>Что еще более интересно, в процессе тестирования система попутно разоблачила скрытых смурфов: несколько совпадений, которые автор сперва посчитал ложным срабатыванием, но при детальной проверке оказались дополнительными твинками игроков из базы данных. По замыслу создателя, данная технология могла бы работать в связке с VAC и системой «Фактора доверия». Это позволило бы античиту распознавать заблокированного игрока сразу же, как только тот садится за новую учетную запись.</p>                                                        <p>Впрочем, исследователь признал и текущие ограничения проекта: метод пока не проходил испытания на миллионной аудитории серверов Valve, а также может давать сбои, если за одним компьютером поочередно играют несколько членов семьи. По этой причине автор рекомендует на первых порах использовать биометрический отпечаток как весомую улику для системы патруля, а не как повод для мгновенного бана. Разработчик надеется, что представители Valve или соревновательных платформ вроде FACEIT обратят внимание на исследование и помогут протестировать технологию в реальных условиях.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1791350338,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 730
+      },
+      {
         "gid": "1846018067924633",
         "title": "Inside the Trove of Terror",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067924633",
@@ -209,19 +248,6 @@
         "appid": 1085660
       },
       {
-        "gid": "1845383656385644",
-        "title": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1845383656385644",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<img src=\"https://assetsio.gnwcdn.com/pubg-black-budget-extraction-shooter-cancelled-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.rockpapershotgun.com/games/pubg-black-budget\">PUBG: Black Budget</a>, an extraction <a href=\"https://www.rockpapershotgun.com/best-fps-games\">shooter</a> spin-off of Krafton's battle royale, has been cancelled after just under a year of closed alpha testing. Krafton cited a lack of faith that Black Budget's \"current direction\" would lead to \"an experience players could enjoy over the long term\" as the reasoning behind their call to end development. Though, they insisted PUBG Studios have learned valuable lessons that'll serve future games.</p>\n <p><a href=\"https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term\">Read more</a></p>",
-        "feedlabel": "Rock, Paper, Shotgun",
-        "date": 1790933162,
-        "feedname": "Rock, Paper, Shotgun",
-        "feed_type": 0,
-        "appid": 578080
-      },
-      {
         "gid": "1845383656379136",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
@@ -282,22 +308,6 @@
         "contents": "[p]\\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]",
         "feedlabel": "Community Announcements",
         "date": 1790635105,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1844751498226015",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added sv_clantags_enabled option so custom servers can disable clan tags.[/p][/*][*][p]The eggs of background players in main menu lobbies now rest in nests.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1790373294,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 730,
@@ -414,19 +424,6 @@
         "date": 1787257316,
         "feedname": "PC Gamer",
         "feed_type": 0,
-        "appid": 570
-      },
-      {
-        "gid": "1841579228661427",
-        "title": "The International Main Event",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661427",
-        "is_external_url": true,
-        "author": "krAnk0r",
-        "contents": "[p][img src=\"{STEAM_CLAN_LOC_IMAGE}/3703047/a7ab9b6d4c788583a689e0519021a93a76c17f30.png\"][/img][/p][p]The sixteen best Dota teams in the world spent the last week battling through an intense Group Stage, and now only eight contenders remain. In a matter of hours Team Vision, Team Liquid, Nigma Galaxy, Team Falcons, BoomBoys, Team Spirit, Iron Wing, and Team Yandex will begin the final push to claim the Aegis of Champions as they all fight to be the last team standing at The International 2026.[/p][p]The double elimination bracket that will crown our champions kicks off at SPD Bank Oriental Sports Center in Shanghai on Thursday, August 20 and will culminate in a best-of-five Grand Finals on Sunday, August 23. We congratulate everyone who has made it this far, and we eagerly await the final test.[/p][p][/p][h2]Attending The International[/h2][p]If you're heading to the arena in Shanghai to watch The International live, a flurry of activity awaits you. Check out some of the more important details below.[/p][p][/p][h3]Schedule [/h3][p]The International pre-show begins each day at 9:30 AM China Standard Time. Things officially kick off with the Opening Ceremony at 10 AM on Thursday, and the first series is scheduled to start soon after. On the following days, matches will begin at 10 AM. Take in the [url=\"https://www.dota2.com/esports/ti15/schedule\"]full schedule of matches available here[/url].[/p][p][/p][h3]Meet the Teams[/h3][p]Each day of the Main Event, fans will have the chance to attend meet and greets with teams and talent on the 2F Concourse of the arena. Fan participation will be determined by a random draw of eligible ticket holders who have purchased tickets prior to 5 PM the day before. Selected fans will be notified electronically — as well as on TV displays throughout the venue concourse. More information on slots and eligibility will be provided on site.[/p][p][/p][h3]Crimson Witness and Badge Binding[/h3][p]Attendees should pick up their commemorative badges and event swag bags when they scan a digital ticket for their first entry into the venue. Remember to bind your badge to your Steam account to ensure you're eligible for Crimson Witness Treasure drops on the First Blood of each game at The International.[/p][p][/p][h3]Venue Information[/h3][p]To help things run smoothly, here's a rundown of some venue details you should know:[/p][list][*][p][b]What time do doors open? [/b]Arena doors open every day at 8 AM China Standard Time, two hours before the first match. Please note that entry will not be allowed after 9 PM each evening.[/p][/*][*][p][b]Where should I enter the arena?[/b] [url=\"https://cdn.steamstatic.com/apps/dota2/images/dota_react//international2026/map.png\"]Please queue for entrance at the arena's Gate 0 Plaza[/url]. Those with 1F Stands and Suites tickets, please queue at the left-side (facing the venue) security checkpoint. Those with 3F Stands tickets, please queue at the right-side (facing the venue) security checkpoint. After passing through the turnstile for ticket verification, please collect your swag bag.[/p][/*][*][p][b]Can I sit anywhere or are there preassigned seats?[/b] Seats at The International 2026 are assigned. Please make sure to queue in the entry area designated outside of the arena for your seating sections.[/p][/*][*][p][b]Is re-entry permitted?[/b] All ticket holders are permitted to enter and exit the venue up to THREE times per match day. For re-entry, please re-queue in the designated lane.[/p][/*][/list][p][/p][h3]The On-Site Secret Shop[/h3][p]The Secret Shop will operate in SPD Bank Oriental Sports Center from August 20 - 23, opening each day at 9:00am and closing after the first break of the last series of the day. Customers are welcome to purchase directly from on-site cashiers or use the Perfect World app to place an order for pick-up.[/p][p][/p][h3]On-Site Activities[/h3][p]In addition to SecretLab and SteelSeries booths in the concourse, The International Players Jackets and Championship rings from all previous years will be on display. Plus, all fans are invited to leave their mark on the event by signing one of the graffiti walls. There will also be opportunities to take photos with cosplayers roaming the arena on Saturday and Sunday, and don't forget to check out the handmade embroidered Aegis of Champions on display throughout the event.[/p][p][/p][h3]Cosplay Finalists[/h3][p]Don't miss the best of this year's crop of Dota 2 cosplay, on display in the arena on August 23 before the Grand Finals.[/p][p][/p][h3]Watching The International Online[/h3][p]Even if you can't make it to the arena, there are still a ton of options to catch all the action at The International. From Twitch to YouTube to Steam, The International will be streamed on multiple platforms in multiple languages.[/p][list][*][p][b]Chinese[/b]: [url=\"https://www.twitch.tv/dota2ti_cn\"]Twitch[/url], [url=\"https://store.steampowered.com/publisher/Dota/sale/TheInternational2026\"]Steam[/url], [url=\"https://www.youtube.com/dota2\"]YouTube[/url][/p][/*][/list][list][*][p][b]English[/b]: [url=\"https://www.twitch.tv/dota2ti\"]Twitch[/url], [url=\"https://store.steampowered.com/publisher/Dota/sale/TheInternational2026\"]Steam[/url], [url=\"https://www.youtube.com/dota2\"]YouTube[/url][/p][/*][/list][list][*][p][b]Russian[/b]: [url=\"https://www.twitch.tv/dota2ti_RU\"]Twitch[/url], [url=\"https://store.steampowered.com/publisher/Dota/sale/TheInternational2026\"]Steam[/url], [url=\"https://www.youtube.com/dota2\"]YouTube[/url][/p][/*][/list][list][*][p][b]Spanish[/b]: [url=\"https://www.twitch.tv/dota2ti_es\"]Twitch[/url], [url=\"https://store.steampowered.com/publisher/Dota/sale/TheInternational2026\"]Steam[/url], [url=\"https://www.youtube.com/dota2\"]YouTube[/url], [url=\"https://www.facebook.com/dota2\"]Facebook[/url][/p][/*][/list][p][/p][h3]The Online Secret Shop[/h3][p]Fans interested in purchasing swag from this year's offerings are welcome to purchase online. We have two shops available, depending on which part of the world you're in. Fans located in China can purchase through [url=\"https://wmsjdj.tmall.com/\"]https://wmsjdj.tmall.com/[/url] and fans everywhere else can head over to [url=\"https://pwrdesports.aliexpress.com/\"]https://pwrdesports.aliexpress.com/[/url] to check it all out.[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1787107564,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
         "appid": 570
       }
     ]
