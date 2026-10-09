@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846018067932423",
+        "title": "Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/98mRQB8laACN8ppsCnBa5g.jpeg\"/>\n              <br />\n                                                                                <p>Valve выпустила небольшое обновление для Counter-Strike 2 от 9 октября. Патч затронул баланс оружия, звуковые эффекты и геометрию карт, а также принёс несколько технических исправлений. Размер загрузки составил около 539 МБ.</p>                                                        <p>Главное изменение касается AUG: время перезарядки винтовки сократили на полсекунды. Такая корректировка может повлиять на поведение оружия в перестрелках, хотя сама по себе не означает масштабного пересмотра его баланса. Кроме того, разработчики добавили специальный значок для выброшенных наборов сапёра, чтобы их было проще заметить на карте.</p>                                                        <p>Valve также исправила ошибку со звуковым событием при бесшумной перезарядке Desert Eagle. Ещё одно исправление касается просмотра демок: теперь не должны возникать гудящие фоновые звуки. Помимо этого, разработчики продолжили устранять проблемы с геометрией на картах режима Rush, обновили локализацию и внесли улучшения в стабильность игры.</p>                                                        <p>Предыдущий небольшой патч для CS2 вышел 6 октября. Тогда Valve добавила кнопки управления загруженными картами из Мастерской, обновила локализованные элементы фотокниги питомцев и скорректировала параметры кэша шейдеров VK. Новое обновление продолжает серию точечных улучшений без крупных изменений игрового процесса.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1791530925,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 730
+      },
+      {
         "gid": "1846018067931597",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597",
@@ -259,22 +272,6 @@
         "feedname": "PC Gamer",
         "feed_type": 0,
         "appid": 1085660
-      },
-      {
-        "gid": "1845383656379136",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
-        "is_external_url": true,
-        "author": "Vitaliy",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style \"Static Quadrant\"[/p][/*][*][p]Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)[/p][/*][*][p]Allowed negative gaps for classic dynamic crosshair style[/p][/*][*][p]Changed the classic dynamic crosshair alpha increments to 0.01[/p][/*][*][p]Scope dot scale and color preferences are now included in the new crosshair share code[/p][/*][*][p]Changed the format of the crosshair share code to accommodate newly included crosshair settings[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1790808379,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1844751498234654",
