@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846018067936184",
+        "title": "Team Fortress 2 исполнилось 19 лет - культовый шутер Valve приближается к юбилею",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936184",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/WNE-Q3R6icg6baFxCNv15Q.jpeg\"/>\n              <br />\n                                                                                <p>10 октября 2007 года состоялся релиз Team Fortress 2 — многопользовательского шутера от Valve, который за почти два десятилетия стал одной из самых узнаваемых игр в жанре. Сегодня, 10 октября 2026 года, проект отмечает 19-летие, а до круглого юбилея остаётся всего год.</p>                                                        <p>Team Fortress 2 выделяется своим мультяшным визуальным стилем, узнаваемыми персонажами и юмором. В основе игры — командные сражения между двумя противоборствующими сторонами, где успех зависит от взаимодействия игроков и грамотного выбора класса. Всего в игре девять классов, каждый со своим оружием, способностями и ролью на поле боя: от тяжеловооружённого Пулемётчика до быстрого Разведчика и инженера, который строит турели и точки снабжения.</p>                                                        <p>Изначально Team Fortress 2 вышла в составе сборника The Orange Box вместе с Half-Life 2: Episode Two и Portal. Позже игра стала доступна отдельно и перешла на условно-бесплатную модель распространения. Благодаря необычному художественному стилю, мемам, коллекционированию предметов и активному сообществу она надолго пережила многие другие сетевые шутеры своего времени.</p>                                                        <p>За годы существования Team Fortress 2 обзавелась огромным количеством пользовательских материалов, карт, режимов и внутриигровых предметов. Несмотря на возраст, игра продолжает привлекать поклонников.</p>                                                        <p>Теперь сообществу осталось дождаться следующей важной даты — 20-летия Team Fortress 2, которое наступит 10 октября 2027 года.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1791635459,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1846018067934021",
         "title": "DMZ Deep Dive, Part 2: DMZ Early Access Confirmed",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067934021",
@@ -210,19 +223,6 @@
         "feedlabel": "Product Update",
         "date": 1791241080,
         "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1845383656394834",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1845383656394834",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Added sv_wallbug convar to allow previous movement behavior on community servers (related to the missed note at the bottom)\n<li>Fixed view jitter that occurs and persists when playing for extended periods of time\n<li>Fixed snd_mix_async from crashing the game\n<li>Fixed sv_parallel_sendsnapshot\n<li>Fixed Marshlands contract not activating\n<li>Fixed the Skeleton Crew not hiding the Sniper bullets\n<li>Fixed the Bone Chiller not hiding the correct bodygroup\n<li>Fixed additional bodygroup settings for styles not being applied to disguised Spies\n<li>Updated the Bounty Hunter's Brim to fix a problem with the materials\n<li>Updated the Clowning Cowl<ul>\n<li>Fixed minor clipping issue on Pyro's right shoulder strap for the Untucked style in some standing poses\n<li>Fixed texture warping on the Tucked style</ul>\n<li>Fixed the \"Get a train, saw, or laser kill\" objective on TrainSawLaser not counting kills\n<li>Updated Marshlands to use mp_winlimit 2 like last year\n<li>Updated the numbers required to complete the Scaredy-Cat bonus objectives\n<li>Updated quest objectives for Outburst (VSH)\n<li>Updated zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods to fix out-of-bounds exploits using Zombie Engineer's Beacon\n<li>Custom Maps<ul>\n<li>Increased various limits for new custom maps\n<li>Added -notjuncsdetail option to VBSP</ul>\n</ul>\nMissed from the Halloween update:\n<ul>\n<li>Fixed a bug where players could have a chance to get stuck in certain oblique angles of walls and props\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1791241080,
-        "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
       },
