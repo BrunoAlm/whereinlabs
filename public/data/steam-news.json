@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846018067942013",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067942013",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\n[*]Added 'No Grenades' style for the General's Greatcoat\n[*]Fixed regression in the Sandwich Diner war paint\n[*]Fixed an exploit where the Dragon's Fury could crash the server\n[*]Updated the in-game item importer to support the Medic's backpack bodygroup\n[*]Updated the style names for The Damage Dealer\n[*]Updated the Flor de Muerto Unusual effect to fix to fix clutter issues\n[*]Updated the Electric Impulse Unusual effect to fix visibility issues\n[*]Updated the Hat of Undeniable Wealth and Respect to fix missing BLU skin and low-res materials\n[*]Updated koth_sawmill_event[list]\n[*]Added new portals that spawn for the team that loses the point in their own respawn room in an attempt to help them (suggestion by Dewill)\n[*]Fixed RED teleport spawn being unusable by clients\n[*]Fixed random particles not working on cap\n[*]Fixed eyes under point not moving around\n[*]Fixed clipping on roof near RED spawn\n[*]Fixed damage numbers for kill zone in underworld\n[*]Changed some overlays\n[*]Minor Luxel optimization[/list]\n[*]Updated koth_trainsawlaser[list]\n[*]Improved overall map performance\n[*]Slightly lowered respawn times\n[*]Added missing nobuilds to rooftops (thanks Mr. Happy Face!)\n[*]Added nobuilds under stairs on each side of the map\n[*]Updated some particle effects\n[*]Marked some less important particles as weather effects, which allows them to be turned off for improved performance\n[*]Fixed being able to shoot through balcony railings (thanks Casapillar!)\n[*]Fixed stuck-in-floor bug on train that falls just outside of spawn\n[*]Fixed floating light outside of map (thanks orizyre!)\n[*]Fixed vphysics spam in console[/list]\n[*]Updated Updated zi_atoll, zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods[list]\n[*]Fixed Zombie ability icons sometimes turning into a white line between level changes \n[*]Fixed \"Heal\" ability icon creating a gray line on the screen[/list]\n[*]Updated zi_murky (additional changes)[list]\n[*]Removed nobuilds from rooftops \n[*]Fixed missing human spawn triggers[/list]\n[*]Updated zi_blazehattan, zi_devastation_final1, zi_sanitarium, and zi_woods (additional changes)[list]\n[*]More clipping and trigger fixes[/list]\n[/list]\n",
+        "feedlabel": "Community Announcements",
+        "date": 1791830635,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1846018067942016",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1846018067942016",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Added 'No Grenades' style for the General's Greatcoat\n<li>Fixed regression in the Sandwich Diner war paint\n<li>Fixed an exploit where the Dragon's Fury could crash the server\n<li>Updated the in-game item importer to support the Medic's backpack bodygroup\n<li>Updated the style names for The Damage Dealer\n<li>Updated the Flor de Muerto Unusual effect to fix to fix clutter issues\n<li>Updated the Electric Impulse Unusual effect to fix visibility issues\n<li>Updated the Hat of Undeniable Wealth and Respect to fix missing BLU skin and low-res materials\n<li>Updated koth_sawmill_event<ul>\n<li>Added new portals that spawn for the team that loses the point in their own respawn room in an attempt to help them (suggestion by Dewill)\n<li>Fixed RED teleport spawn being unusable by clients\n<li>Fixed random particles not working on cap\n<li>Fixed eyes under point not moving around\n<li>Fixed clipping on roof near RED spawn\n<li>Fixed damage numbers for kill zone in underworld\n<li>Changed some overlays\n<li>Minor Luxel optimization</ul>\n<li>Updated koth_trainsawlaser<ul>\n<li>Improved overall map performance\n<li>Slightly lowered respawn times\n<li>Added missing nobuilds to rooftops (thanks Mr. Happy Face!)\n<li>Added nobuilds under stairs on each side of the map\n<li>Updated some particle effects\n<li>Marked some less important particles as weather effects, which allows them to be turned off for improved performance\n<li>Fixed being able to shoot through balcony railings (thanks Casapillar!)\n<li>Fixed stuck-in-floor bug on train that falls just outside of spawn\n<li>Fixed floating light outside of map (thanks orizyre!)\n<li>Fixed vphysics spam in console</ul>\n<li>Updated Updated zi_atoll, zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods<ul>\n<li>Fixed Zombie ability icons sometimes turning into a white line between level changes \n<li>Fixed \"Heal\" ability icon creating a gray line on the screen</ul>\n<li>Updated zi_murky (additional changes)<ul>\n<li>Removed nobuilds from rooftops \n<li>Fixed missing human spawn triggers</ul>\n<li>Updated zi_blazehattan, zi_devastation_final1, zi_sanitarium, and zi_woods (additional changes)<ul>\n<li>More clipping and trigger fixes</ul>\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1791830040,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1846018067942014",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/285796/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Added 'No Grenades' style for the General's Greatcoat<br><li>Fixed regression in the Sandwich Diner war paint<br><li>Fixed an exploit where the Dragon's Fury could crash the server<br><li>Updated the in-game item importer to support the Medic's backpack bodygroup<br><li>Updated the style names for The Damage Dealer<br><li>Updated the Flor de Muerto Unusual effect to fix to fix clutter issues<br><li>Updated the Electric Impulse Unusual effect to fix visibility issues<br><li>Updated the Hat of Undeniable Wealth and Respect to fix missing BLU skin and low-res materials<br><li>Updated koth_sawmill_event<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Added new portals that spawn for the team that loses the point in their own respawn room in an attempt to help them (suggestion by Dewill)<br><li>Fixed RED teleport spawn being unusable by clients<br><li>Fixed random particles not working on cap<br><li>Fixed eyes under point not moving around<br><li>Fixed clipping on roof near RED spawn<br><li>Fixed damage numbers for kill zone in underworld<br><li>Changed some overlays<br><li>Minor Luxel optimization</ul><li>Updated koth_trainsawlaser<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Improved overall map performance<br><li>Slightly lowered respawn times<br><li>Added missing nobuilds to rooftops (thanks Mr. Happy Face!)<br><li>Added nobuilds under stairs on each side of the map<br><li>Updated some particle effects<br><li>Marked some less important particles as weather effects, which allows them to be turned off for improved performance<br><li>Fixed being able to shoot through balcony railings (thanks Casapillar!)<br><li>Fixed stuck-in-floor bug on train that falls just outside of spawn<br><li>Fixed floating light outside of map (thanks orizyre!)<br><li>Fixed vphysics spam in console</ul><li>Updated Updated zi_atoll, zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed Zombie ability icons sometimes turning into a white line between level changes <br><li>Fixed \"Heal\" ability icon creating a gray line on the screen</ul><li>Updated zi_murky (additional changes)<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Removed nobuilds from rooftops <br><li>Fixed missing human spawn triggers</ul><li>Updated zi_blazehattan, zi_devastation_final1, zi_sanitarium, and zi_woods (additional changes)<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>More clipping and trigger fixes</ul></ul>",
+        "feedlabel": "Product Update",
+        "date": 1791830040,
+        "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1846018067936184",
         "title": "Team Fortress 2 исполнилось 19 лет - культовый шутер Valve приближается к юбилею",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936184",
@@ -109,19 +151,6 @@
         "appid": 440
       },
       {
-        "gid": "1846018067927618",
-        "title": "Operation Mooncrash War Paint Contest Results",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1846018067927618",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3781205042\" target=\"_blank\"><img src=\"https://steamcdn-a.akamaihd.net/steam/news/285788/mooncrash_image_small.png?t=1516190994\"></a>\n(Image credit: <a href=\"https://steamcommunity.com/id/ryebreadmac/\" target=\"_blank\">Mac</a>)<br><br>\n\n<p><b>The Operation Mooncrash War Paint Contest results are in!</b> After being rated based on the three criteria of Theme Adherence/Concept, Execution, and Personal Preference, the grand winners and runner-ups have been decided!</p><br>\n\n<p>The winners and other awesome submissions have been put into the main <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3781205042\" target=\"_blank\">Operation Mooncrash Collection</a>. Every entry for the war paint contest has been placed into the <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3798614326\" target=\"_blank\">Entries Collection</a>. The project is still accepting submissions, even war paints, if you still want to contribute.</p><br>\n\n<p>Also, the <b>Map Assets Contest deadline has been extended to the <u>end of November</b></u> and has received a prize pool boost to <u><b>330 keys</b></u>! You can still participate by making posters, world textures, gameplay assets, environment assets, and detail props.</p><br>\n\n<p>To participate in the Map Assets Contest, join their <a href=\"https://discord.com/invite/6C4858e4JB\" target=\"_blank\">Discord Server</a>!</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1791407700,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1846018067927076",
         "title": "Virtus.pro and Team Falcons crowned PEC & PAS Finals 2 Champions!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067927076",
@@ -201,35 +230,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1845383656394827",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394827",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\n[*]Added sv_wallbug convar to allow previous movement behavior on community servers (related to the missed note at the bottom)\n[*]Fixed view jitter that occurs and persists when playing for extended periods of time\n[*]Fixed snd_mix_async from crashing the game\n[*]Fixed sv_parallel_sendsnapshot\n[*]Fixed Marshlands contract not activating\n[*]Fixed the Skeleton Crew not hiding the Sniper bullets\n[*]Fixed the Bone Chiller not hiding the correct bodygroup\n[*]Fixed additional bodygroup settings for styles not being applied to disguised Spies\n[*]Updated the Bounty Hunter's Brim to fix a problem with the materials\n[*]Updated the Clowning Cowl[list]\n[*]Fixed minor clipping issue on Pyro's right shoulder strap for the Untucked style in some standing poses\n[*]Fixed texture warping on the Tucked style[/list]\n[*]Fixed the \"Get a train, saw, or laser kill\" objective on TrainSawLaser not counting kills\n[*]Updated Marshlands to use mp_winlimit 2 like last year\n[*]Updated the numbers required to complete the Scaredy-Cat bonus objectives\n[*]Updated quest objectives for Outburst (VSH)\n[*]Updated zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods to fix out-of-bounds exploits using Zombie Engineer's Beacon\n[*]Custom Maps[list]\n[*]Increased various limits for new custom maps\n[*]Added -notjuncsdetail option to VBSP[/list]\n[/list]\nMissed from the Halloween update:\n[list]\n[*]Fixed a bug where players could have a chance to get stuck in certain oblique angles of walls and props\n[/list]\n",
-        "feedlabel": "Community Announcements",
-        "date": 1791241362,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1845383656394829",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/285564/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Added sv_wallbug convar to allow previous movement behavior on community servers (related to the missed note at the bottom)<br><li>Fixed view jitter that occurs and persists when playing for extended periods of time<br><li>Fixed snd_mix_async from crashing the game<br><li>Fixed sv_parallel_sendsnapshot<br><li>Fixed Marshlands contract not activating<br><li>Fixed the Skeleton Crew not hiding the Sniper bullets<br><li>Fixed the Bone Chiller not hiding the correct bodygroup<br><li>Fixed additional bodygroup settings for styles not being applied to disguised Spies<br><li>Updated the Bounty Hunter's Brim to fix a problem with the materials<br><li>Updated the Clowning Cowl<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed minor clipping issue on Pyro's right shoulder strap for the Untucked style in some standing poses<br><li>Fixed texture warping on the Tucked style</ul><li>Fixed the \"Get a train, saw, or laser kill\" objective on TrainSawLaser not counting kills<br><li>Updated Marshlands to use mp_winlimit 2 like last year<br><li>Updated the numbers required to complete the Scaredy-Cat bonus objectives<br><li>Updated quest objectives for Outburst (VSH)<br><li>Updated zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods to fix out-of-bounds exploits using Zombie Engineer's Beacon<br><li>Custom Maps<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Increased various limits for new custom maps<br><li>Added -notjuncsdetail option to VBSP</ul></ul>Missed from the Halloween update:<br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed a bug where players could have a chance to get stuck in certain oblique angles of walls and props<br></ul>",
-        "feedlabel": "Product Update",
-        "date": 1791241080,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1845383656394129",
