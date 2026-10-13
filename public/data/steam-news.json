@@ -2,6 +2,58 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846018067943015",
+        "title": "October Store Update 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943015",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/3f5bd1e8dcec8808f24b6e3195d6ae3cb0ac1390.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11182\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791871252,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1846018067943016",
+        "title": "Map Service Report - Update 43.2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943016",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/11137]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791871252,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1846018067943014",
+        "title": "Patch Notes - Update 43.2",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943014",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/f96352baff3a9972c63e49745775991b9a378859.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11136\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791871250,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1846018067942903",
+        "title": "PUBG x Bentley",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067942903",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/0d2906ea4e25d5876dda12bbb0ea1f3c1e0bb0bc.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11181\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791867647,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1846018067942013",
         "title": "Team Fortress 2 Update Released",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067942013",
@@ -151,19 +203,6 @@
         "appid": 440
       },
       {
-        "gid": "1846018067927076",
-        "title": "Virtus.pro and Team Falcons crowned PEC & PAS Finals 2 Champions!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067927076",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p]Following an exciting 3 days of action last weekend at the PUBG EMEA Championship: Fall and PUBG Americas Series 2, Virtus.pro and Team Falcons were crowned as the Finals 2 Champions! [/p][p align=\"start\"]Both teams finished the weekend with commanding leads over the rest of the pack. The weekend particularly represented a good return to form for Virtus.pro, who convincingly made up for their 13th place position in Finals 1 with a truly dominant performance in Finals 2 to sweep the lobby. In PAS, Team Falcons’ back-to-back 1st place in Finals 1 and Finals 2 is proof that the superstar squad has fully adapted to the 2026 competitive environment, and we’re excited to see if they can continue their momentum into PGS and PGC on the global stage later this year.[/p][p align=\"start\"]\n[/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20261007/oMk4NttG.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center; width: 1211px; height: 674.379px;\"][/img]\n\n[/p][p align=\"start\"][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20261007/eWjV9ecJ.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center; width: 1216px; height: 680.31px;\"][/img][/p][p align=\"start\"]\n[/p][p align=\"start\"]As always, regional PUBG Esports play has a large bearing on which teams can qualify to PGC, through those all-important PGC Points. A number of teams have already qualified directly to PGC through strong regional performances at PEC and PAS.[/p][p align=\"start\"][/p][p align=\"start\"][b]Qualified to PGC [/b](through PGC Points earned at regional play):[/p][table equalcells=\"1\" colwidth=\",\"][tr][td][p align=\"center\"][b]EMEA[/b][/p][/td][td][p align=\"center\"][b]Americas[/b][/p][/td][/tr][tr][td][p align=\"center\"]Virtus.pro[/p][/td][td][p align=\"center\"]Team Falcons[/p][/td][/tr][tr][td][p align=\"center\"]Natus Vincere[/p][/td][td][p align=\"center\"]Team Liquid[/p][/td][/tr][tr][td][p align=\"center\"]09[/p][/td][td][p align=\"center\"]Godlike[/p][/td][/tr][tr][td][p align=\"center\"]Twisted Minds[/p][/td][td][p align=\"center\"]Circle Nine[/p][/td][/tr][/table][p align=\"start\"]\n[/p][p align=\"start\"][b][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20261007/pnb6gkk2.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center; width: 1170px; height: 655.654px;\"][/img][/b][/p][p align=\"start\"][b][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20261007/Joqu7rLy.png\" style=\"border-style: none; max-width: 100%; position: relative; display: inline-block; float: none; margin-left: 5px; margin-right: 5px; min-width: 10px; vertical-align: bottom; border-width: medium; border-color: currentcolor; border-image: none; text-align: center; width: 1180px; height: 660.395px;\"][/img][/b][/p][p align=\"start\"]\n[/p][p align=\"start\"]Of course, many of the teams listed above also have a strong possibility of also qualifying to PGC through a good performance at the upcoming PUBG Global Series Circuit 4. If, for example, Viruts.pro puts on a strong performance at the next PGS (and qualifies as a result), their original PGC qualification slot that they earned at PEC will then be redistributed to the next best team from their region’s PGC Points leaderboard. With Virtus.pro and Team Falcons already high in the PGS points table, this means we have a strong chance of seeing [b]Acend Club[/b] and [b]Copenhagen Wolves[/b] (and others) possibly qualify to PGC 2026.[/p][p align=\"start\"]As PGC 2026 takes place in Türkiye, there will also be a host region seed for a Turkish team. Stay tuned for more details![/p][p align=\"start\"]If you want to find out who ultimately qualifies to PGC 2026, be sure to tune in to the upcoming PUBG Global Series tournaments![/p][p align=\"start\"]\n\n[b]PUBG Global Series 10: [/b]October 14 - 18[/p][p align=\"start\"][b]PUBG Global Series 11: [/b]October 22 - 25[/p][p align=\"start\"][b]PUBG Global Series 12: [/b]October 29 - November 1[/p][p align=\"start\"][b]PUBG Global Championship 2026: [/b]December 1 - 13[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1791397108,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
         "gid": "1846018067925681",
         "title": "В Dota 2 добавили сокровищницу Trove of Terror - новая аркана на Tidehunter и возвращение арканы Drow Ranger",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925681",
@@ -175,19 +214,6 @@
         "feedname": "PlayGround.ru - официальная группа",
         "feed_type": 0,
         "appid": 570
-      },
-      {
-        "gid": "1846018067925197",
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/28~10/04)",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925197",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11200]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1791356440,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1846018067925017",
@@ -243,32 +269,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1938090
-      },
-      {
-        "gid": "1845383656390479",
-        "title": "PAS2 Finals 2 Day 3 is LIVE!!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390479",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p]After an exciting weekend of qualifications (and non-qualifications) at last week’s Playoffs 2, it’s now almost time to crown our second (of two) PUBG Americas Series 2 Champions! [/p][p][/p][p]With wins in Finals 1 and 2 of PAS1 respectively, Team Falcons and Team Liquid are the teams to beat. Will their throne(s) be usurped?[/p][p][/p][p]Here’s your look at the lobby:[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/4930ebf7775c377fa4170a0da9c4b4f4e79e9e32.png\"][/img][/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td][p align=\"center\"]+55 e-Sports[/p][/td][td][p align=\"center\"]BILU[/p][/td][td][p align=\"center\"]Circle Nine[/p][/td][td][p align=\"center\"]Copenhagen Wolves[/p][/td][/tr][tr][td][p align=\"center\"]DUEL[/p][/td][td][p align=\"center\"]Earthworms[/p][/td][td][p align=\"center\"]Godlike[/p][/td][td][p align=\"center\"]NO ORG[/p][/td][/tr][tr][td][p align=\"center\"]NO WAY[/p][/td][td][p align=\"center\"]Per Diem Withholders[/p][/td][td][p align=\"center\"]PEST Control[/p][/td][td][p align=\"center\"]ROC Esports[/p][/td][/tr][tr][td][p align=\"center\"]Team Falcons[/p][/td][td][p align=\"center\"]Team FATE[/p][/td][td][p align=\"center\"]Team Liquid[/p][/td][td][p align=\"center\"]TOYO[/p][/td][/tr][/table][p][/p][p]The PAS2 Finals are all about consistency. We play the classic SUPER format: three match days, and whoever has the most amount of combined kill points and placement points at the end of 15 matches will become the first PAS2 Champion, claiming vital PGC Points in the process! [/p][p][/p][h2]PGC Points[/h2][p]Finals 1 & Finals 2 of PAS2 is the final chance for teams to earn PGC Points, which they will use to qualify to the PUBG Global Championship (PGC) 2026, in Istanbul, Türkiye! With 32 teams competing and over $1,500,000 of prize pool on the line (not to mention bragging rights of being the best PUBG team in the world), it’s already shaping up to be a dramatic event. Make sure to tune in to the PAS2 Finals to find out who will secure their tickets to the event![/p][p][/p][h2]Drops[/h2][p]Even if a PAS2 tournament title isn’t in your future, you can still tune in and earn Drops by watching the official broadcast live on Twitch and Kick! Each day this weekend there’s a new Drop up for grabs - reach 120 minutes of cumulative watch time on a PAS (or PEC, or both!) broadcast on any given day to unlock that day’s drop.[/p][p][/p][p]In addition, there will be G-Coin giveaways throughout the broadcast. Check the hints shared on our social media channels during the broadcast to uncover the codes!\n[/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td rowspan=\"3\"][p]PAS & PEC Finals 2[/p][/td][td][p][b]October 2[/b][/p][p](Finals 2 Day 1)[/p][p] [/p][p]PUBG EMEA Championship:[/p][p]Starts 18:00 CEST[/p][p] [/p][p]PUBG Americas Series:[/p][p]Starts 4pm PDT / 7pm EDT[/p][/td][td][p]Watch 120 minutes to earn: [/p][list][*][p]Battle Hazard Work Boots [/p][/*][*][p]RIP YOU (Spray)[/p][/*][/list][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/3YAaD2Dp.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/FBioicOV.png\"][/img][/p][p] [/p][/td][/tr][tr][td][p][b]October 3[/b][/p][p](Finals 2 Day 2)[/p][p] [/p][p]PUBG EMEA Championship:[/p][p]Starts 18:00 CEST[/p][p] [/p][p]PUBG Americas Series:[/p][p]Starts 4pm PDT / 7pm EDT[/p][/td][td][p]Watch 120 minutes to earn: [/p][list][*][p]Fried Chicken (Spray)[/p][/*][*][p]Battle Hazard Logo Tee[/p][/*][/list][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/auFW7NfQ.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/8O7uR1PP.png\"][/img][/p][/td][/tr][tr][td][p][b]October 4[/b][/p][p](Finals 2 Day 3)[/p][p] [/p][p]PUBG EMEA Championship:[/p][p]Starts 18:00 CEST[/p][p] [/p][p]PUBG Americas Series:[/p][p]Starts 4pm PDT / 7pm EDT[/p][/td][td][p]Watch 120 minutes to earn: [/p][list][*][p]PUBG Creed Backpack (Level 2)[/p][/*][*][p]Winner Winner Hat[/p][/*][*][p]PUBG Varsity Jacket[/p][/*][/list][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/SM90W9Cp.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/K0RvVxvL.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/ZFVDKJDL.png\"][/img][/p][/td][/tr][/table][p]\n[/p][h3]Where to watch[/h3][p]Drops can be earned by watching an official PEC / PAS broadcast, or an official watch party with your favourite streamer:\n\n[b]EN Broadcast (PEC & PAS)[/b][/p][p][dynamiclink href=\"https://twitch.tv/pubg_battlegrounds\"][/dynamiclink][/p][p][url=\"https://kick.com/pubgesports\"]kick.com/pubgesports[/url][/p][p][/p][p][b]TR Broadcast (PEC)[/b][/p][p][url=\"https://kick.com/pubg_battlegroundstr\"]kick.com/pubg_battlegroundstr[/url][/p][p][dynamiclink href=\"https://twitch.tv/pubg_battlegroundstr\"][/dynamiclink][/p][p][/p][p][b]RU Broadcast (PEC)[/b][/p][p][dynamiclink href=\"https://twitch.tv/pubg_cis\"][/dynamiclink][/p][p] [/p][p][b]PTBR Broadcast (PAS)[/b][/p][p][dynamiclink href=\"https://twitch.tv/pubg_br\"][/dynamiclink][/p][p][/p][p][b]PEC Costreamers[/b][/p][p][u][url=\"https://www.twitch.tv/pokamolodoy\"]POKAMOLODOY[/url][/u][/p][p][u][url=\"https://www.twitch.tv/hibako\"]HIBAKO[/url][/u][/p][p][u][url=\"https://www.youtube.com/@ddrroogg\"]Droog[/url][/u][/p][p][u][url=\"https://www.twitch.tv/lauraa\"]Lauraa[/url][/u][/p][p][u][url=\"https://www.twitch.tv/heawin\"]Heawin [/url][/u][/p][p][/p][p][b]PAS Costreamers[/b][/p][p][u][url=\"https://www.twitch.tv/c_dome\"]C_Dome[/url][/u][/p][p][u][url=\"https://www.twitch.tv/corky\"]Corky[/url][/u][/p][p][u][url=\"https://www.twitch.tv/thugfaast\"]ThugFaasT[/url][/u][/p][p][u][url=\"https://www.twitch.tv/tecnosh\"]Tecnosh[/url][/u][/p][p][u][url=\"https://www.twitch.tv/enoquiano\"]Enoquiano[/url][/u][/p][p][/p][p]Looking forward to seeing you on the Battlegrounds this weekend![/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1791087358,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1845383656390006",
-        "title": "PEC: Fall Finals 2 Day 3 is LIVE!!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390006",
-        "is_external_url": true,
-        "author": "JBowlerr",
-        "contents": "[p]After an exciting weekend of qualifications (and non-qualifications) at last week’s Playoffs 2, it’s now almost time to crown our second (of two) PUBG EMEA Championship: Fall Champions! [/p][p][/p][p]Here’s your look at the lobby:[/p][p][/p][p][img src=\"{STEAM_CLAN_IMAGE}/27971017/e9452c0ae1768b37782066fbb93a78d9d8c7b61e.png\"][/img][/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td][p align=\"center\"]09[/p][/td][td][p align=\"center\"]ACEND Club[/p][/td][td][p align=\"center\"]Aogiri Tree[/p][/td][td][p align=\"center\"]Bushido[/p][/td][/tr][tr][td][p align=\"center\"]Joga Bonito[/p][/td][td][p align=\"center\"]Natus Vincere[/p][/td][td][p align=\"center\"]NewGate[/p][/td][td][p align=\"center\"]noslack[/p][/td][/tr][tr][td][p align=\"center\"]PGG[/p][/td][td][p align=\"center\"]S2G Esports[/p][/td][td][p align=\"center\"]S8UL[/p][/td][td][p align=\"center\"]Team Vitality[/p][/td][/tr][tr][td][p align=\"center\"]Twisted Minds[/p][/td][td][p align=\"center\"]Virtus.Pro[/p][/td][td][p align=\"center\"]Vis[/p][/td][td][p align=\"center\"]WINside[/p][/td][/tr][/table][p][/p][p]The PEC Finals are all about consistency. We play the classic SUPER format: three match days, and whoever has the most amount of combined kill points and placement points at the end of 15 matches will become the first PEC: Fall Champion![/p][p][/p][h2]PGC Points[/h2][p][/p][p]Finals 1 & Finals 2 of PEC: Fall is the final chance for teams to earn PGC Points, which they will use to qualify to the PUBG Global Championship (PGC) 2026, in Istanbul, Türkiye! With 32 teams competing and over $1,500,000 of prize pool on the line (not to mention bragging rights of being the best PUBG team in the world), it’s already shaping up to be a dramatic event. Make sure to tune in to the PEC: Finals to find out who will secure their tickets to the event![/p][p]\n[/p][h2]PGC Host Wildcard[/h2][p][/p][p]With PGC taking place in Türkiye, one team for the Türkiye region will also be selected to represent their nation as the host team - seeded directly into the Grand Finals in Istanbul from December 11 - 13. The team will be selected based on performances throughout the year and other criteria - so a strong performance in regional tournaments like PEC could be critical. [/p][p][/p][p]Additionally, if a Turkish team qualifies for PGC via PGC Points, they will automatically receive the wildcard slot. The PGC Points slot will then be assigned to the next best ranked EMEA team in the PGC Points standings. If more than one Turkish team qualify for PGC via PGC Points directly, the top-ranked team will receive the Host Team Wildcard.[/p][p]\n[/p][h2]Drops[/h2][p][/p][p]Even if a PEC: Fall tournament title or ticket to Istanbul isn’t in your future, you can still tune in and earn Drops by watching the broadcast live on Twitch and Kick! Each day this weekend there’s a new Drop up for grabs - reach 120 minutes of cumulative watch time on a PEC (or PAS, or both!) broadcast on any given day to unlock that day’s drop.[/p][p][/p][p]In addition, there will be G-Coin giveaways throughout the broadcast. Check the hints shared on our social media channels during the broadcast to uncover the codes!\n [/p][table equalcells=\"1\" colwidth=\",,,\"][tr][td rowspan=\"3\"][p]PAS & PEC Finals 2[/p][/td][td][p][b]October 2[/b][/p][p](Finals 2 Day 1)[/p][p] [/p][p]PUBG EMEA Championship:[/p][p]Starts 18:00 CEST[/p][p] [/p][p]PUBG Americas Series:[/p][p]Starts 4pm PDT / 7pm EDT[/p][/td][td][p]Watch 120 minutes to earn: [/p][list][*][p]Battle Hazard Work Boots [/p][/*][*][p]RIP YOU (Spray)[/p][/*][/list][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/3YAaD2Dp.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/FBioicOV.png\"][/img][/p][p] [/p][/td][/tr][tr][td][p][b]October 3[/b][/p][p](Finals 2 Day 2)[/p][p] [/p][p]PUBG EMEA Championship:[/p][p]Starts 18:00 CEST[/p][p] [/p][p]PUBG Americas Series:[/p][p]Starts 4pm PDT / 7pm EDT[/p][/td][td][p]Watch 120 minutes to earn: [/p][list][*][p]Fried Chicken (Spray)[/p][/*][*][p]Battle Hazard Logo Tee[/p][/*][/list][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/auFW7NfQ.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/8O7uR1PP.png\"][/img][/p][/td][/tr][tr][td][p][b]October 4[/b][/p][p](Finals 2 Day 3)[/p][p] [/p][p]PUBG EMEA Championship:[/p][p]Starts 18:00 CEST[/p][p] [/p][p]PUBG Americas Series:[/p][p]Starts 4pm PDT / 7pm EDT[/p][/td][td][p]Watch 120 minutes to earn: [/p][list][*][p]PUBG Creed Backpack (Level 2)[/p][/*][*][p]Winner Winner Hat[/p][/*][*][p]PUBG Varsity Jacket[/p][/*][/list][/td][td][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/SM90W9Cp.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/K0RvVxvL.png\"][/img][/p][p][img src=\"https://wstatic-prod-boc.krafton.com/common/news/20260930/ZFVDKJDL.png\"][/img][/p][/td][/tr][/table][p][/p][p][/p][h3]Where to watch[/h3][p]Drops can be earned by watching an official PEC / PAS broadcast, or an official watch party with your favourite streamer:\n\n[b]EN Broadcast (PEC & PAS)[/b][/p][p][dynamiclink href=\"https://twitch.tv/pubg_battlegrounds\"][/dynamiclink][/p][p][url=\"https://kick.com/pubgesports\"]kick.com/pubgesports[/url][/p][p][/p][p][b]TR Broadcast (PEC)[/b][/p][p][url=\"https://kick.com/pubg_battlegroundstr\"]kick.com/pubg_battlegroundstr[/url][/p][p][dynamiclink href=\"https://twitch.tv/pubg_battlegroundstr\"][/dynamiclink][/p][p][/p][p][b]RU Broadcast (PEC)[/b][/p][p][dynamiclink href=\"https://twitch.tv/pubg_cis\"][/dynamiclink][/p][p][/p][p][b]PTBR Broadcast (PAS)[/b][/p][p][dynamiclink href=\"https://twitch.tv/pubg_br\"][/dynamiclink][/p][p][/p][p][b]PEC Costreamers[/b][/p][p][url=\"https://www.twitch.tv/pokamolodoy\"][u]POKAMOLODOY[/u][/url][/p][p][url=\"https://www.twitch.tv/hibako\"][u]HIBAKO[/u][/url][/p][p][url=\"https://www.youtube.com/@ddrroogg\"][u]Droog[/u][/url][/p][p][url=\"https://www.twitch.tv/lauraa\"][u]Lauraa[/u][/url][/p][p][url=\"https://www.twitch.tv/heawin\"][u]Heawin [/u][/url][/p][p][/p][p][b]PAS Costreamers[/b][/p][p][url=\"https://www.twitch.tv/c_dome\"][u]C_Dome[/u][/url][/p][p][url=\"https://www.twitch.tv/corky\"][u]Corky[/u][/url][/p][p][url=\"https://www.twitch.tv/thugfaast\"][u]ThugFaasT[/u][/url][/p][p][url=\"https://www.twitch.tv/tecnosh\"][u]Tecnosh[/u][/url][/p][p][url=\"https://www.twitch.tv/enoquiano\"][u]Enoquiano[/u][/url][/p][p][/p][p]Looking forward to seeing you on the Battlegrounds this weekend![/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1791062137,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
       },
       {
         "gid": "1845383656387875",
