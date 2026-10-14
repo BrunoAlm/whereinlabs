@@ -2,6 +2,45 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846651706673370",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/05~10/11)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673370",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11221]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791961211,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1846651706673190",
+        "title": "Special Drops - October 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673190",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/7f0d355749d35e1cabd50b674a938820878a8e1c.jpg\"][/img][/p][h2][url=\"https://pubg.com/events/notice/11183\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791954004,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1846651706673191",
+        "title": "SLB: DAWNBREAKERS OF RONDO",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673191",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/225a78bb876a9058de65ae3890e049554b4344f5.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11138\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1791954004,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1846018067945161",
         "title": "PGS 10 Group Stage is LIVE!!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067945161",
@@ -23,45 +62,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/3f5bd1e8dcec8808f24b6e3195d6ae3cb0ac1390.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11182\"]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1791871252,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1846018067943016",
-        "title": "Map Service Report - Update 43.2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943016",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/11137]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1791871252,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1846018067943014",
-        "title": "Patch Notes - Update 43.2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943014",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/f96352baff3a9972c63e49745775991b9a378859.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11136\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1791871250,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1846018067942903",
-        "title": "PUBG x Bentley",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067942903",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/0d2906ea4e25d5876dda12bbb0ea1f3c1e0bb0bc.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11181\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1791867647,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
