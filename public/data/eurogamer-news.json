@@ -6,6 +6,48 @@
   "category": [],
   "items": [
     {
+      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>This generation's mega-game, <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">Grand Theft Auto 6</a>, will be eligible for The Game Awards 2026 by a matter of one day.</p> <p><a href=\"https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792080634000,
+      "created": 1792080634000,
+      "category": [
+        "Action Adventure",
+        "First person",
+        "Full product",
+        "Grand Theft Auto VI",
+        "Modern Day",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Open World",
+        "PS5",
+        "Racing",
+        "Rockstar Games",
+        "Shooter",
+        "Shooter: Third Person",
+        "Single Player",
+        "Take-Two Interactive",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
       "description": "<img src=\"https://assetsio.gnwcdn.com/FireEmblem_FortunesWeave_scrn_07.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Nintendo and Intelligent Systems have released an expansion pass for Fire Emblem: Fortune's Weave, introducing a string of DLC additions to the tactical RPG starting today, and through into 2027.</p> <p><a href=\"https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass\">Read more</a></p>",
       "link": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
@@ -4009,52 +4051,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/20261005121204_1.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Ace Combat 8 is far and away the series' biggest launch on Steam",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Ace Combat 8: Wings of Theve has joined the ranks of September-October releases that have done very well commercially. The sequel, which officially launched on 2nd October following three days of early access, has been very popular on Steam.</p> <p><a href=\"https://www.eurogamer.net/ace-combat-8-steam-launch-record-players\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791198160000,
-      "created": 1791198160000,
-      "category": [
-        "Ace Combat 7",
-        "Ace Combat 8",
-        "Ace Combat: Assault Horizon Enhanced Edition",
-        "Arcade",
-        "Bandai Namco Entertainment",
-        "First person",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Namco Bandai Games",
-        "Nintendo Switch",
-        "Obsidian Entertainment",
-        "PC",
-        "PS4",
-        "PS5",
-        "Shooter",
-        "Simulation",
-        "Single Player",
-        "Third person",
-        "Virtual Reality",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
