@@ -2,6 +2,22 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846651706675829",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829",
+        "is_external_url": true,
+        "author": "Vitaliy",
+        "contents": "[p]\\[ UI ][/p][p]Demo/Replay viewer improvements:[/p][list][*][p]Added a progress bar for demo/replay downloads[/p][/*][*][p]Camera controls now use click-and-drag scheme[/p][/*][*][p]Free and chase camera are usable during a paused demo[/p][/*][*][p]Fixed some minor issues when seeking to a different position in the demo file[/p][/*][/list][p][/p][p]\\[ MISC ][/p][p]Round backup files now require the game server startup flag \"-allow_round_backup_files\"[/p][p]Updated AUG reload animations for standing and crouch reloads to better match new reload duration[/p][p]Allowed radio commands now have an explicit list[/p][p]Added toolsskybox_occluder tool material for CS2 Workshop Tools[/p][p]Stability improvements for Vulkan renderer[/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1792018968,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1846651706675203",
         "title": "PGS 10 Winners Stage is LIVE!!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675203",
@@ -264,22 +280,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 1938090
-      },
-      {
-        "gid": "1845383656387875",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875",
-        "is_external_url": true,
-        "author": "Vitaliy",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report dialogs[/p][/*][*][p]Improved lighting in the Warehouse map[/p][/*][*][p]Updated workshop convars whitelist with the new crosshair settings[/p][/*][*][p]Stability improvements[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1790979853,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1845383656387353",
