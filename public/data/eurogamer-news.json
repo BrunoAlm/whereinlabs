@@ -6,6 +6,80 @@
   "category": [],
   "items": [
     {
+      "title": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/runescape-reignited-logo.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/runescape\">RuneScape</a>: Reignited, a shiny new version of the long-running British MMORPG, has been cancelled less than two weeks after it was revealed.</p> <p><a href=\"https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792141630000,
+      "created": 1792141630000,
+      "category": [
+        "Action Adventure",
+        "Android",
+        "Bird view / Isometric",
+        "iOS",
+        "Jagex Games Studio",
+        "Mac",
+        "MMORPG",
+        "Multiplayer Competitive",
+        "PC",
+        "Point and Click",
+        "RPG",
+        "RuneScape",
+        "Strategy",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/runescape-reignited-logo.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/runescape-reignited-logo.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/battlefield-6-season-5-vegas-shot-1.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Season 5 launched in <a href=\"https://www.eurogamer.net/games/battlefield-2025\">Battlefield 6</a> this week as planned, and though most of the new additions -  new maps, weapons and vehicles, and gameplay changes - were well received, the season began on a low note due to accusations of generative AI use and because of a major hit to XP gain.</p> <p><a href=\"https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792139858000,
+      "created": 1792139858000,
+      "category": [
+        "Battlefield 6",
+        "Bird view / Isometric",
+        "Electronic Arts",
+        "First person",
+        "Multiplayer Competitive",
+        "PC",
+        "PS5",
+        "Shooter",
+        "Single Player",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/battlefield-6-season-5-vegas-shot-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/battlefield-6-season-5-vegas-shot-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
       "description": "<img src=\"https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>This generation's mega-game, <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">Grand Theft Auto 6</a>, will be eligible for The Game Awards 2026 by a matter of one day.</p> <p><a href=\"https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley\">Read more</a></p>",
       "link": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
@@ -3955,102 +4029,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/Will_3-(1).png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/dead-by-daylight-the-last-breath-chapter-1.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Behaviour Interactive, the Canadian studio mostly known for asymmetrical multiplayer horror survival game <a href=\"https://www.eurogamer.net/games/dead-by-daylight\">Dead by Daylight</a>, is hiring for a new project that sounds altogether different.</p> <p><a href=\"https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791204279000,
-      "created": 1791204279000,
-      "category": [
-        "Action Adventure",
-        "Android",
-        "Behaviour Digital",
-        "Behaviour Interactive",
-        "Dead by Daylight",
-        "First person",
-        "Indie",
-        "iOS",
-        "Meet Your Maker",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch",
-        "PC",
-        "PS4",
-        "PS5",
-        "Shooter",
-        "Simulation",
-        "Single Player",
-        "Stadia",
-        "Starbreeze Studios",
-        "Strategy",
-        "Survival & Crafting",
-        "Third person",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/dead-by-daylight-the-last-breath-chapter-1.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/dead-by-daylight-the-last-breath-chapter-1.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/20261005121204_1.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Player numbers are still rising for <a href=\"https://www.eurogamer.net/games/the-witcher-3-wild-hunt\">The Witcher 3</a> following the release of the Remastered edition upgrade last week, as people not only return to the game following its overhaul but also buy it for the first time, or again.</p> <p><a href=\"https://www.eurogamer.net/witcher-3-remastered-steam-players-sales\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791199071000,
-      "created": 1791199071000,
-      "category": [
-        "Action Adventure",
-        "Bandai Namco Entertainment",
-        "CD Projekt",
-        "CD Projekt RED",
-        "Fantasy",
-        "Nintendo Switch",
-        "Nintendo Switch 2",
-        "PC",
-        "PS4",
-        "PS5",
-        "RPG",
-        "Single Player",
-        "Story Rich",
-        "The Witcher 3: Wild Hunt",
-        "The Witcher 3: Wild Hunt - Blood and Wine",
-        "The Witcher 3: Wild Hunt - Hearts of Stone",
-        "The Witcher 3: Wild Hunt - Songs of the Past",
-        "Third person",
-        "Warner Bros. Games",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/20261005121204_1.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/20261005121204_1.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
