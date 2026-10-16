@@ -6,6 +6,33 @@
   "category": [],
   "items": [
     {
+      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions of its earlier Mega Sg and Super Nt machines, capable of playing original Sega and Nintendo cartridges with modern advancements.</p> <p><a href=\"https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792170688000,
+      "created": 1792170688000,
+      "category": [
+        "SEGA Mega Drive",
+        "SNES"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
       "description": "<img src=\"https://assetsio.gnwcdn.com/fortnite-blitz-royale.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Epic Games is officially working on bringing its battle royale shooter <a href=\"https://www.eurogamer.net/games/fortnite\">Fortnite</a> to Linux. The announcement was tucked away at the bottom of <a href=\"https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai\">Epic's widely mocked blog post</a> revealing the new, \"vibe-coded\" Epic Games Store, which is also coming to Linux.</p> <p><a href=\"https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development\">Read more</a></p>",
       "link": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
@@ -4006,53 +4033,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/halo-infinite-photo-1382120.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Halo Studios can't promise that the previously-announced Halo novel will land on shop shelves, but the company is \"determined\" to see the project cross the finish line regardless.</p> <p><a href=\"https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791226460000,
-      "created": 1791226460000,
-      "category": [
-        "343 Industries",
-        "Action Adventure",
-        "Bungie",
-        "First person",
-        "FPS",
-        "Halo",
-        "Halo Studios",
-        "Halo: Campaign Evolved",
-        "Halo: Infinite",
-        "Microsoft",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "PS5",
-        "Shooter",
-        "Single Player",
-        "Third person",
-        "Xbox",
-        "Xbox 360",
-        "Xbox Game Studios",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/halo-infinite-photo-1382120.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/halo-infinite-photo-1382120.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
