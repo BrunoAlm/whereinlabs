@@ -6,6 +6,82 @@
   "category": [],
   "items": [
     {
+      "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/0000001155.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A remaster of cult 2004 RPG <a href=\"https://www.eurogamer.net/games/vampire-the-masquerade-bloodlines\">Vampire: The Masquerade - Bloodlines</a> may be in the works.</p> <p><a href=\"https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792261720000,
+      "created": 1792261720000,
+      "category": [
+        "Activision",
+        "Activision Blizzard",
+        "Electronic Arts",
+        "First person",
+        "PC",
+        "RPG",
+        "Single Player",
+        "Third person",
+        "Troika Games",
+        "Vampire: The Masquerade - Bloodlines"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/0000001155.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/0000001155.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/ss_e8ac96fa71486d51feba7f79f1b226d52be4b016.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Sega and Creative Assembly are temporarily removing <a href=\"https://www.eurogamer.net/games/shogun-2-total-war\">Total War: Shogun 2</a> - Complete Edition from sale just days after release.</p> <p><a href=\"https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792258088000,
+      "created": 1792258088000,
+      "category": [
+        "AI",
+        "Bird view / Isometric",
+        "Creative Assembly",
+        "Mac",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "PC",
+        "Remasters",
+        "SEGA",
+        "Simulation",
+        "Single Player",
+        "Strategy",
+        "Strategy: Real-Time Strategy",
+        "Strategy: Turn-Based Strategy",
+        "The Creative Assembly",
+        "Total War: Shogun 2"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/ss_e8ac96fa71486d51feba7f79f1b226d52be4b016.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/ss_e8ac96fa71486d51feba7f79f1b226d52be4b016.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
       "description": "<img src=\"https://assetsio.gnwcdn.com/10d318260b61ca375da8e210197b7eae40665e30.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Valve is beta testing Steam Achievement Sets, a feature that lets developers group a game's achievements into collections.</p> <p><a href=\"https://www.eurogamer.net/steam-achievement-sets-beta\">Read more</a></p>",
       "link": "https://www.eurogamer.net/steam-achievement-sets-beta",
@@ -3938,87 +4014,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/digitalfoundry-2019-microsoft-elite-2-controller-review-1577954148286.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(21).jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>As a first-party Xbox title, Gears of War: E-Day is under pressure to look good and run well on Xbox consoles. This is especially challenging to do on Series S, due to the console's limited computing power compared to Series X. But developer The Coalition has discovered a clever way of circumventing the Series S' limited memory pool.</p> <p><a href=\"https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791286595000,
-      "created": 1791286595000,
-      "category": [
-        "Action Adventure",
-        "Gears of War: E-Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "PS5",
-        "Single Player",
-        "Third person",
-        "Xbox Game Studios",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(21).jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(21).jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>CD Projekt Red has let <a href=\"https://www.eurogamer.net/games/the-witcher-3-wild-hunt\">The Witcher 3</a> community know its work isn't done patching the newly-released Remastered edition of the game.</p> <p><a href=\"https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791284493000,
-      "created": 1791284493000,
-      "category": [
-        "Action Adventure",
-        "Bandai Namco Entertainment",
-        "CD Projekt",
-        "CD Projekt RED",
-        "Fantasy",
-        "Nintendo Switch",
-        "Nintendo Switch 2",
-        "PC",
-        "PS4",
-        "PS5",
-        "RPG",
-        "Single Player",
-        "Story Rich",
-        "The Witcher 3: Wild Hunt",
-        "The Witcher 3: Wild Hunt - Blood and Wine",
-        "The Witcher 3: Wild Hunt - Hearts of Stone",
-        "The Witcher 3: Wild Hunt - Songs of the Past",
-        "Third person",
-        "Warner Bros. Games",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
