@@ -6,6 +6,115 @@
   "category": [],
   "items": [
     {
+      "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/10d318260b61ca375da8e210197b7eae40665e30.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Valve is beta testing Steam Achievement Sets, a feature that lets developers group a game's achievements into collections.</p> <p><a href=\"https://www.eurogamer.net/steam-achievement-sets-beta\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/steam-achievement-sets-beta",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792242721000,
+      "created": 1792242721000,
+      "category": [
+        "achievements",
+        "PC",
+        "Steam",
+        "Valve Software"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/10d318260b61ca375da8e210197b7eae40665e30.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/10d318260b61ca375da8e210197b7eae40665e30.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/9c3104985e567ab2095613a493ebbe84.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Footage of a reportedly cancelled Assassin's Creed game set in ancient China has emerged online, including stealth kills, the series' leap of faith, and a spinning umbrella weapon.</p> <p><a href=\"https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792240782000,
+      "created": 1792240782000,
+      "category": [
+        "Action Adventure",
+        "Android",
+        "Assassin's Creed Jade",
+        "Cancelled games",
+        "Hack & Slash",
+        "Historical",
+        "iOS",
+        "Level Infinite",
+        "Open World",
+        "Realism",
+        "RPG",
+        "Single Player",
+        "Third person",
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/9c3104985e567ab2095613a493ebbe84.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/9c3104985e567ab2095613a493ebbe84.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/dawnwalker-artwork-blood.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Update 1.1 for The Blood of Dawnwalker will add a new Story mode with additional combat assist, a potion that lets you forget your abilities and master new ones, and the ability to pet dogs and cats.</p> <p><a href=\"https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792235901000,
+      "created": 1792235901000,
+      "category": [
+        "Action Adventure",
+        "Bandai Namco Entertainment",
+        "Fantasy",
+        "Open World",
+        "patches",
+        "PC",
+        "PS5",
+        "Rebel Wolves",
+        "RPG",
+        "RPG: Action",
+        "Single Player",
+        "Story Rich",
+        "The Blood of Dawnwalker",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/dawnwalker-artwork-blood.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/dawnwalker-artwork-blood.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
       "description": "<img src=\"https://assetsio.gnwcdn.com/analogue-new-consoles-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions of its earlier Mega Sg and Super Nt machines, capable of playing original Sega and Nintendo cartridges with modern advancements.</p> <p><a href=\"https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed\">Read more</a></p>",
       "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
@@ -3910,129 +4019,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/directive-8020-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Supermassive Games - the developer behind games such as Directive 8020 and the original Until Dawn - seems to have lost over 70 staff today as part of widespread layoffs at the company.</p> <p><a href=\"https://www.eurogamer.net/supermassive-games-layoffs-70\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/supermassive-games-layoffs-70",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791277520000,
-      "created": 1791277520000,
-      "category": [
-        "Action Adventure",
-        "Bandai Namco Entertainment",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "PS5",
-        "Single Player",
-        "Supermassive Games",
-        "The Dark Pictures Anthology: Directive 8020",
-        "Third person",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/directive-8020-header.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/directive-8020-header.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Call of Duty: Modern Warfare 4 studio <a href=\"https://www.eurogamer.net/companies/infinity-ward\">Infinity Ward</a> is betting big on DMZ - the game's extraction shooter mode - becoming another major pillar of the series. In a wide-ranging <a href=\"https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-deep-dive-hajin\">blog post</a> and <a href=\"https://www.youtube.com/watch?v=5VVW6Z6fZcY\">developer diary</a>, we learn more about the studio's goals, and how the upcoming DMZ builds on 2022's Modern Warfare 2 DMZ beta.</p> <p><a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791277056000,
-      "created": 1791277056000,
-      "category": [
-        "Activision",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "Call of Duty: Modern Warfare II (2022)",
-        "First person",
-        "FPS",
-        "Infinity Ward",
-        "Mac",
-        "Military",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch 2",
-        "PC",
-        "PS3",
-        "PS5",
-        "Realism",
-        "Shooter",
-        "Single Player",
-        "Xbox 360",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">GTA 6</a> can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would become outdated come launch.</p> <p><a href=\"https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791231266000,
-      "created": 1791231266000,
-      "category": [
-        "Action Adventure",
-        "First person",
-        "Full product",
-        "Grand Theft Auto VI",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Open World",
-        "PS5",
-        "Racing",
-        "Rockstar Games",
-        "Shooter",
-        "Shooter: Third Person",
-        "Single Player",
-        "Take-Two Interactive",
-        "Third person",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
