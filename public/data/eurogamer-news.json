@@ -6,6 +6,40 @@
   "category": [],
   "items": [
     {
+      "title": "God of War Laufey's £130 Collector Box doesn't come with the game",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>God of War Laufey's Collector Box will cost &pound;129.99 and will not include the game.</p> <p><a href=\"https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792334822000,
+      "created": 1792334822000,
+      "category": [
+        "Action Adventure",
+        "collector's editions",
+        "God of War Laufey",
+        "Hack & Slash",
+        "PS5",
+        "Single Player",
+        "Sony PlayStation",
+        "Sony Santa Monica",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
       "description": "<img src=\"https://assetsio.gnwcdn.com/0000001155.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A remaster of cult 2004 RPG <a href=\"https://www.eurogamer.net/games/vampire-the-masquerade-bloodlines\">Vampire: The Masquerade - Bloodlines</a> may be in the works.</p> <p><a href=\"https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour\">Read more</a></p>",
       "link": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
@@ -3986,34 +4020,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/overwatch-defiled-anthem.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/digitalfoundry-2019-microsoft-elite-2-controller-review-1577954148286.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The unannounced but <a href=\"https://www.resetera.com/threads/leaked-images-reveal-xbox-elite-3-controller.1520869/\">consistently leaked Xbox Elite Series 3 controller</a> has, well, leaked again. Details ranging from analogue stick technology to rumble motors and more were dug up from the backend of Xbox's own Design Lab website that lets customers create and order custom controller designs.</p> <p><a href=\"https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791292912000,
-      "created": 1791292912000,
-      "category": [
-        "PC",
-        "Xbox Elite Wireless Controller Series 2",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/digitalfoundry-2019-microsoft-elite-2-controller-review-1577954148286.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/digitalfoundry-2019-microsoft-elite-2-controller-review-1577954148286.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
