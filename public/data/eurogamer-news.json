@@ -6,6 +6,74 @@
   "category": [],
   "items": [
     {
+      "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Revamp-Dracula.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Digital Sun - the indie studio behind moreish roguelike <a href=\"https://www.eurogamer.net/games/moonlighter\">Moonlighter</a> and moody RTS <a href=\"https://www.eurogamer.net/games/cataclismo\">Cataclismo</a> - has delayed a planned Steam playtest for its next game, ReVamp, citing concerns over \"games being reverse-engineered, cloned and published before the original is even out.\"</p> <p><a href=\"https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+      "author": {
+        "$text": "Kaan Serin",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792439646000,
+      "created": 1792439646000,
+      "category": [
+        "Horror",
+        "Indie",
+        "PC",
+        "ReVamp",
+        "Roguelike",
+        "Side view",
+        "Single Player",
+        "Strategy"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Revamp-Dracula.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Revamp-Dracula.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/final-fantasy-7-revelation-sephiroth.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/final-fantasy-vii\">Final Fantasy 7</a> Revelation will let players access Hard Mode from the very beginning of the journey, unlike <a href=\"https://www.eurogamer.net/final-fantasy-7-remake-review-a-faithful-remake-with-a-few-missteps-along-the-way\">FF7 Remake</a> and Rebirth, which made folks roll credits before unlocking the tougher difficulty option.</p> <p><a href=\"https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg",
+      "author": {
+        "$text": "Kaan Serin",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792434437000,
+      "created": 1792434437000,
+      "category": [
+        "Final Fantasy VII: Revelation",
+        "JRPG",
+        "Nintendo Switch 2",
+        "PC",
+        "PS5",
+        "RPG",
+        "Single Player",
+        "Square Enix",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-sephiroth.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-sephiroth.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Arc Raiders player numbers hit a six-month high following the release of the extraction shooter's huge Frozen Trails update",
       "description": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders-headline.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/arc-raiders\">Arc Raiders</a> is still going strong almost a year after finding viral success, and it's all thanks to Embark Studios' one-two-punch strategy of launching a huge new update, Frozen Trails, to coincide with a free weekend.</p> <p><a href=\"https://www.eurogamer.net/arc-raiders-frozen-trails-player-numbers-six-month-high\">Read more</a></p>",
       "link": "https://www.eurogamer.net/arc-raiders-frozen-trails-player-numbers-six-month-high",
@@ -3910,72 +3978,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/playground-google.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/perfect-dark-reboot-joanna.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Last year, we learned that <a href=\"https://www.eurogamer.net/perfect-dark-reboot-and-new-zenimax-mmorpg-reportedly-cancelled-as-part-of-latest-microsoft-cuts\">Xbox cancelled a reboot of Perfect Dark</a>. The game, in development at The Initiative, was cancelled as part of 2025's wave of <a href=\"https://www.eurogamer.net/microsoft-begins-substantial-layoff-process-across-gaming-division-king-and-zenimax-impacted\">wide-ranging cuts at Microsoft and Xbox</a>. In 2026, of course, <a href=\"https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory\">things have only gotten worse for the company</a>.</p> <p><a href=\"https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-      "author": {
-        "$text": "Dom Peppiatt",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791449833000,
-      "created": 1791449833000,
-      "category": [
-        "Action Adventure",
-        "Blockbuster",
-        "PC",
-        "Perfect Dark Reboot",
-        "Shooter",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/perfect-dark-reboot-joanna.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/perfect-dark-reboot-joanna.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(10).jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The Coalition, the Microsoft-owned studio behind Gears of War: E-Day, Gears 4 and <a href=\"https://www.eurogamer.net/games/gears-5\">Gears 5</a> has mostly survived the wide-ranging cuts and layoffs <a href=\"https://www.eurogamer.net/microsoft-xbox-layoffs-2026-double-fine-compulsion-ninja-theory\">initiated by Xbox CEO Asha Sharma in her attempt to bring the gaming division back to profitability</a>.</p> <p><a href=\"https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791447687000,
-      "created": 1791447687000,
-      "category": [
-        "Action Adventure",
-        "Gears of War: E-Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "PS5",
-        "Single Player",
-        "Third person",
-        "Xbox Game Studios",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(10).jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day-(10).jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }

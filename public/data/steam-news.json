@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846651706692498",
+        "title": "Bungie раскроет планы по возвращению контента в Destiny 2 на следующей неделе",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706692498",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/v42PU3_had4FyXKZ_PXTEA.jpeg\"/>\n              <br />\n                                                                                <p>Bungie продолжает работать над возвращением контента, удалённого из Destiny 2 за прошедшие годы. Ранее компания заявила, что «не собирается останавливаться» и намерена сохранить наследие франшизы, начав с восстановления всего, что было убрано из игры.</p>                                                                                  <p>Как сообщает TheGamePost, Джош Дин ответил игрокам в X, отметив, что команда «планирует выпустить обновление» о процессе разблокировки контента на следующей неделе. В предыдущем посте он признал, что у сообщества могут возникнуть вопросы о разблокировке, потенциальных будущих обновлениях Destiny 2 и о том, что ждёт франшизу в целом.</p>                                                        <p>По словам Дина, процесс будет «очень продуманным», а о первом этапе расскажут ближе к концу октября. Он также уточнил, что предстоящее обновление не будет традиционной дорожной картой — вместо этого информацию представят в виде «индикатора прогресса». Цель — приблизить сообщество к этапам разработки, чётко обозначить возникающие проблемы и предоставить игрокам наглядные доказательства проделанной работы.</p>                                                        <p>Точную дату публикации сообщения Джош Дин не назвал.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1792438911,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 1085660
+      },
+      {
         "gid": "1846651706691566",
         "title": "Modern Warfare 4 Progression and Prestige",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691566",
@@ -365,19 +378,6 @@
         "feedlabel": "PlayGround.ru - официальная группа",
         "date": 1790255428,
         "feedname": "PlayGround.ru - официальная группа",
-        "feed_type": 0,
-        "appid": 1085660
-      },
-      {
-        "gid": "1844115010503885",
-        "title": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<img src=\"https://assetsio.gnwcdn.com/destiny-2-header_WGwvqoj.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Not long after announcing <a href=\"https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule\">changes to how they'll handle</a> majorly updating <a href=\"https://www.rockpapershotgun.com/games/marathon-2025\">Marathon</a> going forwards, Bungie have reversed course on their decision to <a href=\"https://www.rockpapershotgun.com/most-of-bungies-staff-were-reportedly-unaware-of-the-decision-to-end-active-development-on-destiny-2-until-it-went-public\">stop developing</a> <a href=\"https://www.rockpapershotgun.com/games/destiny-2\">Destiny 2</a> - a move they <a href=\"https://www.rockpapershotgun.com/following-the-last-destiny-2-update-layoffs-at-bungie-are-underway-with-most-of-the-shooters-team-affected\">followed with layoffs</a>. Promising to bring back vaulted bits of Destiny 2 and declaring that the series is \"foundational\" to their future. A future which they've kicked off with a lot of grovelling for forgiveness.</p>\n <p><a href=\"https://www.rockpapershotgun.com/bungie-decide-their-destiny-is-to-do-more-destiny-after-all-pledging-to-bring-back-vaulted-destiny-2-campaigns-while-declaring-that-marathon-needs-to-evolve\">Read more</a></p>",
-        "feedlabel": "Rock, Paper, Shotgun",
-        "date": 1790074725,
-        "feedname": "Rock, Paper, Shotgun",
         "feed_type": 0,
         "appid": 1085660
       },
