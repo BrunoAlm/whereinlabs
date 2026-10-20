@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846651706695791",
+        "title": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>I'm strongly of the opinion that <a href=\"https://www.rockpapershotgun.com/topics/loot-crates\">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for having gacha mechanics in it, only worse. The normalisation of gambling through alternative, softer names, cool cosmetics, and in many cases, <a href=\"https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby\">cute anime girls</a> is honestly abhorrent. European ratings board PEGI doesn't seem keen on it either, as they've begun enacting <a href=\"https://www.linkedin.com/posts/connor-hinde_a-further-update-to-the-pegi-rating-system-share-7516762594133630976-tyA8/\">recent rule changes</a> bring the default age rating of games that contain these mechanics up to a minimum of PEGI 16.</p>\n <p><a href=\"https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat\">Read more</a></p>",
+        "feedlabel": "Rock, Paper, Shotgun",
+        "date": 1792507511,
+        "feedname": "Rock, Paper, Shotgun",
+        "feed_type": 0,
+        "appid": 730
+      },
+      {
         "gid": "1846651706692498",
         "title": "Bungie раскроет планы по возвращению контента в Destiny 2 на следующей неделе",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706692498",
@@ -312,22 +325,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 570
-      },
-      {
-        "gid": "1845383656394875",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875",
-        "is_external_url": true,
-        "author": "Vitaliy",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1791243583,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ]
       },
       {
         "gid": "1845383656387353",
