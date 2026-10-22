@@ -6,6 +6,43 @@
   "category": [],
   "items": [
     {
+      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like Ico's Fumito Ueda - can't be replicated.</p> <p><a href=\"https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792688449000,
+      "created": 1792688449000,
+      "category": [
+        "AI",
+        "Fighting",
+        "HAL Laboratory",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "N64",
+        "Nintendo",
+        "Nintendo Wii",
+        "Platformer",
+        "Side view",
+        "Single Player",
+        "Super Smash Bros."
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
       "description": "<img src=\"https://assetsio.gnwcdn.com/Final-Fantasy-14-Dawntrail-Review-5-Wuk-Lamat-.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Multiple games - including <a href=\"https://www.eurogamer.net/games/final-fantasy-xiv-a-realm-reborn\">Final Fantasy 14</a> and Umamusume: Pretty Derby - have faced outages and other issues following this week's discovery of a serious PHP vulnerability.</p> <p><a href=\"https://www.eurogamer.net/video-games-down-php-vulnerability\">Read more</a></p>",
       "link": "https://www.eurogamer.net/video-games-down-php-vulnerability",
@@ -4013,42 +4050,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Barone-chocolatier.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Stardew Valley creator Eric Barone, has given a new interview - and finally revealed a little more information about his upcoming title, Haunted Chocolatier. In <a href=\"https://www.gq-magazine.co.uk/article/a-decade-after-stardew-valley-eric-barone-is-still-going-it-alone\">a wide-ranging interview with GQ</a>,  which tackles topics ranging from creative burnout to the importance of 'cosy gaming', Barone also slips in some new information about what we can expect from his highly-anticipated Stardew Valley follow-up.</p> <p><a href=\"https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-      "author": {
-        "$text": "Dom Peppiatt",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791796333000,
-      "created": 1791796333000,
-      "category": [
-        "Bird view / Isometric",
-        "Haunted Chocolatier",
-        "Nintendo Switch",
-        "PC",
-        "PS4",
-        "PS5",
-        "RPG",
-        "Simulation",
-        "Single Player",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Barone-chocolatier.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Barone-chocolatier.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
