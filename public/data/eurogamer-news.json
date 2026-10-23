@@ -6,6 +6,35 @@
   "category": [],
   "items": [
     {
+      "title": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/The-Next-Mass-Effect---Official-Teaser-Trailer-1-20-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>An internal trailer for the cancelled <a href=\"https://www.eurogamer.net/games/mass-effect\">Mass Effect</a> game that was in-development at BioWare prior to its closure this week <a href=\"https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/\">has appeared online.</a> It's confirmed to be real, too, amid some initial suspicions it may have been an AI generated fake.</p> <p><a href=\"https://www.eurogamer.net/mass-effect-universe-trailer-leak-real\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792746709000,
+      "created": 1792746709000,
+      "category": [
+        "Mass Effect 5",
+        "PC",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/The-Next-Mass-Effect---Official-Teaser-Trailer-1-20-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/The-Next-Mass-Effect---Official-Teaser-Trailer-1-20-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
       "description": "<img src=\"https://assetsio.gnwcdn.com/Kirby-Air-Riders-Direct-8.19.2025-27-3-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like Ico's Fumito Ueda - can't be replicated.</p> <p><a href=\"https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games\">Read more</a></p>",
       "link": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
@@ -4011,45 +4040,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/steam-games.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=690&quality=85&format=jpg&auto=webp\" /> <p>Will de Renzy-Martin, the actor who plays lead character Coen in the English language version of The Blood of Dawnwalker, has reminded us of the value humans bring to a performance, versus AIs generating voice lines.</p> <p><a href=\"https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791798090000,
-      "created": 1791798090000,
-      "category": [
-        "Action Adventure",
-        "Bandai Namco Entertainment",
-        "Fantasy",
-        "Open World",
-        "PC",
-        "PS5",
-        "Rebel Wolves",
-        "RPG",
-        "RPG: Action",
-        "Single Player",
-        "Story Rich",
-        "The Blood of Dawnwalker",
-        "Third person",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
