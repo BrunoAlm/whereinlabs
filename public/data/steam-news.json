@@ -2,6 +2,22 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1847286114034398",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398",
+        "is_external_url": true,
+        "author": "Vitaliy",
+        "contents": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.Precache[/p][list][*][p]Returns a CSPrecache object[/p][/*][*][p]Added CSPrecache.IsServerLoading[/p][/*][*][p]Added CSPrecache.IsServerLoaded[/p][/*][*][p]Added CSPrecache.IsClientLoading[/p][/*][*][p]Added CSPrecache.IsClientLoaded[/p][/*][*][p]Added CSPrecache.IsLoadedForAll[/p][/*][*][p]Added CSPrecache.Release[/p][/*][/list][/*][*][p]Added CSHostage[/p][list][*][p]Added CSHostage.IsBeingPickedUp[/p][/*][*][p]Added CSHostage.IsBeingCarried[/p][/*][*][p]Added CSHostage.IsRescued[/p][/*][*][p]Added CSHostage.GetRescuer[/p][/*][*][p]Added CSHostage.GetPickUpStartTime[/p][/*][*][p]Added CSHostage.GetPickUpFinishTime[/p][/*][*][p]Added CSPlayerPawn.GetHostage[/p][/*][*][p]Added Instance.OnHostagePickUpStart[/p][/*][*][p]Added Instance.OnHostagePickUpAbort[/p][/*][*][p]Added Instance.OnHostagePickUp[/p][/*][*][p]Added Instance.OnHostageDrop[/p][/*][*][p]Added Instance.OnHostageRescue[/p][/*][*][p]Added Instance.OnHostageKill[/p][/*][/list][/*][*][p]Added new top level export Console[/p][list][*][p]Added Console.GetConvarBoolean[/p][/*][*][p]Added Console.GetConvarNumber[/p][/*][*][p]Added Console.GetConvarString[/p][/*][*][p]Added Console.GetConvarVector[/p][/*][*][p]Added Console.GetConvarQAngle[/p][/*][*][p]Added Console.GetConvarColor[/p][/*][*][p]Added Console.SetConvar[/p][list][*][p]Console.SetConvar is not restricted by sv_cheats and executes synchronously[/p][/*][/list][/*][*][p]Renamed Instance.Msg to Console.Log[/p][/*][*][p]Moved Instance.ClientCommand, ServerCommand and RegisterCheatCommand to Console[/p][/*][/list][/*][*][p]Added new top level export GameRules[/p][list][*][p]Added GameRules.StartWarmup[/p][/*][*][p]Added GameRules.EndWarmup[/p][/*][*][p]Added GameRules.GetTeamScore[/p][/*][*][p]Added GameRules.AddTeamScore[/p][/*][*][p]Added GameRules.TerminateRound[/p][/*][*][p]Moved Instance.IsWarmupPeriod, IsFreezePeriod, IsTeamIntroPeriod, GetRoundsPlayed, GetRoundRemainingTime, SetRoundRemainingTime and AddTeamMoney to GameRules[/p][/*][/list][/*][*][p]Moved and renamed methods are still available in their original location, deprecated[/p][/*][*][p]Added top-level custom_hud_layout classes HUD_TEAMMENU_VISIBLE and HUD_CHAT_VISIBLE[/p][/*][*][p]radar_element can now appear on the radar in every game mode, not just Rush[/p][/*][*][p]Added support for GameRules.AddTeamMoney with CSTeamMoneyReason.NONE and an amount[/p][/*][*][p]Fixed a crash in GameRules.AddTeamMoney with CSTeamMoneyReason.NONE[/p][/*][*][p]Fixed CSTeamMoneyReason enum values not matching point_script.d.ts[/p][/*][*][p]Fixed CSWeaponAttackType enum values not matching point_script.d.ts[/p][/*][*][p]Fixed CSRadarPoint.IsVisibleToTeam returning a number instead of a boolean[/p][/*][*][p]Fixed CSObservablePoint.IsObservableForTeam returning a number instead of a boolean[/p][/*][*][p]Logged warnings now include the JS call stack[/p][/*][*][p]Logged warnings now include details about bad argument values[/p][/*][*][p]Logged warnings now count arguments from 0 instead of 1[/p][/*][*][p]Improved auto complete of the map_workshop command[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1792709770,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
         "gid": "1847286114034088",
         "title": "PGS 11 Survival Stage is LIVE!!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034088",
@@ -294,19 +310,6 @@
         "feedname": "PlayGround.ru - официальная группа",
         "feed_type": 0,
         "appid": 570
-      },
-      {
-        "gid": "1846018067925017",
-        "title": "Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<img src=\"https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png\"/>\n              <br />\n                                                      <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете естественных и технических наук, предложив новый подход к борьбе с нечестными пользователями. Его работа посвящена системе поведенческой биометрии, которая позволяет вычислять реальную личность игрока по микромоторике рук и связывать баны с человеком, а не с его учетной записью Steam.</p>                                                                                  <p>Главной уязвимостью современных античитов геймер назвал блокировку конкретных аккаунтов. Получив бан, реальный нарушитель просто покупает или регистрирует новый аккаунт и возвращается на серверы со своими читами. Разработанный алгоритм анализирует обычные записи матчей, которые игра уже сохраняет, и формирует персональный «цифровой отпечаток» на основе индивидуальных привычек ввода:</p>                                                        <p>В соревновательном шутере игроки тысячи раз повторяют одни и те же действия под давлением фактора времени: флики, контр-стрейфы, контроль отдачи и броски гранат. Со временем эти движения переходят на уровень подсознательной мышечной памяти. Вы можете сменить ник, звание, аккаунт, оружие и даже общий стиль игры. Но изменить собственные руки куда сложнее.</p>                                                        <p>— объяснил автор диссертации.</p>                                                        <p>В ходе испытаний на выборке из более чем тысячи игроков система показала свою эффективность:</p>                                                        <p>анализ движений мыши безошибочно определил пользователя во всех 100% случаев;</p>                                                        <p>паттерны нажатий клавиатуры показали точность в 98%;</p>                                                        <p>комбинация двух метрик безошибочно подтвердила все 13 известных исследователю тестовых пар аккаунтов одного и того же человека.</p>                                                                                                                                      <p>Что еще более интересно, в процессе тестирования система попутно разоблачила скрытых смурфов: несколько совпадений, которые автор сперва посчитал ложным срабатыванием, но при детальной проверке оказались дополнительными твинками игроков из базы данных. По замыслу создателя, данная технология могла бы работать в связке с VAC и системой «Фактора доверия». Это позволило бы античиту распознавать заблокированного игрока сразу же, как только тот садится за новую учетную запись.</p>                                                        <p>Впрочем, исследователь признал и текущие ограничения проекта: метод пока не проходил испытания на миллионной аудитории серверов Valve, а также может давать сбои, если за одним компьютером поочередно играют несколько членов семьи. По этой причине автор рекомендует на первых порах использовать биометрический отпечаток как весомую улику для системы патруля, а не как повод для мгновенного бана. Разработчик надеется, что представители Valve или соревновательных платформ вроде FACEIT обратят внимание на исследование и помогут протестировать технологию в реальных условиях.</p>",
-        "feedlabel": "PlayGround.ru - официальная группа",
-        "date": 1791350338,
-        "feedname": "PlayGround.ru - официальная группа",
-        "feed_type": 0,
-        "appid": 730
       },
       {
         "gid": "1846018067924633",
