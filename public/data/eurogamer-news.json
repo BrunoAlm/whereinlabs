@@ -6,6 +6,35 @@
   "category": [],
   "items": [
     {
+      "title": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-10-25-at-14.26.43.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>A free point-and-click adventure based on Knightmare, the cult ITV children's show, is in development.</p> <p><a href=\"https://www.eurogamer.net/knightmare-game-free-pc-original-cast\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1792938720000,
+      "created": 1792938720000,
+      "category": [
+        "ITV",
+        "Knightmare",
+        "Nostalgia",
+        "RPG"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-25-at-14.26.43.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-25-at-14.26.43.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Stalker 2's next update has already leaked",
       "description": "<img src=\"https://assetsio.gnwcdn.com/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-%E2%80%94-Launch-Trailer-1-18-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>PlayStation Asia has reportedly leaked details of an unannounced update coming to <a href=\"https://www.eurogamer.net/stalker-2-heart-of-chornobyl-review\">Stalker 2: Heart of Chornobyl</a>, 2.1, next week.</p> <p><a href=\"https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak\">Read more</a></p>",
       "link": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
@@ -3978,51 +4007,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/gta-6-collectors-box.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/gta-3-boxart-houser.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Dan Houser, one of Rockstar's co-founders <a href=\"https://www.eurogamer.net/rockstar-co-founder-dan-houser-is-leaving-the-company-in-march\">that left the GTA 6 studio in 2020</a>, has given a wide-ranging new interview with IGN, covering topics including <a href=\"https://www.ign.com/articles/dan-houser-reveals-rockstars-struggle-to-make-bully\">the tortured production of Bully</a>, changes made to Grand Theft Auto 3's artwork post-9/11, <a href=\"https://www.ign.com/articles/dan-houser-was-surprised-how-angry-some-people-were-at-red-dead-redemptions-iconic-ending\">the reaction to Red Dead Redemption's ending</a>, and why <a href=\"https://www.ign.com/articles/i-got-that-completely-wrong-dan-houser-considers-rockstars-max-payne-3-a-failure\">he thinks Max Payne 3 was a failure</a>.</p> <p><a href=\"https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
-      "author": {
-        "$text": "Dom Peppiatt",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1791898554000,
-      "created": 1791898554000,
-      "category": [
-        "Action Adventure",
-        "Android",
-        "Bird view / Isometric",
-        "DMA Design",
-        "Grand Theft Auto III",
-        "iOS",
-        "Mac",
-        "PC",
-        "PS2",
-        "PS3",
-        "PS4",
-        "Racing",
-        "Rockstar Games",
-        "Shooter",
-        "Simulation",
-        "Single Player",
-        "Take-Two Interactive",
-        "Third person",
-        "TransGaming Inc.",
-        "Xbox"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/gta-3-boxart-houser.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/gta-3-boxart-houser.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
