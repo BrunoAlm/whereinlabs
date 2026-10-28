@@ -141,19 +141,6 @@
         ]
       },
       {
-        "gid": "1846651706695791",
-        "title": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<img src=\"https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>I'm strongly of the opinion that <a href=\"https://www.rockpapershotgun.com/topics/loot-crates\">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for having gacha mechanics in it, only worse. The normalisation of gambling through alternative, softer names, cool cosmetics, and in many cases, <a href=\"https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby\">cute anime girls</a> is honestly abhorrent. European ratings board PEGI doesn't seem keen on it either, as they've begun enacting <a href=\"https://www.linkedin.com/posts/connor-hinde_a-further-update-to-the-pegi-rating-system-share-7516762594133630976-tyA8/\">recent rule changes</a> bring the default age rating of games that contain these mechanics up to a minimum of PEGI 16.</p>\n <p><a href=\"https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat\">Read more</a></p>",
-        "feedlabel": "Rock, Paper, Shotgun",
-        "date": 1792507511,
-        "feedname": "Rock, Paper, Shotgun",
-        "feed_type": 0,
-        "appid": 730
-      },
-      {
         "gid": "1846651706692498",
         "title": "Bungie раскроет планы по возвращению контента в Destiny 2 на следующей неделе",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706692498",
@@ -310,6 +297,19 @@
         "feedname": "PlayGround.ru - официальная группа",
         "feed_type": 0,
         "appid": 570
+      },
+      {
+        "gid": "1846018067925017",
+        "title": "Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png\"/>\n              <br />\n                                                      <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете естественных и технических наук, предложив новый подход к борьбе с нечестными пользователями. Его работа посвящена системе поведенческой биометрии, которая позволяет вычислять реальную личность игрока по микромоторике рук и связывать баны с человеком, а не с его учетной записью Steam.</p>                                                                                  <p>Главной уязвимостью современных античитов геймер назвал блокировку конкретных аккаунтов. Получив бан, реальный нарушитель просто покупает или регистрирует новый аккаунт и возвращается на серверы со своими читами. Разработанный алгоритм анализирует обычные записи матчей, которые игра уже сохраняет, и формирует персональный «цифровой отпечаток» на основе индивидуальных привычек ввода:</p>                                                        <p>В соревновательном шутере игроки тысячи раз повторяют одни и те же действия под давлением фактора времени: флики, контр-стрейфы, контроль отдачи и броски гранат. Со временем эти движения переходят на уровень подсознательной мышечной памяти. Вы можете сменить ник, звание, аккаунт, оружие и даже общий стиль игры. Но изменить собственные руки куда сложнее.</p>                                                        <p>— объяснил автор диссертации.</p>                                                        <p>В ходе испытаний на выборке из более чем тысячи игроков система показала свою эффективность:</p>                                                        <p>анализ движений мыши безошибочно определил пользователя во всех 100% случаев;</p>                                                        <p>паттерны нажатий клавиатуры показали точность в 98%;</p>                                                        <p>комбинация двух метрик безошибочно подтвердила все 13 известных исследователю тестовых пар аккаунтов одного и того же человека.</p>                                                                                                                                      <p>Что еще более интересно, в процессе тестирования система попутно разоблачила скрытых смурфов: несколько совпадений, которые автор сперва посчитал ложным срабатыванием, но при детальной проверке оказались дополнительными твинками игроков из базы данных. По замыслу создателя, данная технология могла бы работать в связке с VAC и системой «Фактора доверия». Это позволило бы античиту распознавать заблокированного игрока сразу же, как только тот садится за новую учетную запись.</p>                                                        <p>Впрочем, исследователь признал и текущие ограничения проекта: метод пока не проходил испытания на миллионной аудитории серверов Valve, а также может давать сбои, если за одним компьютером поочередно играют несколько членов семьи. По этой причине автор рекомендует на первых порах использовать биометрический отпечаток как весомую улику для системы патруля, а не как повод для мгновенного бана. Разработчик надеется, что представители Valve или соревновательных платформ вроде FACEIT обратят внимание на исследование и помогут протестировать технологию в реальных условиях.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1791350338,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 730
       },
       {
         "gid": "1846018067924633",
