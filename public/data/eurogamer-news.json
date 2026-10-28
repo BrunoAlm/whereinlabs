@@ -6,6 +6,94 @@
   "category": [],
   "items": [
     {
+      "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/grand-theft-auto-6-sharing-beer-on-boat.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>A date has been locked in for <a href=\"https://www.eurogamer.net/companies/rockstar-games\">Rockstar Games</a> employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry.</p> <p><a href=\"https://www.eurogamer.net/rockstar-union-vote-november\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/rockstar-union-vote-november",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793180979000,
+      "created": 1793180979000,
+      "category": [
+        "Action Adventure",
+        "First person",
+        "Full product",
+        "Grand Theft Auto VI",
+        "Modern Day",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Open World",
+        "PS5",
+        "Racing",
+        "Rockstar Games",
+        "Rockstar North",
+        "Shooter",
+        "Shooter: Third Person",
+        "Single Player",
+        "Take-Two Interactive",
+        "Third person",
+        "union",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sharing-beer-on-boat.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sharing-beer-on-boat.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>There wasn't really any chance <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">Grand Theft Auto 6</a> wasn't going to be a big download. Thanks to some new information, though, we now have a hard number.</p> <p><a href=\"https://www.eurogamer.net/gta-6-ps5-download-size\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/gta-6-ps5-download-size",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793178877000,
+      "created": 1793178877000,
+      "category": [
+        "Action Adventure",
+        "First person",
+        "Full product",
+        "Grand Theft Auto VI",
+        "Modern Day",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Open World",
+        "PlayStation Store",
+        "PS5",
+        "Racing",
+        "Rockstar Games",
+        "Rockstar North",
+        "Shooter",
+        "Shooter: Third Person",
+        "Single Player",
+        "Take-Two Interactive",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
       "description": "<img src=\"https://assetsio.gnwcdn.com/KCDII_Standard_KA_Unbranded.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/kingdom-come-deliverance\">Kingdom Come: Deliverance</a> developer Warhorse Studios has confirmed it's suffered a \"serious\" cyberattack, saying it is currently working to determine the \"full extent\" of its impact.</p> <p><a href=\"https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance\">Read more</a></p>",
       "link": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
@@ -3844,78 +3932,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/league-of-legends-ahri-classic-splash-art.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/league-of-legends-classic-release-date-details\">League of Legends Classic</a>, the recreation of an older version of the popular MOBA, will be taken down at the end of the current season. The reason given is simple: most players have moved on to other areas of <a href=\"https://www.eurogamer.net/games/league-of-legends\">League of Legends</a>.</p> <p><a href=\"https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792065985000,
-      "created": 1792065985000,
-      "category": [
-        "Bird view / Isometric",
-        "Garena",
-        "League of Legends",
-        "Mac",
-        "MOBA",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "Riot Games",
-        "RPG",
-        "Single Player",
-        "Strategy"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/league-of-legends-ahri-classic-splash-art.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/league-of-legends-ahri-classic-splash-art.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/007-first-light-switch-2.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The <a href=\"https://www.eurogamer.net/platforms/switch-2\">Switch 2</a> version of 007 First Light will be released 18th March, 2027, <a href=\"https://www.eurogamer.net/companies/io-interactive\">IO Interactive</a> has announced. The game had originally been expected this summer but <a href=\"https://www.eurogamer.net/007-first-light-switch-2-delay\">IOI announced a delay to an unspecific date in March</a> roughly a month ago.</p> <p><a href=\"https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792055846000,
-      "created": 1792055846000,
-      "category": [
-        "007 First Light",
-        "Action Adventure",
-        "IO Interactive",
-        "Nintendo Switch 2",
-        "PC",
-        "PS5",
-        "Shooter",
-        "Single Player",
-        "Third person",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/007-first-light-switch-2.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/007-first-light-switch-2.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
