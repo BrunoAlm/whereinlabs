@@ -6,6 +6,176 @@
   "category": [],
   "items": [
     {
+      "title": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/spiny-mario-kart-world-custom-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A dataminer has uncovered something peculiar in the code of <a href=\"https://www.eurogamer.net/games/mario-kart-world\">Mario Kart World</a>. Spiny, a tiny little turtle-looking fella with a spiky shell, was meant to be a driver in the game.</p> <p><a href=\"https://www.eurogamer.net/mario-kart-world-dataminer-spiny\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793290588000,
+      "created": 1793290588000,
+      "category": [
+        "Action Adventure",
+        "Mario Kart World",
+        "Multiplayer Competitive",
+        "Nintendo",
+        "Nintendo Switch 2",
+        "Racing",
+        "Single Player",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/spiny-mario-kart-world-custom-header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/spiny-mario-kart-world-custom-header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/greg-ray-bioware.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>One of BioWare's famous doctor-founders, Greg Zeschuk, has finally spoken about <a href=\"https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled\">the studio's closure last week</a>, saying it's \"kind of sad\" and that EA's leveraged buyout by a Saudi-involved consortium \"was the final nail in the coffin\".</p> <p><a href=\"https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793286497000,
+      "created": 1793286497000,
+      "category": [
+        "2K Games",
+        "Action Adventure",
+        "Activision",
+        "Android",
+        "Anthem",
+        "Aspyr",
+        "Baldur's Gate",
+        "Baldur's Gate II: Shadows of Amn",
+        "Bioware",
+        "BioWare Montréal",
+        "Bird view / Isometric",
+        "Dragon Age II",
+        "Dragon Age: Inquisition",
+        "Dragon Age: Origins",
+        "Dragon Age: The Veilguard",
+        "Electronic Arts",
+        "Interplay",
+        "Interplay Entertainment",
+        "iOS",
+        "Jade Empire",
+        "LucasArts",
+        "Mac",
+        "Mass Effect",
+        "Mass Effect 2",
+        "Mass Effect 3",
+        "Mass Effect: Andromeda",
+        "Microsoft",
+        "Microsoft Studios",
+        "MMORPG",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "MumboJumbo",
+        "Nintendo Switch",
+        "Nintendo Wii U",
+        "PC",
+        "PS3",
+        "PS4",
+        "PS5",
+        "RPG",
+        "Shooter",
+        "Simulation",
+        "Single Player",
+        "Star Wars: Knights Of The Old Republic",
+        "Star Wars: The Old Republic",
+        "Strategy",
+        "Take-Two Interactive",
+        "Third person",
+        "Xbox",
+        "Xbox 360",
+        "Xbox One",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/greg-ray-bioware.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/greg-ray-bioware.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>FromSoftware's The Duskbloods - a game that is best described as Bloodborne meets Sekiro meets Dark Souls, with jetpacks and dinos thrown in - has been delayed from its 2026 launch window into an unspecified time in 2027.</p> <p><a href=\"https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+      "author": {
+        "$text": "Dom Peppiatt",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793283265000,
+      "created": 1793283265000,
+      "category": [
+        "Action Adventure",
+        "FromSoftware",
+        "Multiplayer Competitive",
+        "Nintendo",
+        "Nintendo Switch 2",
+        "Single Player",
+        "The Duskbloods",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Last week, <a href=\"https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs\">EA announced it's laying off 400 workers across multiple studios, cancelling projects</a> and refocusing on its biggest money-makers. As part of that, <a href=\"https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled\">EA closed down the iconic BioWare studio</a>, letting go of most of its remaining staff of around 50 people.</p> <p><a href=\"https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793282910000,
+      "created": 1793282910000,
+      "category": [
+        "Bioware",
+        "EA",
+        "Electronic Arts"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
       "description": "<img src=\"https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The World of Warcraft team has found itself at the centre of controversy after recently-added housing cosmetics appeared to go against previous pledges not to sell decorations tied to the visual identity of the game's races and factions.</p> <p><a href=\"https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran\">Read more</a></p>",
       "link": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
@@ -3886,139 +4056,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/dune-awakening_eBRRA9O.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Steam Next Fest 2026 starts today, offering PC players a chance to get their hands on a staggering number of playable demos. With the full count coming to more than double last year's event, concerns about generative AI 'slop', plagiarism, and discoverability are circulating</p> <p><a href=\"https://www.eurogamer.net/steam-next-fest-2026-over-double\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/steam-next-fest-2026-over-double",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792406606000,
-      "created": 1792406606000,
-      "category": "Steam Next Fest",
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>It may be hard to believe, given <a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-player-reaction\">all the Call of Duty: Modern 4 pre-launch community drama</a> and <a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-second-weekend-major-patch-steam-numbers\">the beta's lower-than-expected numbers on PC</a>, but the final game may have turned things around - so far, at least.</p> <p><a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792399003000,
-      "created": 1792399003000,
-      "category": [
-        "Activision",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "First person",
-        "FPS",
-        "Infinity Ward",
-        "Military",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch 2",
-        "PC",
-        "PS5",
-        "Realism",
-        "Shooter",
-        "Single Player",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-10-18-at-18.30.22.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Battlefield Studios has responded after fans accused it of using AI to generate cosmetics after spotting a \"Secuty\" typo on a <a href=\"https://www.eurogamer.net/games/battlefield-2025\">Battlefield 6</a> Season 5 skin.</p> <p><a href=\"https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
-      "author": {
-        "$text": "Vikki Blake",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792345058000,
-      "created": 1792345058000,
-      "category": [
-        "AI",
-        "Battlefield 6",
-        "Bird view / Isometric",
-        "EA",
-        "Electronic Arts",
-        "First person",
-        "Multiplayer Competitive",
-        "PC",
-        "PS5",
-        "Science Fiction",
-        "Shooter",
-        "Single Player",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-18-at-18.30.22.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-18-at-18.30.22.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "The PS6's memory and storage alone reportedly cost more than $680",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The PS6's memory and storage reportedly cost more than $680 between them.</p> <p><a href=\"https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
-      "author": {
-        "$text": "Vikki Blake",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792343429000,
-      "created": 1792343429000,
-      "category": [
-        "AI",
-        "PS5",
-        "PS6",
-        "RAM",
-        "Sony PlayStation"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/ps6-games-calendar.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
