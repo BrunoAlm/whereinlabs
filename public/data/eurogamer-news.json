@@ -6,6 +6,46 @@
   "category": [],
   "items": [
     {
+      "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-17.27.33.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/playerunknowns-battlegrounds\">PUBG</a> is being turned into a live-action series for Netflix, with Donald Glover set to direct, write, executive produce, and star.</p> <p><a href=\"https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793468136000,
+      "created": 1793468136000,
+      "category": [
+        "Battle Royale",
+        "Bluehole Studio",
+        "First person",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "PC",
+        "Playerunknown's Battlegrounds",
+        "PS4",
+        "PS5",
+        "Shooter",
+        "Single Player",
+        "Stadia",
+        "Third person",
+        "Xbox One",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-17.27.33.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-17.27.33.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
       "description": "<img src=\"https://assetsio.gnwcdn.com/MW4_MP_004_BRANDED.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Activision has apologised to the bereaved families of the Itaewon crowd crush victims and confirmed it will remove real footage of the tragedy from Call of Duty: Modern Warfare 4.</p> <p><a href=\"https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology\">Read more</a></p>",
       "link": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
@@ -4092,48 +4132,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-launch-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/as-ea-rejects-loot-boxes-and-pay-to-win-im-left-wondering-what-about-fifa-1529662660384.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>PEGI, the European video game age rating agency, has started raising the age ratings of digital games that feature loot boxes to 16. The rollout of this new, stricter approach, is expected to occur throughout October.</p> <p><a href=\"https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792496616000,
-      "created": 1792496616000,
-      "category": [
-        "Bird view / Isometric",
-        "EA Sports",
-        "EA Sports FC 27",
-        "loot boxes",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch",
-        "Nintendo Switch 2",
-        "PC",
-        "PEGI 16",
-        "PS4",
-        "PS5",
-        "Single Player",
-        "Sports",
-        "Third person",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/as-ea-rejects-loot-boxes-and-pay-to-win-im-left-wondering-what-about-fifa-1529662660384.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/as-ea-rejects-loot-boxes-and-pay-to-win-im-left-wondering-what-about-fifa-1529662660384.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
