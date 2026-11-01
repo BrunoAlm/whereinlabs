@@ -6,6 +6,45 @@
   "category": [],
   "items": [
     {
+      "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/pikmin-4\">Pikmin 4</a> <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a> Edition will launch on 12th November, bundled with a new mode called Dandori Academy.</p> <p><a href=\"https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793527453000,
+      "created": 1793527453000,
+      "category": [
+        "Action Adventure",
+        "Bird view / Isometric",
+        "Eighting",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Nintendo",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
+        "Pikmin 4",
+        "release dates",
+        "Single Player",
+        "Strategy",
+        "Strategy: Real-Time Strategy",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
       "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-17.27.33.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/playerunknowns-battlegrounds\">PUBG</a> is being turned into a live-action series for Netflix, with Donald Glover set to direct, write, executive produce, and star.</p> <p><a href=\"https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover\">Read more</a></p>",
       "link": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
@@ -4091,47 +4130,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/Helldivers-2-Exo-Experts-Warbond_ingame.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/modern-warfare-4-campaign-launch-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The Call of Duty: Modern Warfare 4 campaign <a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating\">is currently available in early access</a>, and if you're among the many who pre-ordered a copy in order to play it before launch, you've likely noticed a locked difficulty setting that's harder, even, than Realism.</p> <p><a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792501062000,
-      "created": 1792501062000,
-      "category": [
-        "Activision",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "First person",
-        "FPS",
-        "Infinity Ward",
-        "Military",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch 2",
-        "PC",
-        "PS5",
-        "Realism",
-        "Shooter",
-        "Single Player",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-launch-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-launch-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
