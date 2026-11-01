@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1847920302245316",
+        "title": "Team Fortress 2 spinoff Mann Versus Zombies looks so good it could almost be official",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1847920302245316",
+        "is_external_url": true,
+        "author": "editor@pcgamesn.com",
+        "contents": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/team-fortress-2-mann-versus-zombies-gameplay-trailer-call-of-duty-horde-survival-mod-breadworks.jpg\"/><p>A new Mann vs Zombies gameplay trailer shows off the Call of Duty inspired horde survival TF2 mod, which is set for an early 2027 launch.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/team-fortress-2/mann-vs-zombies-gameplay-trailer\">Team Fortress 2 spinoff Mann Versus Zombies looks so good it could almost be official</a></p>",
+        "feedlabel": "PCGamesN",
+        "date": 1793546266,
+        "feedname": "PCGamesN",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1847920302244423",
         "title": "PGS 12 Grand Finals Day 3 is LIVE!!",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302244423",
@@ -110,19 +123,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1847920302236301",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/289185/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed smoke effect regression for Le Sapeur<br><li>Updated the Chief Executor, Vested Investor's Vest, and Standing Offer to fix clipping issues<br><li>Updated cp_wildcat_event<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Added +1 minute to the round timer<br><li>Fixed a bug that allowed pumpkin-disguised players to cap at 15x speed<br><li>Fixed pumpkin-disguised players not displaying as Ubercharged if they have a Voodoo-Cursed Soul cosmetic equipped<br><li>Fixed buildings being able to be built inside the shutter door in the connector between A and B<br><li>Fixed some jack-o-lanterns around the map not rendering during the waiting for players period<br><li>Fixed equipped Powerup Canteens rendering while pumpkin-disguised</ul><li>Updated Updated zi_atoll, zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Lowered edicts across the board<br><li>Zombie Sniper's Spit now deals critical hits to airborne targets <br><li>Fixed Zombie Engineer building status being visible upon initial infection<br><li>Fixed Reveal outline persisting on players into the next round</ul><li>Updated zi_atoll (additional changes)<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed a visual bug where water would disappear in certain parts of the map<br><li>Added more cover in front of the shack<br><li>Enabled every BLU spawn point no matter where RED players are located</ul></ul>",
-        "feedlabel": "Product Update",
-        "date": 1793305740,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1847920302236481",
