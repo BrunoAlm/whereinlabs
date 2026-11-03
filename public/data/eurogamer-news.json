@@ -6,6 +6,159 @@
   "category": [],
   "items": [
     {
+      "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/itch-logo-black-new-svg.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Indie game storefront <a href=\"http://itch.io/\">itch.io</a> has expanded its AI disclosure filters, allowing its users to better separate games made with the controversial technology from those who don't.</p> <p><a href=\"https://www.eurogamer.net/itchio-generative-ai-filters-slop\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793707436000,
+      "created": 1793707436000,
+      "category": [
+        "AI",
+        "Itch.io",
+        "PC"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/itch-logo-black-new-svg.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/itch-logo-black-new-svg.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>It's been speculated for a while that Call of Duty may be losing its lustre. Although we don't have concrete data with detailed statistics for each game released in the last several years, there's an observable trend in player numbers that's hard to ignore.</p> <p><a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793704961000,
+      "created": 1793704961000,
+      "category": [
+        "Activision",
+        "Call of Duty: Black Ops 7",
+        "Call of Duty: Modern Warfare 4 (2026)",
+        "First person",
+        "FPS",
+        "Game Pass",
+        "Infinity Ward",
+        "Military",
+        "Modern Day",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Nintendo Switch 2",
+        "PC",
+        "PS4",
+        "PS5",
+        "Raven Software",
+        "Realism",
+        "Shooter",
+        "Single Player",
+        "Square Enix",
+        "Treyarch",
+        "Xbox One",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Remedy - the developer behind the recently released Control Resonant - has released a scorcher of a quarterly financial report. It shows that following Resonant's release in September, the company's revenue surged by 226 percent, bringing in &euro;39.6m in Q3.</p> <p><a href=\"https://www.eurogamer.net/control-resonant-remedy-revenue-leaps\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793699808000,
+      "created": 1793699808000,
+      "category": [
+        "505 Games",
+        "Action Adventure",
+        "Control Resonant",
+        "Hack & Slash",
+        "Horror",
+        "Mac",
+        "PC",
+        "PS5",
+        "Remedy Entertainment",
+        "RPG",
+        "RPG: Action",
+        "Shooter",
+        "Single Player",
+        "Story Rich",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Sony's Bend Studio, perhaps one of its lesser discussed development houses, has apparently been deep in development on its next title. The game is reportedly set to be announced in 2027, and released in the same year.</p> <p><a href=\"https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1793697519000,
+      "created": 1793697519000,
+      "category": [
+        "Action Adventure",
+        "Bend Studio",
+        "Days Gone",
+        "PC",
+        "PS4",
+        "PS5",
+        "Shooter",
+        "Single Player",
+        "Sony Bend",
+        "Sony Interactive Entertainment",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase",
       "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-03-07-at-17.05.06.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Nagoshi Studio has officially shut down and its first game called Gang of Dragon is seemingly no more, months after publisher NetEase pulled funding from the Yakuza-like project.</p> <p><a href=\"https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease\">Read more</a></p>",
       "link": "https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease",
@@ -3923,189 +4076,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/apex-legends-season-24-ash-and-ballistic-promo-art.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/asobo-talks-opening-up-flight-simulators-world-to-everyone-via-xbox-cloud-gaming-1646154881580.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Microsoft has revealed how much its Xbox cloud gaming service is going to cost, with 50 hours of stream-time selling for an introductory price of $11.99.</p> <p><a href=\"https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792660243000,
-      "created": 1792660243000,
-      "category": [
-        "Cloud gaming",
-        "Microsoft",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/asobo-talks-opening-up-flight-simulators-world-to-everyone-via-xbox-cloud-gaming-1646154881580.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/asobo-talks-opening-up-flight-simulators-world-to-everyone-via-xbox-cloud-gaming-1646154881580.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A new <a href=\"https://www.eurogamer.net/games/star-wars-battlefront\">Star Wars: Battlefront</a> game is reportedly in the works, and it's said to have <a href=\"https://www.eurogamer.net/games/apex-legends\">Apex Legends</a> and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE.</p> <p><a href=\"https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792658415000,
-      "created": 1792658415000,
-      "category": [
-        "Action Adventure",
-        "Activision",
-        "DICE",
-        "Electronic Arts",
-        "First person",
-        "LucasArts",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Pandemic Studios",
-        "PC",
-        "PS2",
-        "PSP",
-        "Respawn Entertainment",
-        "Savage Entertainment",
-        "Shooter",
-        "Single Player",
-        "Star Wars: Battlefront II",
-        "Third person",
-        "Xbox"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/the-sims-coach-collab.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Not only is <a href=\"https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled\">EA closing down BioWare and cancelling the next Mass Effect</a> - Electronic Arts has now announced a heap of drastic changes that include cutting 400 jobs across the company, pausing development on a project connected to The Sims, and bringing together Respawn and DICE.</p> <p><a href=\"https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792609306000,
-      "created": 1792609306000,
-      "category": [
-        "Action Adventure",
-        "Aspyr",
-        "Battlefield 6",
-        "Bird view / Isometric",
-        "Camouflaj",
-        "Electronic Arts",
-        "First person",
-        "Free-to-play",
-        "Full Circle",
-        "Mac",
-        "Marvel's Iron Man",
-        "Mass Effect 5",
-        "Maxis",
-        "Meta Quest",
-        "MMORPG",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo GameCube",
-        "Oculus Studios",
-        "PC",
-        "PS2",
-        "PS4",
-        "PS5",
-        "Racing",
-        "RPG",
-        "Shooter",
-        "Simulation",
-        "Single Player",
-        "Skate.",
-        "Sports",
-        "Strategy",
-        "The Sims",
-        "Third person",
-        "Virtual Reality",
-        "Xbox",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/the-sims-coach-collab.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/the-sims-coach-collab.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/image-(4)_hn7CZkQ.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>After over three decades of iconic RPGs, developer BioWare is closing down and its in-development <a href=\"https://www.eurogamer.net/games/mass-effect\">Mass Effect</a> game is no more. The move comes just months after corporate owner EA was bought out by a group of investment firms for $55 billion.</p> <p><a href=\"https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1792605357000,
-      "created": 1792605357000,
-      "category": [
-        "Action Adventure",
-        "Anthem",
-        "Bioware",
-        "Bird view / Isometric",
-        "Dragon Age: Origins",
-        "Electronic Arts",
-        "Mac",
-        "Mass Effect",
-        "Mass Effect 5",
-        "Microsoft",
-        "Microsoft Studios",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "PS3",
-        "PS4",
-        "PS5",
-        "RPG",
-        "Shooter",
-        "Single Player",
-        "Third person",
-        "Xbox 360",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/image-(4)_hn7CZkQ.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/image-(4)_hn7CZkQ.png?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
