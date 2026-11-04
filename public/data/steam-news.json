@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1848557880478037",
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/26~11/1)",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478037",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/6665b8db8893f3f61b8adffd82c7fa3705dd09be.png[/img]\n\n[h2][url=https://pubg.com/news/11359]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1793775654,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
+        "gid": "1848557880477753",
+        "title": "Special Drops - November 2026",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880477753",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/c8de5bb09c38f0193d04b82b2fd0ec825dc7570b.jpg\"][/img][/p][h2][url=\"https://pubg.com/events/notice/11328\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1793768447,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1847920302251353",
         "title": "Российская 1w выиграла \"Московские киберигры 2026\" по Counter-Strike 2 и обеспечила себе место на мейджоре",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353",
@@ -49,32 +75,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/5acbd61a85f2abeb21e3efad8c0875b60f2eaad5.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11338\"]Read the full announcement here![/url][/h2]",
         "feedlabel": "Community Announcements",
         "date": 1793685602,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1847920302250731",
-        "title": "Map Service Report - Update 44.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250731",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png[/img]\n\n[h2][url=https://pubg.com/news/11336]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1793685602,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1847920302250635",
-        "title": "PUBG x IVE",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250635",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/e5569f6bba8bfd30019274289848881bb86c4359.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11307\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1793682059,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
