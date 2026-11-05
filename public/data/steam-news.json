@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1848664643339943",
+        "title": "[Dev Letter] Anti-Cheat Update - Combating Cheat Distribution and Ban Evasion",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643339943",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/bec6b560d3e8b6691a748abf5602af472342b702.png[/img]\n\n[h2][url=https://pubg.com/news/11346]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1793858434,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1848557880481353",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353",
@@ -78,19 +91,6 @@
         "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/734ebc55364ff6382ba0992d3997fcdaf4426889.jpg\"][/img]  [/p][h2][url=\"https://pubg.com/news/11337\"]Read the full announcement here![/url][/h2][p][/p]",
         "feedlabel": "Community Announcements",
         "date": 1793685603,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
-        "gid": "1847920302250730",
-        "title": "Patch Notes - Update 44.1",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250730",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/5acbd61a85f2abeb21e3efad8c0875b60f2eaad5.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11338\"]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1793685602,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
