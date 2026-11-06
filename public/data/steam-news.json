@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1848664643345061",
+        "title": "PUBG Saturday Custom Games return this weekend!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345061",
+        "is_external_url": true,
+        "author": "TecK",
+        "contents": "[p]The next edition of [b]PUBG Saturday Custom Games[/b] is happening this [b]Saturday, November 7th at 20:00 CEST[/b], bringing the community together once again for custom matches, creator co-streams, and G-Coin giveaways.[/p][p][/p][p][b]Tune in live on Twitch:[/b] [/p][p]Join the games, squad up with the community, and follow the broadcast for your chance to win rewards throughout the event.[/p][p][/p][h3][b]G-Coin Giveaways[/b][/h3][p]During this month’s event, players will have the chance to win:[/p][p][/p][p][b]Main broadcast raffle[/b]\n10x 1,000 G-Coin codes[/p][p][/p][p][b]Creator giveaways[/b]\n5x 500 G-Coin codes per participating co-streaming creator[/p][p][/p][p]Whether you are jumping into the custom games or watching along with your favorite creators, there will be plenty of chances to get involved.[/p][p][/p][p]Keep an eye on the official [url=\"http://discord.gg/Battlegrounds\"]PUBG Discord[/url], the [url=\"https://www.twitch.tv/jorosar\"]Twitch broadcast[/url], and participating creator channels for lobby details, event updates, and giveaway information.[/p][p]\nSee you on the Battlegrounds this Saturday![/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1793962199,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1848664643342757",
         "title": "Modern Warfare 4 Season 1 Battle Pass System, BlackCell, and New Store Bundles",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342757",
@@ -101,19 +114,6 @@
         "appid": 578080
       },
       {
-        "gid": "1847920302250733",
-        "title": "[Dev Letter] The End of the LMG Meta Rotation and What’s Next",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250733",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/734ebc55364ff6382ba0992d3997fcdaf4426889.jpg\"][/img]  [/p][h2][url=\"https://pubg.com/news/11337\"]Read the full announcement here![/url][/h2][p][/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1793685603,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
         "gid": "1847920302249180",
         "title": "Call of Duty: Warzone Season 1: Everything You Need to Know",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249180",
@@ -161,19 +161,6 @@
         ]
       },
       {
-        "gid": "1847920302240749",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1847920302240749",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins\n<li>Updated/Added some tournament medals\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1793402280,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1847920302240745",
         "title": "Team Fortress 2 Update Released",
         "url": "https://store.steampowered.com/news/289665/",
@@ -183,6 +170,19 @@
         "feedlabel": "Product Update",
         "date": 1793402280,
         "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1847920302240749",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1847920302240749",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins\n<li>Updated/Added some tournament medals\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1793402280,
+        "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
       },
