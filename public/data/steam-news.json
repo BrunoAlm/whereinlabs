@@ -177,19 +177,6 @@
         ]
       },
       {
-        "gid": "1847920302240749",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1847920302240749",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins\n<li>Updated/Added some tournament medals\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1793402280,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1847920302240745",
         "title": "Team Fortress 2 Update Released",
         "url": "https://store.steampowered.com/news/289665/",
@@ -199,6 +186,19 @@
         "feedlabel": "Product Update",
         "date": 1793402280,
         "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1847920302240749",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1847920302240749",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins\n<li>Updated/Added some tournament medals\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1793402280,
+        "feedname": "tf2_blog",
         "feed_type": 0,
         "appid": 440
       },
