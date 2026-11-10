@@ -6,6 +6,204 @@
   "category": [],
   "items": [
     {
+      "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/steam_share_image.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Valve has released a new Steam update that adds Steam Deck framerate data to a game's store page, giving potential buyers an indication of how well a game runs on the handheld.</p> <p><a href=\"https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794318810000,
+      "created": 1794318810000,
+      "category": [
+        "PC",
+        "Steam",
+        "Steam Deck",
+        "Valve"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/steam_share_image.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/steam_share_image.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "As Arc Raiders celebrates its first birthday, publisher Nexon reveals the extraction shooter has topped 17 million sales, but revenue is set to decline",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/arc-raiders\">Arc Raiders</a>, Embark Studios' popular extraction shooter, has exceeded 17m copies sold, according to publisher Nexon.</p> <p><a href=\"https://www.eurogamer.net/arc-raiders-17-million-sales-nexon-decline\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/arc-raiders-17-million-sales-nexon-decline",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794313680000,
+      "created": 1794313680000,
+      "category": [
+        "ARC Raiders",
+        "Embark Studios",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "PC",
+        "PS5",
+        "Science Fiction",
+        "Shooter",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop. But for a small selection of true enthusiasts, the game is already working on mobile and handheld devices.</p> <p><a href=\"https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794308140000,
+      "created": 1794308140000,
+      "category": [
+        "Android",
+        "Blizzard Entertainment",
+        "First person",
+        "iOS",
+        "Mac",
+        "MMO",
+        "MMORPG",
+        "Multiplayer Competitive",
+        "PC",
+        "RPG",
+        "Third person",
+        "World of Warcraft: Forever"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Australian developer House House has revealed it used generative AI \"sparingly\" to help make celebrated, indie, multiplayer puzzle game Big Walk.</p> <p><a href=\"https://www.eurogamer.net/house-house-big-walk-generative-ai-development\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794307900000,
+      "created": 1794307900000,
+      "category": [
+        "Action Adventure",
+        "Big Walk",
+        "House House",
+        "Mac",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Nintendo Switch 2",
+        "Panic",
+        "PC",
+        "Platformer",
+        "PS5",
+        "Puzzle",
+        "Single Player",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/switch-2-the-legend-of-zelda--40th-anniversary-edition-grab-1.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Could a remade Legend of Zelda: Ocarina of Time be exciting enough to revitalise Switch 2 hardware sales? That was the big question. And early sales figures suggest the answer is yes, it can.</p> <p><a href=\"https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794302720000,
+      "created": 1794302720000,
+      "category": [
+        "Action Adventure",
+        "Nintendo",
+        "Nintendo Switch 2",
+        "Single Player",
+        "The Legend of Zelda: Ocarina of Time (Switch 2)",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/switch-2-the-legend-of-zelda--40th-anniversary-edition-grab-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/switch-2-the-legend-of-zelda--40th-anniversary-edition-grab-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/switch-2-gifting.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Nintendo has just pushed out a new update to all Switch and Switch 2 consoles, bringing the firmware on both up to version 23.5.0. The headline change with the new update is support and compatibility for an upcoming update that will allow members of a Nintendo Account family group to gift games to one another.</p> <p><a href=\"https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
+      "author": {
+        "$text": "Dom Peppiatt",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794302570000,
+      "created": 1794302570000,
+      "category": [
+        "Nintendo Switch",
+        "Nintendo Switch 2"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/switch-2-gifting.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/switch-2-gifting.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
       "description": "<img src=\"https://assetsio.gnwcdn.com/Lucia-ai-background.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Today, as part of <a href=\"https://www.eurogamer.net/companies/take-two-interactive\">Take-Two Interactive</a> Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company. One caller was concerned about AI - specifically about <a href=\"https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash\">the proliferation of AI-powered compilations and decompilations</a> that have <a href=\"https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response\">been raising piracy concerns</a> for publishers over the past few weeks.</p> <p><a href=\"https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview\">Read more</a></p>",
       "link": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
@@ -3612,257 +3810,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/celeste-header.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/spiny-mario-kart-world-custom-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A dataminer has uncovered something peculiar in the code of <a href=\"https://www.eurogamer.net/games/mario-kart-world\">Mario Kart World</a>. Spiny, a tiny little turtle-looking fella with a spiky shell, was meant to be a driver in the game.</p> <p><a href=\"https://www.eurogamer.net/mario-kart-world-dataminer-spiny\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793290588000,
-      "created": 1793290588000,
-      "category": [
-        "Action Adventure",
-        "Mario Kart World",
-        "Multiplayer Competitive",
-        "Nintendo",
-        "Nintendo Switch 2",
-        "Racing",
-        "Single Player",
-        "Third person"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/spiny-mario-kart-world-custom-header.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/spiny-mario-kart-world-custom-header.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/greg-ray-bioware.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>One of BioWare's famous doctor-founders, Greg Zeschuk, has finally spoken about <a href=\"https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled\">the studio's closure last week</a>, saying it's \"kind of sad\" and that EA's leveraged buyout by a Saudi-involved consortium \"was the final nail in the coffin\".</p> <p><a href=\"https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793286497000,
-      "created": 1793286497000,
-      "category": [
-        "2K Games",
-        "Action Adventure",
-        "Activision",
-        "Android",
-        "Anthem",
-        "Aspyr",
-        "Baldur's Gate",
-        "Baldur's Gate II: Shadows of Amn",
-        "Bioware",
-        "BioWare Montréal",
-        "Bird view / Isometric",
-        "Dragon Age II",
-        "Dragon Age: Inquisition",
-        "Dragon Age: Origins",
-        "Dragon Age: The Veilguard",
-        "Electronic Arts",
-        "Interplay",
-        "Interplay Entertainment",
-        "iOS",
-        "Jade Empire",
-        "LucasArts",
-        "Mac",
-        "Mass Effect",
-        "Mass Effect 2",
-        "Mass Effect 3",
-        "Mass Effect: Andromeda",
-        "Microsoft",
-        "Microsoft Studios",
-        "MMORPG",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "MumboJumbo",
-        "Nintendo Switch",
-        "Nintendo Wii U",
-        "PC",
-        "PS3",
-        "PS4",
-        "PS5",
-        "RPG",
-        "Shooter",
-        "Simulation",
-        "Single Player",
-        "Star Wars: Knights Of The Old Republic",
-        "Star Wars: The Old Republic",
-        "Strategy",
-        "Take-Two Interactive",
-        "Third person",
-        "Xbox",
-        "Xbox 360",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/greg-ray-bioware.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/greg-ray-bioware.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>FromSoftware's The Duskbloods - a game that is best described as Bloodborne meets Sekiro meets Dark Souls, with jetpacks and dinos thrown in - has been delayed from its 2026 launch window into an unspecified time in 2027.</p> <p><a href=\"https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
-      "author": {
-        "$text": "Dom Peppiatt",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793283265000,
-      "created": 1793283265000,
-      "category": [
-        "Action Adventure",
-        "FromSoftware",
-        "Multiplayer Competitive",
-        "Nintendo",
-        "Nintendo Switch 2",
-        "Single Player",
-        "The Duskbloods",
-        "Third person"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Last week, <a href=\"https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs\">EA announced it's laying off 400 workers across multiple studios, cancelling projects</a> and refocusing on its biggest money-makers. As part of that, <a href=\"https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled\">EA closed down the iconic BioWare studio</a>, letting go of most of its remaining staff of around 50 people.</p> <p><a href=\"https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793282910000,
-      "created": 1793282910000,
-      "category": [
-        "Bioware",
-        "EA",
-        "Electronic Arts"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/dragon-age-veilguard-review-conversation.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The World of Warcraft team has found itself at the centre of controversy after recently-added housing cosmetics appeared to go against previous pledges not to sell decorations tied to the visual identity of the game's races and factions.</p> <p><a href=\"https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793275194000,
-      "created": 1793275194000,
-      "category": [
-        "Action Adventure",
-        "Blizzard",
-        "Blizzard Entertainment",
-        "Blockbuster",
-        "Fantasy",
-        "Mac",
-        "MMO",
-        "MMORPG",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "RPG",
-        "Single Player",
-        "Third person",
-        "World of Warcraft"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "COD Modern Warfare 4's controversial Possum ability nerfed to stop it being used \"as a combat mechanic instead of a survival mechanic\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/modern-warfare-4-dmz-season-1-shot-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Since the launch of Call of Duty: Modern Warfare 4's DMZ mode, players have been mainly arguing about two topics: <a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition\">whether there's a need for a PvE-only mode</a>, and <a href=\"https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke\">whether Possum - an in-game trait - has a place in an extraction experience</a>.</p> <p><a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793273585000,
-      "created": 1793273585000,
-      "category": [
-        "Activision",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "First person",
-        "FPS",
-        "Infinity Ward",
-        "Military",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch 2",
-        "PC",
-        "PS5",
-        "Realism",
-        "Shooter",
-        "Single Player",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-season-1-shot-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-season-1-shot-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
