@@ -6,6 +6,169 @@
   "category": [],
   "items": [
     {
+      "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/where-to-preorder-ps5-pro-eurogamer.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>PlayStation 5 has officially surpassed 100m consoles sold, Sony's <a href=\"https://sonyinteractive.com/en/our-company/business-data-sales/\">updated sales data</a> revealed. The milestone was reached on 10th November, almost <em>exactly</em> six years on from the console's launch.</p> <p><a href=\"https://www.eurogamer.net/playstation-5-100-million-sales-november-2026\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794401350000,
+      "created": 1794401350000,
+      "category": [
+        "PS5",
+        "Sony Interactive Entertainment",
+        "Sony PlayStation"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/where-to-preorder-ps5-pro-eurogamer.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/where-to-preorder-ps5-pro-eurogamer.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain for an especially fancy sword.</p> <p><a href=\"https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
+      "author": {
+        "$text": "Connor Makar",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794399350000,
+      "created": 1794399350000,
+      "category": [
+        "Blizzard Entertainment",
+        "First person",
+        "Mac",
+        "MMO",
+        "MMORPG",
+        "Multiplayer Competitive",
+        "PC",
+        "RPG",
+        "Third person",
+        "World of Warcraft: Forever"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Monster Hunter Wilds' upcoming Ascendance expansion may be getting a beta, some curious Steam backend updates suggest",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/monster-hunter-wilds-lagiacrus-monster-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/monster-hunter-wilds\">Monster Hunter Wilds</a>'s first expansion, <a href=\"https://www.eurogamer.net/monster-hunter-ascendance-wilds-coming-2027\">Ascendance, is set for release sometime next year</a>. But, judging by some very suspect recent changes to the Wilds beta app on Steam, we may be playing some of the new stuff earlier than we thought.</p> <p><a href=\"https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794395810000,
+      "created": 1794395810000,
+      "category": [
+        "Action Adventure",
+        "Capcom",
+        "Hack & Slash",
+        "Monster Hunter Wilds",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Nintendo Switch 2",
+        "PC",
+        "PS5",
+        "RPG",
+        "Single Player",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/monster-hunter-wilds-lagiacrus-monster-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/monster-hunter-wilds-lagiacrus-monster-screen-1.jpeg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Songs_Header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days.</p> <p><a href=\"https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo",
+      "author": {
+        "$text": "Robert Purchese",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794390970000,
+      "created": 1794390970000,
+      "category": [
+        "Action Adventure",
+        "Nintendo",
+        "Nintendo Switch 2",
+        "Single Player",
+        "The Legend of Zelda: Ocarina of Time (Switch 2)",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Songs_Header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Songs_Header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Fairgame%24---CGI-Reveal-Trailer-_-PS5-%26-PC-Games-1-31-screenshot.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>After years of silence, we finally know the fate of PlayStation's embattled live service game Fairgames. The Haven-developed co-op heist shooter has been cancelled, with the silver lining that the studio is not closing down or laying off staff.</p> <p><a href=\"https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven",
+      "author": {
+        "$text": "Sherif Saed",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794389340000,
+      "created": 1794389340000,
+      "category": [
+        "Action Adventure",
+        "Fairgames",
+        "Multiplayer Competitive",
+        "PC",
+        "PS5",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Fairgame%24---CGI-Reveal-Trailer-_-PS5-%26-PC-Games-1-31-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Fairgame%24---CGI-Reveal-Trailer-_-PS5-%26-PC-Games-1-31-screenshot.png?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Here's our second wave of PS Plus games for November 2026 - and Sony's scrapping its barely used PC app",
       "description": "<img src=\"https://assetsio.gnwcdn.com/Death-Stranding-2-trailer-screenshot-showing-a-masked-figure-in-red-pointing-to-themself-with-their-thumb.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Sony's revealed the second wave of games coming to <a href=\"https://www.eurogamer.net/playstation-plus-games-list-premium-extra-this-month-6300\">PlayStation Plus Premium</a> and Extra this month, and there are some genuine big-name attractions, led by <a href=\"https://www.eurogamer.net/personas/hideo-kojima\">Hideo Kojima</a>'s futuristic delivery man showstopper <a href=\"https://www.eurogamer.net/games/death-stranding-2\">Death Stranding 2: On the Beach</a>.</p> <p><a href=\"https://www.eurogamer.net/ps-plus-games-november-2026-pc-app\">Read more</a></p>",
       "link": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app",
@@ -17,6 +180,7 @@
       "created": 1794330600000,
       "category": [
         "Action Adventure",
+        "Android",
         "Atomfall",
         "Bird view / Isometric",
         "Blockbuster",
@@ -25,8 +189,11 @@
         "First person",
         "FPS",
         "Hack & Slash",
+        "iOS",
         "Kojima Productions",
         "Like A Dragon: Pirate Yakuza In Hawaii",
+        "Nintendo 3DS",
+        "Nintendo Switch",
         "PC",
         "PS4",
         "PS5",
@@ -57,7 +224,7 @@
     },
     {
       "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/gta-6-pool-of-money.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Sony has just announced that <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">Grand Theft Auto 6</a> has become \"the most pre-ordered game in the history of PlayStation Store\". Note, it's not the most pre-ordered game in <em>PlayStation</em> history, just on its digital PlayStation Store.</p> <p><a href=\"https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history\">Read more</a></p>",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/gta-6-pool-of-money.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><strong>UPDATE 11TH NOVEMBER:</strong> <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">Grand Theft Auto 6</a> has also become the most pre-ordered game \"of all time\" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to pre-load because of \"unprecedented demand\" for the game, <a href=\"https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/\">a post on Xbox Wire said</a>.</p> <p><a href=\"https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history\">Read more</a></p>",
       "link": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
       "author": {
         "$text": "Robert Purchese",
@@ -3589,211 +3756,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/mina-treated.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/wow-forever.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>After more than two decades dominating the PC MMO battlefield, it sounds like <a href=\"https://www.eurogamer.net/companies/blizzard-entertainment\">Blizzard Entertainment</a>'s taking the idea of a World of Warcraft console port more seriously than ever.</p> <p><a href=\"https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793387178000,
-      "created": 1793387178000,
-      "category": [
-        "Blizzard Entertainment",
-        "First person",
-        "MMO",
-        "MMORPG",
-        "Multiplayer Competitive",
-        "PC",
-        "RPG",
-        "Third person",
-        "World of Warcraft: Forever"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/wow-forever.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/wow-forever.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/dark-souls-3-header_L2YTf0e.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Things might get even darker over in the world of Lordran without those silly, only sometimes helpful notes left by other players. Developer FromSoftware has announced that it's temporarily closing <a href=\"https://www.eurogamer.net/games/dark-souls-ii\">Dark Souls 2</a> and <a href=\"https://www.eurogamer.net/games/dark-souls-iii\">Dark Souls 3</a> servers because of an unspecified issue.</p> <p><a href=\"https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793382323000,
-      "created": 1793382323000,
-      "category": [
-        "Action Adventure",
-        "Bandai Namco Entertainment",
-        "Dark Souls 2: Scholar of the First Sin",
-        "Dark Souls II",
-        "Dark Souls III",
-        "FromSoftware",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "PC",
-        "PS3",
-        "PS4",
-        "RPG",
-        "Single Player",
-        "Third person",
-        "Xbox 360",
-        "Xbox One"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/dark-souls-3-header_L2YTf0e.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/dark-souls-3-header_L2YTf0e.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/crimson-desert-trial.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Crimson Desert is one of 2026's most successful releases. The game managed to sell <a href=\"https://www.eurogamer.net/crimson-desert-sales-6-million\">over 6 million copies in just three months</a>, and ended up being so profitable that its publisher ended up giving each employee at development studio Pearl Abyss <a href=\"https://www.eurogamer.net/crimson-desert-success-bonus-employee-package\">a $3,400 bonus</a>. Since launch, the dev has been <a href=\"https://www.eurogamer.net/crimson-desert-major-content-update\">committed to improving the game</a> and correcting some of the more <a href=\"https://www.eurogamer.net/crimson-desert-rolls-out-huge-patch-to-address-end-game-combat-heres-whats-new\">egregious issues</a> that were present at launch.</p> <p><a href=\"https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
-      "author": {
-        "$text": "Dom Peppiatt",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793372310000,
-      "created": 1793372310000,
-      "category": [
-        "Action Adventure",
-        "Crimson Desert",
-        "Mac",
-        "MMORPG",
-        "PC",
-        "Pearl Abyss",
-        "PS5",
-        "RPG",
-        "Single Player",
-        "Third person",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/crimson-desert-trial.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/crimson-desert-trial.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/liara-mass-effect-5-universe.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A new report has revealed that EA closed BioWare because it was forced to choose between investing in one of two sci-fi projects: a new <a href=\"https://www.eurogamer.net/games/mass-effect\">Mass Effect</a> game or a new Star Wars Battlefront game. And it chose the latter.</p> <p><a href=\"https://www.eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3",
-      "author": {
-        "$text": "Robert Purchese",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793372056000,
-      "created": 1793372056000,
-      "category": [
-        "Action Adventure",
-        "Activision",
-        "Aspyr",
-        "Beenox",
-        "Bioware",
-        "Electronic Arts",
-        "First person",
-        "Free Radical Design",
-        "LucasArts",
-        "Mac",
-        "Mass Effect 5",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Wii",
-        "Pandemic Studios",
-        "PC",
-        "PS2",
-        "PS5",
-        "PSP",
-        "RPG",
-        "Savage Entertainment",
-        "Shooter",
-        "Single Player",
-        "Star Wars: Battlefront",
-        "Star Wars: Battlefront II",
-        "Star Wars: Battlefront III",
-        "Third person",
-        "Xbox",
-        "Xbox 360",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/liara-mass-effect-5-universe.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/liara-mass-effect-5-universe.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/forza-motorsport-2023-cars-on-track.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Dan Greenawalt, director, founder, and vice president at Turn 10 Games, has departed from the studio after spending 27 years as part of the company. This comes as Turn 10 is merged with Playground Games as part of Xbox's mass restructuring initiative that made headlines as it resulted in <a href=\"https://www.eurogamer.net/microsoft-xbox-layoffs-2026-double-fine-compulsion-ninja-theory\">3200 layoffs and four studio closures</a> earlier this year.</p> <p><a href=\"https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793369801000,
-      "created": 1793369801000,
-      "category": [
-        "First person",
-        "Forza Motorsport (2023)",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "PC",
-        "Racing",
-        "Racing Simulation",
-        "Racing Wheel",
-        "Single Player",
-        "Third person",
-        "Turn 10 Studios",
-        "Xbox Game Studios",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/forza-motorsport-2023-cars-on-track.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/forza-motorsport-2023-cars-on-track.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
