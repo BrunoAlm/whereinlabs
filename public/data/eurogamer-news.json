@@ -6,6 +6,231 @@
   "category": [],
   "items": [
     {
+      "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/blood_of_dawnwalker_rescue_family_header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>A New Game Plus mode is coming to vampiric RPG The Blood of Dawnwalker next week.</p> <p><a href=\"https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
+      "author": {
+        "$text": "Kaan Serin",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794602960000,
+      "created": 1794602960000,
+      "category": [
+        "Action Adventure",
+        "Bandai Namco Entertainment",
+        "Fantasy",
+        "Open World",
+        "PC",
+        "PS5",
+        "Rebel Wolves",
+        "RPG",
+        "RPG: Action",
+        "Single Player",
+        "Story Rich",
+        "The Blood of Dawnwalker",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/blood_of_dawnwalker_rescue_family_header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/blood_of_dawnwalker_rescue_family_header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo marketing leads",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/Close-up-of-Princess-Zelda-in-Breath-of-the-Wild.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The Legend of Zelda was in \"dire straits\" before <a href=\"https://www.eurogamer.net/zelda-breath-of-the-wild-walkthrough-guide-tips-4857\">Breath of the Wild</a> gave the beloved series a massive second wind, according to two former Nintendo marketing leads.</p> <p><a href=\"https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
+      "author": {
+        "$text": "Kaan Serin",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794599570000,
+      "created": 1794599570000,
+      "category": [
+        "Action Adventure",
+        "Fantasy",
+        "Hack & Slash",
+        "Nintendo",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
+        "Nintendo Wii U",
+        "Open World",
+        "Puzzle",
+        "RPG",
+        "Single Player",
+        "The Legend of Zelda: Breath of the Wild",
+        "The Legend of Zelda: Ocarina of Time (Switch 2)",
+        "Third person"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Close-up-of-Princess-Zelda-in-Breath-of-the-Wild.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/Close-up-of-Princess-Zelda-in-Breath-of-the-Wild.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Crimson Desert and DokeV developer Pearl Abyss is planning to further integrate generative AI into its workflow.</p> <p><a href=\"https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+      "author": {
+        "$text": "Kaan Serin",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794594540000,
+      "created": 1794594540000,
+      "category": [
+        "Action Adventure",
+        "Crimson Desert",
+        "DokeV",
+        "Mac",
+        "MMORPG",
+        "PC",
+        "Pearl Abyss",
+        "PS4",
+        "PS5",
+        "RPG",
+        "Single Player",
+        "Third person",
+        "Xbox One",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/GDC-report.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Despite <a href=\"https://www.eurogamer.net/house-house-big-walk-generative-ai-development\">all the outrage</a> and <a href=\"https://www.eurogamer.net/capcom-generative-ai-use\">criticism</a> around game developers and publishers using generative AI in gaming, a new report from the Game Developers Conference (GDC) calculates that as many as 40 percent of developers active in the industry use the controversial tools in their work. This is up four percent compared to <a href=\"https://www.eurogamer.net/gdcs-state-of-the-games-industry-survey-says-one-in-ten-respondents-laid-off-in-2024\">the same report last year</a>.</p> <p><a href=\"https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+      "author": {
+        "$text": "Dom Peppiatt",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794584060000,
+      "created": 1794584060000,
+      "category": [
+        "AI",
+        "Game Developers Conference",
+        "PC",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/GDC-report.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/GDC-report.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/GTA-6-Jason-Duval.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>With less than a week to go before <a href=\"https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history\">GTA 6's hugely anticipated release</a>, the game's final map - or at least a stylised poster version of it, depicting the state of Leonida's key landmarks - has surfaced online. It was reportedly snapped during Selfridge's sizable <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">GTA 6</a>'s takeover, and is seemingly the physical map included in Rockstar's &pound;350 collector's edition.</p> <p><a href=\"https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
+      "author": {
+        "$text": "Matt Wales",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794582820000,
+      "created": 1794582820000,
+      "category": [
+        "Action Adventure",
+        "First person",
+        "Full product",
+        "Grand Theft Auto 6",
+        "Modern Day",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Open World",
+        "PS5",
+        "Racing",
+        "Rockstar Games",
+        "Rockstar North",
+        "Shooter",
+        "Shooter: Third Person",
+        "Single Player",
+        "Take-Two Interactive",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/GTA-6-Jason-Duval.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/GTA-6-Jason-Duval.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
+      "title": "Slay the Spire 2 gets its first new character since its massively successful launch in March as part of \"biggest\" beta patch yet",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/slay-the-spire-2-fool-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/slay-the-spire\">Slay the Spire</a> 2, which released into early access earlier this year, is expanding once more with a major new beta update. This introduces the deckbuilder's first new character since launch - a whimsical musician armed with a bow - alongside two new modes, and more.</p> <p><a href=\"https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool",
+      "author": {
+        "$text": "Matt Wales",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1794582130000,
+      "created": 1794582130000,
+      "category": [
+        "Card Games",
+        "Indie",
+        "Mac",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "PC",
+        "Side view",
+        "Single Player",
+        "Slay the Spire 2",
+        "Strategy"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/slay-the-spire-2-fool-header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/slay-the-spire-2-fool-header.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
       "description": "<img src=\"https://assetsio.gnwcdn.com/wolfenstein-header_gmu0BH3.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Xbox boss Asha Sharma has confirmed Wolfenstein 3 is in development at MachineGames, the Swedish studio behind the acclaimed <a href=\"https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order\">Wolfenstein: The New Order</a>, Wolfenstein 2: The New Colossal, and 2024's celebrated <a href=\"https://www.eurogamer.net/indiana-jones-and-the-great-circle-review\">Indiana Jones and the Great Circle</a>. Additionally, she revealed Doom developer idSoftware - one of the Microsoft-owned studios heavily impacted by sweeping Xbox job cuts earlier this year - is now working on a new game.</p> <p><a href=\"https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox\">Read more</a></p>",
       "link": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
@@ -3519,229 +3744,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/itch-logo-black-new-svg.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>It's been speculated for a while that Call of Duty may be losing its lustre. Although we don't have concrete data with detailed statistics for each game released in the last several years, there's an observable trend in player numbers that's hard to ignore.</p> <p><a href=\"https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793704961000,
-      "created": 1793704961000,
-      "category": [
-        "Activision",
-        "Call of Duty: Black Ops 7",
-        "Call of Duty: Modern Warfare 4 (2026)",
-        "First person",
-        "FPS",
-        "Game Pass",
-        "Infinity Ward",
-        "Military",
-        "Modern Day",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch 2",
-        "PC",
-        "PS4",
-        "PS5",
-        "Raven Software",
-        "Realism",
-        "Shooter",
-        "Single Player",
-        "Square Enix",
-        "Treyarch",
-        "Xbox One",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Remedy - the developer behind the recently released Control Resonant - has released a scorcher of a quarterly financial report. It shows that following Resonant's release in September, the company's revenue surged by 226 percent, bringing in &euro;39.6m in Q3.</p> <p><a href=\"https://www.eurogamer.net/control-resonant-remedy-revenue-leaps\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
-      "author": {
-        "$text": "Connor Makar",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793699808000,
-      "created": 1793699808000,
-      "category": [
-        "505 Games",
-        "Action Adventure",
-        "Control Resonant",
-        "Hack & Slash",
-        "Horror",
-        "Mac",
-        "PC",
-        "PS5",
-        "Remedy Entertainment",
-        "RPG",
-        "RPG: Action",
-        "Shooter",
-        "Single Player",
-        "Story Rich",
-        "Third person",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Sony's Bend Studio, perhaps one of its lesser discussed development houses, has apparently been deep in development on its next title. The game is reportedly set to be announced in 2027, and released in the same year.</p> <p><a href=\"https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793697519000,
-      "created": 1793697519000,
-      "category": [
-        "Action Adventure",
-        "Bend Studio",
-        "Days Gone",
-        "PC",
-        "PS4",
-        "PS5",
-        "Shooter",
-        "Single Player",
-        "Sony Bend",
-        "Sony Interactive Entertainment",
-        "Third person"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/The-main-character-from-Days-Gone-holding-a-large-gun-in-his-hands.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Screenshot-2026-03-07-at-17.05.06.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>Nagoshi Studio has officially shut down and its first game called Gang of Dragon is seemingly no more, months after publisher NetEase pulled funding from the Yakuza-like project.</p> <p><a href=\"https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793651409000,
-      "created": 1793651409000,
-      "category": [
-        "Action Adventure",
-        "Gang of Dragon",
-        "Nagoshi Studio",
-        "PC",
-        "Single Player",
-        "Third person"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-03-07-at-17.05.06.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-03-07-at-17.05.06.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The Borderlands series has sold more than 100m copies across all games, developer Gearbox Software has announced. No surprise, then - the studio also said it's cooking up \"big plans\" for the evergreen looter shooter's future.</p> <p><a href=\"https://www.eurogamer.net/borderlands-100-million-copies-gearbox\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/borderlands-100-million-copies-gearbox",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793645055000,
-      "created": 1793645055000,
-      "category": [
-        "2K",
-        "Action Adventure",
-        "Borderlands 4",
-        "First person",
-        "Gearbox Software",
-        "Multiplayer Competitive",
-        "Multiplayer Cooperative",
-        "Nintendo Switch 2",
-        "PC",
-        "PS5",
-        "RPG",
-        "Shooter",
-        "Single Player",
-        "Xbox Series X/S"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised \"we were missing out on the moments of discovery\"",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/Ocarina-of-Time-Link.png?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/the-legend-of-zelda-ocarina-of-time-switch-2\">The Legend of Zelda: Ocarina of Time</a> is being wrapped up in all kinds of modern touches for its imminent <a href=\"https://www.eurogamer.net/platforms/switch-2\">Nintendo Switch 2</a> remake (that <a href=\"https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl\">owl seems to be less chatty</a>, for starters), but there's at least one quality-of-life feature borrowed from <a href=\"https://www.eurogamer.net/zelda-breath-of-the-wild-walkthrough-guide-tips-4857\">Breath of the Wild</a> that the developers felt was better left on the cutting room floor: fast travel.</p> <p><a href=\"https://www.eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake",
-      "author": {
-        "$text": "Kaan Serin",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1793642498000,
-      "created": 1793642498000,
-      "category": [
-        "Action Adventure",
-        "Nintendo Switch 2",
-        "The Legend of Zelda: Ocarina of Time (Switch 2)"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Ocarina-of-Time-Link.png?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/Ocarina-of-Time-Link.png?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
