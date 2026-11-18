@@ -2,6 +2,58 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1849827110426096",
+        "title": "В Dota 2 вышел патч 7.42 - глобальные изменения механик, экономики и ландшафта",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110426096",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://i.playground.ru/e/OUjxR7VilyyI_Z-NvmPUKw.png\"/>\n              <br />\n                                                                                <p>Valve выпустила обновление 7.42 для Dota 2 — одно из самых масштабных за последнее время. Патч затрагивает почти все аспекты игры: от базовых характеристик героев и экономики до нейтральных крипов, предметов и ландшафта карты. Полный список изменений опубликован на официальном сайте игры.</p>                                                        <p>Глобальные механики. Базовое здоровье всех героев выросло со 120 до 200, но прирост за силу снижен с 22 до 20. Появилась система «действенности предметов» (Item Potency): теперь эффекты предметов вроде Desolator и Eye of Skadi масштабируются от источника атаки — у иллюзий по умолчанию всего 20%, у Swashbuckle Pangolier — 60%. Пассивное золото в минуту больше не растёт по ходу игры, а награды за снос построек урезаны.</p>                                                        <p>Экономика и опыт. После стартового горна все герои пассивно получают 50 опыта в минуту. Для 30-го уровня теперь нужно 66 600 опыта вместо 64 400. Награды за башни и казармы пересчитаны — в среднем снижены.</p>                                                        <p>Карта. Парные порталы переехали к верхнему и нижнему краям карты, центральные башни сдвинуты, переработана геометрия реки на миде. Укрепление построек получило 2 заряда с откатом по 6 минут.</p>                                                        <p>Нейтральные крипы. Добавлены новые лагеря: чайкосветицы и эймеркроты у Света, моржи у Тьмы, а также древний лагерь морских слогров. У большинства крипов появился «родной лес» — они спавнятся только на одной стороне карты. Break удалён из игры.</p>                                                        <p>Предметы. Добавлена целая пачка новых предметов: Bloodslinger, Caduceus, Ristul's Devotion, Sabatons of Mordiggian, Skypiercer, Starforge. Из игры удалены Javelin, Helm of the Overlord, Khanda и ряд нейтральных артефактов. Число разрядов нейтральных предметов сокращено с 5 до 4, а сами артефакты теперь распределяются по пулам.</p>                                                        <p>Герои. Изменения затронули практически весь ростер. Среди заметного: Juggernaut получил Aghanim's Scepter, позволяющий атаковать во время Blade Fury; Meepo стал универсальным героем; у Chaos Knight появилась новая врождённая способность Ahead, Armageddon; Lycan лишился Apex Predator; у Batrider переработан Sticky Napalm.</p>                                                        <p>Патч уже доступен в клиенте игры. Полный список изменений — на официальном сайте Dota 2.</p>",
+        "feedlabel": "PlayGround.ru - официальная группа",
+        "date": 1795036721,
+        "feedname": "PlayGround.ru - официальная группа",
+        "feed_type": 0,
+        "appid": 570
+      },
+      {
+        "gid": "1849827110426062",
+        "title": "LBTF2 ULTITRIO Season 1",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426062",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/98f85cc8cdb87bdb2b4d247e96fe85eda2402629.png[/img]\n(Image Credit: Goiaba, GUTOBAK, and MrLego)\n\nMercenaries, get ready for LBTF2's ULTITRIO Season 1 to be LIVE ON LEGÃOTV, the home of South American Team Fortress 2!\n\nThe [b]Brazilian League of Team Fortress 2[/b] (Liga Brasileira de Team Fortress 2 - LBTF) is bringing more action to the South American battlefield! This time, they're bringing you [b]the very first season of ULTITRIO in South America[/b]. ULTITRIO is a new competitive format currently being explored by the South American community and features a carefully assembled team of [b]1 Scout, 1 Soldier, and 1 Medic[/b].\n\nThe finest players South America has to offer will clash once again in pursuit of dominance over the next two weekends!\n\nAnd who's going to bring all this action straight to your screens? [b][url=https://www.twitch.tv/legaotv]LegãoTV[/url][/b], of course!\n\n[b]Watch all the matches LIVE on [url=https://www.twitch.tv/legaotv]LegãoTV[/url][/b], and join the [url=https://discord.gg/FqUfGYK6XT]LegãoTV Discord server[/url] to stay updated on match start times and announcements about upcoming events! LegãoTV isn't the same without you!\n\nImportant Links:\n[list]\n[*][url=https://www.twitch.tv/legaotv]LegaoTV[/url]\n[*][url=https://discord.gg/FqUfGYK6XT]LegaoTV Discord[/url]\n[*][url=https://fbtf.tf/leagues/21]FBTF Season Homepage[/url]\n[/list]\n\n",
+        "feedlabel": "Community Announcements",
+        "date": 1795036648,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440
+      },
+      {
+        "gid": "1849827110426089",
+        "title": "LBTF2 ULTITRIO Season 1",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1849827110426089",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<a href=\"https://fbtf.tf/leagues/21\" target=\"_blank\"><img src=\"https://shared.fastly.steamstatic.com/store_item_assets/steam/news/294357/015173ac8ce440166c837b80b90e392993ad6725.png?t=1795033222\"></a>\n(Image Credit: <a href=\"https://steamcommunity.com/profiles/76561199439940801\" target=\"_blank\">Goiaba</a>, <a href=\"https://steamcommunity.com/id/gutobak/\" target=\"_blank\">GUTOBAK</a>, and <a href=\"https://steamcommunity.com/profiles/76561198071145942\" target=\"_blank\">MrLego</a>)<br><br>\n\n<p>Mercenaries, get ready for LBTF2's ULTITRIO Season 1 to be LIVE ON LEGÃOTV, the home of South American Team Fortress 2!</p><br>\n\n<p>The <b>Brazilian League of Team Fortress 2</b> (Liga Brasileira de Team Fortress 2 - LBTF) is bringing more action to the South American battlefield! This time, they're bringing you <b>the very first season of ULTITRIO in South America</b>. ULTITRIO is a new competitive format currently being explored by the South American community and features a carefully assembled team of <b>1 Scout, 1 Soldier, and 1 Medic</b>.</p><br>\n\n<p>The finest players South America has to offer will clash once again in pursuit of dominance over the next two weekends!</p><br>\n\n<p>And who's going to bring all this action straight to your screens? <b><a href=\"https://www.twitch.tv/legaotv\" target=\"_blank\">LegãoTV</a></b>, of course!</p><br>\n\n<p><b>Watch all the matches LIVE on <a href=\"https://www.twitch.tv/legaotv\" target=\"_blank\">LegãoTV</a></b>, and join the <a href=\"https://discord.gg/FqUfGYK6XT\" target=\"_blank\">LegãoTV Discord server</a> to stay updated on match start times and announcements about upcoming events! LegãoTV isn't the same without you!</p><br>\n\n<p>Important Links:<ul>\n<li><a href=\"https://www.twitch.tv/legaotv\" target=\"_blank\">LegaoTV</a>\n<li><a href=\"https://discord.gg/FqUfGYK6XT\" target=\"_blank\">LegaoTV Discord</a>\n<li><a href=\"https://fbtf.tf/leagues/21\" target=\"_blank\">FBTF Season Homepage</a>\n</ul>\n</p><br>",
+        "feedlabel": "TF2 Blog",
+        "date": 1795036560,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1849827110425804",
+        "title": "7.42 Gameplay Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425804",
+        "is_external_url": true,
+        "author": "flynnch",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/adf1013ad1d68cac20ef37fe8bdb5282c3d9c245.png[/img]\n\n[p]Patch 7.42 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.42\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[list]\n[*] Added functionality to bind hotkeys for individual abilities on Invoker's Invoked Spells, Largo's songs, and Kez's Sai abilities\n[*] Added unit ability hotkey settings for Lycan's Summon Wolves, Kobold Soldier, Giant Wolf, Radigull, Odobenus Frostmage, Eimermole Foreman, Ancient Croaker, Ancient Marshmage, and Ancient Ogre Seal\n[*] Added option to show silhouettes for units when they are visually obstructed\n[*] Added Hand of Midas as its own category in Dota+ Gold Received Breakdowns\n[*] Improved client performance when spawning illusions\n[*] Fixed some stat gathering code to be more performant on server, especially around hero deaths\n[*] Refactored unit behavior state machine for better server performance\n[*] Fixed being able to sell an Aghanim's Shard the same frame it is applied when transferring an Aghanim's Shard from a courier to a hero with a full inventory\n[*] Fixed being able to transfer other hero's items to and from their stash\n[*] Fixed Beastmaster permanently increasing the health and movement speed of lane creeps by selecting specific talents, creating an illusion, then disconnecting\n[*] Fixed Meepo being able to generate infinite money by reaching level 18, getting an Aghanim's scepter, refresher orb, blink dagger, and multiple sentry wards, placing one Meepo on the other side of the map, casting megameepo, casting blink dagger and poof to the Meepo on the other side of the map such that one Meepo joins the stack while the other hasn't reached yet, ending megameepo before the Meepo that hasn't reached yet makes it to the stack, waiting for the Meepo to make his cross map journey, using the refresher orb, then casting megameepo again\n[*] Fixed crash when selling all teleport scrolls on the primary Meepo while a Meepo clone was teleporting\n[*] Fixed Naga Siren killing unrelated illusions when casting Mirror Image\n[*] Fixed Oracle's Prognostication's HUD sometimes being in the wrong location\n[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1795032046,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 570
+      },
+      {
         "gid": "1849827110423066",
         "title": "Valve опубликовала тизер зимней версии карты Cobblestone для Counter-Strike 2",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110423066",
@@ -274,35 +326,6 @@
         "appid": 440
       },
       {
-        "gid": "1847920302240745",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/289665/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins<br><li>Updated/Added some tournament medals<br></ul>",
-        "feedlabel": "Product Update",
-        "date": 1793402280,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1847920302236295",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236295",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n\n[list]\n[*]Fixed smoke effect regression for Le Sapeur\n[*]Updated the Chief Executor, Vested Investor's Vest, and Standing Offer to fix clipping issues\n[*]Updated cp_wildcat_event[list]\n[*]Added +1 minute to the round timer\n[*]Fixed a bug that allowed pumpkin-disguised players to cap at 15x speed\n[*]Fixed pumpkin-disguised players not displaying as Ubercharged if they have a Voodoo-Cursed Soul cosmetic equipped\n[*]Fixed buildings being able to be built inside the shutter door in the connector between A and B\n[*]Fixed some jack-o-lanterns around the map not rendering during the waiting for players period\n[*]Fixed equipped Powerup Canteens rendering while pumpkin-disguised[/list]\n[*]Updated Updated zi_atoll, zi_blazehattan, zi_devastation_final1, zi_murky, zi_sanitarium, and zi_woods[list]\n[*]Lowered edicts across the board\n[*]Zombie Sniper's Spit now deals critical hits to airborne targets \n[*]Fixed Zombie Engineer building status being visible upon initial infection\n[*]Fixed Reveal outline persisting on players into the next round[/list]\n[*]Updated zi_atoll (additional changes)[list]\n[*]Fixed a visual bug where water would disappear in certain parts of the map\n[*]Added more cover in front of the shack\n[*]Enabled every BLU spawn point no matter where RED players are located[/list]\n[/list]\n",
-        "feedlabel": "Community Announcements",
-        "date": 1793305779,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
         "gid": "1847920302236481",
         "title": "Bungie раскрыла сроки возвращения контента в Destiny 2 - не раньше 2028 года",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302236481",
@@ -400,32 +423,6 @@
         "tags": [
           "patchnotes"
         ]
-      },
-      {
-        "gid": "1842212951298513",
-        "title": "The International 2026 Grand Champions",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298513",
-        "is_external_url": true,
-        "author": "krAnk0r",
-        "contents": "[p][img src=\"{STEAM_CLAN_LOC_IMAGE}/3703047/bab4343d906943ef2117ae553347d8f8991ebca3.png\"][/img]Congratulations to Team Spirit, Grand Champions at The International 2026. After enduring a challenging year, Team Spirit regained their ultimate form just in time to take a five-game Grand Finals slugfest and claim the Aegis of Champions in Shanghai.[/p][p]Spirit's Group Stage started strong, with 2-0 victories over both Xtreme Gaming and Aurora Gaming. They followed with 2-1 win over Team Liquid that put Spirit just one series win away from qualifying for the main stage. They wouldn't get it. Instead, they served as a stepping stone. First to Team Vision, who dropped Spirit in just two games to secure their own invite to the arena. Next, Nigma Galaxy followed suit, handing Spirit another 0-2 loss to snatch a spot on the main stage and force Spirit into elimination play.[/p][p]Their elimination-round opponent? A scrappy Team Resilience who, despite their lower spot in the standings, had clawed out at least one victory in every series they'd played. This round would be no different. Team Spirit took game one with ease, but Resilience rebounded to force a win-or-go-home game three. There, Team Resilience managed to keep pace for a while, until Spirit pulled away in the back half of the match to secure their spot at The International Main Event.[/p][p]The first obstacle at the arena would be the dangerous Iron Wing -- who'd already taken Group Stage series wins off three teams who'd reached the main stage. It wouldn't matter. Team Spirit clipped Iron Wing to send them spiraling into the Lower Bracket and eventual elimination.[/p][p]The next series wouldn't net Spirit the same results. Team Vision, the foe that had already denied them an easy path to the Playoffs, was waiting for them once more. And the result was mostly the same -- Spirit lost. This time 1-2. This time falling into the Lower Bracket, where Team Liquid was already waiting after eliminating last year's champions. Liquid had a stellar showing in the groups, dropping only one series. But that loss came to this same Team Spirit squad they were again facing, and now Team Spirit wouldn't concede even one game.[/p][p]Spirit flushed Liquid out of the tournament to begin an undefeated run through the Lower Bracket, next bouncing both BoomBoys and Team Yandex with 2-0 statements to reach the Grand Finals against -- who else -- Team Vision, the front-runners that had been blocking Spirit's path every step of the way. The team that had stopped Spirit from skipping the elimination round. That had dropped them into the Lower Bracket to fight for their lives. The team that hadn't lost a single series in Shanghai... was now the one thing standing between Team Spirit and the Aegis of Champions.[/p][p]Game one was Team Spirit all the way. They looked to be cruising to victory in game two as well, but Vision had other plans, clawing back to even the series at one game apiece. It seemed that Vision might steal the momentum by snatching game three, but Spirit held firm to retake the series lead 2-1, just one win away from the Aegis. Once again, Vision would deny them. Their steady play in game four left no room for doubt -- this series was bound for a winner-take-all game five. And it didn't disappoint.[/p][p]After an hour-long showdown that was still anyone's game until the very end, Team Spirit finally overcame the team that had tormented them throughout the tournament, claiming the Aegis of Champions and crowning themselves the very best Dota team in the world. Three-time winners Yatoro and Collapse, and two-time winner Larl now welcome their teammates not_me and rue into an immortal pantheon.[/p][p]As bearers of the ultimate symbol of victory, these names shall forever be inscribed upon the Aegis of Champions:[/p][p][/p][p][b]2026 - Team Spirit[/b][/p][list][*][p]Illia \"Yatoro\" Muliarchuk[/p][/*][/list][list][*][p]Denis \"Larl\" Sigitov[/p][/*][/list][list][*][p]Magomed \"Collapse\" Khalilov[/p][/*][/list][list][*][p]Alexey \"not_me\" Kosmynin[/p][/*][/list][list][*][p]Alexander \"rue\" Filin[/p][/*][/list][p][/p][p][img src=\"https://live.staticflickr.com/65535/55481652342_4378ab4bed_6k.jpg\"][/img][/p][h3]Until Next Time[/h3][p]If you missed any of the broadcast, or just want to rewatch some of the iconic plays, head over to the [url=\"https://www.youtube.com/user/dota2\"]Dota 2 YouTube channel[/url], where you'll find replays of the entire show. You can also find a collection of photos from the event over on the [url=\"https://www.instagram.com/dota2/\"]Dota 2 Instagram[/url] and even more hi-res shots on our [url=\"https://www.flickr.com/photos/dota2ti/\"]Dota 2 flickr[/url].  As always, we'd like to thank all of the players, talent, and everyone in the Dota community for helping bring this global celebration to life. We've been honored to once again help shepherd this event to the stage, but it wouldn't be what it is without all of you.[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1787792862,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 570
-      },
-      {
-        "gid": "1841579228666735",
-        "title": "'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666735",
-        "is_external_url": true,
-        "author": "Andy Chalk",
-        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/xbXdUieqhRYrkTVJmzWmHB-1280-80.jpg\"/><br><br>\n                Valve honcho Gabe Newell recorded a video to kick off The International 2026, the latest edition of Valve's annual <a href=\"https://www.pcgamer.com/dota-2/\" target=\"_blank\">Dota 2</a> championship tournament, and as noticed by <a href=\"https://www.gamesradar.com/games/valve-chief-gabe-newell-makes-a-rare-public-appearance-as-new-chad-gabe-and-rings-in-dota-2s-biggest-tournament/\" target=\"_blank\">GamesRadar</a>, the reaction to it is pleasingly wholesome...\n                <a href=\"https://www.pcgamer.com/games/dude-no-joke-looks-like-hugh-jackman-now-the-internet-is-swooning-over-gabe-newells-svelte-new-look-at-the-international/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
-        "feedlabel": "PC Gamer",
-        "date": 1787257316,
-        "feedname": "PC Gamer",
-        "feed_type": 0,
-        "appid": 570
       }
     ]
   }
