@@ -2,6 +2,19 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1849827110431067",
+        "title": "PUBG x IVE Collaboration Model Improvements",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110431067",
+        "is_external_url": true,
+        "author": "[****] UZI",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/0a019af64dabf65816a4aeed62a864e810d6ac2f.jpg\"][/img][/p][h2][url=\"https://pubg.com/news/11414\"]Read the full announcement here![/url][/h2]",
+        "feedlabel": "Community Announcements",
+        "date": 1795158030,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1849827110428213",
         "title": "Dota 2 patch 7.42 hauls Valve's MOBA out of the late-game sludge",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1849827110428213",
@@ -75,12 +88,17 @@
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425804",
         "is_external_url": true,
         "author": "flynnch",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/adf1013ad1d68cac20ef37fe8bdb5282c3d9c245.png[/img]\n\n[p]Patch 7.42 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.42\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[list]\n[*] Added functionality to bind hotkeys for individual abilities on Invoker's Invoked Spells, Largo's songs, and Kez's Sai abilities\n[*] Added unit ability hotkey settings for Lycan's Summon Wolves, Kobold Soldier, Giant Wolf, Radigull, Odobenus Frostmage, Eimermole Foreman, Ancient Croaker, Ancient Marshmage, and Ancient Ogre Seal\n[*] Added option to show silhouettes for units when they are visually obstructed\n[*] Added Hand of Midas as its own category in Dota+ Gold Received Breakdowns\n[*] Improved client performance when spawning illusions\n[*] Fixed some stat gathering code to be more performant on server, especially around hero deaths\n[*] Refactored unit behavior state machine for better server performance\n[*] Fixed being able to sell an Aghanim's Shard the same frame it is applied when transferring an Aghanim's Shard from a courier to a hero with a full inventory\n[*] Fixed being able to transfer other hero's items to and from their stash\n[*] Fixed Beastmaster permanently increasing the health and movement speed of lane creeps by selecting specific talents, creating an illusion, then disconnecting\n[*] Fixed Meepo being able to generate infinite money by reaching level 18, getting an Aghanim's scepter, refresher orb, blink dagger, and multiple sentry wards, placing one Meepo on the other side of the map, casting megameepo, casting blink dagger and poof to the Meepo on the other side of the map such that one Meepo joins the stack while the other hasn't reached yet, ending megameepo before the Meepo that hasn't reached yet makes it to the stack, waiting for the Meepo to make his cross map journey, using the refresher orb, then casting megameepo again\n[*] Fixed crash when selling all teleport scrolls on the primary Meepo while a Meepo clone was teleporting\n[*] Fixed Naga Siren killing unrelated illusions when casting Mirror Image\n[*] Fixed Oracle's Prognostication's HUD sometimes being in the wrong location\n[/list]",
+        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/adf1013ad1d68cac20ef37fe8bdb5282c3d9c245.png[/img]\n\n[p]Patch 7.42 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.42\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[list]\n[*] Added functionality to bind hotkeys for individual abilities on Invoker's Invoked Spells, Largo's songs, and Kez's Sai abilities\n[*] Added unit ability hotkey settings for Lycan's Summon Wolves, Kobold Soldier, Giant Wolf, Radigull, Odobenus Frostmage, Eimermole Foreman, Ancient Croaker, Ancient Marshmage, and Ancient Ogre Seal\n[*] Added option to show silhouettes for units when they are visually obstructed\n[*] Added Hand of Midas as its own category in Dota+ Gold Received Breakdowns\n[*] Improved client performance when spawning illusions\n[*] Fixed some stat gathering code to be more performant on server, especially around hero deaths\n[*] Refactored unit behavior state machine for better server performance\n[*] Fixed being able to sell an Aghanim's Shard the same frame it is applied when transferring an Aghanim's Shard from a courier to a hero with a full inventory\n[*] Fixed being able to transfer other hero's items to and from their stash\n[*] Fixed Beastmaster permanently increasing the health and movement speed of lane creeps by selecting specific talents, creating an illusion, then disconnecting\n[*] Fixed Meepo being able to generate infinite money by reaching level 18, getting an Aghanim's scepter, refresher orb, blink dagger, and multiple sentry wards, placing one Meepo on the other side of the map, casting megameepo, casting blink dagger and poof to the Meepo on the other side of the map such that one Meepo joins the stack while the other hasn't reached yet, ending megameepo before the Meepo that hasn't reached yet makes it to the stack, waiting for the Meepo to make his cross map journey, using the refresher orb, then casting megameepo again\n[*] Fixed crash when selling all teleport scrolls on the primary Meepo while a Meepo clone was teleporting\n[*] Fixed Naga Siren killing unrelated illusions when casting Mirror Image\n[*] Fixed Oracle's Prognosticate's HUD sometimes being in the wrong location\n[/list]",
         "feedlabel": "Community Announcements",
         "date": 1795032046,
         "feedname": "steam_community_announcements",
         "feed_type": 1,
-        "appid": 570
+        "appid": 570,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_487176015_1795032920_0",
+          "mod_require_rereview"
+        ]
       },
       {
         "gid": "1849827110423066",
@@ -284,19 +302,6 @@
         ]
       },
       {
-        "gid": "1848664643339943",
-        "title": "[Dev Letter] Anti-Cheat Update - Combating Cheat Distribution and Ban Evasion",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643339943",
-        "is_external_url": true,
-        "author": "[****] UZI",
-        "contents": "[img]{STEAM_CLAN_IMAGE}/27971017/bec6b560d3e8b6691a748abf5602af472342b702.png[/img]\n\n[h2][url=https://pubg.com/news/11346]Read the full announcement here![/url][/h2]",
-        "feedlabel": "Community Announcements",
-        "date": 1793858434,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
         "gid": "1847920302245316",
         "title": "Team Fortress 2 spinoff Mann Versus Zombies looks so good it could almost be official",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1847920302245316",
@@ -326,15 +331,15 @@
         ]
       },
       {
-        "gid": "1847920302240749",
+        "gid": "1847920302240745",
         "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1847920302240749",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins\n<li>Updated/Added some tournament medals\n</ul>",
-        "feedlabel": "TF2 Blog",
+        "url": "https://store.steampowered.com/news/289665/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins<br><li>Updated/Added some tournament medals<br></ul>",
+        "feedlabel": "Product Update",
         "date": 1793402280,
-        "feedname": "tf2_blog",
+        "feedname": "steam_updates",
         "feed_type": 0,
         "appid": 440
       },
