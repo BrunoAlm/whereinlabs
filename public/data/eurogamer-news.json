@@ -6,6 +6,52 @@
   "category": [],
   "items": [
     {
+      "title": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+      "description": "<img src=\"https://assetsio.gnwcdn.com/gta-6-launch-jason-lucia.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/gta-6-walkthrough\">Grand Theft Auto 6</a> features the first non-binary character in the series' history, according to actor Jesse James Rose, who <a href=\"https://www.them.us/entertainment/jesse-james-rose-nonbinary-gta\">plays the role</a> of a museum curator in the game.</p> <p><a href=\"https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose\">Read more</a></p>",
+      "link": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+      "author": {
+        "$text": "Vikki Blake",
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "published": 1795265400000,
+      "created": 1795265400000,
+      "category": [
+        "Action Adventure",
+        "First person",
+        "Full product",
+        "Grand Theft Auto 6",
+        "LGBTQ+",
+        "Modern Day",
+        "Multiplayer Competitive",
+        "Multiplayer Cooperative",
+        "Open World",
+        "PS5",
+        "Queer Characters",
+        "Racing",
+        "Rockstar",
+        "Rockstar Games",
+        "Rockstar North",
+        "Shooter",
+        "Shooter: Third Person",
+        "Single Player",
+        "Take-Two Interactive",
+        "Third person",
+        "Xbox Series X/S"
+      ],
+      "enclosures": [
+        {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/gta-6-launch-jason-lucia.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ],
+      "media": {
+        "thumbnail": {
+          "medium": "image",
+          "url": "https://assetsio.gnwcdn.com/gta-6-launch-jason-lucia.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      }
+    },
+    {
       "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
       "description": "<img src=\"https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-4.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Surprise, surprise - <a href=\"https://www.eurogamer.net/gta-6-walkthrough\">GTA 6</a> is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates.</p> <p><a href=\"https://www.eurogamer.net/gta-6-biggest-entertainment-launch\">Read more</a></p>",
       "link": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
@@ -4139,39 +4185,6 @@
         "thumbnail": {
           "medium": "image",
           "url": "https://assetsio.gnwcdn.com/gta-6-sex-scene.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      }
-    },
-    {
-      "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
-      "description": "<img src=\"https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Good Fun Corp, the studio made up of the original developers behind Hell Let Loose, has finally announced a release date for its anticipated next project: Hunger. The extraction shooter-slasher game enters early access on Steam on 3rd December, and there's good news if you're eager to try it out before then.</p> <p><a href=\"https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date\">Read more</a></p>",
-      "link": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
-      "author": {
-        "$text": "Sherif Saed",
-        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-      },
-      "published": 1794411710000,
-      "created": 1794411710000,
-      "category": [
-        "Hunger",
-        "Indie",
-        "MMO",
-        "PC",
-        "RPG: Action",
-        "Shooter",
-        "Single Player",
-        "Survival & Crafting"
-      ],
-      "enclosures": [
-        {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ],
-      "media": {
-        "thumbnail": {
-          "medium": "image",
-          "url": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=690&quality=85&format=jpg&auto=webp"
         }
       }
     }
