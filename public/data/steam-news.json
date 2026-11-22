@@ -2,6 +2,32 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1849827110439479",
+        "title": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1849827110439479",
+        "is_external_url": true,
+        "author": "Justin Wagner",
+        "contents": "<img src=\"https://cdn.mos.cms.futurecdn.net/rPdj5KUrcUw2ZvWuDYHyZP-1920-80.png\"/><br><br>\n                The longest game of Dota I've played was comfortably past the 70-minute mark. Matches that gloriously long-winded can be fun in small doses, but they can also be exhausting and infuriating—this is Dota we're talking about, after all. The latest patch to rearrange the venerable MOBA, 7.42, is <a href=\"https://www.dota2.com/patches/7.42\" target=\"_blank\">finally here</a>, and it's got tons of changes that might just prevent your games from going feature length...\n                <a href=\"https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+        "feedlabel": "PC Gamer",
+        "date": 1795378153,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 570
+      },
+      {
+        "gid": "1849827110439451",
+        "title": "PUBG College Royale: Fall 2026 Grand Finals is LIVE!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110439451",
+        "is_external_url": true,
+        "author": "JBowlerr",
+        "contents": "[p][img src=\"{STEAM_CLAN_IMAGE}/27971017/71227d56bb298a5e4218863b51d209c2e615cf2e.png\"][/img]College PUBG competitors, get your squads ready—[b]PlayVS and KRAFTON are teaming up once again to bring back PUBG College Royale for the Fall 2026 season![/b][/p][p]This free-to-compete event is open to all college students in the U.S. and Canada. [u][url=\"https://pcl.gg/pages/pubg-college-royale\"]Sign up today before the first Qualifier on October 25[/url][/u]. [/p][p]Below is everything you need to know about the upcoming season and how to get involved.[/p][h3][b]What’s at Stake?[/b][/h3][p]We’re leveling up the rewards this season! Top-placing teams will compete for a share of [b]$15,000 in scholarship awards[/b], and on top of that, participants will have the opportunity to earn [b]G-COIN, in-game items, and more[/b] just for competing![/p][h3][b]Tournament Format[/b][/h3][p]The tournament structure is designed to give teams multiple opportunities to stack up points and secure a spot in the championship:[/p][list][*][p][b]Three Open Qualifiers:[/b] Teams will compete across three separate open qualifier events. Each Open Qualifier consists of a 5-match series.[/p][/*][*][p][b]Cumulative Leaderboard:[/b] Teams earn points based on their placement and performance in each Open Qualifier. Results are tracked on a leaderboard where points accumulate across all three opens.[/p][/*][*][p][b]The Top 16 Reach the Finals:[/b] The top 16 teams on the leaderboard will advance to the PUBG College Royale Finals. There, they will battle it out across 5 final matches live on stream to be crowned the Fall 2026 Champions and claim their share of the $15k prize pool![/p][/*][/list][h3][b]Fall 2026 Schedule[/b][/h3][p]Mark your calendars![/p][list][*][p][b]Registration Opens:[/b] Thursday, September 17[/p][/*][*][p][b]Open #1:[/b] Sunday, October 25[/p][list][*][p]Register for free [u][url=\"https://esports.pcl.gg/seasons/f1860374-6d61-4e93-a46b-037db17aae58\"]HERE[/url][/u] [/p][/*][/list][/*][*][p][b]Open #2:[/b] Sunday, November 1[/p][list][*][p]Register for free [u][url=\"https://esports.pcl.gg/seasons/a6310e72-8498-4bdd-87cc-1370dcd6dfee\"]HERE[/url][/u] [/p][/*][/list][/*][*][p][b]Open #3:[/b] Sunday, November 8[/p][list][*][p]Regiser for free [u][url=\"https://esports.pcl.gg/seasons/8461148c-f811-41ce-b551-44cefb86072b\"]HERE[/url][/u] [/p][/*][/list][/*][*][p][b]Finals (Live Streamed):[/b] Sunday, November 22[/p][/*][/list][p]Matches get underway at [b]3:00 PM ET / 12:00 PM PT[/b] each day.[/p][h3][b]Ready to Drop In?[/b][/h3][p]Registration is officially [b]OPEN[/b]! Assemble your roster, lock in your strategies, and prepare to represent your school.[/p][p]For full eligibility details, rulebooks, and registration links, visit [url=\"https://pcl.gg/pages/pubg-college-royale\"]pcl.gg/pages/pubg-college-royale[/url][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1795377951,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 578080
+      },
+      {
         "gid": "1849827110436900",
         "title": "Jump Fortress Jump4Charity",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110436900",
@@ -297,19 +323,6 @@
         ]
       },
       {
-        "gid": "1848664643345061",
-        "title": "PUBG Saturday Custom Games return this weekend!",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345061",
-        "is_external_url": true,
-        "author": "TecK",
-        "contents": "[p]The next edition of [b]PUBG Saturday Custom Games[/b] is happening this [b]Saturday, November 7th at 20:00 CEST[/b], bringing the community together once again for custom matches, creator co-streams, and G-Coin giveaways.[/p][p][/p][p][b]Tune in live on Twitch:[/b] [/p][p]Join the games, squad up with the community, and follow the broadcast for your chance to win rewards throughout the event.[/p][p][/p][h3][b]G-Coin Giveaways[/b][/h3][p]During this month’s event, players will have the chance to win:[/p][p][/p][p][b]Main broadcast raffle[/b]\n10x 1,000 G-Coin codes[/p][p][/p][p][b]Creator giveaways[/b]\n5x 500 G-Coin codes per participating co-streaming creator[/p][p][/p][p]Whether you are jumping into the custom games or watching along with your favorite creators, there will be plenty of chances to get involved.[/p][p][/p][p]Keep an eye on the official [url=\"http://discord.gg/Battlegrounds\"]PUBG Discord[/url], the [url=\"https://www.twitch.tv/jorosar\"]Twitch broadcast[/url], and participating creator channels for lobby details, event updates, and giveaway information.[/p][p]\nSee you on the Battlegrounds this Saturday![/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1793962199,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 578080
-      },
-      {
         "gid": "1848664643342757",
         "title": "Modern Warfare 4 Season 1 Battle Pass System, BlackCell, and New Store Bundles",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342757",
@@ -408,19 +421,6 @@
         "date": 1791368107,
         "feedname": "PlayGround.ru - официальная группа",
         "feed_type": 0,
-        "appid": 570
-      },
-      {
-        "gid": "1846018067924633",
-        "title": "Inside the Trove of Terror",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067924633",
-        "is_external_url": true,
-        "author": "eugenep",
-        "contents": "[p][img src=\"{STEAM_CLAN_LOC_IMAGE}/3703047/44e04da47da8b634dee235756e4ffa1234879b40.png\"][/img][/p][p]Some time ago, a time now none of us can quite recall, we began to set our minds on matters of the monstrous. Our work has always concerned itself with the manufacture of frightening things, so there was no reason at that time for alarm.[/p][p]Until we began to fill a new treasure chest with item sets themed around eldritch and otherworldly designs.[/p][p]As each horrific creation took more defined shape, unsettling yet tantalizing inspirations took hold of us. Fantastical and Immortal glamours coalesced around each and every set; they grew more spellbinding, a vision that would remain, stuck fast in the mind's eye. Thoughts of monsters birthed thoughts of even more monstrous monsters. Our minds became gateways for greater abominations still, our hands became not our own.[/p][p]Soon our collection of new item sets numbered fifteen, eldritch abominations from the realm of nightmare all. We knew each thing was hideous. Not one of us could look away. Not one of us was content to stop there.[/p][p]To master horrors, we required greater horrors... We required ARCANA.[/p][p]Our first attempt summoned the haunting shape of a Drow Ranger Arcana long thought lost to the flow of time. By some trick of the mind, she can look as she once did or assume a grave-stalking new form.[/p][p]Our appetites remained unsatisfied.[/p][p]Our second attempt unleashed something none of us had ever seen, something that hungrily emerged from a bloodstained sea: the all-new Maw of the Megalodon Arcana for the creature called Tidehunter, arriving with a new model, a host of custom animations, effects, taunts, voice lines, and dragging a familiar-looking corpse that serves as one part security blanket and one part snack. A whisper in the darkness, instructing, teasing: \"Should one master this Arcana's secrets, one would surely unlock all three of its shark-toothed designs.\"[/p][p]This Trove is a doorway to things we cannot explain, let alone understand. The more of these treasures that you open, the more your own minds shine out like beacons to things lurking beyond the limits of reason. Open enough treasures and you're guaranteed to attract the gaze of an all-seeing new Tormentor. Open a number more and you'll surely summon the face of eldritch terror itself, manifesting as an incomprehensible new design for Roshan.[/p][p]We must part now with one final revelation. Take it as a warning if you wish. We didn't make this treasure... It made itself. We thought we were creating something, but we were not. We were merely the conduit, unknowingly letting something into our world from the great dark beyond: The Trove of Terror — overflowing with a mind-bending number of Immortal item sets, one new and one returning Arcana, and brand-new Tormentor and Roshan appearances — available now.[/p][p]If you dare, all you need to do is launch Dota to learn more.[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1791332561,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
         "appid": 570
       }
     ]
