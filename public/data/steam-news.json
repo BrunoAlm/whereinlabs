@@ -2,6 +2,77 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1850460852983749",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983749",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n[list]\n[*]Fixed clients not respawning when killed\n[/list]\n",
+        "feedlabel": "Community Announcements",
+        "date": 1795661845,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1850460852983763",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1850460852983763",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Fixed clients not respawning when killed\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1795661820,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1850460852983751",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/295560/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed clients not respawning when killed<br></ul>",
+        "feedlabel": "Product Update",
+        "date": 1795661820,
+        "feedname": "steam_updates",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1850460852983577",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983577",
+        "is_external_url": true,
+        "author": "erics",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n[list]\n[*]For mod developers: Updated Rubikon\n[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1795658318,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 440,
+        "tags": [
+          "patchnotes"
+        ]
+      },
+      {
+        "gid": "1850460852983581",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1850460852983581",
+        "is_external_url": true,
+        "author": "",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>For mod developers: Updated Rubikon\n</ul>",
+        "feedlabel": "TF2 Blog",
+        "date": 1795655340,
+        "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
         "gid": "1850460852980057",
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/16~11/22)",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852980057",
@@ -50,48 +121,6 @@
         ]
       },
       {
-        "gid": "1849827110443978",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443978",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\n[list]\n[*]Security and stability improvements\n[/list]\n",
-        "feedlabel": "Community Announcements",
-        "date": 1795473382,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "patchnotes"
-        ]
-      },
-      {
-        "gid": "1849827110443982",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1849827110443982",
-        "is_external_url": true,
-        "author": "",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/>\n<ul>\n<li>Security and stability improvements\n</ul>",
-        "feedlabel": "TF2 Blog",
-        "date": 1795473300,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
-        "gid": "1849827110443979",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/293917/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Security and stability improvements<br></ul>",
-        "feedlabel": "Product Update",
-        "date": 1795473300,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1849827110442763",
         "title": "Activision Black Friday Sale",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442763",
@@ -129,37 +158,6 @@
         "feedname": "steam_community_announcements",
         "feed_type": 1,
         "appid": 578080
-      },
-      {
-        "gid": "1849827110436900",
-        "title": "Jump Fortress Jump4Charity",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110436900",
-        "is_external_url": true,
-        "author": "erics",
-        "contents": "[img]{STEAM_CLAN_LOC_IMAGE}/554111/818ccba597a4ec4630b160a280b4ea5137172268.jpg[/img]\n\nFor the past few years, the Jump Fortress crew have hosted rocket and sticky jumping tournaments, and they're proud to announce their very own charity event in support of [url=https://www.doctorswithoutborders.org/][b]Doctors Without Borders[/b][/url]!\n\n[b]Jump4Charity[/b] will take place over two days, November 27th (08:30pm CET) and 28th (08:30pm CET), featuring a variety of segments, donation goals, and special guest appearances! Best of all, [b]100% of all donations will go directly to Doctors Without Borders[/b] through the [url=https://events.doctorswithoutborders.org/campaigns/Jump-Fortress-DWB-event]official Jump4Charity donation page[/url] on their portal.\n\nHere's what you can look forward to:\n\nDay 1:\n[list]\n[*]Soldier Rocket Jumping Tournament\n[/list]\nDay 2:\n[list]\n[*]Demoman Sticky Jumping\n[*]Beggar's Bazooka Jumping\n[*]6v9 Sixes vs. Jumpers Showmatch\n[/list]\nAnd that's not all! On Day 2, you'll also have the opportunity to influence the players' outcomes by donating!\n\nJoin the Jump Fortress [url=https://discord.gg/jumpfortress][b]Discord channel[/b][/url] for more information or their [url=https://twitch.tv/jumpfortress][b]Twitch channel[/b][/url] to watch the event!\n",
-        "feedlabel": "Community Announcements",
-        "date": 1795295781,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 440,
-        "tags": [
-          "mod_reviewed",
-          "ModAct_803139239_1795297122_0",
-          "mod_require_rereview"
-        ]
-      },
-      {
-        "gid": "1849827110436908",
-        "title": "Jump Fortress Jump4Charity",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1849827110436908",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<a href=\"https://twitch.tv/jumpfortress\" target=\"_blank\"><img src=\"https://shared.fastly.steamstatic.com/store_item_assets/steam/news/294850/5267ffd84cd8205231732f874e014343442014a1.jpg?t=1795224460\"></a><br><br>\n\n<p>For the past few years, the Jump Fortress crew have hosted rocket and sticky jumping tournaments, and they're proud to announce their very own charity event in support of <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\"><b>Doctors Without Borders</b></a>!</p><br>\n\n<p><b>Jump4Charity</b> will take place over two days, November 27th (08:30pm CET) and 28th (08:30pm CET), featuring a variety of segments, donation goals, and special guest appearances! Best of all, <b>100% of all donations will go directly to Doctors Without Borders</b> through the <a href=\"https://events.doctorswithoutborders.org/campaigns/Jump-Fortress-DWB-event\" target=\"_blank\">official Jump4Charity donation page</a> on their portal.</p><br>\n\n<p>Here's what you can look forward to:</p><br>\n\n<p>Day 1:\n<ul>\n<li>Soldier Rocket Jumping Tournament\n</ul></p><br>\n<p>Day 2:\n<ul>\n<li>Demoman Sticky Jumping\n<li>Beggar's Bazooka Jumping\n<li>6v9 Sixes vs. Jumpers Showmatch\n</ul></p><br>\n\n<p>And that's not all! On Day 2, you'll also have the opportunity to influence the players' outcomes by donating!</p><br>\n\n<p>Join the Jump Fortress <a href=\"https://discord.gg/jumpfortress\" target=\"_blank\">Discord channel</a> for more information or their <a href=\"https://twitch.tv/jumpfortress\" target=\"_blank\">Twitch channel</a> to watch the event!</p><br>",
-        "feedlabel": "TF2 Blog",
-        "date": 1795295700,
-        "feedname": "tf2_blog",
-        "feed_type": 0,
-        "appid": 440
       },
       {
         "gid": "1849827110431067",
