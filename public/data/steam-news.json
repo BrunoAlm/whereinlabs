@@ -44,19 +44,6 @@
         ]
       },
       {
-        "gid": "1850460852983751",
-        "title": "Team Fortress 2 Update Released",
-        "url": "https://store.steampowered.com/news/295560/",
-        "is_external_url": false,
-        "author": "Valve",
-        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed clients not respawning when killed<br></ul>",
-        "feedlabel": "Product Update",
-        "date": 1795661820,
-        "feedname": "steam_updates",
-        "feed_type": 0,
-        "appid": 440
-      },
-      {
         "gid": "1850460852983763",
         "title": "Team Fortress 2 Update Released",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/tf2_blog/1850460852983763",
@@ -66,6 +53,19 @@
         "feedlabel": "TF2 Blog",
         "date": 1795661820,
         "feedname": "tf2_blog",
+        "feed_type": 0,
+        "appid": 440
+      },
+      {
+        "gid": "1850460852983751",
+        "title": "Team Fortress 2 Update Released",
+        "url": "https://store.steampowered.com/news/295560/",
+        "is_external_url": false,
+        "author": "Valve",
+        "contents": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\" ><li>Fixed clients not respawning when killed<br></ul>",
+        "feedlabel": "Product Update",
+        "date": 1795661820,
+        "feedname": "steam_updates",
         "feed_type": 0,
         "appid": 440
       },
